@@ -1,0 +1,6 @@
+<layer-list android:layout_width="-1" android:layout_height="-1">
+  <item android:drawable="@0x0106000C"/>
+  <item>
+    <bitmap android:gravity="0x11" android:id="@0x7F0A00E0" android:layout_width="-2" android:layout_height="-2" android:src="@0x7F0800CC" android:tileMode="-1"/>
+  </item>
+</layer-list>

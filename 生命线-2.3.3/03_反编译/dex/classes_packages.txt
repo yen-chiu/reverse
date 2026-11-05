@@ -1,0 +1,23 @@
+# classes : class_defs=6919  distinct_packages=19
+
+| 类别 | 类数 |
+|---|---|
+| androidx | 2619 |
+| kotlin | 1766 |
+| com.google.android.gms | 1298 |
+| support-lib | 465 |
+| fabric/crashlytics | 405 |
+| com.google.gson | 195 |
+| com.bigfishgames | 105 |
+| org.intellij | 25 |
+| com.squareup | 15 |
+| com.android.vending | 8 |
+| org.jetbrains | 7 |
+| com.google.firebase | 3 |
+| com.google.android | 2 |
+| timber.log.Timber$1 | 1 |
+| timber.log.Timber$DebugTree | 1 |
+| timber.log.Timber | 1 |
+| android.system.ErrnoException | 1 |
+| com.google.common | 1 |
+| timber.log.Timber$Tree | 1 |

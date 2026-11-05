@@ -1,0 +1,3 @@
+<LinearLayout android:gravity="0x11" android:orientation="1" android:paddingTop="0dp" android:paddingBottom="0dp" android:layout_width="-1" android:layout_height="72dp">
+  <ImageView android:layout_gravity="0x11" android:id="@id/spinner_anim" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/three_dots_animation" android:scaleX="0.5" android:scaleY="0.5"/>
+</LinearLayout>

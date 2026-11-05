@@ -1,0 +1,82 @@
+================================================================
+FILE        : C:\03_Github\reverse\生命线-2.3.3\02_解包\classes.dex
+SIZE        : 8,119,568 bytes
+MAGIC       : dex
+035\0
+CHECKSUM    : 0x56B805C2
+FILE_SIZE   : 8119568
+HEADER_SIZE : 112
+STRINGS     :    53400  (off 0x00000070)
+TYPES       :     8334
+PROTOS      :    13308
+FIELDS      :    28483
+METHODS     :    57486
+CLASS_DEFS  :     6919
+
+---- 关键字符串命中 ----
+  sendemail                                0
+  netcheck                                 0
+  textinput                                0
+  canTextInput                             1  | @0x002EA6D8: tScrollHorizontally..canTargetScrollVertically..canTextInput..canTryConnection..canUnparcelSafely..canWorkingFileStore..
+  mAllowFreeFormTextInput                  1  | @0x003206BD: llowDividerBelow..mAllowEnterTransitionOverlap..mAllowFreeFormTextInput..mAllowGeneratedReplies..mAllowIdentifier..mAllo
+  authsdk                                  0
+  AuthSDK                                  0
+  heibaige                                 0
+  whgame                                   0
+  oaid                                     0
+  OAID                                     0
+  hastrk3                                  1  | @0x00310D9E: http.proxyHost..http.proxyPort..http://.phttp://hastrk3.com/serve?action=click&publisher_id=197393&site_id=116559&sub_ad
+  crashlytics                            278  | @0x001C834F: write:.. {.. }..!..!/.A!SDK-VERSION-STRING!:com.crashlytics.sdk.android:answers:1.4.7.32.?!SDK-VERSION-STRING!:com.crash  ||  @0x001C8392: roid:answers:1.4.7.32.?!SDK-VERSION-STRING!:com.crashlytics.sdk.android:beta:1.2.10.27.J!SDK-VERSION-STRING!:com.crashly
+  Crashlytics                            153  | @0x001C6ECE: pported for type .: is not supported when using Crashlytics through Firebase... is not valid.. is not within 0 and .. is  ||  @0x001F9364: ingle / ..:A problem occurred while reading the Crashlytics log file....A required meta-data tag in your app's AndroidMa
+  BillingClient                            0
+  com/android/vending/licensing            8  | @0x0025343B: zy.kt..LazyHolder..LazyJVM.kt..LazySpanLookup.>Lcom/android/vending/licensing/ILicenseResultListener$Default;.ALcom/andr  ||  @0x0025347B: ing/licensing/ILicenseResultListener$Default;.ALcom/android/vending/licensing/ILicenseResultListener$Stub$Proxy;.;Lcom/a
+  ILicensingService                        6  | @0x0021D821: LSIIIL..ILZ..ILZZ..ILicenseResultListener.java..ILicensingService.java..IMAGE_CONTENT_DESCRIPTION..IMAGE_STYLE..IMAGE_ST  ||  @0x00253551: ResultListener;.9Lcom/android/vending/licensing/ILicensingService$Default;.<Lcom/android/vending/licensing/ILicensingSer
+  LICENSE_CHECK_FAILED                     1  | @0x0022186D: RARY..LIBRARY_GROUP..LIBRARY_GROUP_PREFIX..LIC..LICENSE_CHECK_FAILED..LID..LIF..LIFELINE_STORY_READER..LIFFF..LIGHTEN..L
+  ViewServer                              12  | @0x00254485: mes/lifeline/Utils;.(Lcom/bigfishgames/lifeline/ViewServer$1;.5Lcom/bigfishgames/lifeline/ViewServer$NoopViewServer;.>Lc  ||  @0x002544AF: eline/ViewServer$1;.5Lcom/bigfishgames/lifeline/ViewServer$NoopViewServer;.>Lcom/bigfishgames/lifeline/ViewServer$Unclos
+  sequence-part                            6  | @0x0034495A: ll..sequence-asset..sequence-asset-inputstream..sequence-part1..sequence-part1A..sequence-part2..sequence-part2A..sequen  ||  @0x0034496A: et..sequence-asset-inputstream..sequence-part1..sequence-part1A..sequence-part2..sequence-part2A..sequence-part3..sequen
+  inboxStyleNotifications                  1  | @0x003119B2: ..in_app_purchase..in_progress..in_retail_mode..inboxStyleNotifications..inbox_text2..inbox_text3..inbox_text4..inc..inc
+  inBridgeContent                          1  | @0x001C8DD0: wnstream..$gameend..$handler..$i..$ignoreCase..$inBridgeContent..$indent..$index..$initial..$initial$inlined..$initialDe
+  group_taylor_communications              1  | @0x0030F806: ues..groupValues_..groupVisible..group_divider..group_taylor_communications..groupingBy..groups..growArray..growBuffer..
+  story_taylor_is_waiting_for_you          1  | @0x003505F7: .story_restart_the_story..story_taylor_is_busy..story_taylor_is_waiting_for_you..storyactivity..str..strategy..stream.2s
+
+================================================================
+FILE        : C:\03_Github\reverse\生命线-2.3.3\02_解包\classes2.dex
+SIZE        : 140,652 bytes
+MAGIC       : dex
+035\0
+CHECKSUM    : 0xBAE46FB8
+FILE_SIZE   : 140652
+HEADER_SIZE : 112
+STRINGS     :     1489  (off 0x00000070)
+TYPES       :      329
+PROTOS      :      351
+FIELDS      :      350
+METHODS     :     1150
+CLASS_DEFS  :      171
+
+---- 关键字符串命中 ----
+  sendemail                                0
+  netcheck                                 0
+  textinput                                0
+  canTextInput                             0
+  mAllowFreeFormTextInput                  0
+  authsdk                                 68  | @0x000087AD: ..Lcom/unity/tz/t$2;..Lcom/unity/tz/t;. Lcom/wh/authsdk/AuthApplication;..Lcom/wh/authsdk/AuthSDK$a;..Lcom/wh/authsdk/Au  ||  @0x000087CF: z/t;. Lcom/wh/authsdk/AuthApplication;..Lcom/wh/authsdk/AuthSDK$a;..Lcom/wh/authsdk/AuthSDK$b;..Lcom/wh/authsdk/AuthSDK$
+  AuthSDK                                 16  | @0x000073CE: =E..AES..ASUS..ASUSID..Accept..Accept-Language..AuthSDK..B..BLACKSHARK..BRAND..C..Charset..Connection..D..DESCRIPTOR..DI  ||  @0x000087D7: om/wh/authsdk/AuthApplication;..Lcom/wh/authsdk/AuthSDK$a;..Lcom/wh/authsdk/AuthSDK$b;..Lcom/wh/authsdk/AuthSDK$c;..Lcom
+  heibaige                                 1  | @0x0000BD6F: List..hosts..hs..http..http://.,http://auth-api.heibaige.com/apicenter/%s/%s..httpUrl..hwID..i..iBinder..iInterface..ib.
+  whgame                                  10  | @0x00008DEC: ;..Lcom/wh/authsdk/y;..Lcom/wh/authsdk/z;..Lcom/whgame/sdk/MainActivity;..Lcom/whgame/sdk/a;..Lcom/whgame/sdk/b$a;..Lcom  ||  @0x00008E0B: authsdk/z;..Lcom/whgame/sdk/MainActivity;..Lcom/whgame/sdk/a;..Lcom/whgame/sdk/b$a;..Lcom/whgame/sdk/b$b;..Lcom/whgame/s
+  oaid                                    67  | @0x0000719C: 8.......+...@...........Y$............ >>>>> .. oaid result = ..%..%25..%3A..%s%s%s..&. 'YY'Z[([/,[W*-Y..&&&&((*Z.WW++-/  ||  @0x00007471: .F..FF..FIFL..FILL..FL..FLF..FLYME..G..GET..Get oaid from global settings: ..H..HH:mm..HONOR..HUAWEI..HWDeviceIDHelper..
+  OAID                                    22  | @0x00007EDB: ..Lcom/one/oaid/AppIdsUpdater;..Lcom/one/oaid/MyOAID$1$1;..Lcom/one/oaid/MyOAID$1;..Lcom/one/oaid/MyOAID$2;..Lcom/one/oa  ||  @0x00007EF6: er;..Lcom/one/oaid/MyOAID$1$1;..Lcom/one/oaid/MyOAID$1;..Lcom/one/oaid/MyOAID$2;..Lcom/one/oaid/MyOAID$3;..Lcom/one/oaid
+  hastrk3                                  0
+  crashlytics                              0
+  Crashlytics                              0
+  BillingClient                            0
+  com/android/vending/licensing            0
+  ILicensingService                        0
+  LICENSE_CHECK_FAILED                     0
+  ViewServer                               0
+  sequence-part                            0
+  inboxStyleNotifications                  0
+  inBridgeContent                          0
+  group_taylor_communications              0
+  story_taylor_is_waiting_for_you          0
+

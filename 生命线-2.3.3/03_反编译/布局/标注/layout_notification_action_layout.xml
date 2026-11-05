@@ -1,0 +1,16 @@
+<RelativeLayout android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+  <ImageView android:id="@id/nfImage" android:layout_width="40dp" android:layout_height="40dp" android:src="@drawable/notification_icon_with_color" android:scaleType="1"/>
+  <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_toRightOf="@id/nfImage">
+    <TextView android:id="@id/notificationTitle" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" style="@style/NotificationTitle"/>
+    <TextView android:ellipsize="3" android:id="@id/notificationSmallText" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" android:layout_weight="1" style="@style/NotificationText"/>
+    <TextView android:id="@id/notificationText" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@style/NotificationText"/>
+    <TextView android:id="@id/inbox_text2" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@style/NotificationText"/>
+    <TextView android:id="@id/inbox_text3" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@style/NotificationText"/>
+    <TextView android:id="@id/inbox_text4" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@style/NotificationText"/>
+    <ImageView android:id="@id/action_divider" android:background="@color/notification_divider_color" android:visibility="2" android:layout_width="-1" android:layout_height="1dp" android:layout_marginTop="8dp"/>
+    <LinearLayout android:orientation="0" android:id="@id/choices" android:visibility="2" android:layout_width="-1" android:layout_height="0dp" android:weightSum="2" android:layout_weight="1">
+      <Button android:gravity="0x800013" android:id="@id/choiceOne" android:background="?0x0101030E" android:padding="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@style/NotificationText"/>
+      <Button android:gravity="0x800013" android:id="@id/choiceTwo" android:background="?0x0101030E" android:padding="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@style/NotificationText"/>
+    </LinearLayout>
+  </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,3 @@
+<LinearLayout android:gravity="0x800013" android:orientation="0" android:id="@id/icon_frame" android:paddingLeft="0dp" android:paddingTop="4dp" android:paddingRight="8dp" android:paddingBottom="4dp" android:layout_width="-2" android:layout_height="-2" android:minWidth="56dp">
+  <androidx.preference.internal.PreferenceImageView android:id="@0x01020006" android:layout_width="-2" android:layout_height="-2" maxHeight="48dp" maxWidth="48dp"/>
+</LinearLayout>

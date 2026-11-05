@@ -1,0 +1,12 @@
+{
+    "allowed_ad_types": [
+        "bfg"
+    ],
+    "dashboard_timeout": "2",
+    "dashboard_skinned": 0,
+    "dashboard_active": 0,
+    "dashboard_show_after_this_many_runs": 0,
+    "review_url": "market://details?id=com.bigfishgames.lifelinegoogle",
+    "iap_default_product_id": "com.bigfishgames.lifelinegoogle",
+    "app_store": "google"
+}

@@ -1,0 +1,8 @@
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="72dp">
+  <LinearLayout android:gravity="0x11" android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+    <ImageView android:layout_width="0dp" android:layout_height="-1" android:src="@drawable/btn_sidelines" android:layout_weight="1"/>
+    <Button android:textSize="12dp" android:textColor="@0x0106000C" android:id="@id/buttonchoice1" android:background="@drawable/button_selector" android:paddingTop="0dp" android:paddingBottom="6dp" android:visibility="0" android:layout_width="0dp" android:layout_height="-1" android:layout_margin="5dp" android:text="Make a choice." android:layout_weight="3" android:textAllCaps="false"/>
+    <Button android:textSize="12dp" android:textColor="@0x0106000C" android:id="@id/buttonchoice2" android:background="@drawable/button_selector" android:paddingTop="0dp" android:paddingBottom="6dp" android:visibility="0" android:layout_width="0dp" android:layout_height="-1" android:layout_margin="5dp" android:text="Make a choice." android:layout_weight="3" android:textAllCaps="false"/>
+    <ImageView android:layout_width="0dp" android:layout_height="-1" android:src="@drawable/btn_sidelines" android:layout_weight="1" android:scaleX="-1"/>
+  </LinearLayout>
+</LinearLayout>

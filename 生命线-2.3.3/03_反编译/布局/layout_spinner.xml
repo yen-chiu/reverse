@@ -1,0 +1,3 @@
+<LinearLayout android:gravity="0x11" android:orientation="1" android:paddingTop="0dp" android:paddingBottom="0dp" android:layout_width="-1" android:layout_height="72dp">
+  <ImageView android:layout_gravity="0x11" android:id="@0x7F0A00DF" android:layout_width="-2" android:layout_height="-2" android:src="@0x7F0800D0" android:scaleX="0.5" android:scaleY="0.5"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+  <paths>
+    <files-path path="files" name="files"/>
+    <files-path path="apk" name="apk"/>
+    <cache-path path="files" name="cache"/>
+    <external-path path="" name="external"/>
+    <external-files-path path="files" name="externalfiles"/>
+    <external-cache-path path="files" name="externalcache"/>
+  </paths>
+</resources>

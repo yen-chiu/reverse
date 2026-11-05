@@ -1,0 +1,40 @@
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+  <FrameLayout android:id="@id/story_frame_layout" android:layout_width="-1" android:layout_height="-1">
+    <ListView android:gravity="0x31" android:layout_gravity="0x31" android:id="@id/listview" android:paddingLeft="10dp" android:paddingRight="10dp" android:paddingBottom="15dp" android:animationCache="false" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginTop="15dp" android:layout_marginRight="10dp" android:layout_marginBottom="20dp" android:stackFromBottom="true" android:scrollingCache="false" android:transcriptMode="1" android:divider="@0x00000000" android:smoothScrollbar="true" android:overScrollMode="2"/>
+    <ImageView android:layout_width="-1" android:layout_height="-1" android:src="@drawable/border" android:scaleType="1"/>
+    <Button android:textSize="12dp" android:textColor="@0x0106000C" android:layout_gravity="0x33" android:id="@id/fast_mode_enabled_button" android:background="@drawable/choice_btn" android:layout_width="-2" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/debug_fast_on" android:textAllCaps="false"/>
+    <Button android:textSize="12dp" android:textColor="@0x0106000C" android:layout_gravity="0x35" android:id="@id/rewind_enabled_button" android:background="@drawable/choice_btn" android:layout_width="-2" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/debug_rewind_on" android:textAllCaps="false"/>
+    <LinearLayout android:layout_gravity="0x51" android:orientation="1" android:id="@id/menu_layout" android:background="@drawable/bottomareafull" android:layout_width="356dp" android:layout_height="500dp">
+      <FrameLayout android:layout_gravity="0x11" android:id="@id/menu_button_frame_layout" android:paddingTop="10dp" android:layout_width="-2" android:layout_height="-2">
+        <ImageButton android:layout_gravity="0x51" android:id="@id/menu_button" android:background="@0x00000000" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/menu_button_selector"/>
+        <ImageView android:layout_gravity="0x51" android:id="@id/menu_button_menu_image" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/menu_btn_icon_menu"/>
+        <ImageView android:layout_gravity="0x51" android:id="@id/menu_button_close_image" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/menu_btn_icon_close"/>
+      </FrameLayout>
+      <LinearLayout android:layout_gravity="0x11" android:orientation="1" android:id="@id/menu_buttons_layout" android:paddingTop="3dp" android:visibility="0" android:layout_width="316dp" android:layout_height="-2">
+        <LinearLayout android:orientation="0" android:id="@id/debug_buttons_layout" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-2">
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:layout_gravity="0x11" android:id="@id/notifications_debug_button" android:background="@drawable/button_selector" android:padding="0dp" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/hud_notification_settings" android:layout_weight="1" android:textAllCaps="false"/>
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:id="@id/change_language_button" android:background="@drawable/button_selector" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/hud_change_language" android:layout_weight="1" android:textAllCaps="false"/>
+        </LinearLayout>
+        <LinearLayout android:id="@id/sound_buttons_layout" android:layout_width="-1" android:layout_height="-2">
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:id="@id/music_switch" android:background="@drawable/button_selector" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/hud_turn_music_off" android:layout_weight="1" android:textAllCaps="false"/>
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:id="@id/sound_switch" android:background="@drawable/button_selector" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/hud_turn_sound_off" android:layout_weight="1" android:textAllCaps="false"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:id="@id/ratings_policy_layout" android:layout_width="-1" android:layout_height="-1">
+          <Button android:textSize="12dp" android:textColor="@0x0106000C" android:layout_gravity="0x11" android:id="@id/rate_game_button" android:background="@drawable/button_selector" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/hud_rate_the_game" android:layout_weight="1" android:textAllCaps="false"/>
+        </LinearLayout>
+        <LinearLayout android:layout_width="-1" android:layout_height="-2">
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:layout_gravity="0x11" android:id="@id/credits_button" android:background="@drawable/button_selector" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/credits" android:layout_weight="1" android:textAllCaps="false"/>
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:layout_gravity="0x11" android:id="@id/more_games" android:background="@drawable/button_selector" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/more_games" android:layout_weight="1" android:textAllCaps="false"/>
+        </LinearLayout>
+        <FrameLayout android:id="@id/rewind_story_frame" android:layout_width="-1" android:layout_height="-2">
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:gravity="0x11" android:id="@id/rewind_story_button" android:background="@drawable/button_selector" android:paddingRight="55dp" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/hud_rewind_story" android:textAllCaps="false"/>
+          <ImageView android:layout_gravity="0x15" android:layout_width="28dp" android:layout_height="28dp" android:layout_marginRight="20dp" android:src="@drawable/icon_restart"/>
+        </FrameLayout>
+        <FrameLayout android:id="@id/fast_mode_frame" android:layout_width="-1" android:layout_height="-2">
+          <Button android:textSize="16dp" android:textColor="@0x0106000C" android:gravity="0x11" android:id="@id/fast_mode_button" android:background="@drawable/button_selector" android:paddingRight="55dp" android:layout_width="-1" android:layout_height="-2" android:layout_margin="3dp" android:text="@string/hud_turn_fast_mode_on" android:textAllCaps="false"/>
+          <ImageView android:layout_gravity="0x15" android:id="@id/fast_mode_image" android:layout_width="28dp" android:layout_height="28dp" android:layout_marginRight="20dp" android:src="@drawable/icon_fast"/>
+        </FrameLayout>
+      </LinearLayout>
+    </LinearLayout>
+  </FrameLayout>
+</RelativeLayout>

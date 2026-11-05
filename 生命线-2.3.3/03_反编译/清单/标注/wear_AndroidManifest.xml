@@ -1,0 +1,32 @@
+<manifest android:versionCode="1037" android:versionName="2.3.3" android:compileSdkVersion="33" android:compileSdkVersionCodename="13" package="com.threeminutegames.lifeline.google" platformBuildVersionCode="33" platformBuildVersionName="13">
+  <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="33"/>
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+  <uses-feature android:name="android.hardware.type.watch"/>
+  <meta-data android:name="com.google.android.wearable.standalone" android:value="false"/>
+  <permission android:name="com.threeminutegames.lifeline.google.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="0x2"/>
+  <uses-permission android:name="com.threeminutegames.lifeline.google.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+  <application android:theme="@0x01030128" android:label="@0x7F100021" android:icon="@menu/menu_main" android:allowBackup="true" android:extractNativeLibs="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+    <service android:name="com.threeminutegames.lifeline.WearListenerService" android:exported="true">
+      <intent-filter>
+        <action android:name="com.google.android.gms.wearable.BIND_LISTENER"/>
+      </intent-filter>
+    </service>
+    <activity android:label="@0x7F100021" android:name="com.threeminutegames.lifeline.MainActivity" android:exported="true" android:launchMode="3" android:keepScreenOn="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+      <intent-filter>
+        <action android:name="com.threeminutegames.lifeline.ACTION.openWearActivity"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+      </intent-filter>
+    </activity>
+    <uses-library android:name="com.google.android.wearable" android:required="false"/>
+    <activity android:theme="@0x01030010" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:exported="false"/>
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    <provider android:name="androidx.startup.InitializationProvider" android:exported="false" android:authorities="com.threeminutegames.lifeline.google.androidx-startup">
+      <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+      <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+    </provider>
+  </application>
+</manifest>

@@ -1,0 +1,3 @@
+<LinearLayout android:gravity="0x10" android:layout_gravity="0x10" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+  <TextView android:textSize="12dp" android:textColor="#FFADDEF2" android:gravity="0x13" android:id="@id/title" android:background="@drawable/strech_chat" android:padding="10dp" android:layout_width="-1" android:layout_height="80dp" android:text="[incoming communication]" android:includeFontPadding="false"/>
+</LinearLayout>

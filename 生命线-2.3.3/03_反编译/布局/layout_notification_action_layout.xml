@@ -1,0 +1,16 @@
+<RelativeLayout android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+  <ImageView android:id="@0x7F0A009B" android:layout_width="40dp" android:layout_height="40dp" android:src="@0x7F0800A5" android:scaleType="1"/>
+  <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_toRightOf="@0x7F0A009B">
+    <TextView android:id="@0x7F0A00A0" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" style="@0x7F1300AB"/>
+    <TextView android:ellipsize="3" android:id="@0x7F0A009E" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" android:layout_weight="1" style="@0x7F1300A9"/>
+    <TextView android:id="@0x7F0A009F" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@0x7F1300A9"/>
+    <TextView android:id="@0x7F0A0080" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@0x7F1300A9"/>
+    <TextView android:id="@0x7F0A0081" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@0x7F1300A9"/>
+    <TextView android:id="@0x7F0A0082" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@0x7F1300A9"/>
+    <ImageView android:id="@0x7F0A0030" android:background="@0x7F060071" android:visibility="2" android:layout_width="-1" android:layout_height="1dp" android:layout_marginTop="8dp"/>
+    <LinearLayout android:orientation="0" android:id="@0x7F0A0054" android:visibility="2" android:layout_width="-1" android:layout_height="0dp" android:weightSum="2" android:layout_weight="1">
+      <Button android:gravity="0x800013" android:id="@0x7F0A0052" android:background="?0x0101030E" android:padding="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@0x7F1300A9"/>
+      <Button android:gravity="0x800013" android:id="@0x7F0A0053" android:background="?0x0101030E" android:padding="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1" style="@0x7F1300A9"/>
+    </LinearLayout>
+  </LinearLayout>
+</RelativeLayout>

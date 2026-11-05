@@ -1,0 +1,128 @@
+﻿== 目录汇总
+  chapter      8 个     122852 字节
+  dictionary   3 个      24692 字节
+  icon        13 个      59090 字节
+  images       9 个    1609690 字节
+  music        8 个    3920785 字节
+  photo       58 个    6536717 字节
+  story        8 个     616326 字节
+  合计 107 个文件 / 12890152 字节
+
+== 逐项明细
+  chapter/番外一.webp                      17848  1080x440             984b37f8a44f
+  chapter/番外二.webp                      12956  1080x440             d0bb6f7bde94
+  chapter/第一章.webp                      17650  1080x440             e37ff3da44b2
+  chapter/第三章.webp                      20422  1080x440             015a7c775f8d
+  chapter/第二章.webp                      16620  1080x440             1dffaebf5034
+  chapter/第五章.webp                      12094  1080x440             c0cdabeaf995
+  chapter/第六章.webp                       8176  1080x440             4e60e70a20c8
+  chapter/第四章.webp                      17086  1080x440             f4fc27afdc4d
+  dictionary/未解锁词典.webp                  2810  448x100              1323e05a0c3a
+  dictionary/词典展示.webp                  19470  1166x1920            1fb8066c04ad
+  dictionary/词典.webp                     2412  80x80                6b6b3720658b
+  icon/头像1.webp                          3384  160x160              ec20009d885b
+  icon/头像2.webp                          4430  160x160              5e1775d6a943
+  icon/头像3.webp                          4132  160x160              7ec7cb0820a7
+  icon/头像4.webp                          4026  160x160              1199ac6c195d
+  icon/头像5.webp                          4022  160x160              824c61191249
+  icon/头像6.webp                          3546  160x160              b158e11d057f
+  icon/头像7.webp                          5012  160x160              b464e71bf5bc
+  icon/头像8.webp                          4854  160x160              13c0648b56ad
+  icon/异次元通讯.webp                        8422  255x72               ebd2eb779492
+  icon/未知用户.webp                         2540  160x160              adab6f0bc5fb
+  icon/次元复苏.webp                         6444  255x56               2b4543e65ad0
+  icon/Lily.webp                         4104  160x160              ad48f54b7243
+  icon/icon.webp                         4174  216x216              46a15bbc146f
+  images/动态页.webp                       70012  1080x1918            9410575660f8
+  images/图鉴页.webp                       54344  1080x1918            fa77ca8c218c
+  images/章节页.webp                       66874  1080x1918            f9a637573bb5
+  images/聊天背景.png                     1067614  1079x1920            e763c684074e
+  images/聊天背景.webp                      73128  1079x1920            3f3e41868bb6
+  images/聊天页.webp                       76962  1080x1918            e81942091024
+  images/菜单背景.webp                     119982  1080x1920            4c30976817ff
+  images/词典页.webp                       77898  1080x1918            2213263acdac
+  images/0.webp                          2876  274x368              e5862510e663
+  music/听得见吗.ogg                        12230             0.8s      55465d526010
+  music/哈哈哈，我是天才.ogg                    44816             3.0s      a55e8451eefb
+  music/喂.ogg                           33261             3.0s      97b2cea6d1fc
+  music/我在哦.ogg                         30096             2.6s      fee63dc4cee6
+  music/走在未知的道路上，不许停也不能回头.ogg           62811             4.6s      6ef12509843e
+  music/bgm.ogg                        345402             19.9s     8804f43d4b42
+  music/button.ogg                      10026             0.5s      02c695001584
+  music/oldBgm.ogg                    3382143             195.7s    e5537c71366e
+  photo/E1-01.webp                      68662  1440x1920            3472149bbc4c
+  photo/E1-02.webp                      72170  1440x1920            a7b1adfead4c
+  photo/E2-01.webp                      82214  1000x750             531d295de289
+  photo/E2-02.webp                      66358  1440x1920            f34dc14f61a0
+  photo/E2-03.webp                      98998  1440x1920            06c352c59b69
+  photo/E2-04.png                     1703769  1440x1920            995fd5002a75
+  photo/E2-04.webp                      85774  1440x1920            aefcbc89e36a
+  photo/S1-01-n.webp                    41850  1280x1920            74e41a8d479b
+  photo/S1-01.webp                      28764  1440x1920            40cf17f89487
+  photo/S1-02.webp                      63310  1440x1920            f6d5f0bc378a
+  photo/S1-03.webp                      64406  1440x1920            0d7cc8f0b336
+  photo/S1-04.webp                      50166  1500x2000            a545a80e9b6e
+  photo/S1-05.webp                      74924  1440x1920            77a112453fd5
+  photo/S2-01.webp                     135262  1440x1920            221c99112d7e
+  photo/S2-02.webp                      94708  1440x1920            61528b8d49ae
+  photo/S2-03.webp                      90978  1440x1920            83c1390e749f
+  photo/S2-04.webp                     122488  1440x1920            1e5731894842
+  photo/S2-05.webp                      99790  1440x1920            ac4e4e411839
+  photo/S2-06.webp                      55892  1440x1920            1005aecc6cfc
+  photo/S2-07.webp                     100942  1440x1920            b759f17552b6
+  photo/S2-08.webp                      40918  1440x1920            28440da991f5
+  photo/S3-01.webp                      84912  1440x1920            670181c5048e
+  photo/S3-02.webp                      63878  1440x1920            59762abbf5fe
+  photo/S3-03.webp                      57924  1440x1920            a375ffb316de
+  photo/S3-04.webp                      67948  1000x750             bc9677c349bf
+  photo/S4-01.webp                      75514  1440x1920            ad5eb2c087e8
+  photo/S4-02.webp                      66882  1440x1920            7f77e1622f7f
+  photo/S4-03.webp                      47726  1440x1920            9a32fa59a17e
+  photo/S4-04.webp                      82016  1440x1920            fb3ff0abc396
+  photo/S4-05.webp                     126314  1440x1920            b73788b376e9
+  photo/S4-06.webp                      68662  1440x1920            c78a5eecf073
+  photo/S5-01.webp                     147066  1440x1920            36f43de863cb
+  photo/S5-02.webp                      62276  1440x1920            735a7769497f
+  photo/S5-03.webp                      46252  1440x1920            4dd3b65e3690
+  photo/S5-04.webp                      82700  1440x1920            77e917975b03
+  photo/S5-05.webp                     106438  1440x1920            d6fb517b6934
+  photo/S5-06.webp                     117048  1440x1920            ebba4648beb9
+  photo/S6-01.webp                      69560  1080x1920            0e8ec3ff2054
+  photo/S6-02.webp                      83888  1080x1920            08dd136d0406
+  photo/S6-03.webp                      33656  1080x1920            38f10c504475
+  photo/S6-04.webp                      22688  1080x1920            c0659706e6ab
+  photo/S6-05.webp                      79468  1080x1920            28f6dec64099
+  photo/S6-06.webp                     125706  1080x1920            b4df33b0a08d
+  photo/S6-07.webp                      69952  1080x1920            f3e3b514770e
+  photo/W1-01.webp                     101806  1500x2000            d09cb8513364
+  photo/W1-02.webp                     148608  1500x2000            3b13c6042901
+  photo/W1-03.webp                      65888  1500x2000            1c721be2bafb
+  photo/W1-04.webp                     100866  1440x1920            bd5e334cf019
+  photo/W1-05.webp                     162592  1500x2000            aed75993ea2a
+  photo/W1-06.webp                     121352  3000x4000            6f839fcb8978
+  photo/W1-07.webp                     131052  1440x1920            b753627179a3
+  photo/W1-08.webp                     199800  3000x4000            74aa5191d19a
+  photo/W1-09.webp                     129318  3000x4000            6a8b9382004e
+  photo/W1-10.webp                     162806  1500x2000            f3ec095e7701
+  photo/april.webp                      13614  512x768              34ef7d261864
+  photo/birthday.webp                   70868  1433x2150            360c7066f832
+  photo/christmas.webp                  43838  1280x1024            baa29ad30ef7
+  photo/mid_autumn.webp                 53492  1024x1536            9e5012275e9d
+  story/番外一.csv                         12884                       7c7204bc1f5c
+  story/番外二.csv                         13692                       6c06753e58d6
+  story/第一章.csv                         63440                       3e20978a7afe
+  story/第三章.csv                        131615                       71bfeeef1862
+  story/第二章.csv                         86815                       3993c1e57f29
+  story/第五章.csv                         62874                       6424168bfdcd
+  story/第六章.csv                        131072                       e92d74164b2a
+  story/第四章.csv                        113934                       7422cdc8e2e3
+
+== 剧情 CSV 副本一致性
+  番外一.csv        OK
+  番外二.csv        OK
+  第一章.csv        OK
+  第三章.csv        OK
+  第二章.csv        OK
+  第五章.csv        OK
+  第六章.csv        OK
+  第四章.csv        OK

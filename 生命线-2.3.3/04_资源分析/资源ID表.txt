@@ -1,0 +1,2142 @@
+# resources.arsc ID 表（0x7Fxxxxxx）
+
+条目数=2096 重复配置跳过的同 ID 记录=882
+
+| ID | 类型 | 名称 | 值 |
+|---|---|---|---|
+| 0x7F010000 | anim | abc_fade_in | res/anim/abc_fade_in.xml |
+| 0x7F010001 | anim | abc_fade_out | res/anim/abc_fade_out.xml |
+| 0x7F010002 | anim | abc_grow_fade_in_from_bottom | res/anim/abc_grow_fade_in_from_bottom.xml |
+| 0x7F010003 | anim | abc_popup_enter | res/anim/abc_popup_enter.xml |
+| 0x7F010004 | anim | abc_popup_exit | res/anim/abc_popup_exit.xml |
+| 0x7F010005 | anim | abc_shrink_fade_out_from_bottom | res/anim/abc_shrink_fade_out_from_bottom.xml |
+| 0x7F010006 | anim | abc_slide_in_bottom | res/anim/abc_slide_in_bottom.xml |
+| 0x7F010007 | anim | abc_slide_in_top | res/anim/abc_slide_in_top.xml |
+| 0x7F010008 | anim | abc_slide_out_bottom | res/anim/abc_slide_out_bottom.xml |
+| 0x7F010009 | anim | abc_slide_out_top | res/anim/abc_slide_out_top.xml |
+| 0x7F01000A | anim | abc_tooltip_enter | res/anim/abc_tooltip_enter.xml |
+| 0x7F01000B | anim | abc_tooltip_exit | res/anim/abc_tooltip_exit.xml |
+| 0x7F01000C | anim | btn_checkbox_to_checked_box_inner_merged_animation | res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml |
+| 0x7F01000D | anim | btn_checkbox_to_checked_box_outer_merged_animation | res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml |
+| 0x7F01000E | anim | btn_checkbox_to_checked_icon_null_animation | res/anim/btn_checkbox_to_checked_icon_null_animation.xml |
+| 0x7F01000F | anim | btn_checkbox_to_unchecked_box_inner_merged_animation | res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml |
+| 0x7F010010 | anim | btn_checkbox_to_unchecked_check_path_merged_animation | res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml |
+| 0x7F010011 | anim | btn_checkbox_to_unchecked_icon_null_animation | res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml |
+| 0x7F010012 | anim | btn_radio_to_off_mtrl_dot_group_animation | res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml |
+| 0x7F010013 | anim | btn_radio_to_off_mtrl_ring_outer_animation | res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml |
+| 0x7F010014 | anim | btn_radio_to_off_mtrl_ring_outer_path_animation | res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml |
+| 0x7F010015 | anim | btn_radio_to_on_mtrl_dot_group_animation | res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml |
+| 0x7F010016 | anim | btn_radio_to_on_mtrl_ring_outer_animation | res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml |
+| 0x7F010017 | anim | btn_radio_to_on_mtrl_ring_outer_path_animation | res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml |
+| 0x7F010018 | anim | fragment_fast_out_extra_slow_in | res/anim/fragment_fast_out_extra_slow_in.xml |
+| 0x7F010019 | anim | generic_confirmation_generic_confirmation_animation | res/anim-v21/generic_confirmation_generic_confirmation_animation.xml |
+| 0x7F01001A | anim | generic_confirmation_icon_animation | res/anim-v21/generic_confirmation_icon_animation.xml |
+| 0x7F01001B | anim | open_on_phone_arrow_animation | res/anim-v21/open_on_phone_arrow_animation.xml |
+| 0x7F01001C | anim | open_on_phone_path_1_animation | res/anim-v21/open_on_phone_path_1_animation.xml |
+| 0x7F01001D | anim | open_on_phone_path_2_animation | res/anim-v21/open_on_phone_path_2_animation.xml |
+| 0x7F020000 | animator | circular_image_button_anim | res/animator-v21/circular_image_button_anim.xml |
+| 0x7F020001 | animator | fragment_close_enter | res/animator/fragment_close_enter.xml |
+| 0x7F020002 | animator | fragment_close_exit | res/animator/fragment_close_exit.xml |
+| 0x7F020003 | animator | fragment_fade_enter | res/animator/fragment_fade_enter.xml |
+| 0x7F020004 | animator | fragment_fade_exit | res/animator/fragment_fade_exit.xml |
+| 0x7F020005 | animator | fragment_open_enter | res/animator/fragment_open_enter.xml |
+| 0x7F020006 | animator | fragment_open_exit | res/animator/fragment_open_exit.xml |
+| 0x7F030000 | array | android_wear_capabilities | null |
+| 0x7F030001 | array | progress_spinner_sequence | null |
+| 0x7F040000 | attr | actionBarDivider | null |
+| 0x7F040001 | attr | actionBarItemBackground | null |
+| 0x7F040002 | attr | actionBarPopupTheme | null |
+| 0x7F040003 | attr | actionBarSize | null |
+| 0x7F040004 | attr | actionBarSplitStyle | null |
+| 0x7F040005 | attr | actionBarStyle | null |
+| 0x7F040006 | attr | actionBarTabBarStyle | null |
+| 0x7F040007 | attr | actionBarTabStyle | null |
+| 0x7F040008 | attr | actionBarTabTextStyle | null |
+| 0x7F040009 | attr | actionBarTheme | null |
+| 0x7F04000A | attr | actionBarWidgetTheme | null |
+| 0x7F04000B | attr | actionButtonStyle | null |
+| 0x7F04000C | attr | actionDropDownStyle | null |
+| 0x7F04000D | attr | actionLayout | null |
+| 0x7F04000E | attr | actionMenuTextAppearance | null |
+| 0x7F04000F | attr | actionMenuTextColor | null |
+| 0x7F040010 | attr | actionModeBackground | null |
+| 0x7F040011 | attr | actionModeCloseButtonStyle | null |
+| 0x7F040012 | attr | actionModeCloseContentDescription | null |
+| 0x7F040013 | attr | actionModeCloseDrawable | null |
+| 0x7F040014 | attr | actionModeCopyDrawable | null |
+| 0x7F040015 | attr | actionModeCutDrawable | null |
+| 0x7F040016 | attr | actionModeFindDrawable | null |
+| 0x7F040017 | attr | actionModePasteDrawable | null |
+| 0x7F040018 | attr | actionModePopupWindowStyle | null |
+| 0x7F040019 | attr | actionModeSelectAllDrawable | null |
+| 0x7F04001A | attr | actionModeShareDrawable | null |
+| 0x7F04001B | attr | actionModeSplitBackground | null |
+| 0x7F04001C | attr | actionModeStyle | null |
+| 0x7F04001D | attr | actionModeTheme | null |
+| 0x7F04001E | attr | actionModeWebSearchDrawable | null |
+| 0x7F04001F | attr | actionOverflowButtonStyle | null |
+| 0x7F040020 | attr | actionOverflowMenuStyle | null |
+| 0x7F040021 | attr | actionProviderClass | null |
+| 0x7F040022 | attr | actionViewClass | null |
+| 0x7F040023 | attr | action_menu | null |
+| 0x7F040024 | attr | activityChooserViewStyle | null |
+| 0x7F040025 | attr | adjustable | null |
+| 0x7F040026 | attr | alertDialogButtonGroupStyle | null |
+| 0x7F040027 | attr | alertDialogCenterButtons | null |
+| 0x7F040028 | attr | alertDialogStyle | null |
+| 0x7F040029 | attr | alertDialogTheme | null |
+| 0x7F04002A | attr | allowDividerAbove | null |
+| 0x7F04002B | attr | allowDividerAfterLastItem | null |
+| 0x7F04002C | attr | allowDividerBelow | null |
+| 0x7F04002D | attr | allowStacking | null |
+| 0x7F04002E | attr | alpha | null |
+| 0x7F04002F | attr | alphabeticModifiers | null |
+| 0x7F040030 | attr | arrowHeadLength | null |
+| 0x7F040031 | attr | arrowShaftLength | null |
+| 0x7F040032 | attr | autoCompleteTextViewStyle | null |
+| 0x7F040033 | attr | autoSizeMaxTextSize | null |
+| 0x7F040034 | attr | autoSizeMinTextSize | null |
+| 0x7F040035 | attr | autoSizePresetSizes | null |
+| 0x7F040036 | attr | autoSizeStepGranularity | null |
+| 0x7F040037 | attr | autoSizeTextType | null |
+| 0x7F040038 | attr | background | null |
+| 0x7F040039 | attr | backgroundColor | null |
+| 0x7F04003A | attr | backgroundDrawable | null |
+| 0x7F04003B | attr | backgroundSplit | null |
+| 0x7F04003C | attr | backgroundStacked | null |
+| 0x7F04003D | attr | backgroundTint | null |
+| 0x7F04003E | attr | backgroundTintMode | null |
+| 0x7F04003F | attr | barLength | null |
+| 0x7F040040 | attr | bezel_width | null |
+| 0x7F040041 | attr | borderColor | null |
+| 0x7F040042 | attr | borderDashGap | null |
+| 0x7F040043 | attr | borderDashWidth | null |
+| 0x7F040044 | attr | borderRadius | null |
+| 0x7F040045 | attr | borderStyle | null |
+| 0x7F040046 | attr | borderWidth | null |
+| 0x7F040047 | attr | borderlessButtonStyle | null |
+| 0x7F040048 | attr | buttonBarButtonStyle | null |
+| 0x7F040049 | attr | buttonBarNegativeButtonStyle | null |
+| 0x7F04004A | attr | buttonBarNeutralButtonStyle | null |
+| 0x7F04004B | attr | buttonBarPositiveButtonStyle | null |
+| 0x7F04004C | attr | buttonBarStyle | null |
+| 0x7F04004D | attr | buttonCompat | null |
+| 0x7F04004E | attr | buttonGravity | null |
+| 0x7F04004F | attr | buttonIconDimen | null |
+| 0x7F040050 | attr | buttonPanelSideLayout | null |
+| 0x7F040051 | attr | buttonRippleColor | null |
+| 0x7F040052 | attr | buttonSize | null |
+| 0x7F040053 | attr | buttonStyle | null |
+| 0x7F040054 | attr | buttonStyleSmall | null |
+| 0x7F040055 | attr | buttonTint | null |
+| 0x7F040056 | attr | buttonTintMode | null |
+| 0x7F040057 | attr | checkBoxPreferenceStyle | null |
+| 0x7F040058 | attr | checkMarkCompat | null |
+| 0x7F040059 | attr | checkMarkTint | null |
+| 0x7F04005A | attr | checkMarkTintMode | null |
+| 0x7F04005B | attr | checkboxStyle | null |
+| 0x7F04005C | attr | checkedTextViewStyle | null |
+| 0x7F04005D | attr | circleCrop | null |
+| 0x7F04005E | attr | circle_border_cap | null |
+| 0x7F04005F | attr | circle_border_color | null |
+| 0x7F040060 | attr | circle_border_width | null |
+| 0x7F040061 | attr | circle_color | null |
+| 0x7F040062 | attr | circle_padding | null |
+| 0x7F040063 | attr | circle_radius | null |
+| 0x7F040064 | attr | circle_radius_percent | null |
+| 0x7F040065 | attr | circle_radius_pressed | null |
+| 0x7F040066 | attr | circle_radius_pressed_percent | null |
+| 0x7F040067 | attr | circular_scrolling_gesture_enabled | null |
+| 0x7F040068 | attr | closeIcon | null |
+| 0x7F040069 | attr | closeItemLayout | null |
+| 0x7F04006A | attr | collapseContentDescription | null |
+| 0x7F04006B | attr | collapseIcon | null |
+| 0x7F04006C | attr | color | null |
+| 0x7F04006D | attr | colorAccent | null |
+| 0x7F04006E | attr | colorBackgroundFloating | null |
+| 0x7F04006F | attr | colorButtonNormal | null |
+| 0x7F040070 | attr | colorControlActivated | null |
+| 0x7F040071 | attr | colorControlHighlight | null |
+| 0x7F040072 | attr | colorControlNormal | null |
+| 0x7F040073 | attr | colorError | null |
+| 0x7F040074 | attr | colorPrimary | null |
+| 0x7F040075 | attr | colorPrimaryDark | null |
+| 0x7F040076 | attr | colorScheme | null |
+| 0x7F040077 | attr | colorSwitchThumbNormal | null |
+| 0x7F040078 | attr | color_sequence | null |
+| 0x7F040079 | attr | commitIcon | null |
+| 0x7F04007A | attr | contentDescription | null |
+| 0x7F04007B | attr | contentInsetEnd | null |
+| 0x7F04007C | attr | contentInsetEndWithActions | null |
+| 0x7F04007D | attr | contentInsetLeft | null |
+| 0x7F04007E | attr | contentInsetRight | null |
+| 0x7F04007F | attr | contentInsetStart | null |
+| 0x7F040080 | attr | contentInsetStartWithNavigation | null |
+| 0x7F040081 | attr | controlBackground | null |
+| 0x7F040082 | attr | customNavigationLayout | null |
+| 0x7F040083 | attr | defaultQueryHint | null |
+| 0x7F040084 | attr | defaultValue | null |
+| 0x7F040085 | attr | dependency | null |
+| 0x7F040086 | attr | dialogCornerRadius | null |
+| 0x7F040087 | attr | dialogIcon | null |
+| 0x7F040088 | attr | dialogLayout | null |
+| 0x7F040089 | attr | dialogMessage | null |
+| 0x7F04008A | attr | dialogPreferenceStyle | null |
+| 0x7F04008B | attr | dialogPreferredPadding | null |
+| 0x7F04008C | attr | dialogTheme | null |
+| 0x7F04008D | attr | dialogTitle | null |
+| 0x7F04008E | attr | disableDependentsState | null |
+| 0x7F04008F | attr | displayOptions | null |
+| 0x7F040090 | attr | divider | null |
+| 0x7F040091 | attr | dividerHorizontal | null |
+| 0x7F040092 | attr | dividerPadding | null |
+| 0x7F040093 | attr | dividerVertical | null |
+| 0x7F040094 | attr | dotColor | null |
+| 0x7F040095 | attr | dotColorSelected | null |
+| 0x7F040096 | attr | dotFadeInDuration | null |
+| 0x7F040097 | attr | dotFadeOutDelay | null |
+| 0x7F040098 | attr | dotFadeOutDuration | null |
+| 0x7F040099 | attr | dotFadeWhenIdle | null |
+| 0x7F04009A | attr | dotRadius | null |
+| 0x7F04009B | attr | dotRadiusSelected | null |
+| 0x7F04009C | attr | dotShadowColor | null |
+| 0x7F04009D | attr | dotShadowDx | null |
+| 0x7F04009E | attr | dotShadowDy | null |
+| 0x7F04009F | attr | dotShadowRadius | null |
+| 0x7F0400A0 | attr | dotSpacing | null |
+| 0x7F0400A1 | attr | drawableBottomCompat | null |
+| 0x7F0400A2 | attr | drawableEndCompat | null |
+| 0x7F0400A3 | attr | drawableLeftCompat | null |
+| 0x7F0400A4 | attr | drawableRightCompat | null |
+| 0x7F0400A5 | attr | drawableSize | null |
+| 0x7F0400A6 | attr | drawableStartCompat | null |
+| 0x7F0400A7 | attr | drawableTint | null |
+| 0x7F0400A8 | attr | drawableTintMode | null |
+| 0x7F0400A9 | attr | drawableTopCompat | null |
+| 0x7F0400AA | attr | drawerArrowStyle | null |
+| 0x7F0400AB | attr | drawer_content | null |
+| 0x7F0400AC | attr | drawer_title | null |
+| 0x7F0400AD | attr | dropDownListViewStyle | null |
+| 0x7F0400AE | attr | dropdownListPreferredItemHeight | null |
+| 0x7F0400AF | attr | dropdownPreferenceStyle | null |
+| 0x7F0400B0 | attr | editTextBackground | null |
+| 0x7F0400B1 | attr | editTextColor | null |
+| 0x7F0400B2 | attr | editTextPreferenceStyle | null |
+| 0x7F0400B3 | attr | editTextStyle | null |
+| 0x7F0400B4 | attr | elevation | null |
+| 0x7F0400B5 | attr | emojiCompatEnabled | null |
+| 0x7F0400B6 | attr | enableCopying | null |
+| 0x7F0400B7 | attr | enabled | null |
+| 0x7F0400B8 | attr | entries | null |
+| 0x7F0400B9 | attr | entryValues | null |
+| 0x7F0400BA | attr | expandActivityOverflowButtonDrawable | null |
+| 0x7F0400BB | attr | fastScrollEnabled | null |
+| 0x7F0400BC | attr | fastScrollHorizontalThumbDrawable | null |
+| 0x7F0400BD | attr | fastScrollHorizontalTrackDrawable | null |
+| 0x7F0400BE | attr | fastScrollVerticalThumbDrawable | null |
+| 0x7F0400BF | attr | fastScrollVerticalTrackDrawable | null |
+| 0x7F0400C0 | attr | firstBaselineToTopHeight | null |
+| 0x7F0400C1 | attr | font | null |
+| 0x7F0400C2 | attr | fontFamily | null |
+| 0x7F0400C3 | attr | fontProviderAuthority | null |
+| 0x7F0400C4 | attr | fontProviderCerts | null |
+| 0x7F0400C5 | attr | fontProviderFetchStrategy | null |
+| 0x7F0400C6 | attr | fontProviderFetchTimeout | null |
+| 0x7F0400C7 | attr | fontProviderPackage | null |
+| 0x7F0400C8 | attr | fontProviderQuery | null |
+| 0x7F0400C9 | attr | fontProviderSystemFontFamily | null |
+| 0x7F0400CA | attr | fontStyle | null |
+| 0x7F0400CB | attr | fontVariationSettings | null |
+| 0x7F0400CC | attr | fontWeight | null |
+| 0x7F0400CD | attr | fragment | null |
+| 0x7F0400CE | attr | gapBetweenBars | null |
+| 0x7F0400CF | attr | goIcon | null |
+| 0x7F0400D0 | attr | height | null |
+| 0x7F0400D1 | attr | hideOnContentScroll | null |
+| 0x7F0400D2 | attr | highlightColor | null |
+| 0x7F0400D3 | attr | homeAsUpIndicator | null |
+| 0x7F0400D4 | attr | homeLayout | null |
+| 0x7F0400D5 | attr | icon | null |
+| 0x7F0400D6 | attr | iconColor | null |
+| 0x7F0400D7 | attr | iconSpaceReserved | null |
+| 0x7F0400D8 | attr | iconTint | null |
+| 0x7F0400D9 | attr | iconTintMode | null |
+| 0x7F0400DA | attr | iconifiedByDefault | null |
+| 0x7F0400DB | attr | imageAspectRatio | null |
+| 0x7F0400DC | attr | imageAspectRatioAdjust | null |
+| 0x7F0400DD | attr | imageButtonStyle | null |
+| 0x7F0400DE | attr | imageScaleMode | null |
+| 0x7F0400DF | attr | image_circle_percentage | null |
+| 0x7F0400E0 | attr | image_horizontal_offcenter_percentage | null |
+| 0x7F0400E1 | attr | image_tint | null |
+| 0x7F0400E2 | attr | indeterminateProgressStyle | null |
+| 0x7F0400E3 | attr | initialActivityCount | null |
+| 0x7F0400E4 | attr | initialExpandedChildrenCount | null |
+| 0x7F0400E5 | attr | isLightTheme | null |
+| 0x7F0400E6 | attr | isPreferenceVisible | null |
+| 0x7F0400E7 | attr | itemPadding | null |
+| 0x7F0400E8 | attr | key | null |
+| 0x7F0400E9 | attr | lStar | null |
+| 0x7F0400EA | attr | lastBaselineToBottomHeight | null |
+| 0x7F0400EB | attr | layout | null |
+| 0x7F0400EC | attr | layoutManager | null |
+| 0x7F0400ED | attr | layout_aspectRatio | null |
+| 0x7F0400EE | attr | layout_box | null |
+| 0x7F0400EF | attr | layout_gravityRound | null |
+| 0x7F0400F0 | attr | layout_heightPercent | null |
+| 0x7F0400F1 | attr | layout_heightRound | null |
+| 0x7F0400F2 | attr | layout_marginBottomPercent | null |
+| 0x7F0400F3 | attr | layout_marginBottomRound | null |
+| 0x7F0400F4 | attr | layout_marginEndPercent | null |
+| 0x7F0400F5 | attr | layout_marginLeftPercent | null |
+| 0x7F0400F6 | attr | layout_marginLeftRound | null |
+| 0x7F0400F7 | attr | layout_marginPercent | null |
+| 0x7F0400F8 | attr | layout_marginRightPercent | null |
+| 0x7F0400F9 | attr | layout_marginRightRound | null |
+| 0x7F0400FA | attr | layout_marginRound | null |
+| 0x7F0400FB | attr | layout_marginStartPercent | null |
+| 0x7F0400FC | attr | layout_marginTopPercent | null |
+| 0x7F0400FD | attr | layout_marginTopRound | null |
+| 0x7F0400FE | attr | layout_widthPercent | null |
+| 0x7F0400FF | attr | layout_widthRound | null |
+| 0x7F040100 | attr | lineHeight | null |
+| 0x7F040101 | attr | listChoiceBackgroundIndicator | null |
+| 0x7F040102 | attr | listChoiceIndicatorMultipleAnimated | null |
+| 0x7F040103 | attr | listChoiceIndicatorSingleAnimated | null |
+| 0x7F040104 | attr | listDividerAlertDialog | null |
+| 0x7F040105 | attr | listItemLayout | null |
+| 0x7F040106 | attr | listLayout | null |
+| 0x7F040107 | attr | listMenuViewStyle | null |
+| 0x7F040108 | attr | listPopupWindowStyle | null |
+| 0x7F040109 | attr | listPreferredItemHeight | null |
+| 0x7F04010A | attr | listPreferredItemHeightLarge | null |
+| 0x7F04010B | attr | listPreferredItemHeightSmall | null |
+| 0x7F04010C | attr | listPreferredItemPaddingEnd | null |
+| 0x7F04010D | attr | listPreferredItemPaddingLeft | null |
+| 0x7F04010E | attr | listPreferredItemPaddingRight | null |
+| 0x7F04010F | attr | listPreferredItemPaddingStart | null |
+| 0x7F040110 | attr | logo | null |
+| 0x7F040111 | attr | logoDescription | null |
+| 0x7F040112 | attr | maxButtonHeight | null |
+| 0x7F040113 | attr | maxHeight | null |
+| 0x7F040114 | attr | maxTextSize | null |
+| 0x7F040115 | attr | maxWidth | null |
+| 0x7F040116 | attr | measureWithLargestChild | null |
+| 0x7F040117 | attr | menu | null |
+| 0x7F040118 | attr | min | null |
+| 0x7F040119 | attr | minTextSize | null |
+| 0x7F04011A | attr | multiChoiceItemLayout | null |
+| 0x7F04011B | attr | navigationContentDescription | null |
+| 0x7F04011C | attr | navigationIcon | null |
+| 0x7F04011D | attr | navigationMode | null |
+| 0x7F04011E | attr | navigation_style | null |
+| 0x7F04011F | attr | negativeButtonIcon | null |
+| 0x7F040120 | attr | negativeButtonText | null |
+| 0x7F040121 | attr | nestedScrollViewStyle | null |
+| 0x7F040122 | attr | neutralButtonIcon | null |
+| 0x7F040123 | attr | neutralButtonText | null |
+| 0x7F040124 | attr | numericModifiers | null |
+| 0x7F040125 | attr | order | null |
+| 0x7F040126 | attr | orderingFromXml | null |
+| 0x7F040127 | attr | overlapAnchor | null |
+| 0x7F040128 | attr | paddingBottomNoButtons | null |
+| 0x7F040129 | attr | paddingEnd | null |
+| 0x7F04012A | attr | paddingStart | null |
+| 0x7F04012B | attr | paddingTopNoTitle | null |
+| 0x7F04012C | attr | pageIndicatorDotColor | null |
+| 0x7F04012D | attr | pageIndicatorDotColorSelected | null |
+| 0x7F04012E | attr | pageIndicatorDotFadeInDuration | null |
+| 0x7F04012F | attr | pageIndicatorDotFadeOutDelay | null |
+| 0x7F040130 | attr | pageIndicatorDotFadeOutDuration | null |
+| 0x7F040131 | attr | pageIndicatorDotFadeWhenIdle | null |
+| 0x7F040132 | attr | pageIndicatorDotRadius | null |
+| 0x7F040133 | attr | pageIndicatorDotRadiusSelected | null |
+| 0x7F040134 | attr | pageIndicatorDotShadowColor | null |
+| 0x7F040135 | attr | pageIndicatorDotShadowDx | null |
+| 0x7F040136 | attr | pageIndicatorDotShadowDy | null |
+| 0x7F040137 | attr | pageIndicatorDotShadowRadius | null |
+| 0x7F040138 | attr | pageIndicatorDotSpacing | null |
+| 0x7F040139 | attr | panelBackground | null |
+| 0x7F04013A | attr | panelMenuListTheme | null |
+| 0x7F04013B | attr | panelMenuListWidth | null |
+| 0x7F04013C | attr | peek_view | null |
+| 0x7F04013D | attr | persistent | null |
+| 0x7F04013E | attr | popupMenuStyle | null |
+| 0x7F04013F | attr | popupTheme | null |
+| 0x7F040140 | attr | popupWindowStyle | null |
+| 0x7F040141 | attr | positiveButtonIcon | null |
+| 0x7F040142 | attr | positiveButtonText | null |
+| 0x7F040143 | attr | preferenceCategoryStyle | null |
+| 0x7F040144 | attr | preferenceCategoryTitleTextAppearance | null |
+| 0x7F040145 | attr | preferenceFragmentCompatStyle | null |
+| 0x7F040146 | attr | preferenceFragmentListStyle | null |
+| 0x7F040147 | attr | preferenceFragmentStyle | null |
+| 0x7F040148 | attr | preferenceInformationStyle | null |
+| 0x7F040149 | attr | preferenceScreenStyle | null |
+| 0x7F04014A | attr | preferenceStyle | null |
+| 0x7F04014B | attr | preferenceTheme | null |
+| 0x7F04014C | attr | preserveIconSpacing | null |
+| 0x7F04014D | attr | pressedButtonTranslationZ | null |
+| 0x7F04014E | attr | progressBarPadding | null |
+| 0x7F04014F | attr | progressBarStyle | null |
+| 0x7F040150 | attr | queryBackground | null |
+| 0x7F040151 | attr | queryHint | null |
+| 0x7F040152 | attr | queryPatterns | null |
+| 0x7F040153 | attr | radioButtonStyle | null |
+| 0x7F040154 | attr | rangedValuePrimaryColor | null |
+| 0x7F040155 | attr | rangedValueProgressHidden | null |
+| 0x7F040156 | attr | rangedValueRingWidth | null |
+| 0x7F040157 | attr | rangedValueSecondaryColor | null |
+| 0x7F040158 | attr | ratingBarStyle | null |
+| 0x7F040159 | attr | ratingBarStyleIndicator | null |
+| 0x7F04015A | attr | ratingBarStyleSmall | null |
+| 0x7F04015B | attr | rectLayout | null |
+| 0x7F04015C | attr | recyclerViewStyle | null |
+| 0x7F04015D | attr | reverseLayout | null |
+| 0x7F04015E | attr | roundLayout | null |
+| 0x7F04015F | attr | scopeUris | null |
+| 0x7F040160 | attr | scroll_degrees_per_screen | null |
+| 0x7F040161 | attr | searchHintIcon | null |
+| 0x7F040162 | attr | searchIcon | null |
+| 0x7F040163 | attr | searchViewStyle | null |
+| 0x7F040164 | attr | seekBarIncrement | null |
+| 0x7F040165 | attr | seekBarPreferenceStyle | null |
+| 0x7F040166 | attr | seekBarStyle | null |
+| 0x7F040167 | attr | selectable | null |
+| 0x7F040168 | attr | selectableItemBackground | null |
+| 0x7F040169 | attr | selectableItemBackgroundBorderless | null |
+| 0x7F04016A | attr | shadow_width | null |
+| 0x7F04016B | attr | shortcutMatchRequired | null |
+| 0x7F04016C | attr | shouldDisableView | null |
+| 0x7F04016D | attr | showAsAction | null |
+| 0x7F04016E | attr | showDialogWhenTurningOff | null |
+| 0x7F04016F | attr | showDialogWhenTurningOn | null |
+| 0x7F040170 | attr | showDividers | null |
+| 0x7F040171 | attr | showNegativeDialogButton | null |
+| 0x7F040172 | attr | showPositiveDialogButton | null |
+| 0x7F040173 | attr | showSeekBarValue | null |
+| 0x7F040174 | attr | showText | null |
+| 0x7F040175 | attr | showTitle | null |
+| 0x7F040176 | attr | show_overflow_in_peek | null |
+| 0x7F040177 | attr | singleChoiceItemLayout | null |
+| 0x7F040178 | attr | singleLineTitle | null |
+| 0x7F040179 | attr | spanCount | null |
+| 0x7F04017A | attr | spinBars | null |
+| 0x7F04017B | attr | spinnerDropDownItemStyle | null |
+| 0x7F04017C | attr | spinnerStyle | null |
+| 0x7F04017D | attr | splitTrack | null |
+| 0x7F04017E | attr | square_dimen | null |
+| 0x7F04017F | attr | srcCompat | null |
+| 0x7F040180 | attr | stackFromEnd | null |
+| 0x7F040181 | attr | state_above_anchor | null |
+| 0x7F040182 | attr | subMenuArrow | null |
+| 0x7F040183 | attr | submitBackground | null |
+| 0x7F040184 | attr | subtitle | null |
+| 0x7F040185 | attr | subtitleTextAppearance | null |
+| 0x7F040186 | attr | subtitleTextColor | null |
+| 0x7F040187 | attr | subtitleTextStyle | null |
+| 0x7F040188 | attr | suggestionRowLayout | null |
+| 0x7F040189 | attr | summary | null |
+| 0x7F04018A | attr | summaryOff | null |
+| 0x7F04018B | attr | summaryOn | null |
+| 0x7F04018C | attr | switchMinWidth | null |
+| 0x7F04018D | attr | switchPadding | null |
+| 0x7F04018E | attr | switchPreferenceCompatStyle | null |
+| 0x7F04018F | attr | switchPreferenceStyle | null |
+| 0x7F040190 | attr | switchStyle | null |
+| 0x7F040191 | attr | switchTextAppearance | null |
+| 0x7F040192 | attr | switchTextOff | null |
+| 0x7F040193 | attr | switchTextOn | null |
+| 0x7F040194 | attr | textAllCaps | null |
+| 0x7F040195 | attr | textAppearanceLargePopupMenu | null |
+| 0x7F040196 | attr | textAppearanceListItem | null |
+| 0x7F040197 | attr | textAppearanceListItemSecondary | null |
+| 0x7F040198 | attr | textAppearanceListItemSmall | null |
+| 0x7F040199 | attr | textAppearancePopupMenuHeader | null |
+| 0x7F04019A | attr | textAppearanceSearchResultSubtitle | null |
+| 0x7F04019B | attr | textAppearanceSearchResultTitle | null |
+| 0x7F04019C | attr | textAppearanceSmallPopupMenu | null |
+| 0x7F04019D | attr | textColor | null |
+| 0x7F04019E | attr | textColorAlertDialogListItem | null |
+| 0x7F04019F | attr | textColorSearchUrl | null |
+| 0x7F0401A0 | attr | textLocale | null |
+| 0x7F0401A1 | attr | textSize | null |
+| 0x7F0401A2 | attr | textTypeface | null |
+| 0x7F0401A3 | attr | theme | null |
+| 0x7F0401A4 | attr | thickness | null |
+| 0x7F0401A5 | attr | thumbTextPadding | null |
+| 0x7F0401A6 | attr | thumbTint | null |
+| 0x7F0401A7 | attr | thumbTintMode | null |
+| 0x7F0401A8 | attr | tickMark | null |
+| 0x7F0401A9 | attr | tickMarkTint | null |
+| 0x7F0401AA | attr | tickMarkTintMode | null |
+| 0x7F0401AB | attr | tint | null |
+| 0x7F0401AC | attr | tintMode | null |
+| 0x7F0401AD | attr | title | null |
+| 0x7F0401AE | attr | titleColor | null |
+| 0x7F0401AF | attr | titleMargin | null |
+| 0x7F0401B0 | attr | titleMarginBottom | null |
+| 0x7F0401B1 | attr | titleMarginEnd | null |
+| 0x7F0401B2 | attr | titleMarginStart | null |
+| 0x7F0401B3 | attr | titleMarginTop | null |
+| 0x7F0401B4 | attr | titleMargins | null |
+| 0x7F0401B5 | attr | titleSize | null |
+| 0x7F0401B6 | attr | titleTextAppearance | null |
+| 0x7F0401B7 | attr | titleTextColor | null |
+| 0x7F0401B8 | attr | titleTextStyle | null |
+| 0x7F0401B9 | attr | titleTypeface | null |
+| 0x7F0401BA | attr | toolbarNavigationButtonStyle | null |
+| 0x7F0401BB | attr | toolbarStyle | null |
+| 0x7F0401BC | attr | tooltipForegroundColor | null |
+| 0x7F0401BD | attr | tooltipFrameBackground | null |
+| 0x7F0401BE | attr | tooltipText | null |
+| 0x7F0401BF | attr | track | null |
+| 0x7F0401C0 | attr | trackTint | null |
+| 0x7F0401C1 | attr | trackTintMode | null |
+| 0x7F0401C2 | attr | ttcIndex | null |
+| 0x7F0401C3 | attr | update_interval | null |
+| 0x7F0401C4 | attr | updatesContinuously | null |
+| 0x7F0401C5 | attr | useSimpleSummaryProvider | null |
+| 0x7F0401C6 | attr | viewInflaterClass | null |
+| 0x7F0401C7 | attr | voiceIcon | null |
+| 0x7F0401C8 | attr | widgetLayout | null |
+| 0x7F0401C9 | attr | windowActionBar | null |
+| 0x7F0401CA | attr | windowActionBarOverlay | null |
+| 0x7F0401CB | attr | windowActionModeOverlay | null |
+| 0x7F0401CC | attr | windowFixedHeightMajor | null |
+| 0x7F0401CD | attr | windowFixedHeightMinor | null |
+| 0x7F0401CE | attr | windowFixedWidthMajor | null |
+| 0x7F0401CF | attr | windowFixedWidthMinor | null |
+| 0x7F0401D0 | attr | windowMinWidthMajor | null |
+| 0x7F0401D1 | attr | windowMinWidthMinor | null |
+| 0x7F0401D2 | attr | windowNoTitle | null |
+| 0x7F050000 | bool | abc_action_bar_embed_tabs | true |
+| 0x7F050001 | bool | abc_config_actionMenuItemAllCaps | true |
+| 0x7F050002 | bool | action_choose_expand_selected | true |
+| 0x7F050003 | bool | action_choose_symmetrical_dimen | false |
+| 0x7F050004 | bool | config_materialPreferenceIconSpaceReserved | false |
+| 0x7F050005 | bool | is_tablet | false |
+| 0x7F060000 | color | abc_background_cache_hint_selector_material_dark | res/color/abc_background_cache_hint_selector_material_dark.xml |
+| 0x7F060001 | color | abc_background_cache_hint_selector_material_light | res/color/abc_background_cache_hint_selector_material_light.xml |
+| 0x7F060002 | color | abc_btn_colored_borderless_text_material | res/color/abc_btn_colored_borderless_text_material.xml |
+| 0x7F060003 | color | abc_btn_colored_text_material | res/color/abc_btn_colored_text_material.xml |
+| 0x7F060004 | color | abc_color_highlight_material | res/color-v23/abc_color_highlight_material.xml |
+| 0x7F060005 | color | abc_decor_view_status_guard | #FF000000 |
+| 0x7F060006 | color | abc_decor_view_status_guard_light | #FFFFFFFF |
+| 0x7F060007 | color | abc_hint_foreground_material_dark | res/color/abc_hint_foreground_material_dark.xml |
+| 0x7F060008 | color | abc_hint_foreground_material_light | res/color/abc_hint_foreground_material_light.xml |
+| 0x7F060009 | color | abc_primary_text_disable_only_material_dark | res/color/abc_primary_text_disable_only_material_dark.xml |
+| 0x7F06000A | color | abc_primary_text_disable_only_material_light | res/color/abc_primary_text_disable_only_material_light.xml |
+| 0x7F06000B | color | abc_primary_text_material_dark | res/color/abc_primary_text_material_dark.xml |
+| 0x7F06000C | color | abc_primary_text_material_light | res/color/abc_primary_text_material_light.xml |
+| 0x7F06000D | color | abc_search_url_text | res/color/abc_search_url_text.xml |
+| 0x7F06000E | color | abc_search_url_text_normal | #FF7FA87F |
+| 0x7F06000F | color | abc_search_url_text_pressed | @0x0106000C |
+| 0x7F060010 | color | abc_search_url_text_selected | @0x0106000C |
+| 0x7F060011 | color | abc_secondary_text_material_dark | res/color/abc_secondary_text_material_dark.xml |
+| 0x7F060012 | color | abc_secondary_text_material_light | res/color/abc_secondary_text_material_light.xml |
+| 0x7F060013 | color | abc_tint_btn_checkable | res/color/abc_tint_btn_checkable.xml |
+| 0x7F060014 | color | abc_tint_default | res/color/abc_tint_default.xml |
+| 0x7F060015 | color | abc_tint_edittext | res/color/abc_tint_edittext.xml |
+| 0x7F060016 | color | abc_tint_seek_thumb | res/color/abc_tint_seek_thumb.xml |
+| 0x7F060017 | color | abc_tint_spinner | res/color/abc_tint_spinner.xml |
+| 0x7F060018 | color | abc_tint_switch_track | res/color/abc_tint_switch_track.xml |
+| 0x7F060019 | color | accent_material_dark | @0x7F060067 |
+| 0x7F06001A | color | accent_material_light | @0x7F060068 |
+| 0x7F06001B | color | action_button_background | #4D000000 |
+| 0x7F06001C | color | ambient_mode_text | @0x7F060079 |
+| 0x7F06001D | color | androidx_core_ripple_material_light | #1F000000 |
+| 0x7F06001E | color | androidx_core_secondary_text_default_material_light | #8A000000 |
+| 0x7F06001F | color | background_floating_material_dark | @0x7F06006D |
+| 0x7F060020 | color | background_floating_material_light | @0x0106000B |
+| 0x7F060021 | color | background_material_dark | @0x7F06006E |
+| 0x7F060022 | color | background_material_light | @0x7F06006B |
+| 0x7F060023 | color | black | #000000FF |
+| 0x7F060024 | color | black_54p | #8A000000 |
+| 0x7F060025 | color | black_86p | #DE000000 |
+| 0x7F060026 | color | blue_a400 | #FF2979FF |
+| 0x7F060027 | color | bright_foreground_disabled_material_dark | #80FFFFFF |
+| 0x7F060028 | color | bright_foreground_disabled_material_light | #80000000 |
+| 0x7F060029 | color | bright_foreground_inverse_material_dark | @0x7F06002C |
+| 0x7F06002A | color | bright_foreground_inverse_material_light | @0x7F06002B |
+| 0x7F06002B | color | bright_foreground_material_dark | @0x0106000B |
+| 0x7F06002C | color | bright_foreground_material_light | @0x0106000C |
+| 0x7F06002D | color | btn_colored_background_material | res/color-v21/btn_colored_background_material.xml |
+| 0x7F06002E | color | button_icon_color | res/color-v23/button_icon_color.xml |
+| 0x7F06002F | color | button_material_dark | #FF5A595B |
+| 0x7F060030 | color | button_material_light | #FFD6D7D7 |
+| 0x7F060031 | color | card_default_background | #FFE0E0E0 |
+| 0x7F060032 | color | card_grey_text_color | res/color/card_grey_text_color.xml |
+| 0x7F060033 | color | card_text_color | res/color/card_text_color.xml |
+| 0x7F060034 | color | circular_button | res/color/circular_button.xml |
+| 0x7F060035 | color | circular_button_disabled | @0x7F06005F |
+| 0x7F060036 | color | circular_button_normal | #FF0288D1 |
+| 0x7F060037 | color | circular_button_pressed | #FF01579B |
+| 0x7F060038 | color | clear | #00000000 |
+| 0x7F060039 | color | common_google_signin_btn_text_dark | res/color/common_google_signin_btn_text_dark.xml |
+| 0x7F06003A | color | common_google_signin_btn_text_dark_default | @0x0106000B |
+| 0x7F06003B | color | common_google_signin_btn_text_dark_disabled | #1F000000 |
+| 0x7F06003C | color | common_google_signin_btn_text_dark_focused | @0x0106000C |
+| 0x7F06003D | color | common_google_signin_btn_text_dark_pressed | @0x0106000B |
+| 0x7F06003E | color | common_google_signin_btn_text_light | res/color/common_google_signin_btn_text_light.xml |
+| 0x7F06003F | color | common_google_signin_btn_text_light_default | #90000000 |
+| 0x7F060040 | color | common_google_signin_btn_text_light_disabled | #1F000000 |
+| 0x7F060041 | color | common_google_signin_btn_text_light_focused | #90000000 |
+| 0x7F060042 | color | common_google_signin_btn_text_light_pressed | #DE000000 |
+| 0x7F060043 | color | common_google_signin_btn_tint | res/color/common_google_signin_btn_tint.xml |
+| 0x7F060044 | color | complicationDrawable_backgroundColor | #00000000 |
+| 0x7F060045 | color | complicationDrawable_borderColor | #80000000 |
+| 0x7F060046 | color | complicationDrawable_highlightColor | #4DFFFFFF |
+| 0x7F060047 | color | complicationDrawable_iconColor | #FFFFFFFF |
+| 0x7F060048 | color | complicationDrawable_rangedValuePrimaryColor | #FFFFFFFF |
+| 0x7F060049 | color | complicationDrawable_rangedValueSecondaryColor | #80FFFFFF |
+| 0x7F06004A | color | complicationDrawable_textColor | #FFFFFFFF |
+| 0x7F06004B | color | complicationDrawable_titleColor | #80FFFFFF |
+| 0x7F06004C | color | config_scrim_color | #80000000 |
+| 0x7F06004D | color | dark_blue | #FF1565C0 |
+| 0x7F06004E | color | dark_grey | #FF424242 |
+| 0x7F06004F | color | dark_red | #FFD32F2F |
+| 0x7F060050 | color | dialog_background | #FF414141 |
+| 0x7F060051 | color | dialog_shade_background | #FF606060 |
+| 0x7F060052 | color | dim_foreground_disabled_material_dark | #80BEBEBE |
+| 0x7F060053 | color | dim_foreground_disabled_material_light | #80323232 |
+| 0x7F060054 | color | dim_foreground_material_dark | #FFBEBEBE |
+| 0x7F060055 | color | dim_foreground_material_light | #FF323232 |
+| 0x7F060056 | color | disabled_text_light | #FFE0E0E0 |
+| 0x7F060057 | color | dismiss_close | #FFFF5151 |
+| 0x7F060058 | color | dismiss_close_pressed | #FFB83120 |
+| 0x7F060059 | color | dismiss_overlay_bg | #80000000 |
+| 0x7F06005A | color | error_color_material_dark | #FFFF7043 |
+| 0x7F06005B | color | error_color_material_light | #FFFF5722 |
+| 0x7F06005C | color | foreground_material_dark | @0x0106000B |
+| 0x7F06005D | color | foreground_material_light | @0x0106000C |
+| 0x7F06005E | color | green | #FF00C853 |
+| 0x7F06005F | color | grey | #FF757575 |
+| 0x7F060060 | color | highlighted_text_material_dark | #6680CBC4 |
+| 0x7F060061 | color | highlighted_text_material_light | #66009688 |
+| 0x7F060062 | color | ic_launcher_background | #FF0D1315 |
+| 0x7F060063 | color | light_grey | #FFBDBDBD |
+| 0x7F060064 | color | material_blue_grey_800 | #FF37474F |
+| 0x7F060065 | color | material_blue_grey_900 | #FF263238 |
+| 0x7F060066 | color | material_blue_grey_950 | #FF21272B |
+| 0x7F060067 | color | material_deep_teal_200 | #FF80CBC4 |
+| 0x7F060068 | color | material_deep_teal_500 | #FF008577 |
+| 0x7F060069 | color | material_grey_100 | #FFF5F5F5 |
+| 0x7F06006A | color | material_grey_300 | #FFE0E0E0 |
+| 0x7F06006B | color | material_grey_50 | #FFFAFAFA |
+| 0x7F06006C | color | material_grey_600 | #FF757575 |
+| 0x7F06006D | color | material_grey_800 | #FF424242 |
+| 0x7F06006E | color | material_grey_850 | #FF303030 |
+| 0x7F06006F | color | material_grey_900 | #FF212121 |
+| 0x7F060070 | color | notification_action_color_filter | #FFFFFFFF |
+| 0x7F060071 | color | notification_divider_color | #FF999999 |
+| 0x7F060072 | color | notification_icon_bg_color | #FF9E9E9E |
+| 0x7F060073 | color | orange | #FFFF6D3F |
+| 0x7F060074 | color | preference_fallback_accent_color | #FF008577 |
+| 0x7F060075 | color | primary_dark_material_dark | @0x0106000C |
+| 0x7F060076 | color | primary_dark_material_light | @0x7F06006C |
+| 0x7F060077 | color | primary_material_dark | @0x7F06006F |
+| 0x7F060078 | color | primary_material_light | @0x7F060069 |
+| 0x7F060079 | color | primary_text_dark | @0x7F060090 |
+| 0x7F06007A | color | primary_text_default_material_dark | #FFFFFFFF |
+| 0x7F06007B | color | primary_text_default_material_light | #DE000000 |
+| 0x7F06007C | color | primary_text_disabled_material_dark | #4DFFFFFF |
+| 0x7F06007D | color | primary_text_disabled_material_light | #39000000 |
+| 0x7F06007E | color | primary_text_light | @0x7F06004E |
+| 0x7F06007F | color | red_a200 | #FFFF5252 |
+| 0x7F060080 | color | ripple_material_dark | #33FFFFFF |
+| 0x7F060081 | color | ripple_material_light | #1F000000 |
+| 0x7F060082 | color | secondary_text_default_material_dark | #B3FFFFFF |
+| 0x7F060083 | color | secondary_text_default_material_light | #8A000000 |
+| 0x7F060084 | color | secondary_text_disabled_material_dark | #36FFFFFF |
+| 0x7F060085 | color | secondary_text_disabled_material_light | #24000000 |
+| 0x7F060086 | color | secondary_text_light | #FF9E9E9E |
+| 0x7F060087 | color | semitransparent_grey | #66777777 |
+| 0x7F060088 | color | switch_thumb_disabled_material_dark | #FF616161 |
+| 0x7F060089 | color | switch_thumb_disabled_material_light | #FFBDBDBD |
+| 0x7F06008A | color | switch_thumb_material_dark | res/color/switch_thumb_material_dark.xml |
+| 0x7F06008B | color | switch_thumb_material_light | res/color/switch_thumb_material_light.xml |
+| 0x7F06008C | color | switch_thumb_normal_material_dark | #FFBDBDBD |
+| 0x7F06008D | color | switch_thumb_normal_material_light | #FFF1F1F1 |
+| 0x7F06008E | color | tooltip_background_dark | #E6616161 |
+| 0x7F06008F | color | tooltip_background_light | #E6FFFFFF |
+| 0x7F060090 | color | white | @0x0106000B |
+| 0x7F070000 | dimen | abc_action_bar_content_inset_material | <complex> |
+| 0x7F070001 | dimen | abc_action_bar_content_inset_with_nav | <complex> |
+| 0x7F070002 | dimen | abc_action_bar_default_height_material | <complex> |
+| 0x7F070003 | dimen | abc_action_bar_default_padding_end_material | <complex> |
+| 0x7F070004 | dimen | abc_action_bar_default_padding_start_material | <complex> |
+| 0x7F070005 | dimen | abc_action_bar_elevation_material | <complex> |
+| 0x7F070006 | dimen | abc_action_bar_icon_vertical_padding_material | <complex> |
+| 0x7F070007 | dimen | abc_action_bar_overflow_padding_end_material | <complex> |
+| 0x7F070008 | dimen | abc_action_bar_overflow_padding_start_material | <complex> |
+| 0x7F070009 | dimen | abc_action_bar_stacked_max_height | <complex> |
+| 0x7F07000A | dimen | abc_action_bar_stacked_tab_max_width | <complex> |
+| 0x7F07000B | dimen | abc_action_bar_subtitle_bottom_margin_material | <complex> |
+| 0x7F07000C | dimen | abc_action_bar_subtitle_top_margin_material | <complex> |
+| 0x7F07000D | dimen | abc_action_button_min_height_material | <complex> |
+| 0x7F07000E | dimen | abc_action_button_min_width_material | <complex> |
+| 0x7F07000F | dimen | abc_action_button_min_width_overflow_material | <complex> |
+| 0x7F070010 | dimen | abc_alert_dialog_button_bar_height | <complex> |
+| 0x7F070011 | dimen | abc_alert_dialog_button_dimen | <complex> |
+| 0x7F070012 | dimen | abc_button_inset_horizontal_material | @0x7F070019 |
+| 0x7F070013 | dimen | abc_button_inset_vertical_material | <complex> |
+| 0x7F070014 | dimen | abc_button_padding_horizontal_material | <complex> |
+| 0x7F070015 | dimen | abc_button_padding_vertical_material | @0x7F07001A |
+| 0x7F070016 | dimen | abc_cascading_menus_min_smallest_width | <complex> |
+| 0x7F070017 | dimen | abc_config_prefDialogWidth | <complex> |
+| 0x7F070018 | dimen | abc_control_corner_material | <complex> |
+| 0x7F070019 | dimen | abc_control_inset_material | <complex> |
+| 0x7F07001A | dimen | abc_control_padding_material | <complex> |
+| 0x7F07001B | dimen | abc_dialog_corner_radius_material | <complex> |
+| 0x7F07001C | dimen | abc_dialog_fixed_height_major | <complex> |
+| 0x7F07001D | dimen | abc_dialog_fixed_height_minor | <complex> |
+| 0x7F07001E | dimen | abc_dialog_fixed_width_major | <complex> |
+| 0x7F07001F | dimen | abc_dialog_fixed_width_minor | <complex> |
+| 0x7F070020 | dimen | abc_dialog_list_padding_bottom_no_buttons | <complex> |
+| 0x7F070021 | dimen | abc_dialog_list_padding_top_no_title | <complex> |
+| 0x7F070022 | dimen | abc_dialog_min_width_major | <complex> |
+| 0x7F070023 | dimen | abc_dialog_min_width_minor | <complex> |
+| 0x7F070024 | dimen | abc_dialog_padding_material | <complex> |
+| 0x7F070025 | dimen | abc_dialog_padding_top_material | <complex> |
+| 0x7F070026 | dimen | abc_dialog_title_divider_material | <complex> |
+| 0x7F070027 | dimen | abc_disabled_alpha_material_dark | <complex> |
+| 0x7F070028 | dimen | abc_disabled_alpha_material_light | <complex> |
+| 0x7F070029 | dimen | abc_dropdownitem_icon_width | <complex> |
+| 0x7F07002A | dimen | abc_dropdownitem_text_padding_left | <complex> |
+| 0x7F07002B | dimen | abc_dropdownitem_text_padding_right | <complex> |
+| 0x7F07002C | dimen | abc_edit_text_inset_bottom_material | <complex> |
+| 0x7F07002D | dimen | abc_edit_text_inset_horizontal_material | <complex> |
+| 0x7F07002E | dimen | abc_edit_text_inset_top_material | <complex> |
+| 0x7F07002F | dimen | abc_floating_window_z | <complex> |
+| 0x7F070030 | dimen | abc_list_item_height_large_material | <complex> |
+| 0x7F070031 | dimen | abc_list_item_height_material | <complex> |
+| 0x7F070032 | dimen | abc_list_item_height_small_material | <complex> |
+| 0x7F070033 | dimen | abc_list_item_padding_horizontal_material | @0x7F070000 |
+| 0x7F070034 | dimen | abc_panel_menu_list_width | <complex> |
+| 0x7F070035 | dimen | abc_progress_bar_height_material | <complex> |
+| 0x7F070036 | dimen | abc_search_view_preferred_height | <complex> |
+| 0x7F070037 | dimen | abc_search_view_preferred_width | <complex> |
+| 0x7F070038 | dimen | abc_seekbar_track_background_height_material | <complex> |
+| 0x7F070039 | dimen | abc_seekbar_track_progress_height_material | <complex> |
+| 0x7F07003A | dimen | abc_select_dialog_padding_start_material | <complex> |
+| 0x7F07003B | dimen | abc_star_big | <complex> |
+| 0x7F07003C | dimen | abc_star_medium | <complex> |
+| 0x7F07003D | dimen | abc_star_small | <complex> |
+| 0x7F07003E | dimen | abc_switch_padding | <complex> |
+| 0x7F07003F | dimen | abc_text_size_body_1_material | <complex> |
+| 0x7F070040 | dimen | abc_text_size_body_2_material | <complex> |
+| 0x7F070041 | dimen | abc_text_size_button_material | <complex> |
+| 0x7F070042 | dimen | abc_text_size_caption_material | <complex> |
+| 0x7F070043 | dimen | abc_text_size_display_1_material | <complex> |
+| 0x7F070044 | dimen | abc_text_size_display_2_material | <complex> |
+| 0x7F070045 | dimen | abc_text_size_display_3_material | <complex> |
+| 0x7F070046 | dimen | abc_text_size_display_4_material | <complex> |
+| 0x7F070047 | dimen | abc_text_size_headline_material | <complex> |
+| 0x7F070048 | dimen | abc_text_size_large_material | <complex> |
+| 0x7F070049 | dimen | abc_text_size_medium_material | <complex> |
+| 0x7F07004A | dimen | abc_text_size_menu_header_material | <complex> |
+| 0x7F07004B | dimen | abc_text_size_menu_material | <complex> |
+| 0x7F07004C | dimen | abc_text_size_small_material | <complex> |
+| 0x7F07004D | dimen | abc_text_size_subhead_material | <complex> |
+| 0x7F07004E | dimen | abc_text_size_subtitle_material_toolbar | <complex> |
+| 0x7F07004F | dimen | abc_text_size_title_material | <complex> |
+| 0x7F070050 | dimen | abc_text_size_title_material_toolbar | <complex> |
+| 0x7F070051 | dimen | action_chooser_base_radius_percent | <complex> |
+| 0x7F070052 | dimen | action_chooser_bounce_in_percent | <complex> |
+| 0x7F070053 | dimen | action_chooser_icon_height_percent | <complex> |
+| 0x7F070054 | dimen | action_chooser_max_radius_percent | <complex> |
+| 0x7F070055 | dimen | action_chooser_min_drag_select_percent | <complex> |
+| 0x7F070056 | dimen | action_chooser_min_swipe_select_percent | <complex> |
+| 0x7F070057 | dimen | action_drawer_expand_icon_top_margin | <complex> |
+| 0x7F070058 | dimen | action_drawer_item_bottom_padding | <complex> |
+| 0x7F070059 | dimen | action_drawer_item_icon_padding | <complex> |
+| 0x7F07005A | dimen | action_drawer_item_icon_right_margin | <complex> |
+| 0x7F07005B | dimen | action_drawer_item_icon_size | <complex> |
+| 0x7F07005C | dimen | action_drawer_item_text_size | <complex> |
+| 0x7F07005D | dimen | action_drawer_item_top_padding | <complex> |
+| 0x7F07005E | dimen | action_drawer_peek_top_padding | <complex> |
+| 0x7F07005F | dimen | action_drawer_peek_view_height | <complex> |
+| 0x7F070060 | dimen | activity_horizontal_margin | <complex> |
+| 0x7F070061 | dimen | activity_vertical_margin | <complex> |
+| 0x7F070062 | dimen | blank_config_dash_gap | <complex> |
+| 0x7F070063 | dimen | blank_config_dash_width | <complex> |
+| 0x7F070064 | dimen | card_content_padding_rect_top | <complex> |
+| 0x7F070065 | dimen | circular_button_elevation | <complex> |
+| 0x7F070066 | dimen | circular_button_elevation_pressed | <complex> |
+| 0x7F070067 | dimen | close_button_diameter | <complex> |
+| 0x7F070068 | dimen | compat_button_inset_horizontal_material | <complex> |
+| 0x7F070069 | dimen | compat_button_inset_vertical_material | <complex> |
+| 0x7F07006A | dimen | compat_button_padding_horizontal_material | <complex> |
+| 0x7F07006B | dimen | compat_button_padding_vertical_material | <complex> |
+| 0x7F07006C | dimen | compat_control_corner_material | <complex> |
+| 0x7F07006D | dimen | compat_notification_large_icon_max_height | <complex> |
+| 0x7F07006E | dimen | compat_notification_large_icon_max_width | <complex> |
+| 0x7F07006F | dimen | complicationDrawable_borderDashGap | <complex> |
+| 0x7F070070 | dimen | complicationDrawable_borderDashWidth | <complex> |
+| 0x7F070071 | dimen | complicationDrawable_borderRadius | <complex> |
+| 0x7F070072 | dimen | complicationDrawable_borderWidth | <complex> |
+| 0x7F070073 | dimen | complicationDrawable_rangedValueRingWidth | <complex> |
+| 0x7F070074 | dimen | complicationDrawable_textSize | <complex> |
+| 0x7F070075 | dimen | complicationDrawable_titleSize | <complex> |
+| 0x7F070076 | dimen | config_margin | <complex> |
+| 0x7F070077 | dimen | confirmation_overlay_image_size | <complex> |
+| 0x7F070078 | dimen | confirmation_overlay_text_size | <complex> |
+| 0x7F070079 | dimen | diag_button_bottom_padding | <complex> |
+| 0x7F07007A | dimen | diag_button_bottom_padding_round | <complex> |
+| 0x7F07007B | dimen | diag_button_padding_bottom | <complex> |
+| 0x7F07007C | dimen | diag_button_padding_horizontal | <complex> |
+| 0x7F07007D | dimen | diag_button_side_padding_right_round | <complex> |
+| 0x7F07007E | dimen | diag_button_size | <complex> |
+| 0x7F07007F | dimen | diag_content_bottom_padding | <complex> |
+| 0x7F070080 | dimen | diag_content_side_padding | <complex> |
+| 0x7F070081 | dimen | diag_content_side_padding_round | <complex> |
+| 0x7F070082 | dimen | diag_content_top_padding | <complex> |
+| 0x7F070083 | dimen | diag_content_top_padding_round | <complex> |
+| 0x7F070084 | dimen | diag_floating_height | <complex> |
+| 0x7F070085 | dimen | diag_icon_margin_top | <complex> |
+| 0x7F070086 | dimen | diag_preferred_padding | <complex> |
+| 0x7F070087 | dimen | diag_shade_height_rect | <complex> |
+| 0x7F070088 | dimen | diag_shade_height_round | <complex> |
+| 0x7F070089 | dimen | disabled_alpha_material_dark | <complex> |
+| 0x7F07008A | dimen | disabled_alpha_material_light | <complex> |
+| 0x7F07008B | dimen | dismiss_padding | <complex> |
+| 0x7F07008C | dimen | drawer_view_edge_size | <complex> |
+| 0x7F07008D | dimen | fastscroll_default_thickness | <complex> |
+| 0x7F07008E | dimen | fastscroll_margin | <complex> |
+| 0x7F07008F | dimen | fastscroll_minimum_range | <complex> |
+| 0x7F070090 | dimen | highlight_alpha_material_colored | <complex> |
+| 0x7F070091 | dimen | highlight_alpha_material_dark | <complex> |
+| 0x7F070092 | dimen | highlight_alpha_material_light | <complex> |
+| 0x7F070093 | dimen | hint_alpha_material_dark | <complex> |
+| 0x7F070094 | dimen | hint_alpha_material_light | <complex> |
+| 0x7F070095 | dimen | hint_pressed_alpha_material_dark | <complex> |
+| 0x7F070096 | dimen | hint_pressed_alpha_material_light | <complex> |
+| 0x7F070097 | dimen | item_touch_helper_max_drag_scroll_per_frame | <complex> |
+| 0x7F070098 | dimen | item_touch_helper_swipe_escape_max_velocity | <complex> |
+| 0x7F070099 | dimen | item_touch_helper_swipe_escape_velocity | <complex> |
+| 0x7F07009A | dimen | list_default_padding | <complex> |
+| 0x7F07009B | dimen | nav_drawer_single_page_circle_radius | <complex> |
+| 0x7F07009C | dimen | nav_drawer_single_page_icon_padding | <complex> |
+| 0x7F07009D | dimen | nav_drawer_single_page_icon_size | <complex> |
+| 0x7F07009E | dimen | nav_drawer_text_size | <complex> |
+| 0x7F07009F | dimen | notification_action_icon_size | <complex> |
+| 0x7F0700A0 | dimen | notification_action_text_size | <complex> |
+| 0x7F0700A1 | dimen | notification_big_circle_margin | <complex> |
+| 0x7F0700A2 | dimen | notification_content_margin_start | <complex> |
+| 0x7F0700A3 | dimen | notification_large_icon_height | <complex> |
+| 0x7F0700A4 | dimen | notification_large_icon_width | <complex> |
+| 0x7F0700A5 | dimen | notification_main_column_padding_top | <complex> |
+| 0x7F0700A6 | dimen | notification_media_narrow_margin | @0x7F0700A2 |
+| 0x7F0700A7 | dimen | notification_right_icon_size | <complex> |
+| 0x7F0700A8 | dimen | notification_right_side_padding_top | <complex> |
+| 0x7F0700A9 | dimen | notification_small_icon_background_padding | <complex> |
+| 0x7F0700AA | dimen | notification_small_icon_size_as_large | <complex> |
+| 0x7F0700AB | dimen | notification_subtext_size | <complex> |
+| 0x7F0700AC | dimen | notification_top_pad | <complex> |
+| 0x7F0700AD | dimen | notification_top_pad_large_text | <complex> |
+| 0x7F0700AE | dimen | peek_view_bottom_padding | <complex> |
+| 0x7F0700AF | dimen | peek_view_icon_size | <complex> |
+| 0x7F0700B0 | dimen | peek_view_top_padding | <complex> |
+| 0x7F0700B1 | dimen | preference_dropdown_padding_start | <complex> |
+| 0x7F0700B2 | dimen | preference_icon_minWidth | <complex> |
+| 0x7F0700B3 | dimen | preference_seekbar_padding_horizontal | <complex> |
+| 0x7F0700B4 | dimen | preference_seekbar_padding_vertical | <complex> |
+| 0x7F0700B5 | dimen | preference_seekbar_value_minWidth | <complex> |
+| 0x7F0700B6 | dimen | screen_percentage_05 | <complex> |
+| 0x7F0700B7 | dimen | screen_percentage_10 | <complex> |
+| 0x7F0700B8 | dimen | screen_percentage_12 | <complex> |
+| 0x7F0700B9 | dimen | screen_percentage_15 | <complex> |
+| 0x7F0700BA | dimen | tooltip_corner_radius | <complex> |
+| 0x7F0700BB | dimen | tooltip_horizontal_padding | <complex> |
+| 0x7F0700BC | dimen | tooltip_margin | <complex> |
+| 0x7F0700BD | dimen | tooltip_precise_anchor_extra_offset | <complex> |
+| 0x7F0700BE | dimen | tooltip_precise_anchor_threshold | <complex> |
+| 0x7F0700BF | dimen | tooltip_vertical_padding | <complex> |
+| 0x7F0700C0 | dimen | tooltip_y_offset_non_touch | <complex> |
+| 0x7F0700C1 | dimen | tooltip_y_offset_touch | <complex> |
+| 0x7F0700C2 | dimen | wearable_drawer_view_elevation | <complex> |
+| 0x7F0700C3 | dimen | wrv_curve_default_x_offset | <complex> |
+| 0x7F080000 | drawable | abc_ab_share_pack_mtrl_alpha | res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png |
+| 0x7F080001 | drawable | abc_action_bar_item_background_material | res/drawable-v21/abc_action_bar_item_background_material.xml |
+| 0x7F080002 | drawable | abc_btn_borderless_material | res/drawable/abc_btn_borderless_material.xml |
+| 0x7F080003 | drawable | abc_btn_check_material | res/drawable/abc_btn_check_material.xml |
+| 0x7F080004 | drawable | abc_btn_check_material_anim | res/drawable/abc_btn_check_material_anim.xml |
+| 0x7F080005 | drawable | abc_btn_check_to_on_mtrl_000 | res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png |
+| 0x7F080006 | drawable | abc_btn_check_to_on_mtrl_015 | res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png |
+| 0x7F080007 | drawable | abc_btn_colored_material | res/drawable/abc_btn_colored_material.xml |
+| 0x7F080008 | drawable | abc_btn_default_mtrl_shape | res/drawable/abc_btn_default_mtrl_shape.xml |
+| 0x7F080009 | drawable | abc_btn_radio_material | res/drawable/abc_btn_radio_material.xml |
+| 0x7F08000A | drawable | abc_btn_radio_material_anim | res/drawable/abc_btn_radio_material_anim.xml |
+| 0x7F08000B | drawable | abc_btn_radio_to_on_mtrl_000 | res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png |
+| 0x7F08000C | drawable | abc_btn_radio_to_on_mtrl_015 | res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png |
+| 0x7F08000D | drawable | abc_btn_switch_to_on_mtrl_00001 | res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png |
+| 0x7F08000E | drawable | abc_btn_switch_to_on_mtrl_00012 | res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png |
+| 0x7F08000F | drawable | abc_cab_background_internal_bg | res/drawable/abc_cab_background_internal_bg.xml |
+| 0x7F080010 | drawable | abc_cab_background_top_material | res/drawable/abc_cab_background_top_material.xml |
+| 0x7F080011 | drawable | abc_cab_background_top_mtrl_alpha | res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png |
+| 0x7F080012 | drawable | abc_control_background_material | res/drawable-v23/abc_control_background_material.xml |
+| 0x7F080013 | drawable | abc_dialog_material_background | res/drawable/abc_dialog_material_background.xml |
+| 0x7F080014 | drawable | abc_edit_text_material | res/drawable/abc_edit_text_material.xml |
+| 0x7F080015 | drawable | abc_ic_ab_back_material | res/drawable/abc_ic_ab_back_material.xml |
+| 0x7F080016 | drawable | abc_ic_arrow_drop_right_black_24dp | res/drawable/abc_ic_arrow_drop_right_black_24dp.xml |
+| 0x7F080017 | drawable | abc_ic_clear_material | res/drawable/abc_ic_clear_material.xml |
+| 0x7F080018 | drawable | abc_ic_commit_search_api_mtrl_alpha | res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png |
+| 0x7F080019 | drawable | abc_ic_go_search_api_material | res/drawable/abc_ic_go_search_api_material.xml |
+| 0x7F08001A | drawable | abc_ic_menu_copy_mtrl_am_alpha | res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml |
+| 0x7F08001B | drawable | abc_ic_menu_cut_mtrl_alpha | res/drawable/abc_ic_menu_cut_mtrl_alpha.xml |
+| 0x7F08001C | drawable | abc_ic_menu_overflow_material | res/drawable/abc_ic_menu_overflow_material.xml |
+| 0x7F08001D | drawable | abc_ic_menu_paste_mtrl_am_alpha | res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml |
+| 0x7F08001E | drawable | abc_ic_menu_selectall_mtrl_alpha | res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml |
+| 0x7F08001F | drawable | abc_ic_menu_share_mtrl_alpha | res/drawable/abc_ic_menu_share_mtrl_alpha.xml |
+| 0x7F080020 | drawable | abc_ic_search_api_material | res/drawable/abc_ic_search_api_material.xml |
+| 0x7F080021 | drawable | abc_ic_voice_search_api_material | res/drawable/abc_ic_voice_search_api_material.xml |
+| 0x7F080022 | drawable | abc_item_background_holo_dark | res/drawable/abc_item_background_holo_dark.xml |
+| 0x7F080023 | drawable | abc_item_background_holo_light | res/drawable/abc_item_background_holo_light.xml |
+| 0x7F080024 | drawable | abc_list_divider_material | res/drawable/abc_list_divider_material.xml |
+| 0x7F080025 | drawable | abc_list_divider_mtrl_alpha | res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png |
+| 0x7F080026 | drawable | abc_list_focused_holo | res/drawable-xxhdpi/abc_list_focused_holo.9.png |
+| 0x7F080027 | drawable | abc_list_longpressed_holo | res/drawable-xxhdpi/abc_list_longpressed_holo.9.png |
+| 0x7F080028 | drawable | abc_list_pressed_holo_dark | res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png |
+| 0x7F080029 | drawable | abc_list_pressed_holo_light | res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png |
+| 0x7F08002A | drawable | abc_list_selector_background_transition_holo_dark | res/drawable/abc_list_selector_background_transition_holo_dark.xml |
+| 0x7F08002B | drawable | abc_list_selector_background_transition_holo_light | res/drawable/abc_list_selector_background_transition_holo_light.xml |
+| 0x7F08002C | drawable | abc_list_selector_disabled_holo_dark | res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png |
+| 0x7F08002D | drawable | abc_list_selector_disabled_holo_light | res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png |
+| 0x7F08002E | drawable | abc_list_selector_holo_dark | res/drawable/abc_list_selector_holo_dark.xml |
+| 0x7F08002F | drawable | abc_list_selector_holo_light | res/drawable/abc_list_selector_holo_light.xml |
+| 0x7F080030 | drawable | abc_menu_hardkey_panel_mtrl_mult | res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png |
+| 0x7F080031 | drawable | abc_popup_background_mtrl_mult | res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png |
+| 0x7F080032 | drawable | abc_ratingbar_indicator_material | res/drawable/abc_ratingbar_indicator_material.xml |
+| 0x7F080033 | drawable | abc_ratingbar_material | res/drawable/abc_ratingbar_material.xml |
+| 0x7F080034 | drawable | abc_ratingbar_small_material | res/drawable/abc_ratingbar_small_material.xml |
+| 0x7F080035 | drawable | abc_scrubber_control_off_mtrl_alpha | res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png |
+| 0x7F080036 | drawable | abc_scrubber_control_to_pressed_mtrl_000 | res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png |
+| 0x7F080037 | drawable | abc_scrubber_control_to_pressed_mtrl_005 | res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png |
+| 0x7F080038 | drawable | abc_scrubber_primary_mtrl_alpha | res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png |
+| 0x7F080039 | drawable | abc_scrubber_track_mtrl_alpha | res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png |
+| 0x7F08003A | drawable | abc_seekbar_thumb_material | res/drawable/abc_seekbar_thumb_material.xml |
+| 0x7F08003B | drawable | abc_seekbar_tick_mark_material | res/drawable/abc_seekbar_tick_mark_material.xml |
+| 0x7F08003C | drawable | abc_seekbar_track_material | res/drawable/abc_seekbar_track_material.xml |
+| 0x7F08003D | drawable | abc_spinner_mtrl_am_alpha | res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png |
+| 0x7F08003E | drawable | abc_spinner_textfield_background_material | res/drawable/abc_spinner_textfield_background_material.xml |
+| 0x7F08003F | drawable | abc_star_black_48dp | res/drawable/abc_star_black_48dp.xml |
+| 0x7F080040 | drawable | abc_star_half_black_48dp | res/drawable/abc_star_half_black_48dp.xml |
+| 0x7F080041 | drawable | abc_switch_thumb_material | res/drawable/abc_switch_thumb_material.xml |
+| 0x7F080042 | drawable | abc_switch_track_mtrl_alpha | res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png |
+| 0x7F080043 | drawable | abc_tab_indicator_material | res/drawable/abc_tab_indicator_material.xml |
+| 0x7F080044 | drawable | abc_tab_indicator_mtrl_alpha | res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png |
+| 0x7F080045 | drawable | abc_text_cursor_material | res/drawable/abc_text_cursor_material.xml |
+| 0x7F080046 | drawable | abc_text_select_handle_left_mtrl | res/drawable-xxhdpi/abc_text_select_handle_left_mtrl.png |
+| 0x7F080047 | drawable | abc_text_select_handle_middle_mtrl | res/drawable-xxhdpi/abc_text_select_handle_middle_mtrl.png |
+| 0x7F080048 | drawable | abc_text_select_handle_right_mtrl | res/drawable-xxhdpi/abc_text_select_handle_right_mtrl.png |
+| 0x7F080049 | drawable | abc_textfield_activated_mtrl_alpha | res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png |
+| 0x7F08004A | drawable | abc_textfield_default_mtrl_alpha | res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png |
+| 0x7F08004B | drawable | abc_textfield_search_activated_mtrl_alpha | res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png |
+| 0x7F08004C | drawable | abc_textfield_search_default_mtrl_alpha | res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png |
+| 0x7F08004D | drawable | abc_textfield_search_material | res/drawable/abc_textfield_search_material.xml |
+| 0x7F08004E | drawable | abc_vector_test | res/drawable/abc_vector_test.xml |
+| 0x7F08004F | drawable | accept_deny_dialog_negative_bg | res/drawable-v21/accept_deny_dialog_negative_bg.xml |
+| 0x7F080050 | drawable | accept_deny_dialog_positive_bg | res/drawable-v21/accept_deny_dialog_positive_bg.xml |
+| 0x7F080051 | drawable | action_item_background | res/drawable-v23/action_item_background.xml |
+| 0x7F080052 | drawable | action_item_icon_background | res/drawable-v23/action_item_icon_background.xml |
+| 0x7F080053 | drawable | background | res/drawable/background.png |
+| 0x7F080054 | drawable | background_layer_list | res/drawable/background_layer_list.xml |
+| 0x7F080055 | drawable | background_small | res/drawable/background_small.png |
+| 0x7F080056 | drawable | border | res/drawable/border.9.png |
+| 0x7F080057 | drawable | bottom_area_bg | res/drawable-xxhdpi/bottom_area_bg.png |
+| 0x7F080058 | drawable | bottomareafull | res/drawable/bottomareafull.png |
+| 0x7F080059 | drawable | btn_checkbox_checked_mtrl | res/drawable/btn_checkbox_checked_mtrl.xml |
+| 0x7F08005A | drawable | btn_checkbox_checked_to_unchecked_mtrl_animation | res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml |
+| 0x7F08005B | drawable | btn_checkbox_unchecked_mtrl | res/drawable/btn_checkbox_unchecked_mtrl.xml |
+| 0x7F08005C | drawable | btn_checkbox_unchecked_to_checked_mtrl_animation | res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml |
+| 0x7F08005D | drawable | btn_radio_off_mtrl | res/drawable/btn_radio_off_mtrl.xml |
+| 0x7F08005E | drawable | btn_radio_off_to_on_mtrl_animation | res/drawable/btn_radio_off_to_on_mtrl_animation.xml |
+| 0x7F08005F | drawable | btn_radio_on_mtrl | res/drawable/btn_radio_on_mtrl.xml |
+| 0x7F080060 | drawable | btn_radio_on_to_off_mtrl_animation | res/drawable/btn_radio_on_to_off_mtrl_animation.xml |
+| 0x7F080061 | drawable | btn_sidelines | res/drawable/btn_sidelines.png |
+| 0x7F080062 | drawable | button_selector | res/drawable/button_selector.xml |
+| 0x7F080063 | drawable | button_selector_game_over | res/drawable/button_selector_game_over.xml |
+| 0x7F080064 | drawable | button_selector_past_choice | res/drawable/button_selector_past_choice.xml |
+| 0x7F080065 | drawable | card_background | res/drawable/card_background.xml |
+| 0x7F080066 | drawable | card_frame | res/drawable-xhdpi/card_frame.9.png |
+| 0x7F080067 | drawable | card_frame_pressed | res/drawable-xhdpi/card_frame_pressed.9.png |
+| 0x7F080068 | drawable | center_splash | res/drawable/center_splash.xml |
+| 0x7F080069 | drawable | choice_btn | res/drawable/choice_btn.9.png |
+| 0x7F08006A | drawable | choice_btn_chosen | res/drawable/choice_btn_chosen.9.png |
+| 0x7F08006B | drawable | choice_btn_unchosen | res/drawable/choice_btn_unchosen.9.png |
+| 0x7F08006C | drawable | close_button | res/drawable/close_button.xml |
+| 0x7F08006D | drawable | common_full_open_on_phone | res/drawable-xhdpi/common_full_open_on_phone.png |
+| 0x7F08006E | drawable | common_google_signin_btn_icon_dark | res/drawable/common_google_signin_btn_icon_dark.xml |
+| 0x7F08006F | drawable | common_google_signin_btn_icon_dark_focused | res/drawable/common_google_signin_btn_icon_dark_focused.xml |
+| 0x7F080070 | drawable | common_google_signin_btn_icon_dark_normal | res/drawable/common_google_signin_btn_icon_dark_normal.xml |
+| 0x7F080071 | drawable | common_google_signin_btn_icon_dark_normal_background | res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal_background.9.png |
+| 0x7F080072 | drawable | common_google_signin_btn_icon_disabled | res/drawable/common_google_signin_btn_icon_disabled.xml |
+| 0x7F080073 | drawable | common_google_signin_btn_icon_light | res/drawable/common_google_signin_btn_icon_light.xml |
+| 0x7F080074 | drawable | common_google_signin_btn_icon_light_focused | res/drawable/common_google_signin_btn_icon_light_focused.xml |
+| 0x7F080075 | drawable | common_google_signin_btn_icon_light_normal | res/drawable/common_google_signin_btn_icon_light_normal.xml |
+| 0x7F080076 | drawable | common_google_signin_btn_icon_light_normal_background | res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal_background.9.png |
+| 0x7F080077 | drawable | common_google_signin_btn_text_dark | res/drawable/common_google_signin_btn_text_dark.xml |
+| 0x7F080078 | drawable | common_google_signin_btn_text_dark_focused | res/drawable/common_google_signin_btn_text_dark_focused.xml |
+| 0x7F080079 | drawable | common_google_signin_btn_text_dark_normal | res/drawable/common_google_signin_btn_text_dark_normal.xml |
+| 0x7F08007A | drawable | common_google_signin_btn_text_dark_normal_background | res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal_background.9.png |
+| 0x7F08007B | drawable | common_google_signin_btn_text_disabled | res/drawable/common_google_signin_btn_text_disabled.xml |
+| 0x7F08007C | drawable | common_google_signin_btn_text_light | res/drawable/common_google_signin_btn_text_light.xml |
+| 0x7F08007D | drawable | common_google_signin_btn_text_light_focused | res/drawable/common_google_signin_btn_text_light_focused.xml |
+| 0x7F08007E | drawable | common_google_signin_btn_text_light_normal | res/drawable/common_google_signin_btn_text_light_normal.xml |
+| 0x7F08007F | drawable | common_google_signin_btn_text_light_normal_background | res/drawable-xxhdpi/common_google_signin_btn_text_light_normal_background.9.png |
+| 0x7F080080 | drawable | generic_confirmation | res/drawable-v21/generic_confirmation.xml |
+| 0x7F080081 | drawable | generic_confirmation_animation | res/drawable-v21/generic_confirmation_animation.xml |
+| 0x7F080082 | drawable | googleg_disabled_color_18 | res/drawable-xxhdpi/googleg_disabled_color_18.png |
+| 0x7F080083 | drawable | googleg_standard_color_18 | res/drawable-xxhdpi/googleg_standard_color_18.png |
+| 0x7F080084 | drawable | green_btn | res/drawable/green_btn.9.png |
+| 0x7F080085 | drawable | ic_add_white_24dp | res/drawable/ic_add_white_24dp.xml |
+| 0x7F080086 | drawable | ic_arrow_down_24dp | res/drawable/ic_arrow_down_24dp.xml |
+| 0x7F080087 | drawable | ic_cc_checkmark | res/drawable-v21/ic_cc_checkmark.xml |
+| 0x7F080088 | drawable | ic_cc_clear | res/drawable-v21/ic_cc_clear.xml |
+| 0x7F080089 | drawable | ic_cc_settings_button_bottom | res/drawable-v23/ic_cc_settings_button_bottom.xml |
+| 0x7F08008A | drawable | ic_cc_settings_button_center | res/drawable-v23/ic_cc_settings_button_center.xml |
+| 0x7F08008B | drawable | ic_cc_settings_button_e | res/drawable-v23/ic_cc_settings_button_e.xml |
+| 0x7F08008C | drawable | ic_cc_settings_button_top | res/drawable-v23/ic_cc_settings_button_top.xml |
+| 0x7F08008D | drawable | ic_expand_less_white_22 | res/drawable-v23/ic_expand_less_white_22.xml |
+| 0x7F08008E | drawable | ic_expand_more_white_22 | res/drawable-v21/ic_expand_more_white_22.xml |
+| 0x7F08008F | drawable | ic_full_cancel | res/drawable-xhdpi/ic_full_cancel.png |
+| 0x7F080090 | drawable | ic_full_sad | res/drawable-xhdpi/ic_full_sad.png |
+| 0x7F080091 | drawable | ic_more_horiz_24dp_wht | res/drawable-v23/ic_more_horiz_24dp_wht.xml |
+| 0x7F080092 | drawable | ic_more_vert_24dp_wht | res/drawable-v23/ic_more_vert_24dp_wht.xml |
+| 0x7F080093 | drawable | icon_fast | res/drawable/icon_fast.png |
+| 0x7F080094 | drawable | icon_restart | res/drawable/icon_restart.png |
+| 0x7F080095 | drawable | icon_slow | res/drawable/icon_slow.png |
+| 0x7F080096 | drawable | menu_btn | res/drawable/menu_btn.png |
+| 0x7F080097 | drawable | menu_btn_icon_close | res/drawable/menu_btn_icon_close.png |
+| 0x7F080098 | drawable | menu_btn_icon_menu | res/drawable/menu_btn_icon_menu.png |
+| 0x7F080099 | drawable | menu_btn_press | res/drawable/menu_btn_press.png |
+| 0x7F08009A | drawable | menu_button_selector | res/drawable/menu_button_selector.xml |
+| 0x7F08009B | drawable | no_icon | res/drawable/no_icon.png |
+| 0x7F08009C | drawable | notification_action_background | res/drawable-v21/notification_action_background.xml |
+| 0x7F08009D | drawable | notification_bg | res/drawable/notification_bg.xml |
+| 0x7F08009E | drawable | notification_bg_low | res/drawable/notification_bg_low.xml |
+| 0x7F08009F | drawable | notification_bg_low_normal | res/drawable-xhdpi/notification_bg_low_normal.9.png |
+| 0x7F0800A0 | drawable | notification_bg_low_pressed | res/drawable-xhdpi/notification_bg_low_pressed.9.png |
+| 0x7F0800A1 | drawable | notification_bg_normal | res/drawable-xhdpi/notification_bg_normal.9.png |
+| 0x7F0800A2 | drawable | notification_bg_normal_pressed | res/drawable-xhdpi/notification_bg_normal_pressed.9.png |
+| 0x7F0800A3 | drawable | notification_icon | res/drawable-xxhdpi/notification_icon.png |
+| 0x7F0800A4 | drawable | notification_icon_background | res/drawable/notification_icon_background.xml |
+| 0x7F0800A5 | drawable | notification_icon_with_color | res/drawable/notification_icon_with_color.png |
+| 0x7F0800A6 | drawable | notification_template_icon_bg | #3333B5E5 |
+| 0x7F0800A7 | drawable | notification_template_icon_low_bg | #0CFFFFFF |
+| 0x7F0800A8 | drawable | notification_tile_bg | res/drawable/notification_tile_bg.xml |
+| 0x7F0800A9 | drawable | notify_panel_notification_icon_bg | res/drawable-xhdpi/notify_panel_notification_icon_bg.png |
+| 0x7F0800AA | drawable | open_on_phone | res/drawable-v21/open_on_phone.xml |
+| 0x7F0800AB | drawable | open_on_phone_animation | res/drawable-v21/open_on_phone_animation.xml |
+| 0x7F0800AC | drawable | preference_list_divider_material | res/drawable/preference_list_divider_material.xml |
+| 0x7F0800AD | drawable | preference_wrapped_icon | res/drawable-v21/preference_wrapped_icon.xml |
+| 0x7F0800AE | drawable | spinner0 | res/drawable/spinner0.png |
+| 0x7F0800AF | drawable | spinner1 | res/drawable/spinner1.png |
+| 0x7F0800B0 | drawable | spinner10 | res/drawable/spinner10.png |
+| 0x7F0800B1 | drawable | spinner11 | res/drawable/spinner11.png |
+| 0x7F0800B2 | drawable | spinner12 | res/drawable/spinner12.png |
+| 0x7F0800B3 | drawable | spinner13 | res/drawable/spinner13.png |
+| 0x7F0800B4 | drawable | spinner14 | res/drawable/spinner14.png |
+| 0x7F0800B5 | drawable | spinner15 | res/drawable/spinner15.png |
+| 0x7F0800B6 | drawable | spinner16 | res/drawable/spinner16.png |
+| 0x7F0800B7 | drawable | spinner17 | res/drawable/spinner17.png |
+| 0x7F0800B8 | drawable | spinner18 | res/drawable/spinner18.png |
+| 0x7F0800B9 | drawable | spinner19 | res/drawable/spinner19.png |
+| 0x7F0800BA | drawable | spinner2 | res/drawable/spinner2.png |
+| 0x7F0800BB | drawable | spinner20 | res/drawable/spinner20.png |
+| 0x7F0800BC | drawable | spinner21 | res/drawable/spinner21.png |
+| 0x7F0800BD | drawable | spinner22 | res/drawable/spinner22.png |
+| 0x7F0800BE | drawable | spinner23 | res/drawable/spinner23.png |
+| 0x7F0800BF | drawable | spinner24 | res/drawable/spinner24.png |
+| 0x7F0800C0 | drawable | spinner25 | res/drawable/spinner25.png |
+| 0x7F0800C1 | drawable | spinner26 | res/drawable/spinner26.png |
+| 0x7F0800C2 | drawable | spinner27 | res/drawable/spinner27.png |
+| 0x7F0800C3 | drawable | spinner28 | res/drawable/spinner28.png |
+| 0x7F0800C4 | drawable | spinner29 | res/drawable/spinner29.png |
+| 0x7F0800C5 | drawable | spinner3 | res/drawable/spinner3.png |
+| 0x7F0800C6 | drawable | spinner4 | res/drawable/spinner4.png |
+| 0x7F0800C7 | drawable | spinner5 | res/drawable/spinner5.png |
+| 0x7F0800C8 | drawable | spinner6 | res/drawable/spinner6.png |
+| 0x7F0800C9 | drawable | spinner7 | res/drawable/spinner7.png |
+| 0x7F0800CA | drawable | spinner8 | res/drawable/spinner8.png |
+| 0x7F0800CB | drawable | spinner9 | res/drawable/spinner9.png |
+| 0x7F0800CC | drawable | splash_portrait | res/drawable-xxhdpi/splash_portrait.png |
+| 0x7F0800CD | drawable | splash_portrait_old | res/drawable-xxhdpi/splash_portrait_old.png |
+| 0x7F0800CE | drawable | strech_chat | res/drawable/strech_chat.9.png |
+| 0x7F0800CF | drawable | test_level_drawable | res/drawable/test_level_drawable.xml |
+| 0x7F0800D0 | drawable | three_dots_animation | res/drawable/three_dots_animation.xml |
+| 0x7F0800D1 | drawable | tooltip_frame_dark | res/drawable/tooltip_frame_dark.xml |
+| 0x7F0800D2 | drawable | tooltip_frame_light | res/drawable/tooltip_frame_light.xml |
+| 0x7F090000 | fraction | action_drawer_item_first_item_top_padding | <complex> |
+| 0x7F090001 | fraction | action_drawer_item_last_item_bottom_padding | <complex> |
+| 0x7F090002 | fraction | action_drawer_item_left_padding | <complex> |
+| 0x7F090003 | fraction | action_drawer_item_right_padding | <complex> |
+| 0x7F090004 | fraction | confirmation_overlay_margin_above_text | <complex> |
+| 0x7F090005 | fraction | confirmation_overlay_margin_side | <complex> |
+| 0x7F090006 | fraction | nav_drawer_margin_2_items | <complex> |
+| 0x7F090007 | fraction | nav_drawer_margin_3_items | <complex> |
+| 0x7F090008 | fraction | nav_drawer_margin_4_items_horizontal | <complex> |
+| 0x7F090009 | fraction | nav_drawer_margin_4_items_vertical | <complex> |
+| 0x7F09000A | fraction | nav_drawer_margin_5_items_horizontal_middle_row | <complex> |
+| 0x7F09000B | fraction | nav_drawer_margin_5_items_horizontal_outer_rows | <complex> |
+| 0x7F09000C | fraction | nav_drawer_margin_5_items_vertical | <complex> |
+| 0x7F09000D | fraction | nav_drawer_margin_6_items_horizontal | <complex> |
+| 0x7F09000E | fraction | nav_drawer_margin_6_items_vertical | <complex> |
+| 0x7F09000F | fraction | nav_drawer_margin_7_items_horizontal_middle_row | <complex> |
+| 0x7F090010 | fraction | nav_drawer_margin_7_items_horizontal_outer_rows | <complex> |
+| 0x7F090011 | fraction | nav_drawer_margin_7_items_vertical | <complex> |
+| 0x7F090012 | fraction | nav_drawer_text_margin | <complex> |
+| 0x7F0A0000 | id | ALT | false |
+| 0x7F0A0001 | id | CTRL | false |
+| 0x7F0A0002 | id | FUNCTION | false |
+| 0x7F0A0003 | id | META | false |
+| 0x7F0A0004 | id | SHIFT | false |
+| 0x7F0A0005 | id | SYM | false |
+| 0x7F0A0006 | id | accessibility_action_clickable_span |  |
+| 0x7F0A0007 | id | accessibility_custom_action_0 |  |
+| 0x7F0A0008 | id | accessibility_custom_action_1 |  |
+| 0x7F0A0009 | id | accessibility_custom_action_10 |  |
+| 0x7F0A000A | id | accessibility_custom_action_11 |  |
+| 0x7F0A000B | id | accessibility_custom_action_12 |  |
+| 0x7F0A000C | id | accessibility_custom_action_13 |  |
+| 0x7F0A000D | id | accessibility_custom_action_14 |  |
+| 0x7F0A000E | id | accessibility_custom_action_15 |  |
+| 0x7F0A000F | id | accessibility_custom_action_16 |  |
+| 0x7F0A0010 | id | accessibility_custom_action_17 |  |
+| 0x7F0A0011 | id | accessibility_custom_action_18 |  |
+| 0x7F0A0012 | id | accessibility_custom_action_19 |  |
+| 0x7F0A0013 | id | accessibility_custom_action_2 |  |
+| 0x7F0A0014 | id | accessibility_custom_action_20 |  |
+| 0x7F0A0015 | id | accessibility_custom_action_21 |  |
+| 0x7F0A0016 | id | accessibility_custom_action_22 |  |
+| 0x7F0A0017 | id | accessibility_custom_action_23 |  |
+| 0x7F0A0018 | id | accessibility_custom_action_24 |  |
+| 0x7F0A0019 | id | accessibility_custom_action_25 |  |
+| 0x7F0A001A | id | accessibility_custom_action_26 |  |
+| 0x7F0A001B | id | accessibility_custom_action_27 |  |
+| 0x7F0A001C | id | accessibility_custom_action_28 |  |
+| 0x7F0A001D | id | accessibility_custom_action_29 |  |
+| 0x7F0A001E | id | accessibility_custom_action_3 |  |
+| 0x7F0A001F | id | accessibility_custom_action_30 |  |
+| 0x7F0A0020 | id | accessibility_custom_action_31 |  |
+| 0x7F0A0021 | id | accessibility_custom_action_4 |  |
+| 0x7F0A0022 | id | accessibility_custom_action_5 |  |
+| 0x7F0A0023 | id | accessibility_custom_action_6 |  |
+| 0x7F0A0024 | id | accessibility_custom_action_7 |  |
+| 0x7F0A0025 | id | accessibility_custom_action_8 |  |
+| 0x7F0A0026 | id | accessibility_custom_action_9 |  |
+| 0x7F0A0027 | id | action_bar |  |
+| 0x7F0A0028 | id | action_bar_activity_content |  |
+| 0x7F0A0029 | id | action_bar_container |  |
+| 0x7F0A002A | id | action_bar_root |  |
+| 0x7F0A002B | id | action_bar_spinner |  |
+| 0x7F0A002C | id | action_bar_subtitle |  |
+| 0x7F0A002D | id | action_bar_title |  |
+| 0x7F0A002E | id | action_container |  |
+| 0x7F0A002F | id | action_context_bar |  |
+| 0x7F0A0030 | id | action_divider |  |
+| 0x7F0A0031 | id | action_image |  |
+| 0x7F0A0032 | id | action_menu_divider |  |
+| 0x7F0A0033 | id | action_menu_presenter |  |
+| 0x7F0A0034 | id | action_mode_bar |  |
+| 0x7F0A0035 | id | action_mode_bar_stub |  |
+| 0x7F0A0036 | id | action_mode_close_button |  |
+| 0x7F0A0037 | id | action_settings |  |
+| 0x7F0A0038 | id | action_text |  |
+| 0x7F0A0039 | id | actions |  |
+| 0x7F0A003A | id | activity_chooser_view_content |  |
+| 0x7F0A003B | id | add | false |
+| 0x7F0A003C | id | adjust_height | false |
+| 0x7F0A003D | id | adjust_width | false |
+| 0x7F0A003E | id | alertTitle |  |
+| 0x7F0A003F | id | all | false |
+| 0x7F0A0040 | id | always | false |
+| 0x7F0A0041 | id | animatedWrapperContainer |  |
+| 0x7F0A0042 | id | async | false |
+| 0x7F0A0043 | id | auto | false |
+| 0x7F0A0044 | id | beginning | false |
+| 0x7F0A0045 | id | blocking | false |
+| 0x7F0A0046 | id | bottom | false |
+| 0x7F0A0047 | id | butt | false |
+| 0x7F0A0048 | id | buttonPanel |  |
+| 0x7F0A0049 | id | buttonSystemMessage |  |
+| 0x7F0A004A | id | buttonchoice1 |  |
+| 0x7F0A004B | id | buttonchoice2 |  |
+| 0x7F0A004C | id | center | false |
+| 0x7F0A004D | id | center_horizontal | false |
+| 0x7F0A004E | id | center_vertical | false |
+| 0x7F0A004F | id | change_language_button |  |
+| 0x7F0A0050 | id | checkbox |  |
+| 0x7F0A0051 | id | checked |  |
+| 0x7F0A0052 | id | choiceOne |  |
+| 0x7F0A0053 | id | choiceTwo |  |
+| 0x7F0A0054 | id | choices |  |
+| 0x7F0A0055 | id | chronometer |  |
+| 0x7F0A0056 | id | clip_horizontal | false |
+| 0x7F0A0057 | id | clip_vertical | false |
+| 0x7F0A0058 | id | collapseActionView | false |
+| 0x7F0A0059 | id | configView |  |
+| 0x7F0A005A | id | content |  |
+| 0x7F0A005B | id | contentPanel |  |
+| 0x7F0A005C | id | credits_button |  |
+| 0x7F0A005D | id | custom |  |
+| 0x7F0A005E | id | customPanel |  |
+| 0x7F0A005F | id | dark | false |
+| 0x7F0A0060 | id | dashed | false |
+| 0x7F0A0061 | id | debug_buttons_layout |  |
+| 0x7F0A0062 | id | decor_content_parent |  |
+| 0x7F0A0063 | id | default_activity_button |  |
+| 0x7F0A0064 | id | dialog_button |  |
+| 0x7F0A0065 | id | disableHome | false |
+| 0x7F0A0066 | id | dismiss_overlay_button |  |
+| 0x7F0A0067 | id | dismiss_overlay_explain |  |
+| 0x7F0A0068 | id | edit_query |  |
+| 0x7F0A0069 | id | end | false |
+| 0x7F0A006A | id | expand_activities_button |  |
+| 0x7F0A006B | id | expanded_menu |  |
+| 0x7F0A006C | id | fast_mode_button |  |
+| 0x7F0A006D | id | fast_mode_enabled_button |  |
+| 0x7F0A006E | id | fast_mode_frame |  |
+| 0x7F0A006F | id | fast_mode_image |  |
+| 0x7F0A0070 | id | fill | false |
+| 0x7F0A0071 | id | fill_horizontal | false |
+| 0x7F0A0072 | id | fill_vertical | false |
+| 0x7F0A0073 | id | fit | false |
+| 0x7F0A0074 | id | forever | false |
+| 0x7F0A0075 | id | fragment_container_view_tag |  |
+| 0x7F0A0076 | id | group_divider |  |
+| 0x7F0A0077 | id | height | false |
+| 0x7F0A0078 | id | home |  |
+| 0x7F0A0079 | id | homeAsUp | false |
+| 0x7F0A007A | id | icon |  |
+| 0x7F0A007B | id | icon_frame |  |
+| 0x7F0A007C | id | icon_group |  |
+| 0x7F0A007D | id | icon_only | false |
+| 0x7F0A007E | id | ifRoom | false |
+| 0x7F0A007F | id | image |  |
+| 0x7F0A0080 | id | inbox_text2 |  |
+| 0x7F0A0081 | id | inbox_text3 |  |
+| 0x7F0A0082 | id | inbox_text4 |  |
+| 0x7F0A0083 | id | info |  |
+| 0x7F0A0084 | id | italic | false |
+| 0x7F0A0085 | id | item_touch_helper_previous_elevation |  |
+| 0x7F0A0086 | id | left | false |
+| 0x7F0A0087 | id | light | false |
+| 0x7F0A0088 | id | line1 |  |
+| 0x7F0A0089 | id | line3 |  |
+| 0x7F0A008A | id | listMode | false |
+| 0x7F0A008B | id | list_item |  |
+| 0x7F0A008C | id | listview |  |
+| 0x7F0A008D | id | menu_button |  |
+| 0x7F0A008E | id | menu_button_close_image |  |
+| 0x7F0A008F | id | menu_button_frame_layout |  |
+| 0x7F0A0090 | id | menu_button_menu_image |  |
+| 0x7F0A0091 | id | menu_buttons_layout |  |
+| 0x7F0A0092 | id | menu_layout |  |
+| 0x7F0A0093 | id | message |  |
+| 0x7F0A0094 | id | middle | false |
+| 0x7F0A0095 | id | more_games |  |
+| 0x7F0A0096 | id | multi_page | false |
+| 0x7F0A0097 | id | multiply | false |
+| 0x7F0A0098 | id | music_switch |  |
+| 0x7F0A0099 | id | nested_icon |  |
+| 0x7F0A009A | id | never | false |
+| 0x7F0A009B | id | nfImage |  |
+| 0x7F0A009C | id | none | false |
+| 0x7F0A009D | id | normal | false |
+| 0x7F0A009E | id | notificationSmallText |  |
+| 0x7F0A009F | id | notificationText |  |
+| 0x7F0A00A0 | id | notificationTitle |  |
+| 0x7F0A00A1 | id | notification_background |  |
+| 0x7F0A00A2 | id | notification_main_column |  |
+| 0x7F0A00A3 | id | notification_main_column_container |  |
+| 0x7F0A00A4 | id | notifications_debug_button |  |
+| 0x7F0A00A5 | id | off |  |
+| 0x7F0A00A6 | id | on |  |
+| 0x7F0A00A7 | id | parentPanel |  |
+| 0x7F0A00A8 | id | popup_button_bottom |  |
+| 0x7F0A00A9 | id | popup_button_bottom2 |  |
+| 0x7F0A00AA | id | popup_button_bottom3 |  |
+| 0x7F0A00AB | id | popup_button_bottom4 |  |
+| 0x7F0A00AC | id | popup_button_bottom5 |  |
+| 0x7F0A00AD | id | popup_button_bottom6 |  |
+| 0x7F0A00AE | id | popup_button_left |  |
+| 0x7F0A00AF | id | popup_button_mid |  |
+| 0x7F0A00B0 | id | popup_button_right |  |
+| 0x7F0A00B1 | id | popup_button_top |  |
+| 0x7F0A00B2 | id | popup_content |  |
+| 0x7F0A00B3 | id | popup_frame |  |
+| 0x7F0A00B4 | id | popup_horizontal_buttons |  |
+| 0x7F0A00B5 | id | popup_label |  |
+| 0x7F0A00B6 | id | progress_circular |  |
+| 0x7F0A00B7 | id | progress_horizontal |  |
+| 0x7F0A00B8 | id | radio |  |
+| 0x7F0A00B9 | id | rate_game_button |  |
+| 0x7F0A00BA | id | ratings_policy_layout |  |
+| 0x7F0A00BB | id | recycler_view |  |
+| 0x7F0A00BC | id | rewind_enabled_button |  |
+| 0x7F0A00BD | id | rewind_story_button |  |
+| 0x7F0A00BE | id | rewind_story_frame |  |
+| 0x7F0A00BF | id | right | false |
+| 0x7F0A00C0 | id | right_icon |  |
+| 0x7F0A00C1 | id | right_side |  |
+| 0x7F0A00C2 | id | round | false |
+| 0x7F0A00C3 | id | screen | false |
+| 0x7F0A00C4 | id | scrollIndicatorDown |  |
+| 0x7F0A00C5 | id | scrollIndicatorUp |  |
+| 0x7F0A00C6 | id | scrollView |  |
+| 0x7F0A00C7 | id | search_badge |  |
+| 0x7F0A00C8 | id | search_bar |  |
+| 0x7F0A00C9 | id | search_button |  |
+| 0x7F0A00CA | id | search_close_btn |  |
+| 0x7F0A00CB | id | search_edit_frame |  |
+| 0x7F0A00CC | id | search_go_btn |  |
+| 0x7F0A00CD | id | search_mag_icon |  |
+| 0x7F0A00CE | id | search_plate |  |
+| 0x7F0A00CF | id | search_src_text |  |
+| 0x7F0A00D0 | id | search_voice_btn |  |
+| 0x7F0A00D1 | id | seekbar |  |
+| 0x7F0A00D2 | id | seekbar_value |  |
+| 0x7F0A00D3 | id | select_dialog_listview |  |
+| 0x7F0A00D4 | id | shortcut |  |
+| 0x7F0A00D5 | id | showCustom | false |
+| 0x7F0A00D6 | id | showHome | false |
+| 0x7F0A00D7 | id | showTitle | false |
+| 0x7F0A00D8 | id | single_page | false |
+| 0x7F0A00D9 | id | solid | false |
+| 0x7F0A00DA | id | sound_buttons_layout |  |
+| 0x7F0A00DB | id | sound_switch |  |
+| 0x7F0A00DC | id | spacer |  |
+| 0x7F0A00DD | id | special_effects_controller_view_tag |  |
+| 0x7F0A00DE | id | spinner |  |
+| 0x7F0A00DF | id | spinner_anim |  |
+| 0x7F0A00E0 | id | splash_background |  |
+| 0x7F0A00E1 | id | split_action_bar |  |
+| 0x7F0A00E2 | id | square | false |
+| 0x7F0A00E3 | id | src_atop | false |
+| 0x7F0A00E4 | id | src_in | false |
+| 0x7F0A00E5 | id | src_over | false |
+| 0x7F0A00E6 | id | standard | false |
+| 0x7F0A00E7 | id | start | false |
+| 0x7F0A00E8 | id | story_frame_layout |  |
+| 0x7F0A00E9 | id | submenuarrow |  |
+| 0x7F0A00EA | id | submit_area |  |
+| 0x7F0A00EB | id | switchWidget |  |
+| 0x7F0A00EC | id | tabMode | false |
+| 0x7F0A00ED | id | tag_accessibility_actions |  |
+| 0x7F0A00EE | id | tag_accessibility_clickable_spans |  |
+| 0x7F0A00EF | id | tag_accessibility_heading |  |
+| 0x7F0A00F0 | id | tag_accessibility_pane_title |  |
+| 0x7F0A00F1 | id | tag_on_apply_window_listener |  |
+| 0x7F0A00F2 | id | tag_on_receive_content_listener |  |
+| 0x7F0A00F3 | id | tag_on_receive_content_mime_types |  |
+| 0x7F0A00F4 | id | tag_screen_reader_focusable |  |
+| 0x7F0A00F5 | id | tag_state_description |  |
+| 0x7F0A00F6 | id | tag_transition_group |  |
+| 0x7F0A00F7 | id | tag_unhandled_key_event_manager |  |
+| 0x7F0A00F8 | id | tag_unhandled_key_listeners |  |
+| 0x7F0A00F9 | id | tag_window_insets_animation_callback |  |
+| 0x7F0A00FA | id | text |  |
+| 0x7F0A00FB | id | text2 |  |
+| 0x7F0A00FC | id | textSpacerNoButtons |  |
+| 0x7F0A00FD | id | textSpacerNoTitle |  |
+| 0x7F0A00FE | id | time |  |
+| 0x7F0A00FF | id | title |  |
+| 0x7F0A0100 | id | titleDividerNoCustom |  |
+| 0x7F0A0101 | id | title_template |  |
+| 0x7F0A0102 | id | top | false |
+| 0x7F0A0103 | id | topPanel |  |
+| 0x7F0A0104 | id | unchecked |  |
+| 0x7F0A0105 | id | uniform | false |
+| 0x7F0A0106 | id | up |  |
+| 0x7F0A0107 | id | useLogo | false |
+| 0x7F0A0108 | id | view_tree_lifecycle_owner |  |
+| 0x7F0A0109 | id | view_tree_on_back_pressed_dispatcher_owner |  |
+| 0x7F0A010A | id | view_tree_saved_state_registry_owner |  |
+| 0x7F0A010B | id | view_tree_view_model_store_owner |  |
+| 0x7F0A010C | id | visible_removing_fragment_view_tag |  |
+| 0x7F0A010D | id | wearable_support_action_drawer_expand_icon |  |
+| 0x7F0A010E | id | wearable_support_action_drawer_item_icon |  |
+| 0x7F0A010F | id | wearable_support_action_drawer_item_text |  |
+| 0x7F0A0110 | id | wearable_support_action_drawer_peek_action_icon |  |
+| 0x7F0A0111 | id | wearable_support_action_drawer_title |  |
+| 0x7F0A0112 | id | wearable_support_confirmation_overlay_image |  |
+| 0x7F0A0113 | id | wearable_support_confirmation_overlay_message |  |
+| 0x7F0A0114 | id | wearable_support_drawer_view_peek_container |  |
+| 0x7F0A0115 | id | wearable_support_drawer_view_peek_icon |  |
+| 0x7F0A0116 | id | wearable_support_nav_drawer_icon_0 |  |
+| 0x7F0A0117 | id | wearable_support_nav_drawer_icon_1 |  |
+| 0x7F0A0118 | id | wearable_support_nav_drawer_icon_2 |  |
+| 0x7F0A0119 | id | wearable_support_nav_drawer_icon_3 |  |
+| 0x7F0A011A | id | wearable_support_nav_drawer_icon_4 |  |
+| 0x7F0A011B | id | wearable_support_nav_drawer_icon_5 |  |
+| 0x7F0A011C | id | wearable_support_nav_drawer_icon_6 |  |
+| 0x7F0A011D | id | wearable_support_nav_drawer_text |  |
+| 0x7F0A011E | id | wearable_support_navigation_drawer_item_icon |  |
+| 0x7F0A011F | id | wearable_support_navigation_drawer_item_text |  |
+| 0x7F0A0120 | id | wearable_support_navigation_drawer_page_indicator |  |
+| 0x7F0A0121 | id | wearable_support_navigation_drawer_view_pager |  |
+| 0x7F0A0122 | id | wearable_support_overlay_confirmation |  |
+| 0x7F0A0123 | id | wide | false |
+| 0x7F0A0124 | id | width | false |
+| 0x7F0A0125 | id | window_background |  |
+| 0x7F0A0126 | id | withText | false |
+| 0x7F0A0127 | id | wrap_content | false |
+| 0x7F0B0000 | integer | abc_config_activityDefaultDur | 220 |
+| 0x7F0B0001 | integer | abc_config_activityShortDur | 150 |
+| 0x7F0B0002 | integer | action_choose_expand_full_duration | 1000 |
+| 0x7F0B0003 | integer | action_chooser_anim_duration | 250 |
+| 0x7F0B0004 | integer | action_chooser_bounce_delay | 500 |
+| 0x7F0B0005 | integer | action_chooser_confirmation_duration | 500 |
+| 0x7F0B0006 | integer | cancel_button_image_alpha | 127 |
+| 0x7F0B0007 | integer | complicationDrawable_borderStyle | 1 |
+| 0x7F0B0008 | integer | complicationDrawable_highlightDurationMs | 300 |
+| 0x7F0B0009 | integer | config_tooltipAnimTime | 150 |
+| 0x7F0B000A | integer | google_play_services_version | 12451000 |
+| 0x7F0B000B | integer | status_bar_notification_info_maxnum | 999 |
+| 0x7F0C0000 | interpolator | btn_checkbox_checked_mtrl_animation_interpolator_0 | res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml |
+| 0x7F0C0001 | interpolator | btn_checkbox_checked_mtrl_animation_interpolator_1 | res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml |
+| 0x7F0C0002 | interpolator | btn_checkbox_unchecked_mtrl_animation_interpolator_0 | res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml |
+| 0x7F0C0003 | interpolator | btn_checkbox_unchecked_mtrl_animation_interpolator_1 | res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml |
+| 0x7F0C0004 | interpolator | btn_radio_to_off_mtrl_animation_interpolator_0 | res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml |
+| 0x7F0C0005 | interpolator | btn_radio_to_on_mtrl_animation_interpolator_0 | res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml |
+| 0x7F0C0006 | interpolator | fast_out_slow_in | res/interpolator/fast_out_slow_in.xml |
+| 0x7F0C0007 | interpolator | generic_confirmation_animation_interpolator_0 | res/interpolator-v21/generic_confirmation_animation_interpolator_0.xml |
+| 0x7F0C0008 | interpolator | generic_confirmation_animation_interpolator_1 | res/interpolator-v21/generic_confirmation_animation_interpolator_1.xml |
+| 0x7F0C0009 | interpolator | generic_confirmation_animation_interpolator_2 | res/interpolator-v21/generic_confirmation_animation_interpolator_2.xml |
+| 0x7F0C000A | interpolator | generic_confirmation_animation_interpolator_3 | res/interpolator-v21/generic_confirmation_animation_interpolator_3.xml |
+| 0x7F0C000B | interpolator | open_on_phone_animation_interpolator_0 | res/interpolator-v21/open_on_phone_animation_interpolator_0.xml |
+| 0x7F0C000C | interpolator | open_on_phone_animation_interpolator_1 | res/interpolator-v21/open_on_phone_animation_interpolator_1.xml |
+| 0x7F0D0000 | layout | abc_action_bar_title_item | res/layout/abc_action_bar_title_item.xml |
+| 0x7F0D0001 | layout | abc_action_bar_up_container | res/layout/abc_action_bar_up_container.xml |
+| 0x7F0D0002 | layout | abc_action_menu_item_layout | res/layout/abc_action_menu_item_layout.xml |
+| 0x7F0D0003 | layout | abc_action_menu_layout | res/layout/abc_action_menu_layout.xml |
+| 0x7F0D0004 | layout | abc_action_mode_bar | res/layout/abc_action_mode_bar.xml |
+| 0x7F0D0005 | layout | abc_action_mode_close_item_material | res/layout/abc_action_mode_close_item_material.xml |
+| 0x7F0D0006 | layout | abc_activity_chooser_view | res/layout/abc_activity_chooser_view.xml |
+| 0x7F0D0007 | layout | abc_activity_chooser_view_list_item | res/layout/abc_activity_chooser_view_list_item.xml |
+| 0x7F0D0008 | layout | abc_alert_dialog_button_bar_material | res/layout/abc_alert_dialog_button_bar_material.xml |
+| 0x7F0D0009 | layout | abc_alert_dialog_material | res/layout/abc_alert_dialog_material.xml |
+| 0x7F0D000A | layout | abc_alert_dialog_title_material | res/layout/abc_alert_dialog_title_material.xml |
+| 0x7F0D000B | layout | abc_cascading_menu_item_layout | res/layout/abc_cascading_menu_item_layout.xml |
+| 0x7F0D000C | layout | abc_dialog_title_material | res/layout/abc_dialog_title_material.xml |
+| 0x7F0D000D | layout | abc_expanded_menu_layout | res/layout/abc_expanded_menu_layout.xml |
+| 0x7F0D000E | layout | abc_list_menu_item_checkbox | res/layout/abc_list_menu_item_checkbox.xml |
+| 0x7F0D000F | layout | abc_list_menu_item_icon | res/layout/abc_list_menu_item_icon.xml |
+| 0x7F0D0010 | layout | abc_list_menu_item_layout | res/layout/abc_list_menu_item_layout.xml |
+| 0x7F0D0011 | layout | abc_list_menu_item_radio | res/layout/abc_list_menu_item_radio.xml |
+| 0x7F0D0012 | layout | abc_popup_menu_header_item_layout | res/layout/abc_popup_menu_header_item_layout.xml |
+| 0x7F0D0013 | layout | abc_popup_menu_item_layout | res/layout/abc_popup_menu_item_layout.xml |
+| 0x7F0D0014 | layout | abc_screen_content_include | res/layout/abc_screen_content_include.xml |
+| 0x7F0D0015 | layout | abc_screen_simple | res/layout/abc_screen_simple.xml |
+| 0x7F0D0016 | layout | abc_screen_simple_overlay_action_mode | res/layout/abc_screen_simple_overlay_action_mode.xml |
+| 0x7F0D0017 | layout | abc_screen_toolbar | res/layout/abc_screen_toolbar.xml |
+| 0x7F0D0018 | layout | abc_search_dropdown_item_icons_2line | res/layout/abc_search_dropdown_item_icons_2line.xml |
+| 0x7F0D0019 | layout | abc_search_view | res/layout/abc_search_view.xml |
+| 0x7F0D001A | layout | abc_select_dialog_material | res/layout/abc_select_dialog_material.xml |
+| 0x7F0D001B | layout | abc_tooltip | res/layout/abc_tooltip.xml |
+| 0x7F0D001C | layout | accept_deny_dialog | res/layout-v21/accept_deny_dialog.xml |
+| 0x7F0D001D | layout | action_drawer_item_view | res/layout-v23/action_drawer_item_view.xml |
+| 0x7F0D001E | layout | action_drawer_peek_view | res/layout-v23/action_drawer_peek_view.xml |
+| 0x7F0D001F | layout | action_drawer_title_view | res/layout-v23/action_drawer_title_view.xml |
+| 0x7F0D0020 | layout | activity_story | res/layout/activity_story.xml |
+| 0x7F0D0021 | layout | alert_dialog_wearable | res/layout/alert_dialog_wearable.xml |
+| 0x7F0D0022 | layout | choice | res/layout/choice.xml |
+| 0x7F0D0023 | layout | confirmation_popup | res/layout/confirmation_popup.xml |
+| 0x7F0D0024 | layout | custom_dialog | res/layout/custom_dialog.xml |
+| 0x7F0D0025 | layout | decomposition_config_activity | res/layout/decomposition_config_activity.xml |
+| 0x7F0D0026 | layout | dismiss_overlay | res/layout-v21/dismiss_overlay.xml |
+| 0x7F0D0027 | layout | expand_button | res/layout/expand_button.xml |
+| 0x7F0D0028 | layout | image_frame | res/layout/image_frame.xml |
+| 0x7F0D0029 | layout | navigation_drawer_item_view | res/layout/navigation_drawer_item_view.xml |
+| 0x7F0D002A | layout | navigation_drawer_view | res/layout/navigation_drawer_view.xml |
+| 0x7F0D002B | layout | notification_action | res/layout/notification_action.xml |
+| 0x7F0D002C | layout | notification_action_layout | res/layout/notification_action_layout.xml |
+| 0x7F0D002D | layout | notification_action_tombstone | res/layout/notification_action_tombstone.xml |
+| 0x7F0D002E | layout | notification_template_custom_big | res/layout/notification_template_custom_big.xml |
+| 0x7F0D002F | layout | notification_template_icon_group | res/layout/notification_template_icon_group.xml |
+| 0x7F0D0030 | layout | notification_template_part_chronometer | res/layout/notification_template_part_chronometer.xml |
+| 0x7F0D0031 | layout | notification_template_part_time | res/layout/notification_template_part_time.xml |
+| 0x7F0D0032 | layout | overlay_confirmation | res/layout-v21/overlay_confirmation.xml |
+| 0x7F0D0033 | layout | preference | res/layout/preference.xml |
+| 0x7F0D0034 | layout | preference_category | res/layout/preference_category.xml |
+| 0x7F0D0035 | layout | preference_category_material | res/layout/preference_category_material.xml |
+| 0x7F0D0036 | layout | preference_dialog_edittext | res/layout/preference_dialog_edittext.xml |
+| 0x7F0D0037 | layout | preference_dropdown | res/layout/preference_dropdown.xml |
+| 0x7F0D0038 | layout | preference_dropdown_material | res/layout/preference_dropdown_material.xml |
+| 0x7F0D0039 | layout | preference_information | res/layout/preference_information.xml |
+| 0x7F0D003A | layout | preference_information_material | res/layout/preference_information_material.xml |
+| 0x7F0D003B | layout | preference_list_fragment | res/layout/preference_list_fragment.xml |
+| 0x7F0D003C | layout | preference_material | res/layout/preference_material.xml |
+| 0x7F0D003D | layout | preference_recyclerview | res/layout/preference_recyclerview.xml |
+| 0x7F0D003E | layout | preference_widget_checkbox | res/layout/preference_widget_checkbox.xml |
+| 0x7F0D003F | layout | preference_widget_seekbar | res/layout/preference_widget_seekbar.xml |
+| 0x7F0D0040 | layout | preference_widget_seekbar_material | res/layout/preference_widget_seekbar_material.xml |
+| 0x7F0D0041 | layout | preference_widget_switch | res/layout/preference_widget_switch.xml |
+| 0x7F0D0042 | layout | preference_widget_switch_compat | res/layout/preference_widget_switch_compat.xml |
+| 0x7F0D0043 | layout | select_dialog_item_material | res/layout/select_dialog_item_material.xml |
+| 0x7F0D0044 | layout | select_dialog_multichoice_material | res/layout/select_dialog_multichoice_material.xml |
+| 0x7F0D0045 | layout | select_dialog_singlechoice_material | res/layout/select_dialog_singlechoice_material.xml |
+| 0x7F0D0046 | layout | single_button | res/layout/single_button.xml |
+| 0x7F0D0047 | layout | single_page_nav_drawer_1_item | res/layout/single_page_nav_drawer_1_item.xml |
+| 0x7F0D0048 | layout | single_page_nav_drawer_2_item | res/layout/single_page_nav_drawer_2_item.xml |
+| 0x7F0D0049 | layout | single_page_nav_drawer_3_item | res/layout/single_page_nav_drawer_3_item.xml |
+| 0x7F0D004A | layout | single_page_nav_drawer_4_item | res/layout/single_page_nav_drawer_4_item.xml |
+| 0x7F0D004B | layout | single_page_nav_drawer_5_item | res/layout/single_page_nav_drawer_5_item.xml |
+| 0x7F0D004C | layout | single_page_nav_drawer_6_item | res/layout/single_page_nav_drawer_6_item.xml |
+| 0x7F0D004D | layout | single_page_nav_drawer_7_item | res/layout/single_page_nav_drawer_7_item.xml |
+| 0x7F0D004E | layout | single_page_nav_drawer_peek_view | res/layout/single_page_nav_drawer_peek_view.xml |
+| 0x7F0D004F | layout | spinner | res/layout/spinner.xml |
+| 0x7F0D0050 | layout | splash_screen | res/layout/splash_screen.xml |
+| 0x7F0D0051 | layout | support_simple_spinner_dropdown_item | res/layout/support_simple_spinner_dropdown_item.xml |
+| 0x7F0D0052 | layout | text | res/layout/text.xml |
+| 0x7F0D0053 | layout | watch_card_content | res/layout-v20/watch_card_content.xml |
+| 0x7F0D0054 | layout | wearable_drawer_view | res/layout-v23/wearable_drawer_view.xml |
+| 0x7F0E0000 | menu | menu_main | res/menu/menu_main.xml |
+| 0x7F0F0000 | mipmap | ic_launcher | res/mipmap-ldpi/ic_launcher.png |
+| 0x7F0F0001 | mipmap | ic_launcher_foreground | res/mipmap-mdpi/ic_launcher_foreground.png |
+| 0x7F0F0002 | mipmap | ic_launcher_round | res/mipmap-mdpi/ic_launcher_round.png |
+| 0x7F100000 | plurals | time_difference_short_days | null |
+| 0x7F100001 | plurals | time_difference_short_hours | null |
+| 0x7F100002 | plurals | time_difference_short_minutes | null |
+| 0x7F100003 | plurals | time_difference_words_days | null |
+| 0x7F100004 | plurals | time_difference_words_hours | null |
+| 0x7F100005 | plurals | time_difference_words_minutes | null |
+| 0x7F110000 | raw | ambience | res/raw/ambience.mp3 |
+| 0x7F110001 | raw | android_wear_micro_apk | res/raw/android_wear_micro_apk.apk |
+| 0x7F110002 | raw | bfg_default_settings | res/raw/bfg_default_settings.json |
+| 0x7F110003 | raw | branding | res/raw/branding.json |
+| 0x7F110004 | raw | button_tap | res/raw/button_tap.mp3 |
+| 0x7F110005 | raw | button_tap_b | res/raw/button_tap_b.mp3 |
+| 0x7F110006 | raw | button_tap_tray | res/raw/button_tap_tray.mp3 |
+| 0x7F110007 | raw | message_connection_lost | res/raw/message_connection_lost.mp3 |
+| 0x7F110008 | raw | message_incoming_a | res/raw/message_incoming_a.mp3 |
+| 0x7F110009 | raw | message_incoming_b | res/raw/message_incoming_b.mp3 |
+| 0x7F11000A | raw | message_incoming_c | res/raw/message_incoming_c.mp3 |
+| 0x7F120000 | string | a11y_no_data | No data |
+| 0x7F120001 | string | a11y_no_permission | No permission to access data |
+| 0x7F120002 | string | a11y_template_range | %1$f of %2$f |
+| 0x7F120003 | string | abc_action_bar_home_description | Navigate home |
+| 0x7F120004 | string | abc_action_bar_up_description | Navigate up |
+| 0x7F120005 | string | abc_action_menu_overflow_description | More options |
+| 0x7F120006 | string | abc_action_mode_done | Done |
+| 0x7F120007 | string | abc_activity_chooser_view_see_all | See all |
+| 0x7F120008 | string | abc_activitychooserview_choose_application | Choose an app |
+| 0x7F120009 | string | abc_capital_off | OFF |
+| 0x7F12000A | string | abc_capital_on | ON |
+| 0x7F12000B | string | abc_menu_alt_shortcut_label | Alt+ |
+| 0x7F12000C | string | abc_menu_ctrl_shortcut_label | Ctrl+ |
+| 0x7F12000D | string | abc_menu_delete_shortcut_label | delete |
+| 0x7F12000E | string | abc_menu_enter_shortcut_label | enter |
+| 0x7F12000F | string | abc_menu_function_shortcut_label | Function+ |
+| 0x7F120010 | string | abc_menu_meta_shortcut_label | Meta+ |
+| 0x7F120011 | string | abc_menu_shift_shortcut_label | Shift+ |
+| 0x7F120012 | string | abc_menu_space_shortcut_label | space |
+| 0x7F120013 | string | abc_menu_sym_shortcut_label | Sym+ |
+| 0x7F120014 | string | abc_prepend_shortcut_label | Menu+ |
+| 0x7F120015 | string | abc_search_hint | Search… |
+| 0x7F120016 | string | abc_searchview_description_clear | Clear query |
+| 0x7F120017 | string | abc_searchview_description_query | Search query |
+| 0x7F120018 | string | abc_searchview_description_search | Search |
+| 0x7F120019 | string | abc_searchview_description_submit | Submit query |
+| 0x7F12001A | string | abc_searchview_description_voice | Voice search |
+| 0x7F12001B | string | abc_shareactionprovider_share_with | Share with |
+| 0x7F12001C | string | abc_shareactionprovider_share_with_application | Share with %s |
+| 0x7F12001D | string | abc_toolbar_collapse_description | Collapse |
+| 0x7F12001E | string | action_settings | Settings |
+| 0x7F12001F | string | allow | Allow the user access |
+| 0x7F120020 | string | androidx_startup | androidx.startup |
+| 0x7F120021 | string | app_name | Lifeline |
+| 0x7F120022 | string | application_error | Application error: %1$s |
+| 0x7F120023 | string | buttons_rect_bottom_center | Bottom |
+| 0x7F120024 | string | buttons_rect_bottom_left | Bottom left |
+| 0x7F120025 | string | buttons_rect_bottom_right | Bottom right |
+| 0x7F120026 | string | buttons_rect_left_bottom | Bottom, left side |
+| 0x7F120027 | string | buttons_rect_left_center | Center left |
+| 0x7F120028 | string | buttons_rect_left_top | Top, left side |
+| 0x7F120029 | string | buttons_rect_right_bottom | Bottom, right side |
+| 0x7F12002A | string | buttons_rect_right_center | Center right |
+| 0x7F12002B | string | buttons_rect_right_top | Top, right side |
+| 0x7F12002C | string | buttons_rect_top_center | Top |
+| 0x7F12002D | string | buttons_rect_top_left | Top left |
+| 0x7F12002E | string | buttons_rect_top_right | Top right |
+| 0x7F12002F | string | buttons_round_bottom_center | Bottom |
+| 0x7F120030 | string | buttons_round_bottom_left | Bottom left |
+| 0x7F120031 | string | buttons_round_bottom_left_lower | Bottom left, lower |
+| 0x7F120032 | string | buttons_round_bottom_left_upper | Bottom left, upper |
+| 0x7F120033 | string | buttons_round_bottom_right | Bottom right |
+| 0x7F120034 | string | buttons_round_bottom_right_lower | Bottom right, lower |
+| 0x7F120035 | string | buttons_round_bottom_right_upper | Bottom right, upper |
+| 0x7F120036 | string | buttons_round_center_left | Center left |
+| 0x7F120037 | string | buttons_round_center_right | Center right |
+| 0x7F120038 | string | buttons_round_top_center | Top |
+| 0x7F120039 | string | buttons_round_top_left | Top left |
+| 0x7F12003A | string | buttons_round_top_left_lower | Top left, lower |
+| 0x7F12003B | string | buttons_round_top_left_upper | Top left, upper |
+| 0x7F12003C | string | buttons_round_top_right | Top right |
+| 0x7F12003D | string | buttons_round_top_right_lower | Top right, lower |
+| 0x7F12003E | string | buttons_round_top_right_upper | Top right, upper |
+| 0x7F12003F | string | buy_button | Buy app |
+| 0x7F120040 | string | check_license | Check license |
+| 0x7F120041 | string | checking_license | Checking license... |
+| 0x7F120042 | string | com.crashlytics.android.build_id | 8c6c7967-747b-4365-af21-8999c6518f04 |
+| 0x7F120043 | string | common_google_play_services_enable_button | Enable |
+| 0x7F120044 | string | common_google_play_services_enable_text | %1$s won't work unless you enable Google Play services. |
+| 0x7F120045 | string | common_google_play_services_enable_title | Enable Google Play services |
+| 0x7F120046 | string | common_google_play_services_install_button | Install |
+| 0x7F120047 | string | common_google_play_services_install_text | %1$s won't run without Google Play services, which are missing from your device. |
+| 0x7F120048 | string | common_google_play_services_install_title | Get Google Play services |
+| 0x7F120049 | string | common_google_play_services_notification_channel_name | Google Play services availability |
+| 0x7F12004A | string | common_google_play_services_notification_ticker | Google Play services error |
+| 0x7F12004B | string | common_google_play_services_unknown_issue | %1$s is having trouble with Google Play services. Please try again. |
+| 0x7F12004C | string | common_google_play_services_unsupported_text | %1$s won't run without Google Play services, which are not supported by your device. |
+| 0x7F12004D | string | common_google_play_services_update_button | Update |
+| 0x7F12004E | string | common_google_play_services_update_text | %1$s won't run unless you update Google Play services. |
+| 0x7F12004F | string | common_google_play_services_update_title | Update Google Play services |
+| 0x7F120050 | string | common_google_play_services_updating_text | %1$s won't run without Google Play services, which are currently updating. |
+| 0x7F120051 | string | common_google_play_services_wear_update_text | New version of Google Play services needed. It will update itself shortly. |
+| 0x7F120052 | string | common_open_on_phone | Open on phone |
+| 0x7F120053 | string | common_signin_button_text | Sign in |
+| 0x7F120054 | string | common_signin_button_text_long | Sign in with Google |
+| 0x7F120055 | string | complicationDrawable_noDataText | -- |
+| 0x7F120056 | string | complicationDrawable_textTypeface | sans-serif-condensed |
+| 0x7F120057 | string | complicationDrawable_titleTypeface | sans-serif-condensed |
+| 0x7F120058 | string | copy | Copy |
+| 0x7F120059 | string | credits | Credits |
+| 0x7F12005A | string | credits_dialog | Lifeline was created by:
+
+Dave Justus
+Mars Jokela
+Dan Selleck
+Colin Liotta
+Jackie Steege
+Wilson Bull
+Jason Nowak
+Ghia Mercado
+Ben Schwartz
+
+Localization team:
+
+Matt Decker
+Steen Groennebaek
+Arne Twigt
+Yumi Okubo-Shuman
+Lauren Warnock |
+| 0x7F12005B | string | debug_fast_off | fast
+OFF |
+| 0x7F12005C | string | debug_fast_on | fast
+ON |
+| 0x7F12005D | string | debug_rewind_off | rew
+OFF |
+| 0x7F12005E | string | debug_rewind_on | rew
+ON |
+| 0x7F12005F | string | dialog_change_language_cn_button | 中文 |
+| 0x7F120060 | string | dialog_change_language_de_button | Deutsch |
+| 0x7F120061 | string | dialog_change_language_en_button | English |
+| 0x7F120062 | string | dialog_change_language_es_button | Español |
+| 0x7F120063 | string | dialog_change_language_fr_button | Français |
+| 0x7F120064 | string | dialog_change_language_jp_button | 日本語 |
+| 0x7F120065 | string | dialog_change_language_ko_button | 한국어 |
+| 0x7F120066 | string | dialog_change_language_ru_button | Русский |
+| 0x7F120067 | string | dialog_change_language_text | Change transmission language? |
+| 0x7F120068 | string | dialog_fast_confirmation | Fast Mode is not the recommended Lifeline experience, but it can be useful for skipping delays that you’ve waited through before.
+
+Fast Mode will take effect the next time you make or revise a choice in the story.
+
+Are you sure? |
+| 0x7F120069 | string | dialog_game_over | Taylor has reached the end of this path.
+
+You can now explore the rest of the story: tap on any past choice to change your response, or rewind to a specific day.
+
+You may also activate Fast Mode in the main menu. |
+| 0x7F12006A | string | dialog_game_over_rate | Rate App |
+| 0x7F12006B | string | dialog_no | No |
+| 0x7F12006C | string | dialog_notification_clustered | Clustered
+Notifications |
+| 0x7F12006D | string | dialog_notification_separate | Separate
+Notifications |
+| 0x7F12006E | string | dialog_notification_settings | Lifeline is an interactive story told over the course of several days.
+
+Taylor will stay in touch with you via notifications. Would you prefer each message to arrive separately so none can be missed, or for them to be clustered together to save space?
+
+{You can edit this choice at any time in the settings menu.} |
+| 0x7F12006F | string | dialog_rewind_confirmation | How far back in the story would you like to rewind? |
+| 0x7F120070 | string | dialog_rewind_dawn_day2 | Dawn of Day 2 |
+| 0x7F120071 | string | dialog_rewind_dawn_day3 | Dawn of Day 3 |
+| 0x7F120072 | string | dialog_rewind_start_of_story | Start of Story |
+| 0x7F120073 | string | dialog_rewind_story | Rewind Story |
+| 0x7F120074 | string | dialog_rewind_time | Are you sure you want to reset the story back to this point? |
+| 0x7F120075 | string | dialog_yes | Yes |
+| 0x7F120076 | string | dismiss_overlay_button_label | Quit |
+| 0x7F120077 | string | display_system_message | Display System Message |
+| 0x7F120078 | string | dont_allow | Don't allow the user access |
+| 0x7F120079 | string | expand_button_title | Advanced |
+| 0x7F12007A | string | generic_cancel | Cancel |
+| 0x7F12007B | string | generic_yes | Yes |
+| 0x7F12007C | string | hud_change_language | Change Language |
+| 0x7F12007D | string | hud_notification_settings | Notification Settings |
+| 0x7F12007E | string | hud_privacy_policy | Privacy Policy |
+| 0x7F12007F | string | hud_rate_the_game | Rate the Game |
+| 0x7F120080 | string | hud_rewind_story | Rewind Story? |
+| 0x7F120081 | string | hud_turn_fast_mode_off | Turn Fast Mode Off |
+| 0x7F120082 | string | hud_turn_fast_mode_on | Turn Fast Mode On |
+| 0x7F120083 | string | hud_turn_music_off | Turn Music
+ OFF |
+| 0x7F120084 | string | hud_turn_music_on | Turn Music
+ ON |
+| 0x7F120085 | string | hud_turn_sound_off | Turn Sound
+ OFF |
+| 0x7F120086 | string | hud_turn_sound_on | Turn Sound
+ ON |
+| 0x7F120087 | string | mel | Mel |
+| 0x7F120088 | string | more_games | More Games |
+| 0x7F120089 | string | navigation_drawer_content_description | Navigation drawer |
+| 0x7F12008A | string | not_set | Not set |
+| 0x7F12008B | string | preference_copied | "%1$s" copied to clipboard. |
+| 0x7F12008C | string | quit_button | Exit |
+| 0x7F12008D | string | retry_button | Retry |
+| 0x7F12008E | string | search_menu_title | Search |
+| 0x7F12008F | string | status_bar_notification_info_overflow | 999+ |
+| 0x7F120090 | string | story_connection_lost | [connection lost] |
+| 0x7F120091 | string | story_data_filename | StoryData_en.txt |
+| 0x7F120092 | string | story_incoming_communincation | [incoming communication] |
+| 0x7F120093 | string | story_incoming_message | [incoming message] |
+| 0x7F120094 | string | story_respond | [Respond…] |
+| 0x7F120095 | string | story_restart_the_story | [Restart the story?] |
+| 0x7F120096 | string | story_taylor_is_busy | [Taylor is busy] |
+| 0x7F120097 | string | story_taylor_is_waiting_for_you | [Taylor is waiting for you.] |
+| 0x7F120098 | string | summary_collapsed_preference_list | %1$s, %2$s |
+| 0x7F120099 | string | taylor | Taylor |
+| 0x7F12009A | string | time_difference_now | Now |
+| 0x7F12009B | string | time_difference_short_days_and_hours | %1$s %2$s |
+| 0x7F12009C | string | time_difference_short_hours_and_minutes | %1$s %2$s |
+| 0x7F12009D | string | title_activity_story | StoryActivity |
+| 0x7F12009E | string | unlicensed_dialog_body | This application is not licensed. Please purchase it from Google Play. |
+| 0x7F12009F | string | unlicensed_dialog_retry_body | Unable to validate license. Check to see if a network connection is available. |
+| 0x7F1200A0 | string | unlicensed_dialog_title | Application not licensed |
+| 0x7F1200A1 | string | v7_preference_off | OFF |
+| 0x7F1200A2 | string | v7_preference_on | ON |
+| 0x7F130000 | style | AlertDialog.AppCompat | <complex> |
+| 0x7F130001 | style | AlertDialog.AppCompat.Light | <complex> |
+| 0x7F130002 | style | Animation.AppCompat.Dialog | <complex> |
+| 0x7F130003 | style | Animation.AppCompat.DropDownUp | <complex> |
+| 0x7F130004 | style | Animation.AppCompat.Tooltip | <complex> |
+| 0x7F130005 | style | AppTheme | <complex> |
+| 0x7F130006 | style | Base.AlertDialog.AppCompat | @0x00000006 |
+| 0x7F130007 | style | Base.AlertDialog.AppCompat.Light | <complex> |
+| 0x7F130008 | style | Base.Animation.AppCompat.Dialog | @0x00000002 |
+| 0x7F130009 | style | Base.Animation.AppCompat.DropDownUp | @0x00000002 |
+| 0x7F13000A | style | Base.Animation.AppCompat.Tooltip | @0x00000002 |
+| 0x7F13000B | style | Base.DialogWindowTitle.AppCompat | @0x00000003 |
+| 0x7F13000C | style | Base.DialogWindowTitleBackground.AppCompat | @0x00000004 |
+| 0x7F13000D | style | Base.TextAppearance.AppCompat | @0x00000005 |
+| 0x7F13000E | style | Base.TextAppearance.AppCompat.Body1 | <complex> |
+| 0x7F13000F | style | Base.TextAppearance.AppCompat.Body2 | <complex> |
+| 0x7F130010 | style | Base.TextAppearance.AppCompat.Button | <complex> |
+| 0x7F130011 | style | Base.TextAppearance.AppCompat.Caption | <complex> |
+| 0x7F130012 | style | Base.TextAppearance.AppCompat.Display1 | <complex> |
+| 0x7F130013 | style | Base.TextAppearance.AppCompat.Display2 | <complex> |
+| 0x7F130014 | style | Base.TextAppearance.AppCompat.Display3 | <complex> |
+| 0x7F130015 | style | Base.TextAppearance.AppCompat.Display4 | <complex> |
+| 0x7F130016 | style | Base.TextAppearance.AppCompat.Headline | <complex> |
+| 0x7F130017 | style | Base.TextAppearance.AppCompat.Inverse | <complex> |
+| 0x7F130018 | style | Base.TextAppearance.AppCompat.Large | <complex> |
+| 0x7F130019 | style | Base.TextAppearance.AppCompat.Large.Inverse | <complex> |
+| 0x7F13001A | style | Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large | @0x00000000 |
+| 0x7F13001B | style | Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small | @0x00000000 |
+| 0x7F13001C | style | Base.TextAppearance.AppCompat.Medium | <complex> |
+| 0x7F13001D | style | Base.TextAppearance.AppCompat.Medium.Inverse | <complex> |
+| 0x7F13001E | style | Base.TextAppearance.AppCompat.Menu | <complex> |
+| 0x7F13001F | style | Base.TextAppearance.AppCompat.SearchResult | null |
+| 0x7F130020 | style | Base.TextAppearance.AppCompat.SearchResult.Subtitle | <complex> |
+| 0x7F130021 | style | Base.TextAppearance.AppCompat.SearchResult.Title | <complex> |
+| 0x7F130022 | style | Base.TextAppearance.AppCompat.Small | <complex> |
+| 0x7F130023 | style | Base.TextAppearance.AppCompat.Small.Inverse | <complex> |
+| 0x7F130024 | style | Base.TextAppearance.AppCompat.Subhead | <complex> |
+| 0x7F130025 | style | Base.TextAppearance.AppCompat.Subhead.Inverse | <complex> |
+| 0x7F130026 | style | Base.TextAppearance.AppCompat.Title | <complex> |
+| 0x7F130027 | style | Base.TextAppearance.AppCompat.Title.Inverse | <complex> |
+| 0x7F130028 | style | Base.TextAppearance.AppCompat.Tooltip | <complex> |
+| 0x7F130029 | style | Base.TextAppearance.AppCompat.Widget.ActionBar.Menu | <complex> |
+| 0x7F13002A | style | Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle | <complex> |
+| 0x7F13002B | style | Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse | <complex> |
+| 0x7F13002C | style | Base.TextAppearance.AppCompat.Widget.ActionBar.Title | <complex> |
+| 0x7F13002D | style | Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse | <complex> |
+| 0x7F13002E | style | Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle | <complex> |
+| 0x7F13002F | style | Base.TextAppearance.AppCompat.Widget.ActionMode.Title | <complex> |
+| 0x7F130030 | style | Base.TextAppearance.AppCompat.Widget.Button | <complex> |
+| 0x7F130031 | style | Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored | <complex> |
+| 0x7F130032 | style | Base.TextAppearance.AppCompat.Widget.Button.Colored | <complex> |
+| 0x7F130033 | style | Base.TextAppearance.AppCompat.Widget.Button.Inverse | <complex> |
+| 0x7F130034 | style | Base.TextAppearance.AppCompat.Widget.DropDownItem | @0x00000001 |
+| 0x7F130035 | style | Base.TextAppearance.AppCompat.Widget.PopupMenu.Header | <complex> |
+| 0x7F130036 | style | Base.TextAppearance.AppCompat.Widget.PopupMenu.Large | <complex> |
+| 0x7F130037 | style | Base.TextAppearance.AppCompat.Widget.PopupMenu.Small | <complex> |
+| 0x7F130038 | style | Base.TextAppearance.AppCompat.Widget.Switch | <complex> |
+| 0x7F130039 | style | Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem | <complex> |
+| 0x7F13003A | style | Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item | @0x00000001 |
+| 0x7F13003B | style | Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle | <complex> |
+| 0x7F13003C | style | Base.TextAppearance.Widget.AppCompat.Toolbar.Title | <complex> |
+| 0x7F13003D | style | Base.Theme.AppCompat | <complex> |
+| 0x7F13003E | style | Base.Theme.AppCompat.CompactMenu | null |
+| 0x7F13003F | style | Base.Theme.AppCompat.Dialog | <complex> |
+| 0x7F130040 | style | Base.Theme.AppCompat.Dialog.Alert | <complex> |
+| 0x7F130041 | style | Base.Theme.AppCompat.Dialog.FixedSize | <complex> |
+| 0x7F130042 | style | Base.Theme.AppCompat.Dialog.MinWidth | <complex> |
+| 0x7F130043 | style | Base.Theme.AppCompat.DialogWhenLarge | <complex> |
+| 0x7F130044 | style | Base.Theme.AppCompat.Light | <complex> |
+| 0x7F130045 | style | Base.Theme.AppCompat.Light.DarkActionBar | <complex> |
+| 0x7F130046 | style | Base.Theme.AppCompat.Light.Dialog | <complex> |
+| 0x7F130047 | style | Base.Theme.AppCompat.Light.Dialog.Alert | <complex> |
+| 0x7F130048 | style | Base.Theme.AppCompat.Light.Dialog.FixedSize | <complex> |
+| 0x7F130049 | style | Base.Theme.AppCompat.Light.Dialog.MinWidth | <complex> |
+| 0x7F13004A | style | Base.Theme.AppCompat.Light.DialogWhenLarge | <complex> |
+| 0x7F13004B | style | Base.ThemeOverlay.AppCompat | <complex> |
+| 0x7F13004C | style | Base.ThemeOverlay.AppCompat.ActionBar | <complex> |
+| 0x7F13004D | style | Base.ThemeOverlay.AppCompat.Dark | <complex> |
+| 0x7F13004E | style | Base.ThemeOverlay.AppCompat.Dark.ActionBar | <complex> |
+| 0x7F13004F | style | Base.ThemeOverlay.AppCompat.Dialog | <complex> |
+| 0x7F130050 | style | Base.ThemeOverlay.AppCompat.Dialog.Alert | <complex> |
+| 0x7F130051 | style | Base.ThemeOverlay.AppCompat.Light | <complex> |
+| 0x7F130052 | style | Base.V21.Theme.AppCompat | <complex> |
+| 0x7F130053 | style | Base.V21.Theme.AppCompat.Dialog | <complex> |
+| 0x7F130054 | style | Base.V21.Theme.AppCompat.Light | <complex> |
+| 0x7F130055 | style | Base.V21.Theme.AppCompat.Light.Dialog | <complex> |
+| 0x7F130056 | style | Base.V21.ThemeOverlay.AppCompat.Dialog | <complex> |
+| 0x7F130057 | style | Base.V22.Theme.AppCompat | <complex> |
+| 0x7F130058 | style | Base.V22.Theme.AppCompat.Light | <complex> |
+| 0x7F130059 | style | Base.V23.Theme.AppCompat | <complex> |
+| 0x7F13005A | style | Base.V23.Theme.AppCompat.Light | <complex> |
+| 0x7F13005B | style | Base.V26.Theme.AppCompat | <complex> |
+| 0x7F13005C | style | Base.V26.Theme.AppCompat.Light | <complex> |
+| 0x7F13005D | style | Base.V26.Widget.AppCompat.Toolbar | <complex> |
+| 0x7F13005E | style | Base.V28.Theme.AppCompat | <complex> |
+| 0x7F13005F | style | Base.V28.Theme.AppCompat.Light | <complex> |
+| 0x7F130060 | style | Base.V7.Theme.AppCompat | <complex> |
+| 0x7F130061 | style | Base.V7.Theme.AppCompat.Dialog | <complex> |
+| 0x7F130062 | style | Base.V7.Theme.AppCompat.Light | <complex> |
+| 0x7F130063 | style | Base.V7.Theme.AppCompat.Light.Dialog | <complex> |
+| 0x7F130064 | style | Base.V7.ThemeOverlay.AppCompat.Dialog | <complex> |
+| 0x7F130065 | style | Base.V7.Widget.AppCompat.AutoCompleteTextView | @0x00000006 |
+| 0x7F130066 | style | Base.V7.Widget.AppCompat.EditText | @0x00000004 |
+| 0x7F130067 | style | Base.V7.Widget.AppCompat.Toolbar | @0x0000000C |
+| 0x7F130068 | style | Base.Widget.AppCompat.ActionBar | null |
+| 0x7F130069 | style | Base.Widget.AppCompat.ActionBar.Solid | <complex> |
+| 0x7F13006A | style | Base.Widget.AppCompat.ActionBar.TabBar | null |
+| 0x7F13006B | style | Base.Widget.AppCompat.ActionBar.TabText | null |
+| 0x7F13006C | style | Base.Widget.AppCompat.ActionBar.TabView | null |
+| 0x7F13006D | style | Base.Widget.AppCompat.ActionButton | <complex> |
+| 0x7F13006E | style | Base.Widget.AppCompat.ActionButton.CloseMode | <complex> |
+| 0x7F13006F | style | Base.Widget.AppCompat.ActionButton.Overflow | <complex> |
+| 0x7F130070 | style | Base.Widget.AppCompat.ActionMode | null |
+| 0x7F130071 | style | Base.Widget.AppCompat.ActivityChooserView | null |
+| 0x7F130072 | style | Base.Widget.AppCompat.AutoCompleteTextView | <complex> |
+| 0x7F130073 | style | Base.Widget.AppCompat.Button | @0x00000007 |
+| 0x7F130074 | style | Base.Widget.AppCompat.Button.Borderless | <complex> |
+| 0x7F130075 | style | Base.Widget.AppCompat.Button.Borderless.Colored | <complex> |
+| 0x7F130076 | style | Base.Widget.AppCompat.Button.ButtonBar.AlertDialog | <complex> |
+| 0x7F130077 | style | Base.Widget.AppCompat.Button.Colored | <complex> |
+| 0x7F130078 | style | Base.Widget.AppCompat.Button.Small | <complex> |
+| 0x7F130079 | style | Base.Widget.AppCompat.ButtonBar | @0x00000001 |
+| 0x7F13007A | style | Base.Widget.AppCompat.ButtonBar.AlertDialog | <complex> |
+| 0x7F13007B | style | Base.Widget.AppCompat.CompoundButton.CheckBox | @0x00000003 |
+| 0x7F13007C | style | Base.Widget.AppCompat.CompoundButton.RadioButton | @0x00000003 |
+| 0x7F13007D | style | Base.Widget.AppCompat.CompoundButton.Switch | @0x00000008 |
+| 0x7F13007E | style | Base.Widget.AppCompat.DrawerArrowToggle | <complex> |
+| 0x7F13007F | style | Base.Widget.AppCompat.DrawerArrowToggle.Common | null |
+| 0x7F130080 | style | Base.Widget.AppCompat.DropDownItem.Spinner | null |
+| 0x7F130081 | style | Base.Widget.AppCompat.EditText | <complex> |
+| 0x7F130082 | style | Base.Widget.AppCompat.ImageButton | @0x00000001 |
+| 0x7F130083 | style | Base.Widget.AppCompat.Light.ActionBar | <complex> |
+| 0x7F130084 | style | Base.Widget.AppCompat.Light.ActionBar.Solid | <complex> |
+| 0x7F130085 | style | Base.Widget.AppCompat.Light.ActionBar.TabBar | <complex> |
+| 0x7F130086 | style | Base.Widget.AppCompat.Light.ActionBar.TabText | <complex> |
+| 0x7F130087 | style | Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse | <complex> |
+| 0x7F130088 | style | Base.Widget.AppCompat.Light.ActionBar.TabView | <complex> |
+| 0x7F130089 | style | Base.Widget.AppCompat.Light.PopupMenu | <complex> |
+| 0x7F13008A | style | Base.Widget.AppCompat.Light.PopupMenu.Overflow | <complex> |
+| 0x7F13008B | style | Base.Widget.AppCompat.ListMenuView | @0x00000001 |
+| 0x7F13008C | style | Base.Widget.AppCompat.ListPopupWindow | null |
+| 0x7F13008D | style | Base.Widget.AppCompat.ListView | @0x00000001 |
+| 0x7F13008E | style | Base.Widget.AppCompat.ListView.DropDown | <complex> |
+| 0x7F13008F | style | Base.Widget.AppCompat.ListView.Menu | @0x00000002 |
+| 0x7F130090 | style | Base.Widget.AppCompat.PopupMenu | <complex> |
+| 0x7F130091 | style | Base.Widget.AppCompat.PopupMenu.Overflow | <complex> |
+| 0x7F130092 | style | Base.Widget.AppCompat.PopupWindow | @0x00000000 |
+| 0x7F130093 | style | Base.Widget.AppCompat.ProgressBar | @0x00000000 |
+| 0x7F130094 | style | Base.Widget.AppCompat.ProgressBar.Horizontal | @0x00000000 |
+| 0x7F130095 | style | Base.Widget.AppCompat.RatingBar | @0x00000002 |
+| 0x7F130096 | style | Base.Widget.AppCompat.RatingBar.Indicator | @0x00000006 |
+| 0x7F130097 | style | Base.Widget.AppCompat.RatingBar.Small | @0x00000006 |
+| 0x7F130098 | style | Base.Widget.AppCompat.SearchView | @0x0000000A |
+| 0x7F130099 | style | Base.Widget.AppCompat.SearchView.ActionBar | <complex> |
+| 0x7F13009A | style | Base.Widget.AppCompat.SeekBar | @0x00000007 |
+| 0x7F13009B | style | Base.Widget.AppCompat.SeekBar.Discrete | <complex> |
+| 0x7F13009C | style | Base.Widget.AppCompat.Spinner | <complex> |
+| 0x7F13009D | style | Base.Widget.AppCompat.Spinner.Underlined | <complex> |
+| 0x7F13009E | style | Base.Widget.AppCompat.TextView | @0x00000000 |
+| 0x7F13009F | style | Base.Widget.AppCompat.TextView.SpinnerItem | @0x00000003 |
+| 0x7F1300A0 | style | Base.Widget.AppCompat.Toolbar | <complex> |
+| 0x7F1300A1 | style | Base.Widget.AppCompat.Toolbar.Button.Navigation | @0x00000003 |
+| 0x7F1300A2 | style | CardText | <complex> |
+| 0x7F1300A3 | style | CardTextBase | <complex> |
+| 0x7F1300A4 | style | CardTitle | <complex> |
+| 0x7F1300A5 | style | CardTitleBase | <complex> |
+| 0x7F1300A6 | style | ConfirmationActivity | @0x00000003 |
+| 0x7F1300A7 | style | DismissOverlayText | <complex> |
+| 0x7F1300A8 | style | DotsPageIndicatorStyle | null |
+| 0x7F1300A9 | style | NotificationText | @0x00000000 |
+| 0x7F1300AA | style | NotificationTime | @0x00000000 |
+| 0x7F1300AB | style | NotificationTitle | @0x00000000 |
+| 0x7F1300AC | style | PageIndicatorViewStyle | null |
+| 0x7F1300AD | style | Platform.AppCompat | @0x00000034 |
+| 0x7F1300AE | style | Platform.AppCompat.Light | @0x00000035 |
+| 0x7F1300AF | style | Platform.ThemeOverlay.AppCompat | null |
+| 0x7F1300B0 | style | Platform.ThemeOverlay.AppCompat.Dark | <complex> |
+| 0x7F1300B1 | style | Platform.ThemeOverlay.AppCompat.Light | <complex> |
+| 0x7F1300B2 | style | Platform.V21.AppCompat | @0x00000006 |
+| 0x7F1300B3 | style | Platform.V21.AppCompat.Light | @0x00000006 |
+| 0x7F1300B4 | style | Platform.V25.AppCompat | @0x00000000 |
+| 0x7F1300B5 | style | Platform.V25.AppCompat.Light | @0x00000000 |
+| 0x7F1300B6 | style | Platform.Widget.AppCompat.Spinner | @0x00000000 |
+| 0x7F1300B7 | style | Preference | null |
+| 0x7F1300B8 | style | Preference.Category | <complex> |
+| 0x7F1300B9 | style | Preference.Category.Material | <complex> |
+| 0x7F1300BA | style | Preference.CheckBoxPreference | <complex> |
+| 0x7F1300BB | style | Preference.CheckBoxPreference.Material | <complex> |
+| 0x7F1300BC | style | Preference.DialogPreference | <complex> |
+| 0x7F1300BD | style | Preference.DialogPreference.EditTextPreference | <complex> |
+| 0x7F1300BE | style | Preference.DialogPreference.EditTextPreference.Material | <complex> |
+| 0x7F1300BF | style | Preference.DialogPreference.Material | <complex> |
+| 0x7F1300C0 | style | Preference.DropDown | <complex> |
+| 0x7F1300C1 | style | Preference.DropDown.Material | <complex> |
+| 0x7F1300C2 | style | Preference.Information | <complex> |
+| 0x7F1300C3 | style | Preference.Information.Material | <complex> |
+| 0x7F1300C4 | style | Preference.Material | <complex> |
+| 0x7F1300C5 | style | Preference.PreferenceScreen | <complex> |
+| 0x7F1300C6 | style | Preference.PreferenceScreen.Material | <complex> |
+| 0x7F1300C7 | style | Preference.SeekBarPreference | <complex> |
+| 0x7F1300C8 | style | Preference.SeekBarPreference.Material | <complex> |
+| 0x7F1300C9 | style | Preference.SwitchPreference | <complex> |
+| 0x7F1300CA | style | Preference.SwitchPreference.Material | <complex> |
+| 0x7F1300CB | style | Preference.SwitchPreferenceCompat | <complex> |
+| 0x7F1300CC | style | Preference.SwitchPreferenceCompat.Material | <complex> |
+| 0x7F1300CD | style | PreferenceCategoryTitleTextStyle | null |
+| 0x7F1300CE | style | PreferenceFragment | null |
+| 0x7F1300CF | style | PreferenceFragment.Material | <complex> |
+| 0x7F1300D0 | style | PreferenceFragmentList | null |
+| 0x7F1300D1 | style | PreferenceFragmentList.Material | <complex> |
+| 0x7F1300D2 | style | PreferenceSummaryTextStyle | null |
+| 0x7F1300D3 | style | PreferenceThemeOverlay | null |
+| 0x7F1300D4 | style | PreferenceThemeOverlay.v14 | <complex> |
+| 0x7F1300D5 | style | PreferenceThemeOverlay.v14.Material | <complex> |
+| 0x7F1300D6 | style | RtlOverlay.DialogWindowTitle.AppCompat | <complex> |
+| 0x7F1300D7 | style | RtlOverlay.Widget.AppCompat.ActionBar.TitleItem | @0x00000002 |
+| 0x7F1300D8 | style | RtlOverlay.Widget.AppCompat.DialogTitle.Icon | @0x00000001 |
+| 0x7F1300D9 | style | RtlOverlay.Widget.AppCompat.PopupMenuItem | @0x00000001 |
+| 0x7F1300DA | style | RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup | @0x00000001 |
+| 0x7F1300DB | style | RtlOverlay.Widget.AppCompat.PopupMenuItem.Shortcut | @0x00000001 |
+| 0x7F1300DC | style | RtlOverlay.Widget.AppCompat.PopupMenuItem.SubmenuArrow | @0x00000001 |
+| 0x7F1300DD | style | RtlOverlay.Widget.AppCompat.PopupMenuItem.Text | @0x00000001 |
+| 0x7F1300DE | style | RtlOverlay.Widget.AppCompat.PopupMenuItem.Title | @0x00000001 |
+| 0x7F1300DF | style | RtlOverlay.Widget.AppCompat.Search.DropDown | @0x00000002 |
+| 0x7F1300E0 | style | RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1 | @0x00000001 |
+| 0x7F1300E1 | style | RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2 | @0x00000001 |
+| 0x7F1300E2 | style | RtlOverlay.Widget.AppCompat.Search.DropDown.Query | @0x00000001 |
+| 0x7F1300E3 | style | RtlOverlay.Widget.AppCompat.Search.DropDown.Text | <complex> |
+| 0x7F1300E4 | style | RtlOverlay.Widget.AppCompat.SearchView.MagIcon | @0x00000001 |
+| 0x7F1300E5 | style | RtlUnderlay.Widget.AppCompat.ActionButton | @0x00000002 |
+| 0x7F1300E6 | style | RtlUnderlay.Widget.AppCompat.ActionButton.Overflow | <complex> |
+| 0x7F1300E7 | style | SinglePageNavDrawerIconStyle | null |
+| 0x7F1300E8 | style | SinglePageNavDrawerTextStyle | null |
+| 0x7F1300E9 | style | SplashTheme | <complex> |
+| 0x7F1300EA | style | TextAppearance.AppCompat | <complex> |
+| 0x7F1300EB | style | TextAppearance.AppCompat.Body1 | <complex> |
+| 0x7F1300EC | style | TextAppearance.AppCompat.Body2 | <complex> |
+| 0x7F1300ED | style | TextAppearance.AppCompat.Button | <complex> |
+| 0x7F1300EE | style | TextAppearance.AppCompat.Caption | <complex> |
+| 0x7F1300EF | style | TextAppearance.AppCompat.Display1 | <complex> |
+| 0x7F1300F0 | style | TextAppearance.AppCompat.Display2 | <complex> |
+| 0x7F1300F1 | style | TextAppearance.AppCompat.Display3 | <complex> |
+| 0x7F1300F2 | style | TextAppearance.AppCompat.Display4 | <complex> |
+| 0x7F1300F3 | style | TextAppearance.AppCompat.Headline | <complex> |
+| 0x7F1300F4 | style | TextAppearance.AppCompat.Inverse | <complex> |
+| 0x7F1300F5 | style | TextAppearance.AppCompat.Large | <complex> |
+| 0x7F1300F6 | style | TextAppearance.AppCompat.Large.Inverse | <complex> |
+| 0x7F1300F7 | style | TextAppearance.AppCompat.Light.SearchResult.Subtitle | <complex> |
+| 0x7F1300F8 | style | TextAppearance.AppCompat.Light.SearchResult.Title | <complex> |
+| 0x7F1300F9 | style | TextAppearance.AppCompat.Light.Widget.PopupMenu.Large | <complex> |
+| 0x7F1300FA | style | TextAppearance.AppCompat.Light.Widget.PopupMenu.Small | <complex> |
+| 0x7F1300FB | style | TextAppearance.AppCompat.Medium | <complex> |
+| 0x7F1300FC | style | TextAppearance.AppCompat.Medium.Inverse | <complex> |
+| 0x7F1300FD | style | TextAppearance.AppCompat.Menu | <complex> |
+| 0x7F1300FE | style | TextAppearance.AppCompat.SearchResult.Subtitle | <complex> |
+| 0x7F1300FF | style | TextAppearance.AppCompat.SearchResult.Title | <complex> |
+| 0x7F130100 | style | TextAppearance.AppCompat.Small | <complex> |
+| 0x7F130101 | style | TextAppearance.AppCompat.Small.Inverse | <complex> |
+| 0x7F130102 | style | TextAppearance.AppCompat.Subhead | <complex> |
+| 0x7F130103 | style | TextAppearance.AppCompat.Subhead.Inverse | <complex> |
+| 0x7F130104 | style | TextAppearance.AppCompat.Title | <complex> |
+| 0x7F130105 | style | TextAppearance.AppCompat.Title.Inverse | <complex> |
+| 0x7F130106 | style | TextAppearance.AppCompat.Tooltip | <complex> |
+| 0x7F130107 | style | TextAppearance.AppCompat.Widget.ActionBar.Menu | <complex> |
+| 0x7F130108 | style | TextAppearance.AppCompat.Widget.ActionBar.Subtitle | <complex> |
+| 0x7F130109 | style | TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse | <complex> |
+| 0x7F13010A | style | TextAppearance.AppCompat.Widget.ActionBar.Title | <complex> |
+| 0x7F13010B | style | TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse | <complex> |
+| 0x7F13010C | style | TextAppearance.AppCompat.Widget.ActionMode.Subtitle | <complex> |
+| 0x7F13010D | style | TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse | <complex> |
+| 0x7F13010E | style | TextAppearance.AppCompat.Widget.ActionMode.Title | <complex> |
+| 0x7F13010F | style | TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse | <complex> |
+| 0x7F130110 | style | TextAppearance.AppCompat.Widget.Button | <complex> |
+| 0x7F130111 | style | TextAppearance.AppCompat.Widget.Button.Borderless.Colored | <complex> |
+| 0x7F130112 | style | TextAppearance.AppCompat.Widget.Button.Colored | <complex> |
+| 0x7F130113 | style | TextAppearance.AppCompat.Widget.Button.Inverse | <complex> |
+| 0x7F130114 | style | TextAppearance.AppCompat.Widget.DropDownItem | <complex> |
+| 0x7F130115 | style | TextAppearance.AppCompat.Widget.PopupMenu.Header | <complex> |
+| 0x7F130116 | style | TextAppearance.AppCompat.Widget.PopupMenu.Large | <complex> |
+| 0x7F130117 | style | TextAppearance.AppCompat.Widget.PopupMenu.Small | <complex> |
+| 0x7F130118 | style | TextAppearance.AppCompat.Widget.Switch | <complex> |
+| 0x7F130119 | style | TextAppearance.AppCompat.Widget.TextView.SpinnerItem | <complex> |
+| 0x7F13011A | style | TextAppearance.Compat.Notification | @0x00000000 |
+| 0x7F13011B | style | TextAppearance.Compat.Notification.Info | <complex> |
+| 0x7F13011C | style | TextAppearance.Compat.Notification.Line2 | <complex> |
+| 0x7F13011D | style | TextAppearance.Compat.Notification.Time | <complex> |
+| 0x7F13011E | style | TextAppearance.Compat.Notification.Title | @0x00000000 |
+| 0x7F13011F | style | TextAppearance.WearDiag | @0x00000002 |
+| 0x7F130120 | style | TextAppearance.WearDiag.Button | <complex> |
+| 0x7F130121 | style | TextAppearance.WearDiag.Message | <complex> |
+| 0x7F130122 | style | TextAppearance.WearDiag.Title | <complex> |
+| 0x7F130123 | style | TextAppearance.Wearable.Large | @0x00000002 |
+| 0x7F130124 | style | TextAppearance.Wearable.Medium | @0x00000002 |
+| 0x7F130125 | style | TextAppearance.Wearable.Small | @0x00000002 |
+| 0x7F130126 | style | TextAppearance.Widget.AppCompat.ExpandedMenu.Item | <complex> |
+| 0x7F130127 | style | TextAppearance.Widget.AppCompat.Toolbar.Subtitle | <complex> |
+| 0x7F130128 | style | TextAppearance.Widget.AppCompat.Toolbar.Title | <complex> |
+| 0x7F130129 | style | TextView.Large | @0x00000002 |
+| 0x7F13012A | style | TextView.Large.Light | <complex> |
+| 0x7F13012B | style | TextView.Medium | @0x00000002 |
+| 0x7F13012C | style | TextView.Medium.Light | <complex> |
+| 0x7F13012D | style | TextView.Small | @0x00000002 |
+| 0x7F13012E | style | TextView.Small.Light | <complex> |
+| 0x7F13012F | style | Theme.AppCompat | <complex> |
+| 0x7F130130 | style | Theme.AppCompat.CompactMenu | <complex> |
+| 0x7F130131 | style | Theme.AppCompat.DayNight | <complex> |
+| 0x7F130132 | style | Theme.AppCompat.DayNight.DarkActionBar | <complex> |
+| 0x7F130133 | style | Theme.AppCompat.DayNight.Dialog | <complex> |
+| 0x7F130134 | style | Theme.AppCompat.DayNight.Dialog.Alert | <complex> |
+| 0x7F130135 | style | Theme.AppCompat.DayNight.Dialog.MinWidth | <complex> |
+| 0x7F130136 | style | Theme.AppCompat.DayNight.DialogWhenLarge | <complex> |
+| 0x7F130137 | style | Theme.AppCompat.DayNight.NoActionBar | <complex> |
+| 0x7F130138 | style | Theme.AppCompat.Dialog | <complex> |
+| 0x7F130139 | style | Theme.AppCompat.Dialog.Alert | <complex> |
+| 0x7F13013A | style | Theme.AppCompat.Dialog.MinWidth | <complex> |
+| 0x7F13013B | style | Theme.AppCompat.DialogWhenLarge | <complex> |
+| 0x7F13013C | style | Theme.AppCompat.Empty | null |
+| 0x7F13013D | style | Theme.AppCompat.Light | <complex> |
+| 0x7F13013E | style | Theme.AppCompat.Light.DarkActionBar | <complex> |
+| 0x7F13013F | style | Theme.AppCompat.Light.Dialog | <complex> |
+| 0x7F130140 | style | Theme.AppCompat.Light.Dialog.Alert | <complex> |
+| 0x7F130141 | style | Theme.AppCompat.Light.Dialog.MinWidth | <complex> |
+| 0x7F130142 | style | Theme.AppCompat.Light.DialogWhenLarge | <complex> |
+| 0x7F130143 | style | Theme.AppCompat.Light.NoActionBar | <complex> |
+| 0x7F130144 | style | Theme.AppCompat.NoActionBar | <complex> |
+| 0x7F130145 | style | Theme.WearDiag | @0x00000005 |
+| 0x7F130146 | style | Theme.Wearable | @0x00000000 |
+| 0x7F130147 | style | Theme.Wearable.Modal | <complex> |
+| 0x7F130148 | style | ThemeOverlay.AppCompat | <complex> |
+| 0x7F130149 | style | ThemeOverlay.AppCompat.ActionBar | <complex> |
+| 0x7F13014A | style | ThemeOverlay.AppCompat.Dark | <complex> |
+| 0x7F13014B | style | ThemeOverlay.AppCompat.Dark.ActionBar | <complex> |
+| 0x7F13014C | style | ThemeOverlay.AppCompat.DayNight | <complex> |
+| 0x7F13014D | style | ThemeOverlay.AppCompat.DayNight.ActionBar | <complex> |
+| 0x7F13014E | style | ThemeOverlay.AppCompat.Dialog | <complex> |
+| 0x7F13014F | style | ThemeOverlay.AppCompat.Dialog.Alert | <complex> |
+| 0x7F130150 | style | ThemeOverlay.AppCompat.Light | <complex> |
+| 0x7F130151 | style | WearableActionDrawerItemText | null |
+| 0x7F130152 | style | WearableActionDrawerTitleText | @0x00000001 |
+| 0x7F130153 | style | WearableWatchFaceSettings | @0x00000000 |
+| 0x7F130154 | style | Widget.ActionPage | @0x0000000A |
+| 0x7F130155 | style | Widget.AppCompat.ActionBar | <complex> |
+| 0x7F130156 | style | Widget.AppCompat.ActionBar.Solid | <complex> |
+| 0x7F130157 | style | Widget.AppCompat.ActionBar.TabBar | <complex> |
+| 0x7F130158 | style | Widget.AppCompat.ActionBar.TabText | <complex> |
+| 0x7F130159 | style | Widget.AppCompat.ActionBar.TabView | <complex> |
+| 0x7F13015A | style | Widget.AppCompat.ActionButton | <complex> |
+| 0x7F13015B | style | Widget.AppCompat.ActionButton.CloseMode | <complex> |
+| 0x7F13015C | style | Widget.AppCompat.ActionButton.Overflow | <complex> |
+| 0x7F13015D | style | Widget.AppCompat.ActionMode | <complex> |
+| 0x7F13015E | style | Widget.AppCompat.ActivityChooserView | <complex> |
+| 0x7F13015F | style | Widget.AppCompat.AutoCompleteTextView | <complex> |
+| 0x7F130160 | style | Widget.AppCompat.Button | <complex> |
+| 0x7F130161 | style | Widget.AppCompat.Button.Borderless | <complex> |
+| 0x7F130162 | style | Widget.AppCompat.Button.Borderless.Colored | <complex> |
+| 0x7F130163 | style | Widget.AppCompat.Button.ButtonBar.AlertDialog | <complex> |
+| 0x7F130164 | style | Widget.AppCompat.Button.Colored | <complex> |
+| 0x7F130165 | style | Widget.AppCompat.Button.Small | <complex> |
+| 0x7F130166 | style | Widget.AppCompat.ButtonBar | <complex> |
+| 0x7F130167 | style | Widget.AppCompat.ButtonBar.AlertDialog | <complex> |
+| 0x7F130168 | style | Widget.AppCompat.CompoundButton.CheckBox | <complex> |
+| 0x7F130169 | style | Widget.AppCompat.CompoundButton.RadioButton | <complex> |
+| 0x7F13016A | style | Widget.AppCompat.CompoundButton.Switch | <complex> |
+| 0x7F13016B | style | Widget.AppCompat.DrawerArrowToggle | <complex> |
+| 0x7F13016C | style | Widget.AppCompat.DropDownItem.Spinner | <complex> |
+| 0x7F13016D | style | Widget.AppCompat.EditText | <complex> |
+| 0x7F13016E | style | Widget.AppCompat.ImageButton | <complex> |
+| 0x7F13016F | style | Widget.AppCompat.Light.ActionBar | <complex> |
+| 0x7F130170 | style | Widget.AppCompat.Light.ActionBar.Solid | <complex> |
+| 0x7F130171 | style | Widget.AppCompat.Light.ActionBar.Solid.Inverse | <complex> |
+| 0x7F130172 | style | Widget.AppCompat.Light.ActionBar.TabBar | <complex> |
+| 0x7F130173 | style | Widget.AppCompat.Light.ActionBar.TabBar.Inverse | <complex> |
+| 0x7F130174 | style | Widget.AppCompat.Light.ActionBar.TabText | <complex> |
+| 0x7F130175 | style | Widget.AppCompat.Light.ActionBar.TabText.Inverse | <complex> |
+| 0x7F130176 | style | Widget.AppCompat.Light.ActionBar.TabView | <complex> |
+| 0x7F130177 | style | Widget.AppCompat.Light.ActionBar.TabView.Inverse | <complex> |
+| 0x7F130178 | style | Widget.AppCompat.Light.ActionButton | <complex> |
+| 0x7F130179 | style | Widget.AppCompat.Light.ActionButton.CloseMode | <complex> |
+| 0x7F13017A | style | Widget.AppCompat.Light.ActionButton.Overflow | <complex> |
+| 0x7F13017B | style | Widget.AppCompat.Light.ActionMode.Inverse | <complex> |
+| 0x7F13017C | style | Widget.AppCompat.Light.ActivityChooserView | <complex> |
+| 0x7F13017D | style | Widget.AppCompat.Light.AutoCompleteTextView | <complex> |
+| 0x7F13017E | style | Widget.AppCompat.Light.DropDownItem.Spinner | <complex> |
+| 0x7F13017F | style | Widget.AppCompat.Light.ListPopupWindow | <complex> |
+| 0x7F130180 | style | Widget.AppCompat.Light.ListView.DropDown | <complex> |
+| 0x7F130181 | style | Widget.AppCompat.Light.PopupMenu | <complex> |
+| 0x7F130182 | style | Widget.AppCompat.Light.PopupMenu.Overflow | <complex> |
+| 0x7F130183 | style | Widget.AppCompat.Light.SearchView | <complex> |
+| 0x7F130184 | style | Widget.AppCompat.Light.Spinner.DropDown.ActionBar | <complex> |
+| 0x7F130185 | style | Widget.AppCompat.ListMenuView | <complex> |
+| 0x7F130186 | style | Widget.AppCompat.ListPopupWindow | <complex> |
+| 0x7F130187 | style | Widget.AppCompat.ListView | <complex> |
+| 0x7F130188 | style | Widget.AppCompat.ListView.DropDown | <complex> |
+| 0x7F130189 | style | Widget.AppCompat.ListView.Menu | <complex> |
+| 0x7F13018A | style | Widget.AppCompat.PopupMenu | <complex> |
+| 0x7F13018B | style | Widget.AppCompat.PopupMenu.Overflow | <complex> |
+| 0x7F13018C | style | Widget.AppCompat.PopupWindow | <complex> |
+| 0x7F13018D | style | Widget.AppCompat.ProgressBar | <complex> |
+| 0x7F13018E | style | Widget.AppCompat.ProgressBar.Horizontal | <complex> |
+| 0x7F13018F | style | Widget.AppCompat.RatingBar | <complex> |
+| 0x7F130190 | style | Widget.AppCompat.RatingBar.Indicator | <complex> |
+| 0x7F130191 | style | Widget.AppCompat.RatingBar.Small | <complex> |
+| 0x7F130192 | style | Widget.AppCompat.SearchView | <complex> |
+| 0x7F130193 | style | Widget.AppCompat.SearchView.ActionBar | <complex> |
+| 0x7F130194 | style | Widget.AppCompat.SeekBar | <complex> |
+| 0x7F130195 | style | Widget.AppCompat.SeekBar.Discrete | <complex> |
+| 0x7F130196 | style | Widget.AppCompat.Spinner | <complex> |
+| 0x7F130197 | style | Widget.AppCompat.Spinner.DropDown | <complex> |
+| 0x7F130198 | style | Widget.AppCompat.Spinner.DropDown.ActionBar | <complex> |
+| 0x7F130199 | style | Widget.AppCompat.Spinner.Underlined | <complex> |
+| 0x7F13019A | style | Widget.AppCompat.TextView | <complex> |
+| 0x7F13019B | style | Widget.AppCompat.TextView.SpinnerItem | <complex> |
+| 0x7F13019C | style | Widget.AppCompat.Toolbar | <complex> |
+| 0x7F13019D | style | Widget.AppCompat.Toolbar.Button.Navigation | <complex> |
+| 0x7F13019E | style | Widget.Compat.NotificationActionContainer | null |
+| 0x7F13019F | style | Widget.Compat.NotificationActionText | null |
+| 0x7F1301A0 | style | Widget.WearDiag.Button | @0x0000000A |
+| 0x7F1301A1 | style | Widget.WearDiag.TextView | @0x00000001 |
+| 0x7F1301A2 | style | Widget.WearDiag.TextView.Message | <complex> |
+| 0x7F1301A3 | style | Widget.WearDiag.TextView.Title | <complex> |
+| 0x7F150000 | xml | android_wear_micro_apk | res/xml/android_wear_micro_apk.xml |
+| 0x7F150001 | xml | network_security_config | res/xml/network_security_config.xml |
+| 0x7F150002 | xml | xxxx_file_paths | res/xml/xxxx_file_paths.xml |
