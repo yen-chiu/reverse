@@ -1,0 +1,2459 @@
+{
+ "chapter": "番外一",
+ "stats": {
+  "rows": 311,
+  "msgs": 177,
+  "options": 27,
+  "option_items": 54,
+  "segments": 45,
+  "wait_min": 81,
+  "be": 0
+ },
+ "events": [
+  {
+   "line": 1,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已上线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 2,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "莫西莫西～",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 3,
+   "type": "dict",
+   "id": "1",
+   "term": "莫西莫西"
+  },
+  {
+   "line": 4,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "在干嘛？！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 5,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "喂！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 6,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 7,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "在的",
+     "target": 7,
+     "line": 7
+    },
+    {
+     "speaker": "我",
+     "text": "你谁？",
+     "target": 10,
+     "line": 8
+    }
+   ]
+  },
+  {
+   "line": 9,
+   "type": "blank"
+  },
+  {
+   "line": 10,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好呀！",
+   "align": "左",
+   "branch": 7,
+   "jump": 8
+  },
+  {
+   "line": 11,
+   "type": "blank"
+  },
+  {
+   "line": 12,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我谁？！",
+   "align": "左",
+   "branch": 10,
+   "jump": 11
+  },
+  {
+   "line": 13,
+   "type": "blank"
+  },
+  {
+   "line": 14,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "怎么样？今天有没有好一点？昨天的事情没有给你带来麻烦吧",
+   "align": "左",
+   "branch": 8,
+   "jump": null
+  },
+  {
+   "line": 15,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 16,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "没有呢",
+     "target": 24,
+     "line": 16
+    },
+    {
+     "speaker": "我",
+     "text": "你没事就最好啦",
+     "target": 26,
+     "line": 17
+    }
+   ]
+  },
+  {
+   "line": 18,
+   "type": "blank"
+  },
+  {
+   "line": 19,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "你这么快就不记得我了？？",
+   "align": "左",
+   "branch": 11,
+   "jump": null
+  },
+  {
+   "line": 20,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "你去死！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 21,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "再见！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 22,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已下线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 23,
+   "type": "wait",
+   "text": "预计5分钟",
+   "minutes": 5,
+   "jump": null,
+   "align": "中"
+  },
+  {
+   "line": 24,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已上线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 25,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "混蛋！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 26,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 27,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "好啦，跟你开玩笑嘛",
+     "target": 19,
+     "line": 27
+    },
+    {
+     "speaker": "我",
+     "text": "你也太冲动了",
+     "target": 19,
+     "line": 28
+    }
+   ]
+  },
+  {
+   "line": 29,
+   "type": "blank"
+  },
+  {
+   "line": 30,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哼哼～",
+   "align": "左",
+   "branch": 19,
+   "jump": null
+  },
+  {
+   "line": 31,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "怎么说我们也是一起出生入死的，你以后再开这种玩笑，我就揍你",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 32,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 33,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "好好好",
+     "target": 22,
+     "line": 33
+    },
+    {
+     "speaker": "我",
+     "text": "不会了不会了",
+     "target": 22,
+     "line": 34
+    }
+   ]
+  },
+  {
+   "line": 35,
+   "type": "blank"
+  },
+  {
+   "line": 36,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哼～",
+   "align": "左",
+   "branch": 22,
+   "jump": null
+  },
+  {
+   "line": 37,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 38,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "你那边情况怎样？",
+     "target": 26,
+     "line": 38
+    },
+    {
+     "speaker": "我",
+     "text": "正想问你现在怎样呢",
+     "target": 26,
+     "line": 39
+    }
+   ]
+  },
+  {
+   "line": 40,
+   "type": "blank"
+  },
+  {
+   "line": 41,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "那就好",
+   "align": "左",
+   "branch": 24,
+   "jump": null
+  },
+  {
+   "line": 42,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我这边没事啦",
+   "align": "左",
+   "branch": 26,
+   "jump": null
+  },
+  {
+   "line": 43,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "警察那边又找了我爸去了解情况，好像那公司也开始被调查了，听说美术馆都封起来了呢",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 44,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "现在想想，还有点后怕呢，你说我当时怎么就那么冲动呢",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 45,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "说起来，你也不拦着我！？ 一个美少女冲到坏人巢穴去，难道你就不担心出什么事情吗？！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 46,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 47,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "咦？这也怪我？",
+     "target": 31,
+     "line": 47
+    },
+    {
+     "speaker": "我",
+     "text": "我怎么拦得住...",
+     "target": 31,
+     "line": 48
+    }
+   ]
+  },
+  {
+   "line": 49,
+   "type": "blank"
+  },
+  {
+   "line": 50,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好啦好啦，不管怎样，事情总算结束了",
+   "align": "左",
+   "branch": 31,
+   "jump": null
+  },
+  {
+   "line": 51,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "希望以后这种事情不要再让我碰上了，真是少活几年...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 52,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 53,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "但愿吧...",
+     "target": 34,
+     "line": 53
+    },
+    {
+     "speaker": "我",
+     "text": "你又在树 flag",
+     "target": 34,
+     "line": 54
+    }
+   ]
+  },
+  {
+   "line": 55,
+   "type": "blank"
+  },
+  {
+   "line": 56,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哎，我跟你讲，我今天想干一件事情",
+   "align": "左",
+   "branch": 34,
+   "jump": null
+  },
+  {
+   "line": 57,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "你猜",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 58,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 59,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "我偏不猜",
+     "target": 37,
+     "line": 59
+    },
+    {
+     "speaker": "我",
+     "text": "吃、睡、躺着",
+     "target": 37,
+     "line": 60
+    }
+   ]
+  },
+  {
+   "line": 61,
+   "type": "blank"
+  },
+  {
+   "line": 62,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "猪！",
+   "align": "左",
+   "branch": 37,
+   "jump": null
+  },
+  {
+   "line": 63,
+   "type": "dongtai",
+   "image": "E1-01",
+   "text": "决定了！今天要做一件大事！"
+  },
+  {
+   "line": 64,
+   "type": "tujian",
+   "key": "E1-01-n",
+   "sender": ""
+  },
+  {
+   "line": 65,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "看我动态！(●｀？′●)╯",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 66,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 67,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "这是？",
+     "target": 42,
+     "line": 67
+    },
+    {
+     "speaker": "我",
+     "text": "做菜？",
+     "target": 40,
+     "line": 68
+    }
+   ]
+  },
+  {
+   "line": 69,
+   "type": "blank"
+  },
+  {
+   "line": 70,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "差不多吧",
+   "align": "左",
+   "branch": 40,
+   "jump": null
+  },
+  {
+   "line": 71,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我打算做蛋糕！红丝绒蛋糕！",
+   "align": "左",
+   "branch": 42,
+   "jump": null
+  },
+  {
+   "line": 72,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 73,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "你昨天说请我吃蛋糕呢？",
+     "target": 44,
+     "line": 73
+    },
+    {
+     "speaker": "我",
+     "text": "你自己做？",
+     "target": 67,
+     "line": 74
+    }
+   ]
+  },
+  {
+   "line": 75,
+   "type": "blank"
+  },
+  {
+   "line": 76,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哎呀，昨天的蛋糕你没来吃么？",
+   "align": "左",
+   "branch": 44,
+   "jump": null
+  },
+  {
+   "line": 77,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 78,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "你你你...",
+     "target": 46,
+     "line": 78
+    },
+    {
+     "speaker": "我",
+     "text": "吃了啊",
+     "target": 56,
+     "line": 79
+    }
+   ]
+  },
+  {
+   "line": 80,
+   "type": "blank"
+  },
+  {
+   "line": 81,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我我我...",
+   "align": "左",
+   "branch": 46,
+   "jump": null
+  },
+  {
+   "line": 82,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我说了请你来吃蛋糕啊，你自己不来，怪谁？！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 83,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好啦，我现在亲自做蛋糕请你吃，好不好",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 84,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 85,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "好！",
+     "target": 65,
+     "line": 85
+    },
+    {
+     "speaker": "我",
+     "text": "我不吃！",
+     "target": 50,
+     "line": 86
+    }
+   ]
+  },
+  {
+   "line": 87,
+   "type": "blank"
+  },
+  {
+   "line": 88,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "脾气很大嘛...",
+   "align": "左",
+   "branch": 50,
+   "jump": null
+  },
+  {
+   "line": 89,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "比我还大...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 90,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "求求你，求你吃我做的蛋糕好不好？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 91,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "QwQ",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 92,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 93,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "好吧...",
+     "target": 63,
+     "line": 93
+    },
+    {
+     "speaker": "我",
+     "text": "算了不跟你计较",
+     "target": 63,
+     "line": 94
+    }
+   ]
+  },
+  {
+   "line": 95,
+   "type": "blank"
+  },
+  {
+   "line": 96,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "吃了？",
+   "align": "左",
+   "branch": 56,
+   "jump": null
+  },
+  {
+   "line": 97,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好吧...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 98,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "那么肯定不好吃",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 99,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "因为那是买来的，而我现在要自己做，我自己做的蛋糕最好吃了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 100,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "对不对？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 101,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "说对！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 102,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 103,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "对！",
+     "target": 63,
+     "line": 103
+    },
+    {
+     "speaker": "我",
+     "text": "对...",
+     "target": 63,
+     "line": 104
+    }
+   ]
+  },
+  {
+   "line": 105,
+   "type": "blank"
+  },
+  {
+   "line": 106,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哈哈哈，开心",
+   "align": "左",
+   "branch": 63,
+   "jump": 72
+  },
+  {
+   "line": 107,
+   "type": "blank"
+  },
+  {
+   "line": 108,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "那么我开始了！等会就有好吃的蛋糕新鲜出炉啦",
+   "align": "左",
+   "branch": 65,
+   "jump": null
+  },
+  {
+   "line": 109,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 110,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "你会做？",
+     "target": 67,
+     "line": 110
+    },
+    {
+     "speaker": "我",
+     "text": "你确定能吃？",
+     "target": 67,
+     "line": 111
+    }
+   ]
+  },
+  {
+   "line": 112,
+   "type": "blank"
+  },
+  {
+   "line": 113,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "什么啊！小看我是不是！好歹我也是蓝带学院的",
+   "align": "左",
+   "branch": 67,
+   "jump": null
+  },
+  {
+   "line": 114,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 115,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "可是你退学了",
+     "target": 69,
+     "line": 115
+    },
+    {
+     "speaker": "我",
+     "text": "然而并没有毕业",
+     "target": 69,
+     "line": 116
+    }
+   ]
+  },
+  {
+   "line": 117,
+   "type": "blank"
+  },
+  {
+   "line": 118,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "闭嘴！",
+   "align": "左",
+   "branch": 69,
+   "jump": null
+  },
+  {
+   "line": 119,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好好看看！做好你的参谋这份有前途的职业吧！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 120,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "那么我开始了！",
+   "align": "左",
+   "branch": 72,
+   "jump": null
+  },
+  {
+   "line": 121,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "首先...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 122,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "首先要干什么？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 123,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "额... 你等一下，我去查一查",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 124,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已下线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 125,
+   "type": "wait",
+   "text": "预计5分钟",
+   "minutes": 5,
+   "jump": null,
+   "align": "中"
+  },
+  {
+   "line": 126,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已上线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 127,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "嗯！明白了！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 128,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "低粉，可可粉，红曲粉，黄油，糖，鸡蛋，香草精，酪乳，小苏打，好啦，材料都有了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 129,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "先把粉类过筛混合...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 130,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "然后是...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 131,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "把黄油加糖，融化打发",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 132,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "加入鸡蛋，加入香草精",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 133,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "你等等我哈",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 134,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已下线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 135,
+   "type": "wait",
+   "text": "预计10分钟",
+   "minutes": 10,
+   "jump": null,
+   "align": "中"
+  },
+  {
+   "line": 136,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已上线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 137,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "嗯嗯，这个东西看上去还不错，现在要加粉了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 138,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "面粉、红曲粉、可可粉，一起倒下去拌匀就可以了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 139,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "就这样没错吧？没差什么吧？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 140,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 141,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "感觉不对呢",
+     "target": 93,
+     "line": 141
+    },
+    {
+     "speaker": "我",
+     "text": "就这样没错！Miko 真厉害！",
+     "target": 94,
+     "line": 142
+    }
+   ]
+  },
+  {
+   "line": 143,
+   "type": "blank"
+  },
+  {
+   "line": 144,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不对",
+   "align": "左",
+   "branch": 94,
+   "jump": 95
+  },
+  {
+   "line": 145,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哪里不对？",
+   "align": "左",
+   "branch": 93,
+   "jump": null
+  },
+  {
+   "line": 146,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我想想...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 147,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好像是要分步骤搅拌呢",
+   "align": "左",
+   "branch": 95,
+   "jump": null
+  },
+  {
+   "line": 148,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "先加三分之一粉类，再加三分之一酪乳拌匀...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 149,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哎呀，差点忘了酪乳这个东西了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 150,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好险",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 151,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已下线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 152,
+   "type": "wait",
+   "text": "预计10分钟",
+   "minutes": 10,
+   "jump": null,
+   "align": "中"
+  },
+  {
+   "line": 153,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已上线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 154,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "嗯，好了，三分三分地拌匀，现在看上去不错",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 155,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "搞定啦",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 156,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "小苏打也混进去拌匀了，这个面糊看上去就是我的手笔！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 157,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "把面糊倒进模具，震动它...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 158,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "震动？哦，明白了，是除去气泡...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 159,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "然后要烤了...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 160,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "嗯，170 度，30 分钟",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 161,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "咦，不对，到底多少来的？我怎么又忘了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 162,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "220 度，40 分钟？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 163,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 164,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "170 度，30 分钟",
+     "target": 113,
+     "line": 164
+    },
+    {
+     "speaker": "我",
+     "text": "220 度，40 分钟",
+     "target": 113,
+     "line": 165
+    }
+   ]
+  },
+  {
+   "line": 166,
+   "type": "blank"
+  },
+  {
+   "line": 167,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好！幸亏你知道！想不到你也会烤蛋糕么",
+   "align": "左",
+   "branch": 113,
+   "jump": null
+  },
+  {
+   "line": 168,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "嗯，那现在开始烤了，放进去，调好时间",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 169,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "唔... 现在干什么呢",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 170,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "现在来做奶酪乳霜，就是蛋糕上最好吃的部分哈哈哈",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 171,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "再拿黄油、酪乳，加糖粉、加淡奶油，再打发，没毛病吧？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 172,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 173,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "打发是有技巧的哦",
+     "target": 119,
+     "line": 173
+    },
+    {
+     "speaker": "我",
+     "text": "没毛病老铁！",
+     "target": 119,
+     "line": 174
+    }
+   ]
+  },
+  {
+   "line": 175,
+   "type": "blank"
+  },
+  {
+   "line": 176,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "对了，要隔水融化，这个我还是没有忘的",
+   "align": "左",
+   "branch": 119,
+   "jump": null
+  },
+  {
+   "line": 177,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "而且打发时间和速度很重要，不然要么不成型要么过头了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 178,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "这是基本功啦",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 179,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已下线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 180,
+   "type": "wait",
+   "text": "预计8分钟",
+   "minutes": 8,
+   "jump": 129,
+   "align": "中"
+  },
+  {
+   "line": 181,
+   "type": "blank"
+  },
+  {
+   "line": 182,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "是吧！",
+   "align": "左",
+   "branch": 124,
+   "jump": null
+  },
+  {
+   "line": 183,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我的手艺嘛！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 184,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "这是基本功啦",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 185,
+   "type": "wait",
+   "text": "预计8分钟",
+   "minutes": 8,
+   "jump": 129,
+   "align": "中"
+  },
+  {
+   "line": 186,
+   "type": "blank"
+  },
+  {
+   "line": 187,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已上线",
+   "align": "中",
+   "branch": 129,
+   "jump": null
+  },
+  {
+   "line": 188,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "恩恩，感觉已经完成得很好了",
+   "align": "左",
+   "branch": 131,
+   "jump": null
+  },
+  {
+   "line": 189,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "乳霜也搞定啦，现在就是等蛋糕烤好了，然后再裱花了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 190,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "这段时间干点什么好呢",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 191,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "要不我去打游戏？还是陪你聊一会天？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 192,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 193,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "你去打游戏吧，我也要去打游戏了",
+     "target": 136,
+     "line": 193
+    },
+    {
+     "speaker": "我",
+     "text": "我们聊天吧",
+     "target": 140,
+     "line": 194
+    }
+   ]
+  },
+  {
+   "line": 195,
+   "type": "blank"
+  },
+  {
+   "line": 196,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好吧...",
+   "align": "左",
+   "branch": 136,
+   "jump": null
+  },
+  {
+   "line": 197,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "那我去了...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 198,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已下线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 199,
+   "type": "wait",
+   "text": "预计30分钟",
+   "minutes": 30,
+   "jump": 206,
+   "align": "中"
+  },
+  {
+   "line": 200,
+   "type": "blank"
+  },
+  {
+   "line": 201,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好啊好啊！",
+   "align": "左",
+   "branch": 140,
+   "jump": null
+  },
+  {
+   "line": 202,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "其实说起来，我很少跟人聊天哦",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 203,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "在学校的时候也很少跟人说话，总觉得很烦啊",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 204,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不对，也不是烦，就是觉得要费心去说别人能理解的话，又要担心自己说的别人会不会感兴趣，很累",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 205,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "后来也就不怎么说话了，有什么事情就放在心里好了，其实又真有什么事情值得分享呢",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 206,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "沉默可能是一种自我保护吧，看着那些人情与世事都没什么感动的",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 207,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "就突然觉得，我的孤独与他人无关",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 208,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不对，其实我也没有孤独啊",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 209,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "反正就懒得去猜别人的心思，也懒得让别人来猜我的心思",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 210,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 211,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "社交恐惧症？",
+     "target": 150,
+     "line": 211
+    },
+    {
+     "speaker": "我",
+     "text": "你是不是遇到什么事情啊",
+     "target": 155,
+     "line": 212
+    }
+   ]
+  },
+  {
+   "line": 213,
+   "type": "blank"
+  },
+  {
+   "line": 214,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "可能算是吧...",
+   "align": "左",
+   "branch": 150,
+   "jump": null
+  },
+  {
+   "line": 215,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "可是现在的人，都有点懒得跟人交流的样子吧",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 216,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "还是做做自己喜欢的事情最好",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 217,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "再说了...",
+   "align": "左",
+   "branch": null,
+   "jump": 165
+  },
+  {
+   "line": 218,
+   "type": "blank"
+  },
+  {
+   "line": 219,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "嗯，我没跟人说过这些，不知道该怎么说... 我家里就我和爸爸",
+   "align": "左",
+   "branch": 155,
+   "jump": null
+  },
+  {
+   "line": 220,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "他每天很忙，我也是习惯一个人了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 221,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 222,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "你还是应该多交些朋友",
+     "target": 165,
+     "line": 222
+    },
+    {
+     "speaker": "我",
+     "text": "你母亲呢？",
+     "target": 158,
+     "line": 223
+    }
+   ]
+  },
+  {
+   "line": 224,
+   "type": "blank"
+  },
+  {
+   "line": 225,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "嗯...",
+   "align": "左",
+   "branch": 158,
+   "jump": null
+  },
+  {
+   "line": 226,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "还是不说了吧...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 227,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "总之，两年前她离开我们了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 228,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "永远",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 229,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 230,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "别伤心",
+     "target": 163,
+     "line": 230
+    },
+    {
+     "speaker": "我",
+     "text": "对不起，我不该问这些",
+     "target": 163,
+     "line": 231
+    }
+   ]
+  },
+  {
+   "line": 232,
+   "type": "blank"
+  },
+  {
+   "line": 233,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "没事没事，我现在挺好的",
+   "align": "左",
+   "branch": 163,
+   "jump": 172
+  },
+  {
+   "line": 234,
+   "type": "blank"
+  },
+  {
+   "line": 235,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "这不是有你么？",
+   "align": "左",
+   "branch": 165,
+   "jump": null
+  },
+  {
+   "line": 236,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "突然觉得好像就是你还比较谈得来",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 237,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "其实我也不是脾气坏啦，之前他们都说我挺随和的",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 238,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "可是两年前，妈妈出事...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 239,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "反正之后我就看谁都不顺眼",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 240,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "唉...",
+   "align": "左",
+   "branch": null,
+   "jump": 172
+  },
+  {
+   "line": 241,
+   "type": "blank"
+  },
+  {
+   "line": 242,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "想想两年前的那个时刻，还真是难熬",
+   "align": "左",
+   "branch": 172,
+   "jump": null
+  },
+  {
+   "line": 243,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "之后的一段时间，我和爸爸闹得挺厉害，互相都看不顺眼，吵得很厉害",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 244,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "现在想想，应该是我俩都找不到平复的情绪的办法，却不由自主在互相伤害",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 245,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "其实我这个人就是，你不能顺着我来，你越顺着我，我就觉得你讨厌",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 246,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "你应该一针见血地指出我的毛病，我反而就服你（当然啦，你态度要好～～",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 247,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我爸就是搞不明白这个啊",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 248,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "后来他就把我送去法国了，估计也是眼不见为净...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 249,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我在那边又搞出事情来，结果回来了，这下他更看不顺眼我了...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 250,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "他可能也是为了不再有那些不好的情绪，所以这两年天天把自己埋在工作里",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 251,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "虽然我有时候很讨厌他唧唧歪歪",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 252,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不过这次事情之后，我能理解我和他的关系了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 253,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不管怎么说，我和他都感觉到彼此是最重要的人，我们是最关心对方的",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 254,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "可能我们的方式不一样...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 255,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "想想也真可怕，做父母好难啊，我以后才不要当父母",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 256,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 257,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "想得太远了...",
+     "target": 187,
+     "line": 257
+    },
+    {
+     "speaker": "我",
+     "text": "你爸是什么样的人啊",
+     "target": 189,
+     "line": 258
+    }
+   ]
+  },
+  {
+   "line": 259,
+   "type": "blank"
+  },
+  {
+   "line": 260,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哈哈哈随便说说嘛",
+   "align": "左",
+   "branch": 187,
+   "jump": 189
+  },
+  {
+   "line": 261,
+   "type": "blank"
+  },
+  {
+   "line": 262,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我爸就是一个严谨的科学家，可怕...",
+   "align": "左",
+   "branch": 189,
+   "jump": null
+  },
+  {
+   "line": 263,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "成天就要求我这，看不惯我那的",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 264,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "衣服不许乱扔！为什么不穿鞋在家里跑！你的东西我怎么知道在哪儿！看看你的电脑桌面都乱成什么样了！要是我一把全部给你删了！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 265,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "所有东西都应该有它唯一的位置！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 266,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "blahblahblah...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 267,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不过我要什么他都给我，买小裙子呀什么的不管多贵也从来不拒绝，他就是烦我那些习惯",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 268,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "当然，我也烦他...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 269,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "以前他不忙的时候，他还经常带我出去玩",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 270,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不过他就经常带我去图书馆，要么就带我去他公司玩，搞笑吧？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 271,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "他公司有什么好玩的，都是科学仪器，都是些不会笑的人穿着白大褂带着防护眼镜走来走去",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 272,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "那些什么叔叔伯伯之类的跟我打招呼，我都不知道他们长什么样",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 273,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "图书馆虽然还行，不过哪儿有带女儿去图书馆玩的啊，玩什么？不是应该带女孩子去海洋馆之类的吗？",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 274,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "他说图书馆是最有意思的地方，是迷宫，也是最有序的地方，是聚集知识的地方，也是隐藏秘密的地方",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 275,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "有一次他为了哄我去图书馆，给我讲图书馆的故事，妈呀，最后居然是凶杀案",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 276,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "这种故事亏他也讲得出来哦",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 277,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 278,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "哄女儿讲恐怖故事？",
+     "target": 205,
+     "line": 278
+    },
+    {
+     "speaker": "我",
+     "text": "这种老爸也是...",
+     "target": 205,
+     "line": 279
+    }
+   ]
+  },
+  {
+   "line": 280,
+   "type": "blank"
+  },
+  {
+   "line": 281,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "是啊是啊",
+   "align": "左",
+   "branch": 205,
+   "jump": null
+  },
+  {
+   "line": 282,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "他说是一个著名的哲学家写的小说",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 283,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "你说哲学家干点什么不好，写凶杀案小说",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 284,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "真是的...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 285,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "有时候觉得我爸也是搞笑...",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 286,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "不过也因为他这样，所以我也被逼着看了不少书，好像有些还是蛮有意思的",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 287,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "管他的，看得懂看不懂，我就看着玩也算学到一点算一点吧",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 288,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "哎呀，蛋糕应该好了吧，都聊得忘了时间了",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 289,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已下线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 290,
+   "type": "wait",
+   "text": "预计5分钟",
+   "minutes": 5,
+   "jump": null,
+   "align": "中"
+  },
+  {
+   "line": 291,
+   "type": "msg",
+   "speaker": "",
+   "text": "对方已上线",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 292,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "来了",
+   "align": "左",
+   "branch": 206,
+   "jump": null
+  },
+  {
+   "line": 293,
+   "type": "dongtai",
+   "image": "E1-02",
+   "text": "红丝绒蛋糕出炉！"
+  },
+  {
+   "line": 294,
+   "type": "tujian",
+   "key": "E1-02-n",
+   "sender": ""
+  },
+  {
+   "line": 295,
+   "type": "voice",
+   "speaker": "Miko",
+   "text": "哈哈哈，我是天才"
+  },
+  {
+   "line": 296,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "我就问你怎么样!!!",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 297,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "Miko出品！",
+   "align": "左",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 298,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 299,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "我擦，这真是刚才我们做的那个吗？！",
+     "target": 232,
+     "line": 299
+    },
+    {
+     "speaker": "我",
+     "text": "太赞了！",
+     "target": 233,
+     "line": 300
+    }
+   ]
+  },
+  {
+   "line": 301,
+   "type": "blank"
+  },
+  {
+   "line": 302,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "可不就是 “我们” 刚才做的那个嘛！",
+   "align": "左",
+   "branch": 232,
+   "jump": null
+  },
+  {
+   "line": 303,
+   "type": "msg",
+   "speaker": "Miko",
+   "text": "好啦，这么好的蛋糕，这次如果你再吃不上，那就不要怪我喽",
+   "align": "左",
+   "branch": 233,
+   "jump": null
+  },
+  {
+   "line": 304,
+   "type": "blank"
+  },
+  {
+   "type": "choice",
+   "line": 305,
+   "options": [
+    {
+     "speaker": "我",
+     "text": "这次我真的要来了！",
+     "target": 233,
+     "line": 305
+    },
+    {
+     "speaker": "我",
+     "text": "马上就到！你等着！",
+     "target": 233,
+     "line": 306
+    }
+   ]
+  },
+  {
+   "line": 307,
+   "type": "blank"
+  },
+  {
+   "line": 308,
+   "type": "msg",
+   "speaker": "",
+   "text": "通关成功",
+   "align": "中",
+   "branch": 233,
+   "jump": null
+  },
+  {
+   "line": 309,
+   "type": "tujian",
+   "key": "W1-02",
+   "sender": ""
+  },
+  {
+   "line": 310,
+   "type": "msg",
+   "speaker": "",
+   "text": "本次冒险结束，选择章节开始新的征程",
+   "align": "中",
+   "branch": null,
+   "jump": null
+  },
+  {
+   "line": 311,
+   "type": "blank"
+  }
+ ]
+}

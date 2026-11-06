@@ -1,0 +1,4047 @@
+{
+ "version": 1,
+ "storyid": "2.1",
+ "storyData": {
+  "E2_82": {
+   "contents": {
+    "ZH_CN": "太好了！",
+    "JP": "よかった！",
+    "EN": "Great!",
+    "ZH_HK": "太好了！",
+    "KR": "너무 잘됬다!"
+   },
+   "inputTime": 1194,
+   "id": "E2_82",
+   "nextid": "E2_83",
+   "nextMessageDelayTime": 1194,
+   "type": "MIKO_TEXT"
+  },
+  "E2_83": {
+   "contents": {
+    "ZH_CN": "他们玩牌有惩罚的！我怕死了！只有你能救我了！",
+    "JP": "カードに罰があるから、もし私は罰が与えられたら、あんたも逃げられない",
+    "EN": "The one who lost will be punished. I don’t want to! You are my only hope!",
+    "ZH_HK": "他們玩牌有懲罰的！我怕死了！只有你能救我了！",
+    "KR": "이 사람들 벌칙이 있어! 나 너무 무서워! 너만이 날 구해줄 수 있어!"
+   },
+   "inputTime": 5023,
+   "id": "E2_83",
+   "nextid": "E2_choicee_15",
+   "nextMessageDelayTime": 5023,
+   "type": "MIKO_TEXT"
+  },
+  "E2_84": {
+   "contents": {
+    "ZH_CN": "不会怪你的啦！",
+    "JP": "あんたに責めないから。",
+    "EN": "I won’t blame you!",
+    "ZH_HK": "不會怪你的啦！",
+    "KR": "너 탓하지 않을꺼거든!"
+   },
+   "inputTime": 1847,
+   "id": "E2_84",
+   "nextid": "E2_85",
+   "nextMessageDelayTime": 1847,
+   "type": "MIKO_TEXT"
+  },
+  "E2_85": {
+   "contents": {
+    "ZH_CN": "我就是病急乱投医，捞救命稻草了，他们玩牌还带惩罚的...",
+    "JP": "溺れるものはわらをもつかむのじゃないか。彼らは遊んだカードは罰があったんだ。",
+    "EN": "I’m just… anxious. Too nervous. The one who lost will be punished. ",
+    "ZH_HK": "我就是病急亂投醫，撈救命稻草了，他們玩牌還帶懲罰的...",
+    "KR": "나는 급하면 지푸라기라도 잡거든, 이 사람들 게임하면서 벌칙까지 있어서…"
+   },
+   "inputTime": 5854,
+   "id": "E2_85",
+   "nextid": "E2_choicee_16",
+   "nextMessageDelayTime": 5854,
+   "type": "MIKO_TEXT"
+  },
+  "E2_80": {
+   "contents": {
+    "ZH_CN": "赶紧帮我！少废话！",
+    "JP": "はやく助けよう！無駄話言わないで。",
+    "EN": "Help me! You don’t have a choice!",
+    "ZH_HK": "趕緊幫我！少廢話！",
+    "KR": "빨리 도와줘. 쓸데없는 이야기 하지말고."
+   },
+   "inputTime": 2200,
+   "id": "E2_80",
+   "nextid": "E2_81",
+   "nextMessageDelayTime": 2200,
+   "type": "MIKO_TEXT"
+  },
+  "E2_81": {
+   "contents": {
+    "ZH_CN": "他们玩牌是有惩罚的，要是我被惩罚了，你也跑不掉！",
+    "JP": "カードに罰があるから、もし私は罰が与えられたら、あんたも逃げられない。",
+    "EN": "The one who lost will be punished. If I lost you are so dead!",
+    "ZH_HK": "他們玩牌是有懲罰的，要是我被懲罰了，你也跑不掉！",
+    "KR": "이 사람들 게임할 때 벌칙이 있어, 만약 나 벌칙 받게되면 너도 도망 못가!"
+   },
+   "inputTime": 5409,
+   "id": "E2_81",
+   "nextid": "E2_choicee_14",
+   "nextMessageDelayTime": 5409,
+   "type": "MIKO_TEXT"
+  },
+  "E2_86": {
+   "contents": {
+    "ZH_CN": "他们说，输了的就要穿这里服务员那种dirndl裙子为大家服务",
+    "JP": "負けた人はここの店員さんのdirndlドレスを着替えてみんなにサービスを提供するって彼らに言われた。",
+    "EN": "They said the loser has to dress in dirndl, like waitress here and to serve others.",
+    "ZH_HK": "他們說，輸了的就要穿這裡服務員那種dirndl裙子為大家服務",
+    "KR": "이 사람들이 그러는데, 지면 여기 종업원들이 입는 그런 dirndl 치마를 입고 사람들한테 서빙해야한대"
+   },
+   "inputTime": 6752,
+   "id": "E2_86",
+   "nextid": "E2_87",
+   "nextMessageDelayTime": 6752,
+   "type": "MIKO_TEXT"
+  },
+  "E2_87": {
+   "contents": {
+    "ZH_CN": "要给大家端茶送水的...",
+    "JP": "みんなにお茶とか送るなんて",
+    "EN": "Have to deliver food and something…",
+    "ZH_HK": "要給大家端茶送水的...",
+    "KR": "사람들한테 차랑 물을 서빙해야해…"
+   },
+   "inputTime": 3147,
+   "id": "E2_87",
+   "nextid": "E2_88",
+   "nextMessageDelayTime": 3147,
+   "type": "MIKO_TEXT"
+  },
+  "E2_88": {
+   "contents": {
+    "ZH_CN": "什么烂惩罚嘛真是的",
+    "JP": "何の変態な罰なのか",
+    "EN": "What are they thinking about…",
+    "ZH_HK": "什麼爛懲罰嘛真是的",
+    "KR": "무슨 이상한 벌칙이야, 진짜…"
+   },
+   "inputTime": 2367,
+   "id": "E2_88",
+   "nextid": "E2_choicee_17",
+   "nextMessageDelayTime": 2367,
+   "type": "MIKO_TEXT"
+  },
+  "E2_89": {
+   "contents": {
+    "ZH_CN": "好看是好看，可是感觉很羞耻啊",
+    "JP": "綺麗だけど、やっぱりはずかしい",
+    "EN": "It looks nice and shameful.",
+    "ZH_HK": "好看是好看，可是感覺很羞恥啊",
+    "KR": "이쁘긴 이쁘지만, 너무 부끄럽잖아!"
+   },
+   "inputTime": 3105,
+   "id": "E2_89",
+   "nextid": "E2_92",
+   "nextMessageDelayTime": 3105,
+   "type": "MIKO_TEXT"
+  },
+  "E2_71": {
+   "contents": {
+    "ZH_CN": "玩什么uno！不如打游戏！有本事跟我1v1啊！跳狙啊！",
+    "JP": "unoよりゲームを遊ぶのは増しだ。やれるもんなら1v1しよう！ジャンプスナイプをしよう！",
+    "EN": "Why uno! Why they don’t play PC games? I’m the best in 1v1! Or shooting!",
+    "ZH_HK": "玩什麼uno！不如打遊戲！有本事跟我單挑中路啊！",
+    "KR": "uno를 왜 해! 차라리 게임을 하지! 할 수 있으면 나랑 1대1로 떠보자고 그래!"
+   },
+   "inputTime": 5559,
+   "id": "E2_71",
+   "nextid": "E2_72",
+   "nextMessageDelayTime": 5559,
+   "type": "MIKO_TEXT"
+  },
+  "E2_72": {
+   "contents": {
+    "ZH_CN": "我...",
+    "JP": "私...",
+    "EN": "I…",
+    "ZH_HK": "我...",
+    "KR": "나는…"
+   },
+   "inputTime": 928,
+   "id": "E2_72",
+   "nextid": "E2_73",
+   "nextMessageDelayTime": 928,
+   "type": "MIKO_TEXT"
+  },
+  "E2_73": {
+   "contents": {
+    "ZH_CN": "不说了！",
+    "JP": "やめろう！",
+    "EN": "Sad.",
+    "ZH_HK": "不說了！",
+    "KR": "됫어!"
+   },
+   "inputTime": 903,
+   "id": "E2_73",
+   "nextid": "E2_74",
+   "nextMessageDelayTime": 903,
+   "type": "MIKO_TEXT"
+  },
+  "E2_74": {
+   "contents": {
+    "ZH_CN": "我回家疗伤了",
+    "JP": "家に帰って傷を治しに行く",
+    "EN": "I’ll just go home.",
+    "ZH_HK": "我回家療傷了",
+    "KR": "나 집에 갈꺼야"
+   },
+   "inputTime": 1946,
+   "id": "E2_74",
+   "nextid": "E2_75",
+   "nextMessageDelayTime": 1946,
+   "type": "MIKO_TEXT"
+  },
+  "E2_70": {
+   "contents": {
+    "ZH_CN": "lo娘茶会什么的太无聊啦！",
+    "JP": "lolita娘の飲み会なんてつまらないよ！",
+    "EN": "Party with lolita girls, sounds boring…",
+    "ZH_HK": "coser娘茶會什麼的太無聊啦！",
+    "KR": "로리타 다과회 든 뭐든 다 재미없어!"
+   },
+   "inputTime": 2959,
+   "id": "E2_70",
+   "nextid": "E2_71",
+   "nextMessageDelayTime": 2959,
+   "type": "MIKO_TEXT"
+  },
+  "E2_79": {
+   "contents": {
+    "ZH_CN": "是不是想死？",
+    "JP": "死にたいのか",
+    "EN": "You want to be dead?",
+    "ZH_HK": "是不是想死？",
+    "KR": "죽고 싶은 거지?"
+   },
+   "inputTime": 1648,
+   "id": "E2_79",
+   "nextid": "E2_80",
+   "nextMessageDelayTime": 1648,
+   "type": "MIKO_TEXT"
+  },
+  "E2_75": {
+   "contents": {
+    "ZH_CN": "下次再聊吧",
+    "JP": "また今度ね",
+    "EN": "See you later.",
+    "ZH_HK": "下次再聊吧",
+    "KR": "다음에 얘기해."
+   },
+   "inputTime": 1787,
+   "id": "E2_75",
+   "nextid": "E2_76",
+   "nextMessageDelayTime": 1787,
+   "type": "MIKO_TEXT"
+  },
+  "E2_76": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E2_76",
+   "nextid": "E2_219",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_77": {
+   "contents": {
+    "ZH_CN": "好处？你还想什么好处？",
+    "JP": "何の役にたちたいの",
+    "EN": "Pay you back? What do you want for back?",
+    "ZH_HK": "好處？你還想什麼好處？",
+    "KR": "이득?  무슨 이득을 보고 싶은건데?"
+   },
+   "inputTime": 2588,
+   "id": "E2_77",
+   "nextid": "E2_78",
+   "nextMessageDelayTime": 2588,
+   "type": "MIKO_TEXT"
+  },
+  "E2_78": {
+   "contents": {
+    "ZH_CN": "又请你吃蛋糕，又跟你聊天，你还天天就想着你的好处！",
+    "JP": "ケーキもご馳走してあげたり、チャットもしたり、いつも何に役に立つと思ったばがり！",
+    "EN": "I treated you to cake, talk with you like a friend, and you want me to pay you back?",
+    "ZH_HK": "又請你吃蛋糕，又跟你聊天，你還天天就想著你的好處！",
+    "KR": "너한테 케익도 사주고, 또 너랑 이야기해주고 그러는데 너는 맨날 니 이익만 생각하는거지!"
+   },
+   "inputTime": 5716,
+   "id": "E2_78",
+   "nextid": "E2_79",
+   "nextMessageDelayTime": 5716,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_36": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "要要要！",
+      "JP": "いくいくいく",
+      "EN": "Sure!!",
+      "ZH_HK": "要要要！",
+      "KR": "좋아 좋아!"
+     },
+     "nextid": "E2_219"
+    },
+    {
+     "contents": {
+      "ZH_CN": "说个时间我准时到！",
+      "JP": "決めたら、時間通りに着く。",
+      "EN": "Name a time. I’ll be there on time.",
+      "ZH_HK": "說個時間我準時到！",
+      "KR": "시간 말해주면, 딱 맞춰서 갈께!"
+     },
+     "nextid": "E2_219"
+    }
+   ],
+   "id": "E2_choicee_36",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_60": {
+   "contents": {
+    "ZH_CN": "哎呀，不管怎样你也要帮我出出主意嘛",
+    "JP": "とにかくアイデアを出してくれよ",
+    "EN": "Anyway you can be my adviser!",
+    "ZH_HK": "哎呀，不管怎樣你也要幫我出出主意嘛",
+    "KR": "에휴, 어떻든 너는 나를 도와줘야해!"
+   },
+   "inputTime": 4050,
+   "id": "E2_60",
+   "nextid": "E2_choicee_12",
+   "nextMessageDelayTime": 4050,
+   "type": "MIKO_TEXT"
+  },
+  "E2_61": {
+   "contents": {
+    "ZH_CN": "真是的...好吧好吧",
+    "JP": "まったく、いいだろう",
+    "EN": "Well… Fine.",
+    "ZH_HK": "真是的...好吧好吧",
+    "KR": "아 진짜… 알겠어"
+   },
+   "inputTime": 2609,
+   "id": "E2_61",
+   "nextid": "E2_62",
+   "nextMessageDelayTime": 2609,
+   "type": "MIKO_TEXT"
+  },
+  "E2_62": {
+   "contents": {
+    "ZH_CN": "我自己玩！行了吧！",
+    "JP": "自分でやる！満足だろう",
+    "EN": "I rely on myself!",
+    "ZH_HK": "我自己玩！行了吧！",
+    "KR": "혼자 할께 ! 됬지?"
+   },
+   "inputTime": 2207,
+   "id": "E2_62",
+   "nextid": "E2_63",
+   "nextMessageDelayTime": 2207,
+   "type": "MIKO_TEXT"
+  },
+  "E2_63": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E2_63",
+   "nextid": "E2_64",
+   "nextMessageDelayTime": 1800000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_68": {
+   "contents": {
+    "ZH_CN": "恨死iris了...",
+    "JP": "irisが嫌い！",
+    "EN": "I hate Iris!",
+    "ZH_HK": "恨死iris了...",
+    "KR": "Iris가 얄미워."
+   },
+   "inputTime": 2447,
+   "id": "E2_68",
+   "nextid": "E2_69",
+   "nextMessageDelayTime": 2447,
+   "type": "MIKO_TEXT"
+  },
+  "E2_69": {
+   "contents": {
+    "ZH_CN": "还有你！",
+    "JP": "あんたも！",
+    "EN": "And you!",
+    "ZH_HK": "還有你！",
+    "KR": "그리고 너!"
+   },
+   "inputTime": 1525,
+   "id": "E2_69",
+   "nextid": "E2_choicee_13",
+   "nextMessageDelayTime": 1525,
+   "type": "MIKO_TEXT"
+  },
+  "E2_64": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방이 로그인 하였습니다"
+   },
+   "id": "E2_64",
+   "nextid": "E2_65",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_65": {
+   "contents": {
+    "ZH_CN": "输惨了...",
+    "JP": "散々に負けた",
+    "EN": "I lost…",
+    "ZH_HK": "輸慘了...",
+    "KR": "완전 졌어."
+   },
+   "inputTime": 1765,
+   "id": "E2_65",
+   "nextid": "E2_66",
+   "nextMessageDelayTime": 1765,
+   "type": "MIKO_TEXT"
+  },
+  "E2_66": {
+   "contents": {
+    "ZH_CN": "伤心...",
+    "JP": "嬉しくない",
+    "EN": "Sad…",
+    "ZH_HK": "傷心...",
+    "KR": "슬퍼.."
+   },
+   "inputTime": 1564,
+   "id": "E2_66",
+   "nextid": "E2_67",
+   "nextMessageDelayTime": 1564,
+   "type": "MIKO_TEXT"
+  },
+  "E2_67": {
+   "contents": {
+    "ZH_CN": "不活了我...",
+    "JP": "死にたい。",
+    "EN": "Life is so miserable…",
+    "ZH_HK": "不活了我...",
+    "KR": "죽고 싶어…"
+   },
+   "inputTime": 2153,
+   "id": "E2_67",
+   "nextid": "E2_68",
+   "nextMessageDelayTime": 2153,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_32": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "那miko当然是最好的",
+      "JP": "Mikoは最高に決まているんだ",
+      "EN": "Miko is definitely the best.",
+      "ZH_HK": "那miko當然是最好的",
+      "KR": "miko가 최고야 !"
+     },
+     "nextid": "E2_182"
+    },
+    {
+     "contents": {
+      "ZH_CN": "但还是比不上miko",
+      "JP": "やっぱりmikoに及ばない",
+      "EN": "But Miko is prettier.",
+      "ZH_HK": "但還是比不上miko",
+      "KR": "miko 보다 잘 할 순 없을껄?"
+     },
+     "nextid": "E2_182"
+    }
+   ],
+   "id": "E2_choicee_32",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_33": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "领我摆脱困境的...",
+      "JP": "苦境から私を救ったのは...",
+      "EN": "The one who leads me out of the dilemma…",
+      "ZH_HK": "領我擺脫困境的...",
+      "KR": "나를 곤경에서 구해준 사람…"
+     },
+     "nextid": "E2_190"
+    },
+    {
+     "contents": {
+      "ZH_CN": "领我摆脱困境的...",
+      "JP": "苦境から私を救ったのは...",
+      "EN": "The one who leads me out of the dilemma…",
+      "ZH_HK": "領我擺脫困境的...",
+      "KR": "나를 곤경에서 구해준 사람…"
+     },
+     "nextid": "E2_190"
+    }
+   ],
+   "id": "E2_choicee_33",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_34": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "我一直在的",
+      "JP": "ずっといるよ",
+      "EN": "I’m always here for you.",
+      "ZH_HK": "我一直在的",
+      "KR": "난 항상 있을 꺼야 이렇게"
+     },
+     "nextid": "E2_219"
+    },
+    {
+     "contents": {
+      "ZH_CN": "下次见",
+      "JP": "またね",
+      "EN": "Another time.",
+      "ZH_HK": "下次見",
+      "KR": "다음에 보자"
+     },
+     "nextid": "E2_219"
+    }
+   ],
+   "id": "E2_choicee_34",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_35": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "对不起...",
+      "JP": "すみません...",
+      "EN": "I’m sorry…",
+      "ZH_HK": "對不起...",
+      "KR": "미안해…"
+     },
+     "nextid": "E2_210"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我也没想到...",
+      "JP": "考えもしなかった...",
+      "EN": "I don’t see that…",
+      "ZH_HK": "我也沒想到...",
+      "KR": "나도 이렇게 될줄 몰랐어…"
+     },
+     "nextid": "E2_210"
+    }
+   ],
+   "id": "E2_choicee_35",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_30": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "冷静！最后一搏更要冷静！",
+      "JP": "落ちついて、最後の反撃はもっと落ち着くのが必要だ",
+      "EN": "Cool down. You need to keep your calm especially in the endgame.",
+      "ZH_HK": "冷靜！最後一搏更要冷靜！",
+      "KR": "냉정해! 맨 마지막에 더 냉정해야해!"
+     },
+     "nextid": "E2_156"
+    },
+    {
+     "contents": {
+      "ZH_CN": "最后要更加耐心了！",
+      "JP": "最後にもっと我慢するのが必要だ",
+      "EN": "Be patient.",
+      "ZH_HK": "最後要更加耐心了！",
+      "KR": "마지막에 더 집중해야해!"
+     },
+     "nextid": "E2_156"
+    }
+   ],
+   "id": "E2_choicee_30",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_31": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "看到了...",
+      "JP": "見た...",
+      "EN": "I see…",
+      "ZH_HK": "看到了...",
+      "KR": "봤어…"
+     },
+     "nextid": "E2_177"
+    },
+    {
+     "contents": {
+      "ZH_CN": "iris真不错啊",
+      "JP": "irisはいいね",
+      "EN": "Iris is… good.",
+      "ZH_HK": "iris真不錯啊",
+      "KR": "Iris 진짜 괜찮은데?"
+     },
+     "nextid": "E2_180"
+    }
+   ],
+   "id": "E2_choicee_31",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_50": {
+   "contents": {
+    "ZH_CN": "说起来小艾姐还真是亲和力强啊，这么快就凑上牌搭子了",
+    "JP": "そういえば、艾さんは本当に優しいね。カードの相棒も見つかった",
+    "EN": "By the way Iris is good at social things. She’s been in the game even not for a while.",
+    "ZH_HK": "說起來小艾姐還真是親和力強啊，這麼快就湊上牌搭子了",
+    "KR": "Iris 언니는 정말 친화력이 대단하다, 이렇게 빨리 친하게 어울리다니"
+   },
+   "inputTime": 5658,
+   "id": "E2_50",
+   "nextid": "E2_51",
+   "nextMessageDelayTime": 5658,
+   "type": "MIKO_TEXT"
+  },
+  "E2_51": {
+   "contents": {
+    "ZH_CN": "我先去啦！等会再聊",
+    "JP": "先に行ったわよ、またね。",
+    "EN": "I’m going for fun! Chat later!",
+    "ZH_HK": "我先去啦！等會再聊",
+    "KR": "나 먼저 갈께, 이따가 얘기하자."
+   },
+   "inputTime": 1854,
+   "id": "E2_51",
+   "nextid": "E2_52",
+   "nextMessageDelayTime": 1854,
+   "type": "MIKO_TEXT"
+  },
+  "E2_52": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E2_52",
+   "nextid": "E2_53",
+   "nextMessageDelayTime": 1800000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_57": {
+   "contents": {
+    "ZH_CN": "要死了",
+    "JP": "しまった！",
+    "EN": "I’m a loser…",
+    "ZH_HK": "要死了",
+    "KR": "죽을 것 같아…"
+   },
+   "inputTime": 663,
+   "id": "E2_57",
+   "nextid": "E2_choicee_10",
+   "nextMessageDelayTime": 663,
+   "type": "MIKO_TEXT"
+  },
+  "E2_58": {
+   "contents": {
+    "ZH_CN": "那你快帮帮我啊",
+    "JP": "じゃ助けよう",
+    "EN": "Please just help me!!",
+    "ZH_HK": "那你快幫幫我啊",
+    "KR": "그럼 너가 나좀 빨리 도와줘…"
+   },
+   "inputTime": 1850,
+   "id": "E2_58",
+   "nextid": "E2_59",
+   "nextMessageDelayTime": 1850,
+   "type": "MIKO_TEXT"
+  },
+  "E2_59": {
+   "contents": {
+    "ZH_CN": "我这都快不行了",
+    "JP": "無理になってしまうそう",
+    "EN": "I’m losing again.",
+    "ZH_HK": "我這都快不行了",
+    "KR": "나 이제 더 이상은 안될것 같아."
+   },
+   "inputTime": 1714,
+   "id": "E2_59",
+   "nextid": "E2_choicee_11",
+   "nextMessageDelayTime": 1714,
+   "type": "MIKO_TEXT"
+  },
+  "E2_53": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방이 로그인 하였습니다"
+   },
+   "id": "E2_53",
+   "nextid": "E2_54",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_54": {
+   "contents": {
+    "ZH_CN": "我觉得我上了他们的圈套了...",
+    "JP": "彼らのわなにかかったと思う",
+    "EN": "I think it’s a trap.",
+    "ZH_HK": "我覺得我上了他們的圈套了...",
+    "KR": "나 아무래도 그 사람들한테 속은 것 같아."
+   },
+   "inputTime": 3186,
+   "id": "E2_54",
+   "nextid": "E2_55",
+   "nextMessageDelayTime": 3186,
+   "type": "MIKO_TEXT"
+  },
+  "E2_55": {
+   "contents": {
+    "ZH_CN": "一直输啊",
+    "JP": "ずっと負けていた",
+    "EN": "I never win!",
+    "ZH_HK": "一直輸啊",
+    "KR": "계속 졌어?"
+   },
+   "inputTime": 1178,
+   "id": "E2_55",
+   "nextid": "E2_56",
+   "nextMessageDelayTime": 1178,
+   "type": "MIKO_TEXT"
+  },
+  "E2_56": {
+   "contents": {
+    "ZH_CN": "一会被禁止，一会被罚二，眼看要到我了，结果又翻转了",
+    "JP": "禁止されたり、処罰されたりして、もうすぐ私の番になった時、カードを出す順番はまた逆になった。",
+    "EN": "I was skipped and then had to draw two. I wait for so long to take my turn and then they reversed!",
+    "ZH_HK": "一會被禁止，一會被罰二，眼看要到我了，結果又翻轉了",
+    "KR": "방금 금지 당했다가, 또 방금 처벌 받고, 눈 앞이 내 차레였는데 다시 뱐대 순서로 돌아가고…"
+   },
+   "inputTime": 5045,
+   "id": "E2_56",
+   "nextid": "E2_57",
+   "nextMessageDelayTime": 5045,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_18": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "好啊，先压住他们",
+      "JP": "いいよ、先に彼らを抑える",
+      "EN": "Sure, first hand.",
+      "ZH_HK": "好啊，先壓住他們",
+      "KR": "맞아, 그럼 먼저 선공해!"
+     },
+     "nextid": "E2_198"
+    },
+    {
+     "contents": {
+      "ZH_CN": "先等一等",
+      "JP": "ちょっと待って",
+      "EN": "Wait.",
+      "ZH_HK": "先等一等",
+      "KR": "잠깐만!"
+     },
+     "nextid": "E2_98"
+    }
+   ],
+   "id": "E2_choicee_18",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_19": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "好牌要在最重要的时候出",
+      "JP": "いいカードは大切な時に出て",
+      "EN": "The best should be given out on the crucial moments.",
+      "ZH_HK": "好牌要在最重要的時候出",
+      "KR": "좋은 카드는 가장 중요할 때 내는 거야"
+     },
+     "nextid": "E2_100"
+    },
+    {
+     "contents": {
+      "ZH_CN": "要先走烂牌再走好牌",
+      "JP": "悪いのを先に出してから良いのを出すのだ",
+      "EN": "First trash cards, last the best.",
+      "ZH_HK": "要先走爛牌再走好牌",
+      "KR": "먼저 안좋은 카드를 내고, 좋은 카드는 나중에"
+     },
+     "nextid": "E2_100"
+    }
+   ],
+   "id": "E2_choicee_19",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_14": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "还有惩罚？",
+      "JP": "罰もあるのか",
+      "EN": "Punished?",
+      "ZH_HK": "還有懲罰？",
+      "KR": "벌칙?"
+     },
+     "nextid": "E2_86"
+    },
+    {
+     "contents": {
+      "ZH_CN": "什么惩罚？",
+      "JP": "何の罰",
+      "EN": "What’s the penalty?",
+      "ZH_HK": "什麼懲罰？",
+      "KR": "무슨 벌칙?"
+     },
+     "nextid": "E2_86"
+    }
+   ],
+   "id": "E2_choicee_14",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_15": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "还有惩罚？",
+      "JP": "罰もあるのか",
+      "EN": "Punished?",
+      "ZH_HK": "還有懲罰？",
+      "KR": "벌칙?"
+     },
+     "nextid": "E2_86"
+    },
+    {
+     "contents": {
+      "ZH_CN": "什么惩罚？",
+      "JP": "何の罰",
+      "EN": "What’s the penalty?",
+      "ZH_HK": "什麼懲罰？",
+      "KR": "무슨 벌칙?"
+     },
+     "nextid": "E2_86"
+    }
+   ],
+   "id": "E2_choicee_15",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_16": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "还有惩罚？",
+      "JP": "罰もあるのか",
+      "EN": "Punished?",
+      "ZH_HK": "還有懲罰？",
+      "KR": "벌칙?"
+     },
+     "nextid": "E2_86"
+    },
+    {
+     "contents": {
+      "ZH_CN": "什么惩罚？",
+      "JP": "何の罰",
+      "EN": "What’s the penalty?",
+      "ZH_HK": "什麼懲罰？",
+      "KR": "무슨 벌칙?"
+     },
+     "nextid": "E2_86"
+    }
+   ],
+   "id": "E2_choicee_16",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_17": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "咦，挺好看的啊",
+      "JP": "あれ、いいじゃん～",
+      "EN": "But it looks nice.",
+      "ZH_HK": "咦，挺好看的啊",
+      "KR": "어! 이쁜데?"
+     },
+     "nextid": "E2_89"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我怎么觉得我应该让你输才对啊",
+      "JP": "なんかあんたを負けさせたら正しいのだ",
+      "EN": "Maybe I should make you lose.",
+      "ZH_HK": "我怎麼覺得我應該讓你輸才對啊",
+      "KR": "이거 아무래도 내가 너를 지게 만드는게 맞는 것 같은데?"
+     },
+     "nextid": "E2_90"
+    }
+   ],
+   "id": "E2_choicee_17",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_40": {
+   "contents": {
+    "ZH_CN": "你又来了！",
+    "JP": "またそんな！",
+    "EN": "Insult again?",
+    "ZH_HK": "你又來了！",
+    "KR": "너 또 그래!"
+   },
+   "inputTime": 1044,
+   "id": "E2_40",
+   "nextid": "E2_41",
+   "nextMessageDelayTime": 1044,
+   "type": "MIKO_TEXT"
+  },
+  "E2_178": {
+   "contents": {
+    "ZH_CN": "真开心！",
+    "JP": "楽しいね",
+    "EN": "I’m feeling high!!!",
+    "ZH_HK": "真開心！",
+    "KR": "너무 기뻐!"
+   },
+   "inputTime": 1160,
+   "id": "E2_178",
+   "nextid": "E2_179",
+   "nextMessageDelayTime": 1160,
+   "type": "MIKO_TEXT"
+  },
+  "E2_41": {
+   "contents": {
+    "ZH_CN": "不跟你扯了！",
+    "JP": "あんたにからかわない",
+    "EN": "No time listen to your nonsense.",
+    "ZH_HK": "不跟你扯了！",
+    "KR": "너랑 얘기 안할래!"
+   },
+   "inputTime": 1727,
+   "id": "E2_41",
+   "nextid": "E2_42",
+   "nextMessageDelayTime": 1727,
+   "type": "MIKO_TEXT"
+  },
+  "E2_179": {
+   "contents": {
+    "ZH_CN": "多谢多谢，miko谢谢你啦",
+    "JP": "ありがとう、Miko～",
+    "EN": "Thank you so much. Miko.",
+    "ZH_HK": "多謝多謝，miko謝謝你啦",
+    "KR": "너무 고마워, miko가 너한테 너무 고마운 걸?"
+   },
+   "inputTime": 2739,
+   "id": "E2_179",
+   "nextid": "E2_183",
+   "nextMessageDelayTime": 2739,
+   "type": "MIKO_TEXT"
+  },
+  "E2_46": {
+   "contents": {
+    "ZH_CN": "哎，你说说，这么多细节，要是我再仔细一点，不是早就明白了嘛",
+    "JP": "えっ、そんなに多くの細かい事柄、もっと注意すると特にわかるだろう。",
+    "EN": "So many details. If I have noticed them, I would have knew all. ",
+    "ZH_HK": "哎，你說說，這麼多細節，要是我再仔細一點，不是早就明白了嘛",
+    "KR": "에휴, 이렇게 많은 힌트가 있었는데, 내가 조금만 관심을 기울였다면, 일찍 알수 있었을 거잖아!"
+   },
+   "inputTime": 6295,
+   "id": "E2_46",
+   "nextid": "E2_47",
+   "nextMessageDelayTime": 6295,
+   "type": "MIKO_TEXT"
+  },
+  "E2_183": {
+   "contents": {
+    "ZH_CN": "我感觉玩牌跟冒险是一样的啊",
+    "JP": "カードをするのは冒険とおなじだと思う",
+    "EN": "I think game is the same with adventure.",
+    "ZH_HK": "我感覺玩牌跟冒險是一樣的啊",
+    "KR": "내가 보기엔 카드게임은 모험이랑 좀 비슷한 것 같아."
+   },
+   "inputTime": 2954,
+   "id": "E2_183",
+   "nextid": "E2_184",
+   "nextMessageDelayTime": 2954,
+   "type": "MIKO_TEXT"
+  },
+  "E2_47": {
+   "contents": {
+    "ZH_CN": "我也真是笨",
+    "JP": "私は本当に馬鹿だなぁ",
+    "EN": "How stupid I am!",
+    "ZH_HK": "我也真是笨",
+    "KR": "나도 진짜 바보다."
+   },
+   "inputTime": 1242,
+   "id": "E2_47",
+   "nextid": "E2_choicee_9",
+   "nextMessageDelayTime": 1242,
+   "type": "MIKO_TEXT"
+  },
+  "E2_184": {
+   "contents": {
+    "ZH_CN": "心态一定得端正，你不是为了出牌而出牌，而是为了最终的结局而去规划",
+    "JP": "カードゲームをするときには心が落ち着かないとダメだよ、カードを出すためではなく、結果のためにプランを描くものだ",
+    "EN": "You have to be relaxed. You can’t give out random card but to make a plan according to your set.",
+    "ZH_HK": "心態一定得端正，你不是為了出牌而出牌，而是為了最終的結局而去規劃",
+    "KR": "마음가짐을 단정히! 카드를 내기 위해서 카드를 내는게 아니라, 마지막의 결과를 위해서 전략을 짜는거야."
+   },
+   "inputTime": 7071,
+   "id": "E2_184",
+   "nextid": "E2_185",
+   "nextMessageDelayTime": 7071,
+   "type": "MIKO_TEXT"
+  },
+  "E2_48": {
+   "contents": {
+    "ZH_CN": "恩恩",
+    "JP": "うんうん",
+    "EN": "Yeah.",
+    "ZH_HK": "嗯！",
+    "KR": "응응"
+   },
+   "inputTime": 800,
+   "id": "E2_48",
+   "nextid": "E2_49",
+   "nextMessageDelayTime": 800,
+   "type": "MIKO_TEXT"
+  },
+  "E2_181": {
+   "contents": {
+    "ZH_CN": "你赶紧说点好听的给我，来抵消这个debuff",
+    "JP": "速くいい言葉を言ってくれてこのdebuffを消して",
+    "EN": "Say something good to banish the debuff.",
+    "ZH_HK": "你趕緊說點好聽的給我，來抵消這個debuff",
+    "KR": "너 빨리 좋은 말좀 나에게 해줘, 이 debuff 좀 없애줘"
+   },
+   "inputTime": 4454,
+   "id": "E2_181",
+   "nextid": "E2_choicee_32",
+   "nextMessageDelayTime": 4454,
+   "type": "MIKO_TEXT"
+  },
+  "E2_49": {
+   "contents": {
+    "ZH_CN": "啊，小艾姐叫我去打牌，他们在玩uno，叫我一起去",
+    "JP": "あっ、艾さんにカードを遊びに呼ばれるのだ、unoをしているのだ",
+    "EN": "And Iris invited me to play cards. They are playing uno.",
+    "ZH_HK": "啊，小艾姐叫我去打牌，他們在玩uno，叫我一起去",
+    "KR": "아, Iris 언니는 지금 사람들이랑 UNO하고 있다고 나한테 같이가자고 하네"
+   },
+   "inputTime": 4816,
+   "id": "E2_49",
+   "nextid": "E2_50",
+   "nextMessageDelayTime": 4816,
+   "type": "MIKO_TEXT"
+  },
+  "E2_182": {
+   "contents": {
+    "ZH_CN": "嗯，这话我爱听",
+    "JP": "うん、よく言ったね",
+    "EN": "Yeah, that’s my boy~~~",
+    "ZH_HK": "嗯，這話我愛聽",
+    "KR": "음 이 말은 듣기 좋은데?"
+   },
+   "inputTime": 2116,
+   "id": "E2_182",
+   "nextid": "E2_183",
+   "nextMessageDelayTime": 2116,
+   "type": "MIKO_TEXT"
+  },
+  "E2_42": {
+   "contents": {
+    "ZH_CN": "我跟你说，我跟小艾姐聊天我才知道",
+    "JP": "あんたに言って、艾さんとチャットしてから知るようになる",
+    "EN": "Here’s the thing. Chatting with Iris I know that…",
+    "ZH_HK": "我跟你說，我跟小艾姐聊天我才知道",
+    "KR": "있잖아, Iris 언니랑 얘기하면서 알게된건데"
+   },
+   "inputTime": 3321,
+   "id": "E2_42",
+   "nextid": "E2_43",
+   "nextMessageDelayTime": 3321,
+   "type": "MIKO_TEXT"
+  },
+  "E2_187": {
+   "contents": {
+    "ZH_CN": "嗯！",
+    "JP": "うん！",
+    "EN": "Yeah.",
+    "ZH_HK": "嗯！",
+    "KR": "응!"
+   },
+   "inputTime": 929,
+   "id": "E2_187",
+   "nextid": "E2_188",
+   "nextMessageDelayTime": 929,
+   "type": "MIKO_TEXT"
+  },
+  "E2_43": {
+   "contents": {
+    "ZH_CN": "她的英文名字念起来虽然也跟爱丽丝差不多，但并不是alice，而是iris",
+    "JP": "艾さんの名前は英語で読んだらアイリスに似ているけど、aliceじゃない、irisなのだ。",
+    "EN": "The pronunciation of her name sounds like Alice. But it’s not an A. It’s I. ",
+    "ZH_HK": "她的英文名字念起來雖然也跟愛麗絲差不多，但並不是alice，而是iris",
+    "KR": "언니 영어 이름은 읽을 때는 엘리스와 비슷하지만 Alice가 아니라 Iris야"
+   },
+   "inputTime": 7717,
+   "id": "E2_43",
+   "nextid": "E2_44",
+   "nextMessageDelayTime": 7717,
+   "type": "MIKO_TEXT"
+  },
+  "E2_188": {
+   "contents": {
+    "ZH_CN": "我明白了！",
+    "JP": "わかった！",
+    "EN": "I see.",
+    "ZH_HK": "我明白了！",
+    "KR": "알겠어!"
+   },
+   "inputTime": 1032,
+   "id": "E2_188",
+   "nextid": "E2_189",
+   "nextMessageDelayTime": 1032,
+   "type": "MIKO_TEXT"
+  },
+  "E2_44": {
+   "contents": {
+    "ZH_CN": "是鸢尾花，拉丁语的鸢尾花",
+    "JP": "アイリスの花だ、ラテン語のアイリス",
+    "EN": "It means glad-don. Glad-don in latin.",
+    "ZH_HK": "是鳶尾花，拉丁語的鳶尾花",
+    "KR": "붓꽃이야, 라틴어로 붓꽃이라는 뜻이야."
+   },
+   "inputTime": 2500,
+   "id": "E2_44",
+   "nextid": "E2_45",
+   "nextMessageDelayTime": 2500,
+   "type": "MIKO_TEXT"
+  },
+  "E2_185": {
+   "contents": {
+    "ZH_CN": "这个过程中，各种细节，各种对方的反应，都是留给你的线索啊",
+    "JP": "この中で、いろんな細かいところとか、相手のリアクションとか、全部残された手掛かりなのだ",
+    "EN": "You have to take care of details, players’ reactions.",
+    "ZH_HK": "這個過程中，各種細節，各種對方的反應，都是留給你的線索啊",
+    "KR": "이러한 과정 속에서 상대의 각종 반응, 모든 정보는 너에게 모두 힌트가 될 수 있어."
+   },
+   "inputTime": 6257,
+   "id": "E2_185",
+   "nextid": "E2_186",
+   "nextMessageDelayTime": 6257,
+   "type": "MIKO_TEXT"
+  },
+  "E2_45": {
+   "contents": {
+    "ZH_CN": "想起来，那个大叔说喜欢那餐厅的名字，也包括了喜欢她的名字吧",
+    "JP": "そういえば、叔父さんはあのレストランの名前が好きなのは艾さんの名前が好きだからだろう。",
+    "EN": "That man said he like the name of the restaurant. I think he meant her name. ",
+    "ZH_HK": "想起來，那個大叔說喜歡那餐廳的名字，也包括了喜歡她的名字吧",
+    "KR": "생각해보니, 그 아저씨가 그 레스토랑의 이름을 좋아한다고 했었는데, 아마도 그녀의 이름을 좋아하는 것도 있겠지."
+   },
+   "inputTime": 5849,
+   "id": "E2_45",
+   "nextid": "E2_46",
+   "nextMessageDelayTime": 5849,
+   "type": "MIKO_TEXT"
+  },
+  "E2_186": {
+   "contents": {
+    "ZH_CN": "只要知道自己的道路在哪里，一路走下去，路上采集来的各种信息，最终都会成为帮助走下去的动力和线索啊",
+    "JP": "自分の行く道が分かって、歩き続けると、手に入れた各種なデータはきっと歩き続ける原動力と手掛かりになるよ！",
+    "EN": "Focusing on the target, keeping going, I can achieve my goals with all the information.",
+    "ZH_HK": "只要知道自己的道路在哪裡，一路走下去，路上採集來的各種資訊，最終都會成為説明走下去的動力和線索啊",
+    "KR": "자기의 루트가 어디 있는지만 알 수 있으면 쭉 나아 갈 수 있고, 그 안에서 각종 정보를 얻을 수 있지, 이런게 결국에는 계속 나아가게 하는 동력과 힌트가 돼."
+   },
+   "inputTime": 10304,
+   "id": "E2_186",
+   "nextid": "E2_187",
+   "nextMessageDelayTime": 10304,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_10": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "我也会玩一点uno哦",
+      "JP": "私も少しだけやれるよ",
+      "EN": "I know a little about uno.",
+      "ZH_HK": "我也會玩一點uno哦",
+      "KR": "uno나도 좀 할 줄 아는데"
+     },
+     "nextid": "E2_58"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我可完全搞不懂uno啊",
+      "JP": "全然わからない",
+      "EN": "I know little about uno.",
+      "ZH_HK": "我可完全搞不懂uno啊",
+      "KR": "나는 uno 진짜 못해."
+     },
+     "nextid": "E2_60"
+    }
+   ],
+   "id": "E2_choicee_10",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_11": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "我有什么好处呢",
+      "JP": "私に何の役たちがあるか",
+      "EN": "Well, how are you going to pay me back?",
+      "ZH_HK": "我有什麼好處呢",
+      "KR": "그럼 나한테 이득인게 뭔데?"
+     },
+     "nextid": "E2_77"
+    },
+    {
+     "contents": {
+      "ZH_CN": "好啊！",
+      "JP": "いいよ！",
+      "EN": "Sure!",
+      "ZH_HK": "好啊！",
+      "KR": "그래!"
+     },
+     "nextid": "E2_82"
+    }
+   ],
+   "id": "E2_choicee_11",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_12": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "好好好，输了别怪我哦",
+      "JP": "はいはいはい、負けたら責めてはいけないよ",
+      "EN": "Well, don’t blame me if you lose again.",
+      "ZH_HK": "好好好，輸了別怪我哦",
+      "KR": "그래그래, 져도 내 탓하지마."
+     },
+     "nextid": "E2_84"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我真的一点都不会嘛",
+      "JP": "ちっともわからない",
+      "EN": "I can’t!",
+      "ZH_HK": "我真的一點都不會嘛",
+      "KR": "응 나 진짜 조금도 못해."
+     },
+     "nextid": "E2_61"
+    }
+   ],
+   "id": "E2_choicee_12",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_13": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "这...",
+      "JP": "えっと、これ",
+      "EN": "What???",
+      "ZH_HK": "這...",
+      "KR": "이건…"
+     },
+     "nextid": "E2_70"
+    },
+    {
+     "contents": {
+      "ZH_CN": "...",
+      "JP": "...",
+      "EN": "…",
+      "ZH_HK": "...",
+      "KR": "…"
+     },
+     "nextid": "E2_70"
+    }
+   ],
+   "id": "E2_choicee_13",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_180": {
+   "contents": {
+    "ZH_CN": "是不错，不过你这话听上去不对劲啊",
+    "JP": "悪くないが、この話何だか気がすまないよ",
+    "EN": "Yeah I know. But your words sounds weird.",
+    "ZH_HK": "是不錯，不過你這話聽上去不對勁啊",
+    "KR": "괜찮은데, 근데 너의 말이 듣기에 좀 이상한데?"
+   },
+   "inputTime": 3693,
+   "id": "E2_180",
+   "nextid": "E2_181",
+   "nextMessageDelayTime": 3693,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_29": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "说得对！",
+      "JP": "その通りだ！",
+      "EN": "Agree.",
+      "ZH_HK": "說得對！",
+      "KR": "맞아."
+     },
+     "nextid": "E2_148"
+    },
+    {
+     "contents": {
+      "ZH_CN": "其实可以再等等",
+      "JP": "実はもうちょっとまっててもいい",
+      "EN": "Wait.",
+      "ZH_HK": "其實可以再等等",
+      "KR": "사실 조금더 기다려도 괜찮은데"
+     },
+     "nextid": "E2_198"
+    }
+   ],
+   "id": "E2_choicee_29",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_25": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "对的，是这个道理",
+      "JP": "はい、その通り",
+      "EN": "Yeah, I do.",
+      "ZH_HK": "對的，是這個道理",
+      "KR": "맞아, 바로 그거야."
+     },
+     "nextid": "E2_126"
+    },
+    {
+     "contents": {
+      "ZH_CN": "是的，获取颜色信息第一大渠道是放弃跟牌",
+      "JP": "そうね。色の情報を集めるルートは同じカードを出すことをやめて",
+      "EN": "A good strategy to acknowledge others’ cards is to suspend giving out.",
+      "ZH_HK": "是的，獲取顏色資訊第一大管道是放棄跟牌",
+      "KR": "맞아, 색깔 정보를 얻기 위한 가장 좋은 방법은 턴을 패스하는 거지."
+     },
+     "nextid": "E2_126"
+    }
+   ],
+   "id": "E2_choicee_25",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_26": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你跟我客气？！",
+      "JP": "遠慮されちゃうのか！？",
+      "EN": "Never mind.",
+      "ZH_HK": "你跟我客氣？！",
+      "KR": "나한테 이렇게 예의를 차려?"
+     },
+     "nextid": "E2_132"
+    },
+    {
+     "contents": {
+      "ZH_CN": "不用谢啦我们什么关系嘛",
+      "JP": "どういたしまして、いい友達だから",
+      "EN": "Never say thanks to the closest.",
+      "ZH_HK": "不用謝啦我們什麼關係嘛",
+      "KR": "고마워 안해도 되거든, 우리 사이에,"
+     },
+     "nextid": "E2_133"
+    }
+   ],
+   "id": "E2_choicee_26",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_27": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你这态度...",
+      "JP": "この態度。。。",
+      "EN": "Where’s your politeness?!",
+      "ZH_HK": "你這態度...",
+      "KR": "너 이 태도가 좀…"
+     },
+     "nextid": "E2_136"
+    },
+    {
+     "contents": {
+      "ZH_CN": "好好好",
+      "JP": "はいはいはい",
+      "EN": "Well.",
+      "ZH_HK": "好好好",
+      "KR": "그래그래"
+     },
+     "nextid": "E2_136"
+    }
+   ],
+   "id": "E2_choicee_27",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_28": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你还抢人家牌看啊",
+      "JP": "あたしのカードを奪ったのだ",
+      "EN": "You want to grab them over?",
+      "ZH_HK": "你還搶人家牌看啊",
+      "KR": "사람 카드도 뺏어서 보고 그래?"
+     },
+     "nextid": "E2_143"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你才是坏人吧...",
+      "JP": "あんたこそ",
+      "EN": "You’re the rascal.",
+      "ZH_HK": "你才是壞人吧...",
+      "KR": "니가 나쁜사람이지…"
+     },
+     "nextid": "E2_143"
+    }
+   ],
+   "id": "E2_choicee_28",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_169": {
+   "contents": {
+    "ZH_CN": "闹起来了",
+    "JP": "喧しくなる！",
+    "EN": "She’s being perverse.",
+    "ZH_HK": "鬧起來了",
+    "KR": "씨끄러워졌어"
+   },
+   "inputTime": 953,
+   "id": "E2_169",
+   "nextid": "E2_170",
+   "nextMessageDelayTime": 953,
+   "type": "MIKO_TEXT"
+  },
+  "E2_167": {
+   "contents": {
+    "ZH_CN": "等等等等",
+    "JP": "待て待て待て",
+    "EN": "Wait wait.",
+    "ZH_HK": "等等等等",
+    "KR": "기다려봐바"
+   },
+   "inputTime": 1550,
+   "id": "E2_167",
+   "nextid": "E2_168",
+   "nextMessageDelayTime": 1550,
+   "type": "MIKO_TEXT"
+  },
+  "E2_30": {
+   "contents": {
+    "ZH_CN": "会计师，数学，想想我都崩溃了",
+    "JP": "経理、数学、考えだけでも崩れてしまうようになる",
+    "EN": "Accountant? Mathematics? Never in my life.",
+    "ZH_HK": "會計師，數學，想想我都崩潰了",
+    "KR": "회계사, 수학.. 으 생각만해도 머리 아프다."
+   },
+   "inputTime": 2971,
+   "id": "E2_30",
+   "nextid": "E2_31",
+   "nextMessageDelayTime": 2971,
+   "type": "MIKO_TEXT"
+  },
+  "E2_168": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈哈",
+    "JP": "はっはっはっ",
+    "EN": "Haha.",
+    "ZH_HK": "哈哈哈哈哈",
+    "KR": "하하하하"
+   },
+   "inputTime": 1471,
+   "id": "E2_168",
+   "nextid": "E2_169",
+   "nextMessageDelayTime": 1471,
+   "type": "MIKO_TEXT"
+  },
+  "E2_35": {
+   "contents": {
+    "ZH_CN": "混蛋！",
+    "JP": "貴様！",
+    "EN": "You idiot!",
+    "ZH_HK": "混蛋！",
+    "KR": "나쁜놈!"
+   },
+   "inputTime": 1360,
+   "id": "E2_35",
+   "nextid": "E2_36",
+   "nextMessageDelayTime": 1360,
+   "type": "MIKO_TEXT"
+  },
+  "E2_172": {
+   "contents": {
+    "ZH_CN": "就让我来帮她完成惩罚！",
+    "JP": "艾さんは罰を受けるようになるのが助け上げろう",
+    "EN": "I’ll make her in it!",
+    "ZH_HK": "就讓我來幫她完成懲罰！",
+    "KR": "내가 가서 언니 벌칙하는걸 도와줘야겠다"
+   },
+   "inputTime": 2334,
+   "id": "E2_172",
+   "nextid": "E2_173",
+   "nextMessageDelayTime": 2334,
+   "type": "MIKO_TEXT"
+  },
+  "E2_36": {
+   "contents": {
+    "ZH_CN": "不要拿数学来戳我！",
+    "JP": "数学で嫌がらせを言わないで!",
+    "EN": "Don’t insult me with math!",
+    "ZH_HK": "不要拿數學來戳我！",
+    "KR": "수학 가지고 나를 괴롭히지마!"
+   },
+   "inputTime": 1821,
+   "id": "E2_36",
+   "nextid": "E2_41",
+   "nextMessageDelayTime": 1821,
+   "type": "MIKO_TEXT"
+  },
+  "E2_173": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E2_173",
+   "nextid": "E2_174",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_37": {
+   "contents": {
+    "ZH_CN": "是吧！",
+    "JP": "だろう？",
+    "EN": "OK?",
+    "ZH_HK": "是吧！",
+    "KR": "그렇지!"
+   },
+   "inputTime": 675,
+   "id": "E2_37",
+   "nextid": "E2_38",
+   "nextMessageDelayTime": 675,
+   "type": "MIKO_TEXT"
+  },
+  "E2_170": {
+   "contents": {
+    "ZH_CN": "小艾姐要耍赖，她要耍赖了！",
+    "JP": "艾さんはまた無茶なことをする",
+    "EN": "Iris is being perverse! She doesn’t take the punishment!",
+    "ZH_HK": "小艾姐要耍賴，她要耍賴了！",
+    "KR": "언니는 끝까지 포커페이스 하고 있어!"
+   },
+   "inputTime": 2835,
+   "id": "E2_170",
+   "nextid": "E2_171",
+   "nextMessageDelayTime": 2835,
+   "type": "MIKO_TEXT"
+  },
+  "E2_38": {
+   "contents": {
+    "ZH_CN": "有的人就是不适合学数学嘛，天生对数字就不敏感",
+    "JP": "ある人は生まれてから数学に合わなくて、数字に敏感しないのだ",
+    "EN": "Some one just can’t get along with math. We are born to be so.",
+    "ZH_HK": "有的人就是不適合學數學嘛，天生對數字就不敏感",
+    "KR": "어던 사람들은 수학에 맞지 않아, 태생적으로 수학에 민감하지 않다고"
+   },
+   "inputTime": 4486,
+   "id": "E2_38",
+   "nextid": "E2_choicee_8",
+   "nextMessageDelayTime": 4486,
+   "type": "MIKO_TEXT"
+  },
+  "E2_171": {
+   "contents": {
+    "ZH_CN": "这种事情有我在哪里由得她！",
+    "JP": "私がいるなら、勝つのは私に決まってる",
+    "EN": "I won’t let go of her.",
+    "ZH_HK": "這種事情有我在哪裡由得她！",
+    "KR": "내가 있는데 어떻게 언니가 마음대로 하겠어!"
+   },
+   "inputTime": 3204,
+   "id": "E2_171",
+   "nextid": "E2_172",
+   "nextMessageDelayTime": 3204,
+   "type": "MIKO_TEXT"
+  },
+  "E2_31": {
+   "contents": {
+    "ZH_CN": "真是好厉害，想不到这么漂亮的小姐姐居然数学这么厉害...",
+    "JP": "本当にすごいね。そんなに綺麗なお姉さんは数学があんなに上手なんて全然思っていなかった。",
+    "EN": "She’s so talent. Such a beauty and talented in mathematics!",
+    "ZH_HK": "真是好厲害，想不到這麼漂亮的小姐姐居然數學這麼厲害...",
+    "KR": "진짜 대단하다 이렇게 이쁜 언니가 수학도 이렇게 잘하다니…"
+   },
+   "inputTime": 6089,
+   "id": "E2_31",
+   "nextid": "E2_choicee_6",
+   "nextMessageDelayTime": 6089,
+   "type": "MIKO_TEXT"
+  },
+  "E2_176": {
+   "contents": {
+    "ZH_CN": "快快快，快看我动态！",
+    "JP": "はやくはやくはやく、私のつぶやきをみろう",
+    "EN": "Go go check my moments!",
+    "ZH_HK": "快快快，快看我動態！",
+    "KR": "빨리 빨리, 내 게시물을 좀 바봐!"
+   },
+   "inputTime": 2357,
+   "id": "E2_176",
+   "nextid": "E2_choicee_31",
+   "nextMessageDelayTime": 2357,
+   "type": "MIKO_TEXT"
+  },
+  "E2_32": {
+   "contents": {
+    "ZH_CN": "我不跟你计较！",
+    "JP": "あんたの喧嘩したくない！",
+    "EN": "I’ll just get over what you just said.",
+    "ZH_HK": "我不跟你計較！",
+    "KR": "너랑 이런걸로 안따질 거야"
+   },
+   "inputTime": 1524,
+   "id": "E2_32",
+   "nextid": "E2_33",
+   "nextMessageDelayTime": 1524,
+   "type": "MIKO_TEXT"
+  },
+  "E2_177": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈哈",
+    "JP": "はっはっはっ",
+    "EN": "Haha.",
+    "ZH_HK": "哈哈哈哈哈",
+    "KR": "하하하하"
+   },
+   "inputTime": 1594,
+   "id": "E2_177",
+   "nextid": "E2_178",
+   "nextMessageDelayTime": 1594,
+   "type": "MIKO_TEXT"
+  },
+  "E2_33": {
+   "contents": {
+    "ZH_CN": "数学差并不是我的错，是学校不对！就根本不应该让不适合的人学数学嘛",
+    "JP": "数学が悪いのは私の悪いじゃない。学校のせいで、数学に合わない人を学ばせないべきだ",
+    "EN": "Being bad at math is not my fault! I blame school. It should never make person like me study math! ",
+    "ZH_HK": "數學差並不是我的錯，是學校不對！就根本不應該讓不適合的人學數學嘛",
+    "KR": "수학 못하는건 내 잘못이야? 학교 잘못이지! 애초에 수학이랑 맞지 않는 사람한테 수학을 가르치는게 문제지!"
+   },
+   "inputTime": 6771,
+   "id": "E2_33",
+   "nextid": "E2_34",
+   "nextMessageDelayTime": 6771,
+   "type": "MIKO_TEXT"
+  },
+  "E2_174": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방이 로그인 하였습니다"
+   },
+   "id": "E2_174",
+   "nextid": "E2_175",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_34": {
+   "contents": {
+    "ZH_CN": "小艾姐这样数学天才就应该在数学上发挥才能，而我就应该在...",
+    "JP": "艾さんみたいな数学天才は数学に才能をはた酢べきだが、私は",
+    "EN": "Talents like Iris should work on math. And I, I should…",
+    "ZH_HK": "小艾姐這樣數學天才就應該在數學上發揮才能，而我就應該在...",
+    "KR": "Iris 언니 같은 수학 천재는 수학에서 재능을 발휘하는 거고, 나 같은 사람은 당연히…"
+   },
+   "inputTime": 6322,
+   "id": "E2_34",
+   "nextid": "E2_choicee_7",
+   "nextMessageDelayTime": 6322,
+   "type": "MIKO_TEXT"
+  },
+  "E2_175": {
+   "photoid": "E2-02",
+   "contents": {
+    "ZH_CN": "虽然是受惩罚，可是iris这样子还蛮好看的咧hhhhhhh",
+    "JP": "罰だと言え、アイリスの様子が悪くないね",
+    "EN": "It is punishment but I like to see Iris in the dress…",
+    "ZH_HK": "雖然是受懲罰，可是iris這樣子還蠻好看的咧 www",
+    "KR": "벌칙을 받고 있긴하지만,  Iris언니 모습은 너무 이쁘기만 한데 하하하"
+   },
+   "id": "E2_175",
+   "nextid": "E2_176",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_TIMELINE"
+  },
+  "E2_choicee_21": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "拿到弱牌就靠偷袭了",
+      "JP": "奇襲で",
+      "EN": "Then you can sneak.",
+      "ZH_HK": "拿到弱牌就靠偷襲了",
+      "KR": "안좋은 패를 가지게 되면, 틈을 노리는 거야."
+     },
+     "nextid": "E2_106"
+    },
+    {
+     "contents": {
+      "ZH_CN": "那反而要轻松些了",
+      "JP": "逆に少し楽になる",
+      "EN": "That could be easier.",
+      "ZH_HK": "那反而要輕鬆些了",
+      "KR": "오히려 더 편할 수 있는거지."
+     },
+     "nextid": "E2_106"
+    }
+   ],
+   "id": "E2_choicee_21",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_22": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "装死你一整套啊",
+      "JP": "死のふりをするのは上手だね！",
+      "EN": "Play dead?",
+      "ZH_HK": "裝死你一整套啊",
+      "KR": "포커페이스만 계속하라고?"
+     },
+     "nextid": "E2_109"
+    },
+    {
+     "contents": {
+      "ZH_CN": "耍赖你最行",
+      "JP": "厚かましいことをするのが一番上手だ",
+      "EN": "Yeah you are the master of cheating.",
+      "ZH_HK": "耍賴你最行",
+      "KR": "포커페이스는 너가 제일 잘하는 거잖아."
+     },
+     "nextid": "E2_109"
+    }
+   ],
+   "id": "E2_choicee_22",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_23": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "她没有同色牌了",
+      "JP": "同色のカードがなくなった",
+      "EN": "She run out of matched cards.",
+      "ZH_HK": "她沒有同色牌了",
+      "KR": "언니가 같은 색깔의 카드가 없어서"
+     },
+     "nextid": "E2_122"
+    },
+    {
+     "contents": {
+      "ZH_CN": "有可能是她在藏牌",
+      "JP": "カードを隠しているかもしれない",
+      "EN": "She could hide the best.",
+      "ZH_HK": "有可能是她在藏牌",
+      "KR": "아마도 카드를 숨기고 있을 수도 있어."
+     },
+     "nextid": "E2_118"
+    }
+   ],
+   "id": "E2_choicee_23",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_24": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你说的对",
+      "JP": "そうね！",
+      "EN": "You’re right.",
+      "ZH_HK": "你說的對",
+      "KR": "니가 말한게 맞아"
+     },
+     "nextid": "E2_123"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我觉得不是这样",
+      "JP": "そうとは思わない",
+      "EN": "I don’t think so.",
+      "ZH_HK": "我覺得不是這樣",
+      "KR": "내가 보기엔 그게 아니야."
+     },
+     "nextid": "E2_198"
+    }
+   ],
+   "id": "E2_choicee_24",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_39": {
+   "contents": {
+    "ZH_CN": "喂！",
+    "JP": "オイ！",
+    "EN": "Hello?",
+    "ZH_HK": "喂！",
+    "KR": "야!"
+   },
+   "inputTime": 854,
+   "id": "E2_39",
+   "nextid": "E2_40",
+   "nextMessageDelayTime": 854,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_20": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "真聪明",
+      "JP": "頭いいね",
+      "EN": "You are smart.",
+      "ZH_HK": "真聰明",
+      "KR": "똑똑하구만"
+     },
+     "nextid": "E2_104"
+    },
+    {
+     "contents": {
+      "ZH_CN": "对！",
+      "JP": "その通り！",
+      "EN": "Sure I am!",
+      "ZH_HK": "對！",
+      "KR": "맞아!"
+     },
+     "nextid": "E2_104"
+    }
+   ],
+   "id": "E2_choicee_20",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_24": {
+   "contents": {
+    "ZH_CN": "而且，我的小裙子找回来啦！",
+    "JP": "それに、わたしのドレスが取り戻した",
+    "EN": "And, my dress, I found it.",
+    "ZH_HK": "而且，我的小裙子找回來啦！",
+    "KR": "그리고 내 치마를 찾았어!"
+   },
+   "inputTime": 2826,
+   "id": "E2_24",
+   "nextid": "E2_25",
+   "nextMessageDelayTime": 2826,
+   "type": "MIKO_TEXT"
+  },
+  "E2_25": {
+   "contents": {
+    "ZH_CN": "我去那个小商店，老板娘还不错，我的小裙子保管得好好的，我又拿回来啦",
+    "JP": "あの小さいショップのおかみさんがよくて、わたしのドレスがちゃんと保管されていたので、取り戻した。",
+    "EN": "I went to the dress shop. The landlady is so kind to keep my dress good. I took it back.",
+    "ZH_HK": "我去那個小商店，老闆娘還不錯，我的小裙子保管得好好的，我又拿回來啦",
+    "KR": "이번에 그 가계에 갔는데, 거기 사모님이 너무 좋으셔서 내 치마도 잘 보관해주셔서, 이렇게 되찾아왔어."
+   },
+   "inputTime": 7033,
+   "id": "E2_25",
+   "nextid": "E2_26",
+   "nextMessageDelayTime": 7033,
+   "type": "MIKO_TEXT"
+  },
+  "E2_26": {
+   "contents": {
+    "ZH_CN": "哼哼，毕竟这么漂亮的小裙子，又这么有意义，怎么舍得",
+    "JP": "ふんふん、そんなに綺麗なドレスだもん～意義もあるし、惜しまないわけがないだろう。",
+    "EN": "It is so pretty, and meaningful for me. I can’t let it go.",
+    "ZH_HK": "哼哼，畢竟這麼漂亮的小裙子，又這麼有意義，怎麼捨得",
+    "KR": "흥, 이렇게 이쁘고 의미있는 치마 인데, 아까워서 어떻게 잃어버리겠어."
+   },
+   "inputTime": 5177,
+   "id": "E2_26",
+   "nextid": "E2_choicee_5",
+   "nextMessageDelayTime": 5177,
+   "type": "MIKO_TEXT"
+  },
+  "E2_27": {
+   "contents": {
+    "ZH_CN": "不过你知道吗，今天才有空跟小艾姐好好聊聊，觉得她好厉害",
+    "JP": "けど知ってるのか。今日こそ艾さんとよく話した。すごいのだと思っている",
+    "EN": "I haven’t talked about some serious things with Iris till today. She knows much more than me.",
+    "ZH_HK": "不過你知道嗎，今天才有空跟小艾姐好好聊聊，覺得她好厲害",
+    "KR": "아 근데 그거 알아? 오늘 Iris언니랑 얘기해봤는데, 언니 엄청 대단한것 같아."
+   },
+   "inputTime": 5459,
+   "id": "E2_27",
+   "nextid": "E2_28",
+   "nextMessageDelayTime": 5459,
+   "type": "MIKO_TEXT"
+  },
+  "E2_20": {
+   "photoid": "E2-01",
+   "contents": {
+    "ZH_CN": "全部是漂亮的小姐姐啊~~~",
+    "JP": "全部綺麗なお姉さん～",
+    "EN": "Oh! Meet many beauties here!",
+    "ZH_HK": "全部是漂亮的小姐姐啊~~~",
+    "KR": "다 이쁜 누나들이잖아!"
+   },
+   "id": "E2_20",
+   "nextid": "E2_21",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_TIMELINE"
+  },
+  "E2_21": {
+   "contents": {
+    "ZH_CN": "我带小艾姐姐来lo娘茶会啦！",
+    "JP": "アイ姉さんをロリータ娘の飲み会に連れて行くのだ",
+    "EN": "Take my dear Ai to the lolita party!",
+    "ZH_HK": "我帶小艾姐姐來coser娘茶會啦！",
+    "KR": "Iris 언니를 데리고 로리타 다과회에 왔어!"
+   },
+   "inputTime": 3491,
+   "id": "E2_21",
+   "nextid": "E2_22",
+   "nextMessageDelayTime": 3491,
+   "type": "MIKO_TEXT"
+  },
+  "E2_22": {
+   "contents": {
+    "ZH_CN": "莱恩旧梦这里的lo娘茶会要办好几天呢",
+    "JP": "ライエンムード昔の夢に催した飲み会は何日続くのだ",
+    "EN": "Lolita dressing party in Rhine Mood. We are here for several days!",
+    "ZH_HK": "萊恩舊夢這裡的coser娘茶會要辦好幾天呢",
+    "KR": "Rhine Mood 이곳의 로리타 다과회는 몇 일 동안 계속 하거든~"
+   },
+   "inputTime": 4359,
+   "id": "E2_22",
+   "nextid": "E2_23",
+   "nextMessageDelayTime": 4359,
+   "type": "MIKO_TEXT"
+  },
+  "E2_23": {
+   "contents": {
+    "ZH_CN": "我想小艾姐真是好人，又那么喜欢lo裙，那我就带她一起来玩啦",
+    "JP": "アイさんはいい人だし、ロリータドレスが好きし、それで一緒に遊びに行った。",
+    "EN": "Iris is a nice person. She is a fan of lolita dress so I take her to our party.",
+    "ZH_HK": "我想小艾姐真是好人，又那麼喜歡coser裙，那我就帶她一起來玩啦",
+    "KR": "나는 Iris 언니가 좋은 사람이라고 생각해, 로리타 치마도 좋아하고, 그래서 같이 놀러 온거야"
+   },
+   "inputTime": 6357,
+   "id": "E2_23",
+   "nextid": "E2_24",
+   "nextMessageDelayTime": 6357,
+   "type": "MIKO_TEXT"
+  },
+  "E2_28": {
+   "contents": {
+    "ZH_CN": "她上学的时候就一直在外面各种打工实习，经历不少事情了，社会经验比我丰富多了",
+    "JP": "学校を通っていた時、ずっと外でバイトをしていていろんなことを経ったので、社会経験があたしより豊かだ",
+    "EN": "She has done a lot of intern jobs during college. Gone through a lot, she got more experience in society than me.",
+    "ZH_HK": "她上學的時候就一直在外面各種打工實習，經歷不少事情了，社會經驗比我豐富多了",
+    "KR": "언니 학교 다닐때, 계속 아르바이트를 해왔었는데, 경력이 대단해, 사회 경험이 나보다 엄청 풍부해."
+   },
+   "inputTime": 7400,
+   "id": "E2_28",
+   "nextid": "E2_29",
+   "nextMessageDelayTime": 7400,
+   "type": "MIKO_TEXT"
+  },
+  "E2_29": {
+   "contents": {
+    "ZH_CN": "而且她现在虽然还是大四实习，但是已经跟会计师事务所签约了呢，毕业就会去工作了",
+    "JP": "それに艾さんは四年生で研修しているが、もう経理事務所と契約していた。卒業すると勤めに行く。",
+    "EN": "She’s an intern now, but has got employment agreement with the accounting firm. She’ll be an employee there.",
+    "ZH_HK": "而且她現在雖然還是大四實習，但是已經跟會計師事務所簽約了呢，畢業就會去工作了",
+    "KR": "게다가 언니 지금 대학교 4학년 인턴 중인데, 이미 회계사무소랑 계약이 되어있어서, 졸업하면 바로 일하러 간데."
+   },
+   "inputTime": 8080,
+   "id": "E2_29",
+   "nextid": "E2_30",
+   "nextMessageDelayTime": 8080,
+   "type": "MIKO_TEXT"
+  },
+  "E2_1": {
+   "contents": {
+    "ZH_CN": "TCP handshaking…",
+    "JP": "TCP handshaking…",
+    "EN": "TCP handshaking…",
+    "ZH_HK": "TCP handshaking…",
+    "KR": "TCP handshaking…"
+   },
+   "id": "E2_1",
+   "nextid": "E2_2",
+   "nextMessageDelayTime": 0,
+   "day": "D1",
+   "scence": "莱恩旧梦-好结局",
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_189": {
+   "contents": {
+    "ZH_CN": "走在未知的道路上，不许停也不能回头！",
+    "JP": "未知の道に歩いていて、止まりもできない、振り返りもできない",
+    "EN": "Head for unknown ",
+    "ZH_HK": "走在未知的道路上，不許停也不能回頭！",
+    "KR": "앞을 알 수 없는 길에서 나아갈 때는 멈춰서도, 돌아봐서도 안되!"
+   },
+   "inputTime": 4347,
+   "id": "E2_189",
+   "nextid": "E2_choicee_33",
+   "nextMessageDelayTime": 4347,
+   "type": "MIKO_TEXT"
+  },
+  "E2_13": {
+   "contents": {
+    "ZH_CN": "哎，要死",
+    "JP": "畜生！",
+    "EN": "Oh I’m so dead.",
+    "ZH_HK": "哎，要死",
+    "KR": "아고 죽겠다…"
+   },
+   "inputTime": 1273,
+   "id": "E2_13",
+   "nextid": "E2_14",
+   "nextMessageDelayTime": 1273,
+   "type": "MIKO_TEXT"
+  },
+  "E2_194": {
+   "contents": {
+    "ZH_CN": "哎，真高兴...",
+    "JP": "えっうれしいなぁ",
+    "EN": "Oh, what a pleasure.",
+    "ZH_HK": "哎，真高興...",
+    "KR": "아, 정말 기쁘네.."
+   },
+   "inputTime": 1682,
+   "id": "E2_194",
+   "nextid": "E2_195",
+   "nextMessageDelayTime": 1682,
+   "type": "MIKO_TEXT"
+  },
+  "E2_14": {
+   "contents": {
+    "ZH_CN": "不过他回来还有几天，我也就只有几天好日子过喽",
+    "JP": "お父さんが帰る前にまだ数日のいい生活しかない",
+    "EN": "But it takes a few days for him to be back. I still got some good days.",
+    "ZH_HK": "不過他回來還有幾天，我也就只有幾天好日子過囉",
+    "KR": "그래도 아빠 돌아오려면 아직 몇 일 있어야 하니깐, 그때까지는 살만해."
+   },
+   "inputTime": 4887,
+   "id": "E2_14",
+   "nextid": "E2_15",
+   "nextMessageDelayTime": 4887,
+   "type": "MIKO_TEXT"
+  },
+  "E2_195": {
+   "contents": {
+    "ZH_CN": "我这边继续玩啦，小艾姐还说下次带我去海洋馆一起玩呢，先不聊了哈",
+    "JP": "こっちは遊びつづけている。艾さんは今度私を水族館につれていくといった、また今度ね",
+    "EN": "I’ll go on playing. Iris said she would take me to the aquarium. Chat later!",
+    "ZH_HK": "我這邊繼續玩啦，小艾姐還說下次帶我去海洋館一起玩呢，先不聊了哈",
+    "KR": "난 그럼 사람들이랑 계속 놀께, 그리고 Iris언니가 다음에 나 데리고 수족관가서 놀꺼래, 나중에 얘기하자 하하"
+   },
+   "inputTime": 6768,
+   "id": "E2_195",
+   "nextid": "E2_196",
+   "nextMessageDelayTime": 6768,
+   "type": "MIKO_TEXT"
+  },
+  "E2_15": {
+   "contents": {
+    "ZH_CN": "对了，你猜猜我现在在干嘛",
+    "JP": "そうだ、わたしは何をしているのかを当ててみる？",
+    "EN": "By the way, guess what I’m doing.",
+    "ZH_HK": "對了，你猜猜我現在在幹嘛",
+    "KR": "맞아. 내가 뭐하고 있는지 맞춰봐."
+   },
+   "inputTime": 2911,
+   "id": "E2_15",
+   "nextid": "E2_choicee_4",
+   "nextMessageDelayTime": 2911,
+   "type": "MIKO_TEXT"
+  },
+  "E2_192": {
+   "contents": {
+    "ZH_CN": "是你！",
+    "JP": "あんたなのだ",
+    "EN": "It’s you.",
+    "ZH_HK": "是你！",
+    "KR": "너야!"
+   },
+   "inputTime": 1258,
+   "id": "E2_192",
+   "nextid": "E2_193",
+   "nextMessageDelayTime": 1258,
+   "type": "MIKO_TEXT"
+  },
+  "E2_16": {
+   "contents": {
+    "ZH_CN": "当然是玩，还能最后玩几天了",
+    "JP": "遊ぶに決まっていて、最後の何日が遊べる",
+    "EN": "Yeah I’m on the game. There is not much good time left.",
+    "ZH_HK": "當然是玩，還能最後玩幾天了",
+    "KR": "당연히 놀고 있지. 마지막으로 놀 수 있는 시간이 몇일 밖에 없는데..."
+   },
+   "inputTime": 3333,
+   "id": "E2_16",
+   "nextid": "E2_17",
+   "nextMessageDelayTime": 3333,
+   "type": "MIKO_TEXT"
+  },
+  "E2_193": {
+   "contents": {
+    "ZH_CN": "也是我们一起！",
+    "JP": "私たち二人なのだ",
+    "EN": "And both of us.",
+    "ZH_HK": "也是我們一起！",
+    "KR": "그리고 우리가 같이 한거야!"
+   },
+   "inputTime": 1797,
+   "id": "E2_193",
+   "nextid": "E2_194",
+   "nextMessageDelayTime": 1797,
+   "type": "MIKO_TEXT"
+  },
+  "E2_198": {
+   "contents": {
+    "ZH_CN": "真的么？",
+    "JP": "本当？",
+    "EN": "Really?",
+    "ZH_HK": "真的麼？",
+    "KR": "진짜로?"
+   },
+   "inputTime": 1011,
+   "id": "E2_198",
+   "nextid": "E2_199",
+   "nextMessageDelayTime": 1011,
+   "scence": "莱恩旧梦-坏结局",
+   "type": "MIKO_TEXT"
+  },
+  "E2_10": {
+   "contents": {
+    "ZH_CN": "最后他们全部都被抓啦，警察消防队保安全都来了，那叫热闹啊",
+    "JP": "結局全員逮捕された。警察も消防隊も警備たちも来た、賑やかだなぁ",
+    "EN": "In the end they were arrested. Police, firemen and guards or something were there. So many people.",
+    "ZH_HK": "最後他們全部都被抓啦，員警消防隊保安全都來了，那叫熱鬧啊",
+    "KR": "결국에 그 사람들은 잡혀갔어. 결찰과 소방관들이 왔고, 엄청 요란했어."
+   },
+   "inputTime": 5843,
+   "id": "E2_10",
+   "nextid": "E2_11",
+   "nextMessageDelayTime": 5843,
+   "type": "MIKO_TEXT"
+  },
+  "E2_199": {
+   "contents": {
+    "ZH_CN": "我怎么觉得不太对呢",
+    "JP": "どうかしていた",
+    "EN": "Why I think there is something weird…",
+    "ZH_HK": "我怎麼覺得不太對呢",
+    "KR": "난 왜 뭔가 잘못된 것 같지 왜?"
+   },
+   "inputTime": 2486,
+   "id": "E2_199",
+   "nextid": "E2_200",
+   "nextMessageDelayTime": 2486,
+   "type": "MIKO_TEXT"
+  },
+  "E2_11": {
+   "contents": {
+    "ZH_CN": "不过我也跑去警察局背了半天书",
+    "JP": "けどわたしも交番に本を長く暗唱するのだ",
+    "EN": "I also went to the police station to give some information.",
+    "ZH_HK": "不過我也跑去警察局背了半天書",
+    "KR": "나까지 경찰서에 가서 계속 조사 받았어."
+   },
+   "inputTime": 3245,
+   "id": "E2_11",
+   "nextid": "E2_12",
+   "nextMessageDelayTime": 3245,
+   "type": "MIKO_TEXT"
+  },
+  "E2_196": {
+   "contents": {
+    "ZH_CN": "谢谢你陪我！谢谢你给我那么多好的建议！",
+    "JP": "付き合ってくれてありがとう。いいアイデアを言ってくれてありがとう",
+    "EN": "Thanks for your company. Thanks for you advice.",
+    "ZH_HK": "謝謝你陪我！謝謝你給我那麼多好的建議！",
+    "KR": "고마워 날 도와줘서! 나에게 많은 조언을 해줘서!"
+   },
+   "inputTime": 4250,
+   "id": "E2_196",
+   "nextid": "E2_197",
+   "nextMessageDelayTime": 4250,
+   "type": "MIKO_TEXT"
+  },
+  "E2_12": {
+   "contents": {
+    "ZH_CN": "他们通知我爸，我爸没跟我通话，我估计我要完蛋...",
+    "JP": "父も連絡させたが、話をしなかった、ヤバイだと思って",
+    "EN": "They told my dad about me. He hasn’t talked to me yet. I think I’m dead.",
+    "ZH_HK": "他們通知我爸，我爸沒跟我通話，我估計我要完蛋了...",
+    "KR": "그 사람들이 우리 아빠한테 알려줬는데도, 아빠가 연락이 없어. 난 망한 것 같아."
+   },
+   "inputTime": 5402,
+   "id": "E2_12",
+   "nextid": "E2_choicee_3",
+   "nextMessageDelayTime": 5402,
+   "type": "MIKO_TEXT"
+  },
+  "E2_197": {
+   "contents": {
+    "ZH_CN": "你要一直在哦！",
+    "JP": "ずっといるわよ",
+    "EN": "Please, keep in my company.",
+    "ZH_HK": "你要一直在哦！",
+    "KR": "너 이렇게 계속 있어야해!"
+   },
+   "inputTime": 1812,
+   "id": "E2_197",
+   "nextid": "E2_choicee_34",
+   "nextMessageDelayTime": 1812,
+   "type": "MIKO_TEXT"
+  },
+  "E2_17": {
+   "contents": {
+    "ZH_CN": "不过你肯定猜不到我在玩什么",
+    "JP": "けどあたしは何をしているんのだ、あんたが絶対に当てられない",
+    "EN": "You can’t guess what I’m playing.",
+    "ZH_HK": "不過你肯定猜不到我在玩什麼",
+    "KR": "그래도 너는 내가 뭐하고 놀고 있는지는 모를껄?"
+   },
+   "inputTime": 2720,
+   "id": "E2_17",
+   "nextid": "E2_19",
+   "nextMessageDelayTime": 2720,
+   "type": "MIKO_TEXT"
+  },
+  "E2_190": {
+   "contents": {
+    "ZH_CN": "是你？",
+    "JP": "あんたなのか",
+    "EN": "Is it you?",
+    "ZH_HK": "是你？",
+    "KR": "그게 너 인거야?"
+   },
+   "inputTime": 942,
+   "id": "E2_190",
+   "nextid": "E2_191",
+   "nextMessageDelayTime": 942,
+   "type": "MIKO_TEXT"
+  },
+  "E2_18": {
+   "contents": {
+    "ZH_CN": "笨的哦你！",
+    "JP": "馬鹿！",
+    "EN": "Use your brain!",
+    "ZH_HK": "你很87欸！",
+    "KR": "바보야 너!"
+   },
+   "inputTime": 1062,
+   "id": "E2_18",
+   "nextid": "E2_19",
+   "nextMessageDelayTime": 1062,
+   "type": "MIKO_TEXT"
+  },
+  "E2_191": {
+   "contents": {
+    "ZH_CN": "还是根本只有我自己？",
+    "JP": "それとも私自身だけなのか",
+    "EN": "Or it’s just myself?",
+    "ZH_HK": "還是根本只有我自己？",
+    "KR": "아니면 나 혼자 스스로 였던 거야?"
+   },
+   "inputTime": 2311,
+   "id": "E2_191",
+   "nextid": "E2_192",
+   "nextMessageDelayTime": 2311,
+   "type": "MIKO_TEXT"
+  },
+  "E2_19": {
+   "contents": {
+    "ZH_CN": "你看看我动态就知道了！",
+    "JP": "つぶやきをみると分かる",
+    "EN": "Check my moments.",
+    "ZH_HK": "你看看我動態就知道了！",
+    "KR": "내가 올리는 게시물들을 보면 알 수 있잖아!"
+   },
+   "inputTime": 2234,
+   "id": "E2_19",
+   "nextid": "E2_20",
+   "nextMessageDelayTime": 60000,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_2": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你怎么样了啊",
+      "JP": "どうしたんだ",
+      "EN": "OK, how are you going?",
+      "ZH_HK": "你怎麼樣了啊",
+      "KR": "어땠어?"
+     },
+     "nextid": "E2_8"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你安全就最好了",
+      "JP": "あんたが大丈夫ならさいこうだ",
+      "EN": "It’s good to hear from you.",
+      "ZH_HK": "你安全就太好了",
+      "KR": "니가 안전하기만 하면 돼."
+     },
+     "nextid": "E2_8"
+    }
+   ],
+   "id": "E2_choicee_2",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_1": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "活着啊...",
+      "JP": "生きている",
+      "EN": "What?",
+      "ZH_HK": "活著啊...",
+      "KR": "살아있어…"
+     },
+     "nextid": "E2_7"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你怎么就没消息了，急死我了",
+      "JP": "急に返事がなくなちゃって、じれったいわね",
+      "EN": "You make no reply! I’m waiting!!",
+      "ZH_HK": "你怎麼就沒消息了，急死我了",
+      "KR": "어떻게 갑자기 소식이 없어. 걱정했잖아."
+     },
+     "nextid": "E2_6"
+    }
+   ],
+   "id": "E2_choicee_1",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_4": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "玩呗，还能干吗",
+      "JP": "遊ぶのだろう、それ以外ないのだろう",
+      "EN": "Playing games? Or is there anything you can do.",
+      "ZH_HK": "玩唄，還能幹嗎",
+      "KR": "놀고 있겠지. 뭐 다른 걸 하겠어."
+     },
+     "nextid": "E2_16"
+    },
+    {
+     "contents": {
+      "ZH_CN": "猜不到",
+      "JP": "当てられない",
+      "EN": "I can’t.",
+      "ZH_HK": "猜不到",
+      "KR": "모르겠다."
+     },
+     "nextid": "E2_18"
+    }
+   ],
+   "id": "E2_choicee_4",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_3": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "该！",
+      "JP": "ざま！",
+      "EN": "Well you deserve it.",
+      "ZH_HK": "該！",
+      "KR": "그럴 줄 알았어!"
+     },
+     "nextid": "E2_13"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你好好想想怎么认错吧！",
+      "JP": "どうやって謝ったほうがいいのかをよく考えなさい",
+      "EN": "Think about apologising.",
+      "ZH_HK": "你好好想想怎麼認錯吧！",
+      "KR": "반성이나 잘 해봐!"
+     },
+     "nextid": "E2_13"
+    }
+   ],
+   "id": "E2_choicee_3",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_choicee_6": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "全天下就你的数学最差吧...",
+      "JP": "全世界あんたの数学が一番最低だろう",
+      "EN": "Maybe it’s because you are bad at it?",
+      "ZH_HK": "全天下就你的數學最差吧...",
+      "KR": "아마 너 수학은 세상에서 제일 못할 걸"
+     },
+     "nextid": "E2_32"
+    },
+    {
+     "contents": {
+      "ZH_CN": "额...我也是数学苦手",
+      "JP": "えっと、私も苦手なんだ",
+      "EN": "Em… I’m not good at math either.",
+      "ZH_HK": "額...我也是數學苦手",
+      "KR": "아 나도 수학은 잘 못해."
+     },
+     "nextid": "E2_37"
+    }
+   ],
+   "id": "E2_choicee_6",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_136": {
+   "contents": {
+    "ZH_CN": "我觉得吧...",
+    "JP": "なんだか。。。",
+    "EN": "I think…",
+    "ZH_HK": "我覺得吧...",
+    "KR": "내가 보기엔…."
+   },
+   "inputTime": 2033,
+   "id": "E2_136",
+   "nextid": "E2_137",
+   "nextMessageDelayTime": 2033,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_5": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "太好了",
+      "JP": "よかった。",
+      "EN": "Great.",
+      "ZH_HK": "太好了",
+      "KR": "너무 잘 됬네"
+     },
+     "nextid": "E2_27"
+    },
+    {
+     "contents": {
+      "ZH_CN": "真漂亮",
+      "JP": "きれいだなぁ。",
+      "EN": "Lovely.",
+      "ZH_HK": "真漂亮",
+      "KR": "진짜 이뻐~"
+     },
+     "nextid": "E2_27"
+    }
+   ],
+   "id": "E2_choicee_5",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_137": {
+   "contents": {
+    "ZH_CN": "如果小艾姐之前不是故意为了防守，那她主动出万能牌变色，就是为了她的色牌铺路依情况适当保留。",
+    "JP": "もし艾さんはわざと防衛することじゃないなら、積極に万能カードを出して色を変えたのは色カードの道を造るために状況によって適当に保留する。",
+    "EN": "If Iris is not defending and she discards the wild to discard some coloured cards…",
+    "ZH_HK": "如果小艾姐之前不是故意為了防守，那她主動出萬能牌變色，就是為了她的色牌鋪路依情況適當保留。",
+    "KR": "만약Iris가 이전에 고의적으로 방어를 한게 아니라면, 만능카드를 내서 색깔을 바꾼게, 색깔 카드의 진입로를 만들기 위한걸 꺼야."
+   },
+   "inputTime": 9038,
+   "id": "E2_137",
+   "nextid": "E2_138",
+   "nextMessageDelayTime": 9038,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_8": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "对啊，密码猜不出来就随便按按",
+      "JP": "そうだよ、パスワードを当てられないなら、勝てに当ててもいい",
+      "EN": "Yeah, if you don’t know the password it doesn’t matter. Just press some buttons.",
+      "ZH_HK": "對啊，密碼猜不出來就隨便按按",
+      "KR": "맞아, 비밀번호를 맞출수 없으면 그냥 막 눌러보는 거지."
+     },
+     "nextid": "E2_39"
+    },
+    {
+     "contents": {
+      "ZH_CN": "按错密码反正也不会爆炸对不对",
+      "JP": "当てられなくても爆発しないからねぇ～",
+      "EN": "It won’t explode if I put it wrong.",
+      "ZH_HK": "按錯密碼反正也不會爆炸對不對",
+      "KR": "비밀번호를 잘못 누르더라도 어차피 폭발하는 것도 아니잖아 그치"
+     },
+     "nextid": "E2_39"
+    }
+   ],
+   "id": "E2_choicee_8",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_134": {
+   "contents": {
+    "ZH_CN": "我们什么关系嘛！对不对！",
+    "JP": "いい友達だろう",
+    "EN": "We are the closest, aren’t we?",
+    "ZH_HK": "我們什麼關係嘛！對不對！",
+    "KR": "우리 사이잖아, 그치?"
+   },
+   "inputTime": 3036,
+   "id": "E2_134",
+   "nextid": "E2_135",
+   "nextMessageDelayTime": 3036,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_7": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "在什么？",
+      "JP": "なに？",
+      "EN": "Should what?",
+      "ZH_HK": "在什麼？",
+      "KR": "뭘 ?"
+     },
+     "nextid": "E2_35"
+    },
+    {
+     "contents": {
+      "ZH_CN": "继续说啊",
+      "JP": "言い続けてよ",
+      "EN": "Go on?",
+      "ZH_HK": "繼續說啊",
+      "KR": "계속 말해봐"
+     },
+     "nextid": "E2_35"
+    }
+   ],
+   "id": "E2_choicee_7",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_135": {
+   "contents": {
+    "ZH_CN": "快说下面怎么出！不说揍你哦！",
+    "JP": "次、どうするの、言わないなら殴るわよ",
+    "EN": "… Tell me what to discard. Or you’re dead!",
+    "ZH_HK": "快說下面怎麼出！不說揍你哦！",
+    "KR": "빨리 다음에 어떻게 내야하는지 알랴줘! 안알려주면 때려줄꺼야!"
+   },
+   "inputTime": 3210,
+   "id": "E2_135",
+   "nextid": "E2_choicee_27",
+   "nextMessageDelayTime": 3210,
+   "type": "MIKO_TEXT"
+  },
+  "E2_choicee_9": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "还好啦",
+      "JP": "まぁ",
+      "EN": "It’s ok.",
+      "ZH_HK": "還好啦 知道就好www",
+      "KR": "아니야"
+     },
+     "nextid": "E2_48"
+    },
+    {
+     "contents": {
+      "ZH_CN": "没事啦，现在都明白啦",
+      "JP": "大丈夫だ、今全部が分かる",
+      "EN": "Don’t worry. Now it’s all clear.",
+      "ZH_HK": "沒事啦，現在都明白啦",
+      "KR": "괜찮아, 지금은 다 알게 된거잖아."
+     },
+     "nextid": "E2_48"
+    }
+   ],
+   "id": "E2_choicee_9",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E2_138": {
+   "contents": {
+    "ZH_CN": "说明她手上有一门强色，现在她不跟拍，更加说明了她当前颜色很缺牌",
+    "JP": "一種の色が強いと証明する。艾さんは今やめるのはこの色を欠ける可能性が高い。",
+    "EN": "That leads to the conclusion that she’s got great colours in hand. Now she doesn’t follow because it’s not that colour.",
+    "ZH_HK": "說明她手上有一門強色，現在她不跟拍，更加說明了她使用中色彩很缺牌",
+    "KR": "이건 지금 손에 한 색깔의 카드가 많다는 것을 의미하고, 지금 턴을 패스하는 것은 지금 색깔카드가 부족하다는 것을 뜻하고 있는 거지."
+   },
+   "inputTime": 6974,
+   "id": "E2_138",
+   "nextid": "E2_139",
+   "nextMessageDelayTime": 6974,
+   "type": "MIKO_TEXT"
+  },
+  "E2_139": {
+   "contents": {
+    "ZH_CN": "而且她现在手上剩的牌应该不多了，但她还没有喊uno",
+    "JP": "それに艾さんが持っているカード多くないはずだが、unoは話していない。今の色が欠けると証明する。",
+    "EN": "And she doesn’t have many cards in hand, but she doesn’t call it uno.",
+    "ZH_HK": "而且她現在手上剩的牌應該不多了，但她還沒有喊uno",
+    "KR": "게다가 지금 손에 남은 카드가 얼마 없는데도, uno를 외치지 않았어."
+   },
+   "inputTime": 5088,
+   "id": "E2_139",
+   "nextid": "E2_140",
+   "nextMessageDelayTime": 5088,
+   "type": "MIKO_TEXT"
+  },
+  "E2_140": {
+   "contents": {
+    "ZH_CN": "哎哎，她把手牌捏得好紧，一点都不露给我看到",
+    "JP": "ええ、カードをしっかりと握ていて、ちっとも漏れていない",
+    "EN": "Oh she’s covering her cards. I can’t see them!",
+    "ZH_HK": "哎哎，她把手牌捏得好緊，一點都不露給我看到",
+    "KR": "어어, 언니가 카드를 손으로 꽉쥐고 있어, 조금도 나한테 안보여주고"
+   },
+   "inputTime": 4207,
+   "id": "E2_140",
+   "nextid": "E2_141",
+   "nextMessageDelayTime": 4207,
+   "type": "MIKO_TEXT"
+  },
+  "E2_143": {
+   "contents": {
+    "ZH_CN": "哼~",
+    "JP": "ふん～",
+    "EN": "Ah!!",
+    "ZH_HK": "哼~",
+    "KR": "흥"
+   },
+   "inputTime": 416,
+   "id": "E2_143",
+   "nextid": "E2_144",
+   "nextMessageDelayTime": 416,
+   "type": "MIKO_TEXT"
+  },
+  "E2_144": {
+   "contents": {
+    "ZH_CN": "这样说来，我应该主动变色，把出牌色序改过来",
+    "JP": "そういうと、積極的に色を変えて、カードを出す順番を逆になるべきだ",
+    "EN": "It seems I should discard a wild to declare the colour that is good for me.",
+    "ZH_HK": "這樣說來，我應該主動變色，把出牌色序改過來",
+    "KR": "이렇게 보니깐 내가 색깔을 바꾸고, 색깔 순서를 바꿔야겠어."
+   },
+   "inputTime": 4295,
+   "id": "E2_144",
+   "nextid": "E2_145",
+   "nextMessageDelayTime": 4295,
+   "type": "MIKO_TEXT"
+  },
+  "E2_141": {
+   "contents": {
+    "ZH_CN": "抢都抢过来...",
+    "JP": "奪っても奪わない！",
+    "EN": "Nor can I grab them over…",
+    "ZH_HK": "搶都搶過來...",
+    "KR": "그냥 뺏어서 봐"
+   },
+   "inputTime": 2382,
+   "id": "E2_141",
+   "nextid": "E2_142",
+   "nextMessageDelayTime": 2382,
+   "type": "MIKO_TEXT"
+  },
+  "E2_142": {
+   "contents": {
+    "ZH_CN": "坏人！",
+    "JP": "悪い奴！",
+    "EN": "What a rascal!",
+    "ZH_HK": "壞人！",
+    "KR": "나쁜사람이구만!"
+   },
+   "inputTime": 780,
+   "id": "E2_142",
+   "nextid": "E2_choicee_28",
+   "nextMessageDelayTime": 780,
+   "type": "MIKO_TEXT"
+  },
+  "E2_2": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방이 로그인 하였습니다"
+   },
+   "id": "E2_2",
+   "nextid": "E2_3",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_3": {
+   "contents": {
+    "ZH_CN": "哈喽嗨！",
+    "JP": "おはよ～",
+    "EN": "Hey!",
+    "ZH_HK": "哈囉～嗨！",
+    "KR": "헬로! 하이!"
+   },
+   "inputTime": 863,
+   "id": "E2_3",
+   "nextid": "E2_4",
+   "nextMessageDelayTime": 863,
+   "type": "MIKO_TEXT"
+  },
+  "E2_4": {
+   "contents": {
+    "ZH_CN": "还活着么？",
+    "JP": "生きているのか",
+    "EN": "You alive????",
+    "ZH_HK": "還活著嗎？",
+    "KR": "아직 살아있어?"
+   },
+   "inputTime": 1722,
+   "id": "E2_4",
+   "nextid": "E2_5",
+   "nextMessageDelayTime": 1722,
+   "type": "MIKO_TEXT"
+  },
+  "E2_5": {
+   "contents": {
+    "ZH_CN": "喂喂！",
+    "JP": "もしもし！",
+    "EN": "Hi????",
+    "ZH_HK": "喂喂！",
+    "KR": "이봐!"
+   },
+   "inputTime": 1159,
+   "id": "E2_5",
+   "nextid": "E2_choicee_1",
+   "nextMessageDelayTime": 1159,
+   "type": "MIKO_TEXT"
+  },
+  "E2_6": {
+   "contents": {
+    "ZH_CN": "嗨呀，别急别急，我这不是事情一完就马上联系你了嘛",
+    "JP": "焦ないで焦ないで、手元の仕事が終わったらすぐ連絡したのじゃないか",
+    "EN": "Oh don’t hurry. I was dealing with something. Now we can chat.",
+    "ZH_HK": "嗨呀，別急別急，我這不是事情一完就馬上聯繫你了嘛",
+    "KR": "에이 걱정할 필요 없어, 내가 일 끝나자마자 이렇게 연락했잖아."
+   },
+   "inputTime": 5167,
+   "id": "E2_6",
+   "nextid": "E2_10",
+   "nextMessageDelayTime": 5167,
+   "type": "MIKO_TEXT"
+  },
+  "E2_7": {
+   "contents": {
+    "ZH_CN": "喂！你都不问问我怎么样了么？！",
+    "JP": "おい！あたしのことを聞きもしないのか",
+    "EN": "Hello?? Don’t you ask about ME??",
+    "ZH_HK": "喂！你都不問問我怎麼樣了麼？！",
+    "KR": "아니, 근데 나한테 어땠냐고 물어보지도 않아?"
+   },
+   "inputTime": 3434,
+   "id": "E2_7",
+   "nextid": "E2_choicee_2",
+   "nextMessageDelayTime": 3434,
+   "type": "MIKO_TEXT"
+  },
+  "E2_8": {
+   "contents": {
+    "ZH_CN": "哼哼~",
+    "JP": "ふんふん～",
+    "EN": "Hum..,",
+    "ZH_HK": "哼哼~",
+    "KR": "흥."
+   },
+   "inputTime": 1209,
+   "id": "E2_8",
+   "nextid": "E2_9",
+   "nextMessageDelayTime": 1209,
+   "type": "MIKO_TEXT"
+  },
+  "E2_9": {
+   "contents": {
+    "ZH_CN": "我当然没事啦，有事还能跟你聊天啊",
+    "JP": "大丈夫だよ、そうでないと、チャットはできないんだろう",
+    "EN": "Oh surely I’m good now. If not I can’t be talking to you right now.",
+    "ZH_HK": "我當然沒事啦，有事還能跟你聊天啊",
+    "KR": "당연히 괜찮지~ 무슨 일 있었으면 너랑 얘기할 수 있었겠어?"
+   },
+   "inputTime": 3634,
+   "id": "E2_9",
+   "nextid": "E2_10",
+   "nextMessageDelayTime": 3634,
+   "type": "MIKO_TEXT"
+  },
+  "E2_125": {
+   "contents": {
+    "ZH_CN": "你说我分析得对不对？",
+    "JP": "私の分析はどう？",
+    "EN": "Do you think so?",
+    "ZH_HK": "你說我分析得對不對？",
+    "KR": "내가 분석한 거 어때? 맞지?"
+   },
+   "inputTime": 2634,
+   "id": "E2_125",
+   "nextid": "E2_choicee_25",
+   "nextMessageDelayTime": 2634,
+   "type": "MIKO_TEXT"
+  },
+  "E2_126": {
+   "contents": {
+    "ZH_CN": "搜集信息果然是这样啊",
+    "JP": "情報を集めるってやっぱりそうなんだ",
+    "EN": "It’s a way to collect information.",
+    "ZH_HK": "搜集資訊果然是這樣啊",
+    "KR": "역시 정보 수집이라는 게 이런 거구나"
+   },
+   "inputTime": 2404,
+   "id": "E2_126",
+   "nextid": "E2_127",
+   "nextMessageDelayTime": 2404,
+   "type": "MIKO_TEXT"
+  },
+  "E2_123": {
+   "contents": {
+    "ZH_CN": "虽然说她可能还有功能牌留着，但是她之前已经打过一张变色了，还有的可能性很小了对不对？",
+    "JP": "機能カードが残っているが、この前もう色を変えたことがあるから、まだ機能カードを持つ可能性は小さくなるだろう",
+    "EN": "Maybe she’s got some blacks. But she had played a black. She could not have more.",
+    "ZH_HK": "雖然說她可能還有功能牌留著，但是她之前已經打過一張變色了，還有的可能性很小了對不對？",
+    "KR": "만약 특수카드를 남겨놨다고 하더라도 이미 전에 한 장의 색깔을 바꿨었잖아. 또있을 가능성이 작지 그치?"
+   },
+   "inputTime": 8593,
+   "id": "E2_123",
+   "nextid": "E2_124",
+   "nextMessageDelayTime": 8593,
+   "type": "MIKO_TEXT"
+  },
+  "E2_124": {
+   "contents": {
+    "ZH_CN": "就算她还有，那她捏着不放，为此憋死自己手上的色牌，这也不太可能",
+    "JP": "まだあると仮定すれば、機能カードを隠すために他の色カードをやめることはありえない",
+    "EN": "Even if she does get some blacks, she can’t make herself to the dead end for keeping them.",
+    "ZH_HK": "就算她還有，那她捏著不放，為此憋死自己手上的色牌，這也不太可能",
+    "KR": "만약 특수카드가 있다 하더라도 쥐고 놓지 않으면서 기존의 색깔 카드들을 죽이는 가능성은 낮다고 봐."
+   },
+   "inputTime": 6384,
+   "id": "E2_124",
+   "nextid": "E2_125",
+   "nextMessageDelayTime": 6384,
+   "type": "MIKO_TEXT"
+  },
+  "E2_129": {
+   "contents": {
+    "ZH_CN": "有时候人家说什么，我都不太在意，都是在后来想起来才想起来哦哦哦原来是这样",
+    "JP": "時には言われても気にしないのだ。いつもその後におもいだして、そうか、なるほど",
+    "EN": "I don’t take care of other’s words. The lights are on but nobody's home.",
+    "ZH_HK": "有時候人家說什麼，我都不太在意，都是在後來想起來才想起來哦哦哦原來是這樣",
+    "KR": "평소엔 다른 사람이 뭐래도 나 별로 신경 안 쓰거든. 그러다가 다시 생각해 보니 아! 그렇구나 하고 깨닫는 거지."
+   },
+   "inputTime": 7384,
+   "id": "E2_129",
+   "nextid": "E2_130",
+   "nextMessageDelayTime": 7384,
+   "type": "MIKO_TEXT"
+  },
+  "E2_127": {
+   "contents": {
+    "ZH_CN": "就是在对方的反应中获得对方的信息",
+    "JP": "相手のリアクションに情報を集められる",
+    "EN": "Get information according to other’s behaviour.",
+    "ZH_HK": "就是在對方的反應中獲得對方的資訊",
+    "KR": "상대방의 반응을 보고 상대방에 대한 정보를 얻는 거잖아."
+   },
+   "inputTime": 3313,
+   "id": "E2_127",
+   "nextid": "E2_128",
+   "nextMessageDelayTime": 3313,
+   "type": "MIKO_TEXT"
+  },
+  "E2_128": {
+   "contents": {
+    "ZH_CN": "看起来我在这方面还需要加强啊",
+    "JP": "この方面には強化する必要があるそうだ",
+    "EN": "I need keep on learning.",
+    "ZH_HK": "看起來我在這方面還需要加強啊",
+    "KR": "맞아 난 이런걸 더 많이 배워야 돼."
+   },
+   "inputTime": 3187,
+   "id": "E2_128",
+   "nextid": "E2_129",
+   "nextMessageDelayTime": 3187,
+   "type": "MIKO_TEXT"
+  },
+  "E2_132": {
+   "contents": {
+    "ZH_CN": "好好好！不跟你客气！",
+    "JP": "はいはいはい、遠慮しない",
+    "EN": "Alright. Never say thanks to you!",
+    "ZH_HK": "好好好！不跟你客氣！",
+    "KR": "그래그래, 너한테 예의 안차릴께!"
+   },
+   "inputTime": 2214,
+   "id": "E2_132",
+   "nextid": "E2_135",
+   "nextMessageDelayTime": 2214,
+   "type": "MIKO_TEXT"
+  },
+  "E2_133": {
+   "contents": {
+    "ZH_CN": "我们什么关系？",
+    "JP": "何の関係？",
+    "EN": "The closest?",
+    "ZH_HK": "我們什麼關係？",
+    "KR": "우리 무슨 사이인데?"
+   },
+   "inputTime": 1472,
+   "id": "E2_133",
+   "nextid": "E2_134",
+   "nextMessageDelayTime": 1472,
+   "type": "MIKO_TEXT"
+  },
+  "E2_130": {
+   "contents": {
+    "ZH_CN": "就像我这几次遇到事情，各种细节我都注意不过来，都是到最后，才恍然大悟",
+    "JP": "なにが会ったら、細かいことが注意しできないのだ。最後まではっとさとるみたい。",
+    "EN": "Like this time. I don’t pay attention to details. Always late to catch on.",
+    "ZH_HK": "就像我這幾次遇到事情，各種細節我都注意不過來，都是到最後，才恍然大悟",
+    "KR": "마치 요 몇일 일어난 사건에서 처럼, 여러 사소한 부분들을 지나쳐지나갔지, 그러다가 마지막에 크게 깨닫는거야"
+   },
+   "inputTime": 6835,
+   "id": "E2_130",
+   "nextid": "E2_131",
+   "nextMessageDelayTime": 6835,
+   "type": "MIKO_TEXT"
+  },
+  "E2_131": {
+   "contents": {
+    "ZH_CN": "不过也多亏有你，还是要多谢你！",
+    "JP": "あんたのおかげで、ありがとうね",
+    "EN": "Thanks to you. Thank you!",
+    "ZH_HK": "不過也多虧有你，還是要多謝你！",
+    "KR": "어찌되었든 너 덕분이야! 너무 고마워!"
+   },
+   "inputTime": 3586,
+   "id": "E2_131",
+   "nextid": "E2_choicee_26",
+   "nextMessageDelayTime": 3586,
+   "type": "MIKO_TEXT"
+  },
+  "E2_158": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈哈哈啊",
+    "JP": "はっはっはっ",
+    "EN": "LOL!!!",
+    "ZH_HK": "哈哈哈哈哈哈啊",
+    "KR": "하하하하"
+   },
+   "inputTime": 1922,
+   "id": "E2_158",
+   "nextid": "E2_159",
+   "nextMessageDelayTime": 1922,
+   "type": "MIKO_TEXT"
+  },
+  "E2_159": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E2_159",
+   "nextid": "E2_160",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_156": {
+   "contents": {
+    "ZH_CN": "嗯！我知道！",
+    "JP": "うん、分かった",
+    "EN": "Yeah I know.",
+    "ZH_HK": "嗯！我知道！",
+    "KR": "응! 나도 알아!"
+   },
+   "inputTime": 1903,
+   "id": "E2_156",
+   "nextid": "E2_157",
+   "nextMessageDelayTime": 1903,
+   "type": "MIKO_TEXT"
+  },
+  "E2_157": {
+   "contents": {
+    "ZH_CN": "不过我真的有忍不住了，看着她的表情",
+    "JP": "けどよ、艾さんの表情を見ると我慢できなくなる",
+    "EN": "But I can’t help… Just look at her face!",
+    "ZH_HK": "不過我真的有忍不住了，看著她的表情",
+    "KR": "하지만 나 진짜 못참겠어! 언니의 표정을 보면 더"
+   },
+   "inputTime": 3945,
+   "id": "E2_157",
+   "nextid": "E2_158",
+   "nextMessageDelayTime": 3945,
+   "type": "MIKO_TEXT"
+  },
+  "E2_161": {
+   "contents": {
+    "ZH_CN": "报告！",
+    "JP": "報告！",
+    "EN": "Hey!",
+    "ZH_HK": "報告！",
+    "KR": "보고 합니다!"
+   },
+   "inputTime": 826,
+   "id": "E2_161",
+   "nextid": "E2_162",
+   "nextMessageDelayTime": 826,
+   "type": "MIKO_TEXT"
+  },
+  "E2_162": {
+   "contents": {
+    "ZH_CN": "我！",
+    "JP": "私の",
+    "EN": "I",
+    "ZH_HK": "我！",
+    "KR": "내가!"
+   },
+   "inputTime": 630,
+   "id": "E2_162",
+   "nextid": "E2_163",
+   "nextMessageDelayTime": 630,
+   "type": "MIKO_TEXT"
+  },
+  "E2_160": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방이 로그인 하였습니다"
+   },
+   "id": "E2_160",
+   "nextid": "E2_161",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_165": {
+   "contents": {
+    "ZH_CN": "hhhhhhhhhh",
+    "JP": "ｈｈｈｈｈｈｈｈ",
+    "EN": "LMAO.",
+    "ZH_HK": "hhhhhhhhhh",
+    "KR": "하하하하"
+   },
+   "inputTime": 2423,
+   "id": "E2_165",
+   "nextid": "E2_166",
+   "nextMessageDelayTime": 2423,
+   "type": "MIKO_TEXT"
+  },
+  "E2_166": {
+   "contents": {
+    "ZH_CN": "我要疯了！！！！",
+    "JP": "気が狂った！！！",
+    "EN": "I’m ",
+    "ZH_HK": "我要瘋了！！！！",
+    "KR": "너무 좋아!"
+   },
+   "inputTime": 2106,
+   "id": "E2_166",
+   "nextid": "E2_167",
+   "nextMessageDelayTime": 2106,
+   "type": "MIKO_TEXT"
+  },
+  "E2_163": {
+   "contents": {
+    "ZH_CN": "赢！",
+    "JP": "勝ち",
+    "EN": "beat",
+    "ZH_HK": "贏！",
+    "KR": "이겼"
+   },
+   "inputTime": 1089,
+   "id": "E2_163",
+   "nextid": "E2_164",
+   "nextMessageDelayTime": 1089,
+   "type": "MIKO_TEXT"
+  },
+  "E2_164": {
+   "contents": {
+    "ZH_CN": "了！",
+    "JP": "だ！",
+    "EN": "them!!!",
+    "ZH_HK": "了！",
+    "KR": "습니다!"
+   },
+   "inputTime": 468,
+   "id": "E2_164",
+   "nextid": "E2_165",
+   "nextMessageDelayTime": 468,
+   "type": "MIKO_TEXT"
+  },
+  "E2_147": {
+   "contents": {
+    "ZH_CN": "你说呢？",
+    "JP": "どう？",
+    "EN": "What do you say?",
+    "ZH_HK": "你說呢？",
+    "KR": "니 생각은?"
+   },
+   "inputTime": 1073,
+   "id": "E2_147",
+   "nextid": "E2_choicee_29",
+   "nextMessageDelayTime": 1073,
+   "type": "MIKO_TEXT"
+  },
+  "E2_148": {
+   "contents": {
+    "ZH_CN": "嗯！就这么办！",
+    "JP": "うん、そうしよう",
+    "EN": "Yeah, I’ll do it!",
+    "ZH_HK": "嗯！就這麼辦！",
+    "KR": "응 그럼 그렇게 하자!"
+   },
+   "inputTime": 1801,
+   "id": "E2_148",
+   "nextid": "E2_149",
+   "nextMessageDelayTime": 1801,
+   "type": "MIKO_TEXT"
+  },
+  "E2_145": {
+   "contents": {
+    "ZH_CN": "让大家都改换出牌，把小艾姐压住",
+    "JP": "みんなをカードを変えさせて艾さんを抑えて",
+    "EN": "Then everyone would follow me and Iris would miss turns.",
+    "ZH_HK": "讓大家都改換出牌，把小艾姐壓住",
+    "KR": "사람들의 색깔을 모두 바꾸게해서 Iris언니 견제하는 거지."
+   },
+   "inputTime": 3783,
+   "id": "E2_145",
+   "nextid": "E2_146",
+   "nextMessageDelayTime": 3783,
+   "type": "MIKO_TEXT"
+  },
+  "E2_146": {
+   "contents": {
+    "ZH_CN": "毕竟我们大家牌都比较多，多出几张没关系，要是走到小艾姐的轨道上就比较麻烦了",
+    "JP": "みんなのカードは多いので、何枚出しても構わないから、もし艾さんの色と同じになったら面倒になる。",
+    "EN": "After others except Iris have bunch of cards. It doesn’t matter to help them. It’s crucial to stop Iris.",
+    "ZH_HK": "畢竟我們大家牌都比較多，多出幾張沒關係，要是走到小艾姐的軌道上就比較麻煩了",
+    "KR": "어찌되었든 우리 모두 손에 있는 카드가 많아, 몇장 더 내어도 상관 없어, 하지만 Iris 언니 방식으로 가면 안될 것 같아."
+   },
+   "inputTime": 7972,
+   "id": "E2_146",
+   "nextid": "E2_147",
+   "nextMessageDelayTime": 7972,
+   "type": "MIKO_TEXT"
+  },
+  "E2_149": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E2_149",
+   "nextid": "E2_150",
+   "nextMessageDelayTime": 60000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_150": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방이 로그인 하였습니다"
+   },
+   "id": "E2_150",
+   "nextid": "E2_151",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_151": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈",
+    "JP": "はっはっはっ",
+    "EN": "Haha.",
+    "ZH_HK": "哈哈哈哈",
+    "KR": "하하하하"
+   },
+   "inputTime": 1553,
+   "id": "E2_151",
+   "nextid": "E2_152",
+   "nextMessageDelayTime": 1553,
+   "type": "MIKO_TEXT"
+  },
+  "E2_154": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈哈她的眼神不太对了",
+    "JP": "はっはっはっ艾さんの目が変わった",
+    "EN": "Aha she’s getting anxious.",
+    "ZH_HK": "哈哈哈哈哈她的眼神不太對了",
+    "KR": "하하하하 언니 눈빛이 달라 졌어."
+   },
+   "inputTime": 2684,
+   "id": "E2_154",
+   "nextid": "E2_155",
+   "nextMessageDelayTime": 2684,
+   "type": "MIKO_TEXT"
+  },
+  "E2_155": {
+   "contents": {
+    "ZH_CN": "是不是我要赢了啊",
+    "JP": "私の勝ちじゃないだろうか",
+    "EN": "Am I beating her?",
+    "ZH_HK": "是不是我要贏了啊",
+    "KR": "내가 이길 것 같은데?"
+   },
+   "inputTime": 1666,
+   "id": "E2_155",
+   "nextid": "E2_choicee_30",
+   "nextMessageDelayTime": 1666,
+   "type": "MIKO_TEXT"
+  },
+  "E2_152": {
+   "contents": {
+    "ZH_CN": "看来是有效的！",
+    "JP": "やくにたったようだ。",
+    "EN": "It’s working!",
+    "ZH_HK": "看來是有效的！",
+    "KR": "효과가 있었는데!"
+   },
+   "inputTime": 2168,
+   "id": "E2_152",
+   "nextid": "E2_153",
+   "nextMessageDelayTime": 2168,
+   "type": "MIKO_TEXT"
+  },
+  "E2_153": {
+   "contents": {
+    "ZH_CN": "我们都出了好几轮了，小艾姐还憋着呢",
+    "JP": "何回回りになってから、艾さんは一枚も出さなかった",
+    "EN": "We’ve got many turns but Iris is kept missing.",
+    "ZH_HK": "我們都出了好幾輪了，小艾姐還憋著呢",
+    "KR": "이미 우리 몇 회나 돌았어,  Iris언니는 아직도 패스만 하고 있어."
+   },
+   "inputTime": 4046,
+   "id": "E2_153",
+   "nextid": "E2_154",
+   "nextMessageDelayTime": 4046,
+   "type": "MIKO_TEXT"
+  },
+  "E2_219": {
+   "contents": {
+    "ZH_CN": "游戏结束，进入尾声",
+    "JP": "ゲーム終了、エンディングに近づく",
+    "EN": "The game ends here. Go for the closing chapter.",
+    "ZH_HK": "遊戲結束，進入尾聲",
+    "KR": "게임종료, 에필로그 보기"
+   },
+   "id": "E2_219",
+   "nextid": "E2_220",
+   "nextMessageDelayTime": 0,
+   "scence": "胜利",
+   "type": "GAME_HE"
+  },
+  "E2_213": {
+   "contents": {
+    "ZH_CN": "就是输了，太可惜了，还被强迫发动态...",
+    "JP": "負けたのはおしいのだが、あんなつぶやきもせまられた",
+    "EN": "Just pity on the game. And I had to post a moment…",
+    "ZH_HK": "就是輸了，太可惜了，還被強迫發動態...",
+    "KR": "졌지만 너무 아쉽게 졌어. 그런데다가 게시물 까지 강제로 올리게했어…"
+   },
+   "inputTime": 4395,
+   "id": "E2_213",
+   "nextid": "E2_214",
+   "nextMessageDelayTime": 4395,
+   "type": "MIKO_TEXT"
+  },
+  "E2_214": {
+   "contents": {
+    "ZH_CN": "哎，今天玩得真开心，不知不觉一天就结束了呢",
+    "JP": "ええ、今日は楽しいね、つい一日もすごした",
+    "EN": "What a wonderful day. It ends so quickly.",
+    "ZH_HK": "哎，今天玩得真開心，不知不覺一天就結束了呢",
+    "KR": "아 오늘 재밌게 놀았다! 나도 모르게 하루가 금방 끝나버렸네"
+   },
+   "inputTime": 4821,
+   "id": "E2_214",
+   "nextid": "E2_215",
+   "nextMessageDelayTime": 4821,
+   "type": "MIKO_TEXT"
+  },
+  "E2_211": {
+   "contents": {
+    "ZH_CN": "好啦，也不是怪你",
+    "JP": "いいわよ、あんたを責めるつもりがない",
+    "EN": "Well, I don’t blame you.",
+    "ZH_HK": "好啦，也不是怪你",
+    "KR": "알았어, 널 탓하는 것도 아니야"
+   },
+   "inputTime": 2080,
+   "id": "E2_211",
+   "nextid": "E2_212",
+   "nextMessageDelayTime": 2080,
+   "type": "MIKO_TEXT"
+  },
+  "E2_212": {
+   "contents": {
+    "ZH_CN": "跟你闹着玩呢，其实我觉得这个小裙子还挺好看",
+    "JP": "冗談だよ、このストレスは綺麗だと思うよ",
+    "EN": "I’m joking. I do think this dress is pretty.",
+    "ZH_HK": "跟你鬧著玩呢，其實我覺得這個小裙子還挺好看",
+    "KR": "그냥 농담한거야. 사실 이 드레스도 이쁜것 같긴해"
+   },
+   "inputTime": 4230,
+   "id": "E2_212",
+   "nextid": "E2_213",
+   "nextMessageDelayTime": 4230,
+   "type": "MIKO_TEXT"
+  },
+  "E2_217": {
+   "contents": {
+    "ZH_CN": "你要不要一起去啊？",
+    "JP": "一緒に行かない？",
+    "EN": "Do you want to come together?",
+    "ZH_HK": "你要不要一起去啊？",
+    "KR": "같이 갈래?"
+   },
+   "inputTime": 1877,
+   "id": "E2_217",
+   "nextid": "E2_choicee_36",
+   "nextMessageDelayTime": 1877,
+   "type": "MIKO_TEXT"
+  },
+  "E2_218": {
+   "contents": {
+    "ZH_CN": "游戏结束，重新开始",
+    "JP": "ゲーム終了、リスタート",
+    "EN": "The game ends here. Start it again.",
+    "ZH_HK": "遊戲結束，重新開始",
+    "KR": "게임종료, 다시 시작"
+   },
+   "id": "E2_218",
+   "nextMessageDelayTime": 0,
+   "scence": "失败",
+   "type": "GAME_BE"
+  },
+  "E2_215": {
+   "contents": {
+    "ZH_CN": "我这边也要回家啦，有机会下次再聊啦",
+    "JP": "こっちも帰るんだ、機会があったらまた今度",
+    "EN": "I’m going back. See you another time!",
+    "ZH_HK": "我這邊也要回家啦，有機會下次再聊啦",
+    "KR": "나도 이제 집으로 돌아가야겠어, 기회가 있으면 다음에 또 얘기하자"
+   },
+   "inputTime": 3534,
+   "id": "E2_215",
+   "nextid": "E2_216",
+   "nextMessageDelayTime": 3534,
+   "type": "MIKO_TEXT"
+  },
+  "E2_216": {
+   "contents": {
+    "ZH_CN": "小艾姐姐还说下次带我去海洋馆玩，想想都很期待呢",
+    "JP": "艾さんは今度私を水族館につれていくといった、かんがえるだけでも期待する",
+    "EN": "Iris said she would take me to visit the aquarium. I’m looking forward! ",
+    "ZH_HK": "小艾姐姐還說下次帶我去海洋館玩，想想都很期待呢",
+    "KR": "Iris 언니가 다음에 나를 수족관에 데려가 준다고 했어, 생각만해도 너무 기대되."
+   },
+   "inputTime": 5040,
+   "id": "E2_216",
+   "nextid": "E2_217",
+   "nextMessageDelayTime": 5040,
+   "type": "MIKO_TEXT"
+  },
+  "E2_220": {
+   "contents": {
+    "ZH_CN": "More...接受来自异次元的不明通讯，和Miko酱一起探险，下一次还会有什么样的惊险事件？请继续关注《异次元通讯》！",
+    "JP": "More...異次元の不明通信を受けて、Mikoちゃんと一緒に冒険してください。次回はどんなスリルな事件が起こるでしょう「異次元通信」に注目し続けてください",
+    "EN": "More…Come and reply messages from the other side. Go for adventure with Miko-chan. Wonder what the next event is?Please keep up with our ”Message from the other side”!",
+    "ZH_HK": "More...接受來自異次元的不明通訊，和Miko醬一起探險，下一次還會有什麼樣的驚險事件？請繼續關注《異次元通訊》！",
+    "KR": "More…다른 차원으로 부터 알수 없는 통신을 받게 되고, Miko와 함께 탐험을 떠나게 되는데… 다음에는 또 어떤 엄청난 사건이 기다리고 있을까？계속해서 <이차원 통신>을 사랑해주세요！"
+   },
+   "id": "E2_220",
+   "nextMessageDelayTime": 0,
+   "scence": "尾声",
+   "type": "GAME_END"
+  },
+  "E2_100": {
+   "contents": {
+    "ZH_CN": "好像有道理",
+    "JP": "なるほど",
+    "EN": "Yeah, sounds good.",
+    "ZH_HK": "好像有道理",
+    "KR": "일리가 있다."
+   },
+   "inputTime": 1119,
+   "id": "E2_100",
+   "nextid": "E2_101",
+   "nextMessageDelayTime": 1119,
+   "type": "MIKO_TEXT"
+  },
+  "E2_208": {
+   "contents": {
+    "ZH_CN": "听了你的建议，就这样了！",
+    "JP": "あんたの意見を聞いてから、こういうふうになるのだ！",
+    "EN": "I blame you! You make me defeated!",
+    "ZH_HK": "聽了你的建議，就這樣了！",
+    "KR": "니 말을 들었더니, 이렇게 됬자나!"
+   },
+   "inputTime": 2934,
+   "id": "E2_208",
+   "nextid": "E2_209",
+   "nextMessageDelayTime": 2934,
+   "type": "MIKO_TEXT"
+  },
+  "E2_209": {
+   "contents": {
+    "ZH_CN": "输了！",
+    "JP": "負けた！",
+    "EN": "I lost…",
+    "ZH_HK": "輸了！",
+    "KR": "졌어!"
+   },
+   "inputTime": 1337,
+   "id": "E2_209",
+   "nextid": "E2_choicee_35",
+   "nextMessageDelayTime": 1337,
+   "type": "MIKO_TEXT"
+  },
+  "E2_202": {
+   "contents": {
+    "ZH_CN": "毕竟一直都是你在给我出主意，相信你！",
+    "JP": "いつもあんたが対策を出したから、信じてあげて！",
+    "EN": "After all it’s you who introduce me to play it. I trust you.",
+    "ZH_HK": "畢竟一直都是你在給我出主意，相信你！",
+    "KR": "어찌되었던 너가 계속 나를 도와준거잖아, 널 믿어!`"
+   },
+   "inputTime": 4233,
+   "id": "E2_202",
+   "nextid": "E2_203",
+   "nextMessageDelayTime": 4233,
+   "type": "MIKO_TEXT"
+  },
+  "E2_203": {
+   "contents": {
+    "ZH_CN": "那就按照你说的去做！相信你！",
+    "JP": "あんたが言った通りにして、信じてあげる！",
+    "EN": "Then I’ll do what you told me to. I trust you.",
+    "ZH_HK": "那就按照你說的去做！相信你！",
+    "KR": "그럼 너가 말한데로 할꺼야! 널 믿어!"
+   },
+   "inputTime": 2984,
+   "id": "E2_203",
+   "nextid": "E2_204",
+   "nextMessageDelayTime": 2984,
+   "type": "MIKO_TEXT"
+  },
+  "E2_200": {
+   "contents": {
+    "ZH_CN": "难道因为我太笨了？",
+    "JP": "まさか私、馬鹿すぎるのせいなのか",
+    "EN": "Am I being stupid?",
+    "ZH_HK": "難道因為我太笨了？",
+    "KR": "설마 내가 멍청해서 그런거야…?"
+   },
+   "inputTime": 2358,
+   "id": "E2_200",
+   "nextid": "E2_201",
+   "nextMessageDelayTime": 2358,
+   "type": "MIKO_TEXT"
+  },
+  "E2_201": {
+   "contents": {
+    "ZH_CN": "不过，我还是听你的吧",
+    "JP": "けど、やっぱりあんたの言うとおりにする",
+    "EN": "Well, I’ll just listen to you.",
+    "ZH_HK": "不過，我還是聽你的吧",
+    "KR": "그래도 나는 니 말을 들을께"
+   },
+   "inputTime": 2306,
+   "id": "E2_201",
+   "nextid": "E2_202",
+   "nextMessageDelayTime": 2306,
+   "type": "MIKO_TEXT"
+  },
+  "E2_206": {
+   "photoid": "E2-03",
+   "contents": {
+    "ZH_CN": "她们都在笑我...无语了...某些人总该为此负责的！",
+    "JP": "みんなに笑われている...誰かちゃんと責任を取るべきだ",
+    "EN": "They are laughing at me… That’s… Someone will pay for that!",
+    "ZH_HK": "她們都在笑我...無語了...某些人總該為此負責的！",
+    "KR": "다 나를 비웃고 있어… 어이없어… 누군가는 이일에 대한 책임을 져야겠지!"
+   },
+   "id": "E2_206",
+   "nextid": "E2_207",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_TIMELINE"
+  },
+  "E2_207": {
+   "contents": {
+    "ZH_CN": "你说！你该怎么做！",
+    "JP": "言え！どうするべきなのだ！",
+    "EN": "Now think what you can make good my loss!",
+    "ZH_HK": "你說！你該怎麼做！",
+    "KR": "말해봐! 어떻게 할까!"
+   },
+   "inputTime": 2518,
+   "id": "E2_207",
+   "nextid": "E2_208",
+   "nextMessageDelayTime": 2518,
+   "type": "MIKO_TEXT"
+  },
+  "E2_204": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E2_204",
+   "nextid": "E2_205",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_205": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방이 로그인 하였습니다"
+   },
+   "id": "E2_205",
+   "nextid": "E2_206",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E2_210": {
+   "contents": {
+    "ZH_CN": "哼哼~",
+    "JP": "ふんふん～",
+    "EN": "Hum..,",
+    "ZH_HK": "哼哼~",
+    "KR": "흥."
+   },
+   "inputTime": 768,
+   "id": "E2_210",
+   "nextid": "E2_211",
+   "nextMessageDelayTime": 768,
+   "type": "MIKO_TEXT"
+  },
+  "E2_114": {
+   "contents": {
+    "ZH_CN": "真是的...",
+    "JP": "まったく...",
+    "EN": "Oh…",
+    "ZH_HK": "真是的...",
+    "KR": "진짜…"
+   },
+   "inputTime": 1814,
+   "id": "E2_114",
+   "nextid": "E2_115",
+   "nextMessageDelayTime": 1814,
+   "type": "MIKO_TEXT"
+  },
+  "E2_115": {
+   "contents": {
+    "ZH_CN": "啊...小艾姐姐放弃跟牌了",
+    "JP": "あっ、艾さんはやめたの",
+    "EN": "Iris doesn’t follow.",
+    "ZH_HK": "啊...小艾姐姐放棄跟牌了",
+    "KR": "아..Iris 언니가 턴을 패스했어."
+   },
+   "inputTime": 3097,
+   "id": "E2_115",
+   "nextid": "E2_116",
+   "nextMessageDelayTime": 3097,
+   "type": "MIKO_TEXT"
+  },
+  "E2_112": {
+   "contents": {
+    "ZH_CN": "我跟你讲，我虽然有时候说话很冲动，但实际上我很冷静哦",
+    "JP": "聞いてよ、時には話に激しやすいけど実は落ち着いているよ",
+    "EN": "I know I look like reckless, but in fact I’m sensible in the inner world.",
+    "ZH_HK": "我跟你講，我雖然有時候說話很衝動，但實際上我很冷靜哦",
+    "KR": "솔직히 말해서, 내가 말할 때 가끔 되게 충동적이지만, 실제로 많이 차분한 편이야."
+   },
+   "inputTime": 5731,
+   "id": "E2_112",
+   "nextid": "E2_113",
+   "nextMessageDelayTime": 5731,
+   "type": "MIKO_TEXT"
+  },
+  "E2_113": {
+   "contents": {
+    "ZH_CN": "不知道为什么给你们造成这样的印象...",
+    "JP": "なんでこんな印象を残るのかわからない",
+    "EN": "I don’t know why you guys think of me that way…",
+    "ZH_HK": "不知道為什麼給你們造成這樣的印象...",
+    "KR": "너희가 왜 이런 이미지를 가지고 있는지 모르겠어…"
+   },
+   "inputTime": 4494,
+   "id": "E2_113",
+   "nextid": "E2_114",
+   "nextMessageDelayTime": 4494,
+   "type": "MIKO_TEXT"
+  },
+  "E2_118": {
+   "contents": {
+    "ZH_CN": "藏牌的话，目的是什么呢？",
+    "JP": "かくしているなら、目的は？",
+    "EN": "What would she hide for?",
+    "ZH_HK": "藏牌的話，目的是什麼呢？",
+    "KR": "카드를 숨긴다면, 목적이 뭔데?"
+   },
+   "inputTime": 3074,
+   "id": "E2_118",
+   "nextid": "E2_119",
+   "nextMessageDelayTime": 3074,
+   "type": "MIKO_TEXT"
+  },
+  "E2_119": {
+   "contents": {
+    "ZH_CN": "难道她要保留功能牌，来为以后的色牌铺路？",
+    "JP": "機能カードを保留するのか、以後の色カードに道を舗装するの",
+    "EN": "Does she keep black cards for the others?",
+    "ZH_HK": "難道她要保留功能牌，來為以後的色牌鋪路？",
+    "KR": "혹시 특수카드를 남기고, 나중에 색깔 카드가 들어왔을 때를 대비하는 건가?"
+   },
+   "inputTime": 4309,
+   "id": "E2_119",
+   "nextid": "E2_120",
+   "nextMessageDelayTime": 4309,
+   "type": "MIKO_TEXT"
+  },
+  "E2_116": {
+   "contents": {
+    "ZH_CN": "她之前打得很猛的哦，好像手里牌源源不断的样子",
+    "JP": "この前はスゴイだったわよ、数え尽きないカードがあるみたい",
+    "EN": "She was charging before. I thought she got good set.",
+    "ZH_HK": "她之前打得很猛的哦，好像手裡牌源源不斷的樣子",
+    "KR": "언니 방금까지 엄청 무섭게 게임했었거든, 손 안에 카드가 끊임이없었지."
+   },
+   "inputTime": 5038,
+   "id": "E2_116",
+   "nextid": "E2_117",
+   "nextMessageDelayTime": 5038,
+   "type": "MIKO_TEXT"
+  },
+  "E2_117": {
+   "contents": {
+    "ZH_CN": "现在怎么不跟了？",
+    "JP": "どうして付き添わないの",
+    "EN": "Why she doesn’t follow anymore?",
+    "ZH_HK": "現在怎麼不跟了？",
+    "KR": "지금은 왜 턴을 패스하는 거지?"
+   },
+   "inputTime": 1788,
+   "id": "E2_117",
+   "nextid": "E2_choicee_23",
+   "nextMessageDelayTime": 1788,
+   "type": "MIKO_TEXT"
+  },
+  "E2_121": {
+   "contents": {
+    "ZH_CN": "我觉得这个可能性比较小",
+    "JP": "その可能性が小さいと思う",
+    "EN": "I don’t think so.",
+    "ZH_HK": "我覺得這個可能性比較小",
+    "KR": "내가 보기엔 이런 가능성은 좀 작아."
+   },
+   "inputTime": 2834,
+   "id": "E2_121",
+   "nextid": "E2_choicee_24",
+   "nextMessageDelayTime": 2834,
+   "type": "MIKO_TEXT"
+  },
+  "E2_122": {
+   "contents": {
+    "ZH_CN": "嗯，我也觉得可能性比较大",
+    "JP": "うん、私も",
+    "EN": "Yeah, I think so.",
+    "ZH_HK": "嗯，我也覺得可能性比較大",
+    "KR": "응, 내가 보기에도 그런 가능성이 큰데."
+   },
+   "inputTime": 2997,
+   "id": "E2_122",
+   "nextid": "E2_123",
+   "nextMessageDelayTime": 2997,
+   "type": "MIKO_TEXT"
+  },
+  "E2_120": {
+   "contents": {
+    "ZH_CN": "嗯，我想想",
+    "JP": "うん、考えて",
+    "EN": "Hum, let me see…",
+    "ZH_HK": "嗯，我想想",
+    "KR": "응 내가 생각해볼께"
+   },
+   "inputTime": 1355,
+   "id": "E2_120",
+   "nextid": "E2_121",
+   "nextMessageDelayTime": 1355,
+   "type": "MIKO_TEXT"
+  },
+  "E2_109": {
+   "contents": {
+    "ZH_CN": "这是策略好吗！",
+    "JP": "これは戦略なのだ",
+    "EN": "That’s strategy!",
+    "ZH_HK": "這是策略好嗎！",
+    "KR": "이건 전략이거든!"
+   },
+   "inputTime": 1655,
+   "id": "E2_109",
+   "nextid": "E2_110",
+   "nextMessageDelayTime": 1655,
+   "type": "MIKO_TEXT"
+  },
+  "E2_93": {
+   "contents": {
+    "ZH_CN": "我现在正在紧要关头！",
+    "JP": "今は正念場にさしかかった",
+    "EN": "I’m in danger now.",
+    "ZH_HK": "我現在正在緊要關頭！",
+    "KR": "나는 지금 굉장히 중대한 고비를 맞고 있거든!"
+   },
+   "inputTime": 2454,
+   "id": "E2_93",
+   "nextid": "E2_94",
+   "nextMessageDelayTime": 2454,
+   "type": "MIKO_TEXT"
+  },
+  "E2_103": {
+   "contents": {
+    "ZH_CN": "让这些牌发挥出最大的价值，是这个意思吧？",
+    "JP": "最大限にこのカードの価値を出すってことだね",
+    "EN": "Make the most of them. Am I right?",
+    "ZH_HK": "讓這些牌發揮出最大的價值，是這個意思吧？",
+    "KR": "이 카드들이 가장 적절하게 사용되야한다 이거지?"
+   },
+   "inputTime": 4009,
+   "id": "E2_103",
+   "nextid": "E2_choicee_20",
+   "nextMessageDelayTime": 4009,
+   "type": "MIKO_TEXT"
+  },
+  "E2_94": {
+   "contents": {
+    "ZH_CN": "uno我玩过几把，可是不太想得清楚，记牌就更记不住",
+    "JP": "unoは数局やったことがあったけど、よくわかんないので、カードを覚えることはさらに。",
+    "EN": "I’ve played uno but not too much. I can’t remember others’ cards.",
+    "ZH_HK": "uno我玩過幾把，可是不太想得清楚，記牌就更記不住",
+    "KR": "uno 내가 몇번 해봤지, 하지만 머리가 잘 안돌아가, 카드도 기억 잘 못해."
+   },
+   "inputTime": 5652,
+   "id": "E2_94",
+   "nextid": "E2_95",
+   "nextMessageDelayTime": 5652,
+   "type": "MIKO_TEXT"
+  },
+  "E2_104": {
+   "contents": {
+    "ZH_CN": "哼~我聪明吧！",
+    "JP": "ふん～",
+    "EN": "Hum~ I’m genius.",
+    "ZH_HK": "哼~我聰明吧！",
+    "KR": "흥 나 똑똑하지!"
+   },
+   "inputTime": 1458,
+   "id": "E2_104",
+   "nextid": "E2_105",
+   "nextMessageDelayTime": 1458,
+   "type": "MIKO_TEXT"
+  },
+  "E2_95": {
+   "contents": {
+    "ZH_CN": "小艾姐在我上家，老是压我",
+    "JP": "艾さんは上手で、いつも私を抑えてた",
+    "EN": "Iris plays before me. She always takes out my turn!",
+    "ZH_HK": "小艾姐在我上家，老是壓我",
+    "KR": "Iris 언니가 내 바로 앞 순서인데, 맨날 나를 괴롭혀."
+   },
+   "inputTime": 2462,
+   "id": "E2_95",
+   "nextid": "E2_96",
+   "nextMessageDelayTime": 2462,
+   "type": "MIKO_TEXT"
+  },
+  "E2_101": {
+   "contents": {
+    "ZH_CN": "就是说拿到好牌，要先规划以后的出牌策略",
+    "JP": "いいカードを持ったら先に策略を考えするってこと",
+    "EN": "So I should think out a tactic when I get a good set.",
+    "ZH_HK": "就是說拿到好牌，要先規劃以後的出牌策略",
+    "KR": "무슨 말인가 하면, 좋은 카드를 가지면, 먼저 전략을 세워야해."
+   },
+   "inputTime": 4360,
+   "id": "E2_101",
+   "nextid": "E2_102",
+   "nextMessageDelayTime": 4360,
+   "type": "MIKO_TEXT"
+  },
+  "E2_96": {
+   "contents": {
+    "ZH_CN": "我觉得我这把牌还不错，有两张万能牌呢，是不是要先打出去",
+    "JP": "このカードは万能札が二枚持ったので悪くないと思って、先に使うかどうか",
+    "EN": "I think I’ve got a good set. Two blacks. Should I give them out first?",
+    "ZH_HK": "我覺得我這把牌還不錯，有兩張萬能牌呢，是不是要先打出去",
+    "KR": "내가 볼때 이번에 카드가 아주 괜찮아, 2장의 만능카드가 있고, 먼저 던져야하지 않을까?"
+   },
+   "inputTime": 6157,
+   "id": "E2_96",
+   "nextid": "E2_97",
+   "nextMessageDelayTime": 6157,
+   "type": "MIKO_TEXT"
+  },
+  "E2_102": {
+   "contents": {
+    "ZH_CN": "把烂牌先走掉，把好牌留到最关键的时候",
+    "JP": "弱いカードを先に出していいのを肝心な時に残る",
+    "EN": "Discard the useless ones, and keep the good ones for crucial moment.",
+    "ZH_HK": "把爛牌先走掉，把好牌留到最關鍵的時候",
+    "KR": "먼저 안좋은 카드를 내고, 좋은 카드는 나중에 중요할 때 를 위해 남겨둬."
+   },
+   "inputTime": 3900,
+   "id": "E2_102",
+   "nextid": "E2_103",
+   "nextMessageDelayTime": 3900,
+   "type": "MIKO_TEXT"
+  },
+  "E2_107": {
+   "contents": {
+    "ZH_CN": "拿到弱牌，反正没有多大变化了，这个我是懂的",
+    "JP": "弱いカードを持ったら、どうせ大きな変化がないのだから、分かるね",
+    "EN": "With bad cards I can’t play better. I understand.",
+    "ZH_HK": "拿到弱牌，反正沒有多大變化了，這個我是懂的",
+    "KR": "안좋은 패를 가지게 되면, 어찌됬던 큰 변화가 없잖아 이건 알 수 있을 것 같아."
+   },
+   "inputTime": 4850,
+   "id": "E2_107",
+   "nextid": "E2_108",
+   "nextMessageDelayTime": 4850,
+   "type": "MIKO_TEXT"
+  },
+  "E2_90": {
+   "contents": {
+    "ZH_CN": "你去死啦！",
+    "JP": "死ね！",
+    "EN": "Be serious!",
+    "ZH_HK": "你去死啦！",
+    "KR": "죽을래!"
+   },
+   "inputTime": 1655,
+   "id": "E2_90",
+   "nextid": "E2_91",
+   "nextMessageDelayTime": 1655,
+   "type": "MIKO_TEXT"
+  },
+  "E2_108": {
+   "contents": {
+    "ZH_CN": "那就只好装死耍赖，看机会能不能翻盘喽",
+    "JP": "弱者のふりをして、チャンスがあったら、逆転になるかどうか",
+    "EN": "Just play dead and wait for chances.",
+    "ZH_HK": "那就只好裝死耍賴，看機會能不能翻盤囉",
+    "KR": "그건 포커페이스하면서 판을 엎을 기회를 노리는 거야."
+   },
+   "inputTime": 4297,
+   "id": "E2_108",
+   "nextid": "E2_choicee_22",
+   "nextMessageDelayTime": 4297,
+   "type": "MIKO_TEXT"
+  },
+  "E2_91": {
+   "contents": {
+    "ZH_CN": "赶紧帮我！",
+    "JP": "はやく助けて！",
+    "EN": "Help me!",
+    "ZH_HK": "趕緊幫我！",
+    "KR": "너 빨리 나를 도와줘!"
+   },
+   "inputTime": 1303,
+   "id": "E2_91",
+   "nextid": "E2_92",
+   "nextMessageDelayTime": 1303,
+   "type": "MIKO_TEXT"
+  },
+  "E2_105": {
+   "contents": {
+    "ZH_CN": "那如果拿到弱牌呢？",
+    "JP": "弱いカードを持ったら？",
+    "EN": "Then what if I get only bad ones?",
+    "ZH_HK": "那如果拿到弱牌呢？",
+    "KR": "그럼 만약 안좋은 패를 가지게 되면?"
+   },
+   "inputTime": 2428,
+   "id": "E2_105",
+   "nextid": "E2_choicee_21",
+   "nextMessageDelayTime": 2428,
+   "type": "MIKO_TEXT"
+  },
+  "E2_92": {
+   "contents": {
+    "ZH_CN": "别废话了！",
+    "JP": "無駄話をしないで！",
+    "EN": "Come on!",
+    "ZH_HK": "別廢話了！",
+    "KR": "이상한 소리하지마!"
+   },
+   "inputTime": 1555,
+   "id": "E2_92",
+   "nextid": "E2_93",
+   "nextMessageDelayTime": 1555,
+   "type": "MIKO_TEXT"
+  },
+  "E2_106": {
+   "contents": {
+    "ZH_CN": "嗯",
+    "JP": "うんうん",
+    "EN": "Yeah.",
+    "ZH_HK": "嗯",
+    "KR": "응"
+   },
+   "inputTime": 965,
+   "id": "E2_106",
+   "nextid": "E2_107",
+   "nextMessageDelayTime": 965,
+   "type": "MIKO_TEXT"
+  },
+  "E2_97": {
+   "contents": {
+    "ZH_CN": "我听他们说，占先手什么的",
+    "JP": "先手を取るなんて聞いたんだ。",
+    "EN": "I heard that first hand is important…",
+    "ZH_HK": "我聽他們說，占先手什麼的",
+    "KR": "이 사람들 말을 들었는데, 먼저 던지는게 좋다던데?"
+   },
+   "inputTime": 3175,
+   "id": "E2_97",
+   "nextid": "E2_choicee_18",
+   "nextMessageDelayTime": 3175,
+   "type": "MIKO_TEXT"
+  },
+  "E2_110": {
+   "contents": {
+    "ZH_CN": "傻傻向前冲那才是笨！",
+    "JP": "はてのなく前に進むこそ馬鹿なのだ",
+    "EN": "Only idiots charge in the front.",
+    "ZH_HK": "傻傻向前衝那才是笨！",
+    "KR": "아무 생각 없이 막하는게 가장 멍청한 것이거든!"
+   },
+   "inputTime": 2540,
+   "id": "E2_110",
+   "nextid": "E2_111",
+   "nextMessageDelayTime": 2540,
+   "type": "MIKO_TEXT"
+  },
+  "E2_98": {
+   "contents": {
+    "ZH_CN": "为什么啊？",
+    "JP": "なんで",
+    "EN": "Why?",
+    "ZH_HK": "為什麼啊？",
+    "KR": "왜?"
+   },
+   "inputTime": 1532,
+   "id": "E2_98",
+   "nextid": "E2_99",
+   "nextMessageDelayTime": 1532,
+   "type": "MIKO_TEXT"
+  },
+  "E2_111": {
+   "contents": {
+    "ZH_CN": "喂！你是不是觉得我是这样的啊？！",
+    "JP": "オイ！あんたは私がこのような人だと思わないのか",
+    "EN": "Hey, are you satirising?",
+    "ZH_HK": "喂！你是不是覺得我是這樣的啊？！",
+    "KR": "야! 너 내가 그렇다고 생각하는 거지!"
+   },
+   "inputTime": 3993,
+   "id": "E2_111",
+   "nextid": "E2_112",
+   "nextMessageDelayTime": 3993,
+   "type": "MIKO_TEXT"
+  },
+  "E2_99": {
+   "contents": {
+    "ZH_CN": "我有了好牌就忍不住...",
+    "JP": "いいカードを持ったらつい...",
+    "EN": "I can’t help to give the best out…",
+    "ZH_HK": "我有了好牌就忍不住...",
+    "KR": "좋은 카드 있으면 참을 수가 없어…"
+   },
+   "inputTime": 3002,
+   "id": "E2_99",
+   "nextid": "E2_choicee_19",
+   "nextMessageDelayTime": 3002,
+   "type": "MIKO_TEXT"
+  }
+ },
+ "daysIndex": {
+  "D1": "E2_1"
+ }
+}

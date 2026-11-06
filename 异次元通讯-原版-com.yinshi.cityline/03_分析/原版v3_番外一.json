@@ -1,0 +1,4837 @@
+{
+ "version": 1,
+ "storyid": "1.1",
+ "storyData": {
+  "E1_175": {
+   "contents": {
+    "ZH_CN": "小苏打也混进去拌匀了，这个面糊看上去就是我的手笔！",
+    "JP": "重曹も混ぜて、この混ぜ物はぼくの手技に見える",
+    "EN": "And mix with soda. Now I finish the batter!",
+    "ZH_HK": "小蘇打也混進去拌勻了，這個麵糊看上去就是我的手筆！",
+    "KR": "소다 분말 도 넣으니 반죽이 꽤 괜찮게 된 거 같아!"
+   },
+   "inputTime": 5407,
+   "id": "E1_175",
+   "nextid": "E1_176",
+   "nextMessageDelayTime": 5407,
+   "type": "MIKO_TEXT"
+  },
+  "E1_176": {
+   "contents": {
+    "ZH_CN": "把面糊倒进模具，震动它...",
+    "JP": "これを金型に入れて、揺らして...",
+    "EN": "Pour the batter into the mould and shake it…",
+    "ZH_HK": "把麵糊倒進模具，震動它...",
+    "KR": "반죽을 이제 틀에 넣어준 뒤 흔들어주면..."
+   },
+   "inputTime": 3006,
+   "id": "E1_176",
+   "nextid": "E1_177",
+   "nextMessageDelayTime": 3006,
+   "type": "MIKO_TEXT"
+  },
+  "E1_177": {
+   "contents": {
+    "ZH_CN": "震动？哦，明白了，是除去气泡...",
+    "JP": "揺らす、わかった、気泡を除くため...",
+    "EN": "Shake it? Oh, shake off the bubbles.",
+    "ZH_HK": "震動？哦，明白了，是除去氣泡...",
+    "KR": "흔들어?아,기포를 빼내는 거구나..."
+   },
+   "inputTime": 3820,
+   "id": "E1_177",
+   "nextid": "E1_178",
+   "nextMessageDelayTime": 3820,
+   "type": "MIKO_TEXT"
+  },
+  "E1_178": {
+   "contents": {
+    "ZH_CN": "然后要烤了...",
+    "JP": "次は焼く...",
+    "EN": "Then bake it…",
+    "ZH_HK": "然後要烤了...",
+    "KR": "그러면 굽는다?"
+   },
+   "inputTime": 1817,
+   "id": "E1_178",
+   "nextid": "E1_179",
+   "nextMessageDelayTime": 1817,
+   "type": "MIKO_TEXT"
+  },
+  "E1_171": {
+   "contents": {
+    "ZH_CN": "可不就是“我们”刚才做的那个嘛！",
+    "JP": "「私たち」がさっき作ったケーキじゃん",
+    "EN": "Sure, it is the one ”we” made.",
+    "ZH_HK": "可不就是“我們”剛才做的那個嘛！",
+    "KR": "이게 바로 \"우리\"가 방금 만든 그거잖아!"
+   },
+   "inputTime": 3942,
+   "id": "E1_171",
+   "nextid": "E1_173",
+   "nextMessageDelayTime": 3942,
+   "type": "MIKO_TEXT"
+  },
+  "E1_172": {
+   "contents": {
+    "ZH_CN": "厉害吧！",
+    "JP": "すごいでしょう！",
+    "EN": "What an art!",
+    "ZH_HK": "厲害吧！",
+    "KR": "대단하지!"
+   },
+   "inputTime": 1317,
+   "id": "E1_172",
+   "nextid": "E1_173",
+   "nextMessageDelayTime": 1317,
+   "type": "MIKO_TEXT"
+  },
+  "E1_173": {
+   "contents": {
+    "ZH_CN": "好啦，这么好的蛋糕，这次如果你再吃不上，那就不要怪我喽",
+    "JP": "よし、そんなにおいしいケーキ、今度食べてこなかったら私のせいにしないでね",
+    "EN": "Well, such a gourmet! It’s not me to blame if you don’t catch.",
+    "ZH_HK": "好啦，這麼好的蛋糕，這次如果你再吃不上，那就不要怪我嘍",
+    "KR": "아무튼,이렇게 맛있는 케이크을 이번에도 못 먹으면 내 탓 아니다?"
+   },
+   "inputTime": 5462,
+   "id": "E1_173",
+   "nextid": "E1_choicee_29",
+   "nextMessageDelayTime": 5462,
+   "type": "MIKO_TEXT"
+  },
+  "E1_174": {
+   "contents": {
+    "ZH_CN": "搞定啦",
+    "JP": "やった",
+    "EN": "All done!",
+    "ZH_HK": "搞定啦",
+    "KR": "됐다!"
+   },
+   "inputTime": 867,
+   "id": "E1_174",
+   "nextid": "E1_175",
+   "nextMessageDelayTime": 867,
+   "scence": "家-坏结局",
+   "type": "MIKO_TEXT"
+  },
+  "E1_choicee_30": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你去打游戏吧，我也要去打游戏了",
+      "JP": "ゲームをして、私もゲームをするから",
+      "EN": "You can go playing. I’ll go, too.",
+      "ZH_HK": "你去打遊戲吧，我也要去打遊戲了",
+      "KR": "먼저 게임하러 가,나도 게임좀 하러 갈래"
+     },
+     "nextid": "E1_192"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我们聊天吧",
+      "JP": "じゃ、話そう",
+      "EN": "Let’s talk for a while.",
+      "ZH_HK": "我們聊天吧",
+      "KR": "이야기 좀 하자"
+     },
+     "nextid": "E1_195"
+    }
+   ],
+   "id": "E1_choicee_30",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_170": {
+   "contents": {
+    "ZH_CN": "miko出品！",
+    "JP": "Miko作品！",
+    "EN": "Made by Miko!",
+    "ZH_HK": "miko出品！",
+    "KR": "MIKO 표 케이크!"
+   },
+   "inputTime": 1813,
+   "id": "E1_170",
+   "nextid": "E1_choicee_28",
+   "nextMessageDelayTime": 1813,
+   "type": "MIKO_TEXT"
+  },
+  "E1_choicee_33": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "别伤心",
+      "JP": "悲しまないで",
+      "EN": "Don’t be sad.",
+      "ZH_HK": "別傷心",
+      "KR": "너무 슬퍼하지 마"
+     },
+     "nextid": "E1_220"
+    },
+    {
+     "contents": {
+      "ZH_CN": "对不起，我不该问这些",
+      "JP": "ごめん、聞かなかったらよかったのに",
+      "EN": "Sorry, I shouldn’t ask.",
+      "ZH_HK": "對不起，我不該問這些",
+      "KR": "미안,내가 이런걸 물어보는 게 아니었는데"
+     },
+     "nextid": "E1_220"
+    }
+   ],
+   "id": "E1_choicee_33",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_34": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "想得太远了...",
+      "JP": "考えすぎ...",
+      "EN": "You just think too much.",
+      "ZH_HK": "想得太遠了...",
+      "KR": "너무 멀리 갔어"
+     },
+     "nextid": "E1_235"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你爸是什么样的人啊",
+      "JP": "お父さんってどんな人",
+      "EN": "What’s your father like?",
+      "ZH_HK": "你爸是什麼樣的人啊",
+      "KR": "너희 아빠는 어떤 사람이야?"
+     },
+     "nextid": "E1_236"
+    }
+   ],
+   "id": "E1_choicee_34",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_31": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "社交恐惧症？",
+      "JP": "アガリ症",
+      "EN": "Social Communication disorders?",
+      "ZH_HK": "社交恐懼症？",
+      "KR": "대인기피증?"
+     },
+     "nextid": "E1_204"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你是不是遇到什么事情啊",
+      "JP": "何かあったの",
+      "EN": "Is there something happened wrong?",
+      "ZH_HK": "你是不是遇到什麼事情啊",
+      "KR": "무슨 일이 있었던 거야?"
+     },
+     "nextid": "E1_208"
+    }
+   ],
+   "id": "E1_choicee_31",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_32": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你母亲呢？",
+      "JP": "お母さんは",
+      "EN": "How about your mother?",
+      "ZH_HK": "你母親呢？",
+      "KR": "어머니는?"
+     },
+     "nextid": "E1_216"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你还是应该多交些朋友",
+      "JP": "やっぱり友達をたくさん作ったほうがいいと思うよ",
+      "EN": "You need some friends.",
+      "ZH_HK": "你還是應該多交些朋友",
+      "KR": "친구를 좀 더 사귀어 보는 건 어때"
+     },
+     "nextid": "E1_210"
+    }
+   ],
+   "id": "E1_choicee_32",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_37": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "怎么又怪我啊...",
+      "JP": "どうしてまたわたしのせいにするのよ...",
+      "EN": "What? It’s me again?",
+      "ZH_HK": "怎麼又怪我啊...",
+      "KR": "어째서 또 내탓이야..."
+     },
+     "nextid": "E1_265"
+    },
+    {
+     "contents": {
+      "ZH_CN": "好好好，都怪我",
+      "JP": "はいはい、わたしのせい",
+      "EN": "Well well, blame it all on me.",
+      "ZH_HK": "好好好，都怪我",
+      "KR": "네네네,전부 제 잘못입니다"
+     },
+     "nextid": "E1_265"
+    }
+   ],
+   "id": "E1_choicee_37",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_38": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "这次我真的要来了！",
+      "JP": "今度こそ必ず行くよ！",
+      "EN": "This time definitely catch it!",
+      "ZH_HK": "這次我真的要來了！",
+      "KR": "그래 이번에는 꼭 간다!"
+     },
+     "nextid": "E1_272"
+    },
+    {
+     "contents": {
+      "ZH_CN": "马上就到！你等着！",
+      "JP": "すぐ来るから、待って！",
+      "EN": "I’ll be coming soon! Wait for me!",
+      "ZH_HK": "馬上就到！你等著！",
+      "KR": "금방 간다!기다려!"
+     },
+     "nextid": "E1_272"
+    }
+   ],
+   "id": "E1_choicee_38",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_35": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "哄女儿讲恐怖故事？",
+      "JP": "娘を騙すため、鬼物語を言うとは",
+      "EN": "A horrible story for daughter?",
+      "ZH_HK": "哄女兒講恐怖故事？",
+      "KR": "딸에게 공포 이야기를 들려준다고?"
+     },
+     "nextid": "E1_251"
+    },
+    {
+     "contents": {
+      "ZH_CN": "这种老爸也是...",
+      "JP": "お父さんはもう...",
+      "EN": "He’s not good at being a dad…",
+      "ZH_HK": "這種老爸也是...",
+      "KR": "아빠란 사람이 참..."
+     },
+     "nextid": "E1_251"
+    }
+   ],
+   "id": "E1_choicee_35",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_36": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "感觉失败了呢",
+      "JP": "失敗したようだなぁ",
+      "EN": "Seems like you failed.",
+      "ZH_HK": "感覺失敗了呢",
+      "KR": "실패한 거 같네"
+     },
+     "nextid": "E1_263"
+    },
+    {
+     "contents": {
+      "ZH_CN": "这就尴尬了...",
+      "JP": "まずいなぁ",
+      "EN": "Oh it’s embarrassing!",
+      "ZH_HK": "這就尷尬了...",
+      "KR": "이러면 좀..."
+     },
+     "nextid": "E1_263"
+    }
+   ],
+   "id": "E1_choicee_36",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_168": {
+   "photoid": "E1-02",
+   "contents": {
+    "ZH_CN": "哈哈哈哈我是天才！红丝绒蛋糕出炉！",
+    "JP": "はっは私は天才！レッドベルベットケーキできた！",
+    "EN": "HAHAHAHA I’m a genius. Red velvet cake!",
+    "ZH_HK": "哈哈哈哈我是天才！黑森林蛋糕出爐！",
+    "KR": "하하하하하!난 역시 천재야!레드 벨벳 케이크 탄생!"
+   },
+   "id": "E1_168",
+   "nextid": "E1_169",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_TIMELINE"
+  },
+  "E1_169": {
+   "contents": {
+    "ZH_CN": "我就问你怎么样！！↑↑↑↑",
+    "JP": "どう！！↑↑↑↑",
+    "EN": "Isn’t it awesome?",
+    "ZH_HK": "我就問你怎麼樣！！↑↑↑↑",
+    "KR": "어때 내가 만든 케이크가!"
+   },
+   "inputTime": 2828,
+   "id": "E1_169",
+   "nextid": "E1_170",
+   "nextMessageDelayTime": 2828,
+   "type": "MIKO_TEXT"
+  },
+  "E1_186": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_186",
+   "nextid": "E1_187",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_187": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_187",
+   "nextid": "E1_188",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_188": {
+   "contents": {
+    "ZH_CN": "恩恩，感觉已经完成得很好了",
+    "JP": "うん、よくできあがりそうだ",
+    "EN": "Hm, feel like it’s almost ready.",
+    "ZH_HK": "恩恩，感覺已經完成得很好了",
+    "KR": "이제 꽤 괜찮게 완성된 거 같아"
+   },
+   "inputTime": 3048,
+   "id": "E1_188",
+   "nextid": "E1_189",
+   "nextMessageDelayTime": 3048,
+   "type": "MIKO_TEXT"
+  },
+  "E1_189": {
+   "contents": {
+    "ZH_CN": "乳霜也搞定啦，现在就是等蛋糕烤好，然后再裱花了",
+    "JP": "クリームもできた、次はケーキの出来上がりを待つ。それから花を飾る",
+    "EN": "Cheese cream finished. Now just waiting for the bake and then the decoration.",
+    "ZH_HK": "乳霜也搞定啦，現在就是等蛋糕烤好，然後再裱花了",
+    "KR": "생크림도 완성했어,그럼 이제 케이크가 다 구워지길 기다린 뒤,데코레이션만 하면 돼"
+   },
+   "inputTime": 5010,
+   "id": "E1_189",
+   "nextid": "E1_190",
+   "nextMessageDelayTime": 5010,
+   "type": "MIKO_TEXT"
+  },
+  "E1_182": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_182",
+   "nextid": "E1_187",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_183": {
+   "contents": {
+    "ZH_CN": "是吧！",
+    "JP": "そうね",
+    "EN": "Sure!",
+    "ZH_HK": "是吧！",
+    "KR": "어때!"
+   },
+   "inputTime": 754,
+   "id": "E1_183",
+   "nextid": "E1_184",
+   "nextMessageDelayTime": 754,
+   "type": "MIKO_TEXT"
+  },
+  "E1_184": {
+   "contents": {
+    "ZH_CN": "我的手艺嘛！",
+    "JP": "私の手芸だよ",
+    "EN": "It’s made by me!",
+    "ZH_HK": "我的手藝嘛！",
+    "KR": "내 실력이!"
+   },
+   "inputTime": 1458,
+   "id": "E1_184",
+   "nextid": "E1_185",
+   "nextMessageDelayTime": 1458,
+   "type": "MIKO_TEXT"
+  },
+  "E1_185": {
+   "contents": {
+    "ZH_CN": "这是基本功啦",
+    "JP": "それは基本なんだ",
+    "EN": "I know, it’s fundamental.",
+    "ZH_HK": "這是基本功啦",
+    "KR": "이건 기본 중의 기본이야"
+   },
+   "inputTime": 1565,
+   "id": "E1_185",
+   "nextid": "E1_186",
+   "nextMessageDelayTime": 1565,
+   "type": "MIKO_TEXT"
+  },
+  "E1_180": {
+   "contents": {
+    "ZH_CN": "好！幸亏你知道！想不到你也会烤蛋糕么",
+    "JP": "すごい、よく知ってるね、あんたもケーキが焼けるじゃん",
+    "EN": "Well, it’s good that you helped. I never suppose that you know baking.",
+    "ZH_HK": "好！幸虧你知道！想不到你也會烤蛋糕麼",
+    "KR": "다행이다 네가 알고 있어서!몰랐는데 너도 케이크 구울 줄 아는구나?"
+   },
+   "inputTime": 3616,
+   "id": "E1_180",
+   "nextid": "E1_181",
+   "nextMessageDelayTime": 3616,
+   "type": "MIKO_TEXT"
+  },
+  "E1_181": {
+   "contents": {
+    "ZH_CN": "嗯，那现在开始烤了，放进去，调好时间...",
+    "JP": "うん、今から焼きはじめよう。入れて時間を調整して",
+    "EN": "Yeah, now it’s in the oven. Turn it on and take the time.",
+    "ZH_HK": "嗯，那現在開始烤了，放進去，調好時間...",
+    "KR": "응,그럼 이제 굽기 시작하자,넣어놓고 시간 조정해놓으면 끝"
+   },
+   "inputTime": 4822,
+   "id": "E1_181",
+   "nextid": "E1_182",
+   "nextMessageDelayTime": 4822,
+   "type": "MIKO_TEXT"
+  },
+  "E1_choicee_22": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你母亲呢？",
+      "JP": "お母さんは",
+      "EN": "How about your mother?",
+      "ZH_HK": "你母親呢？",
+      "KR": "어머니는?"
+     },
+     "nextid": "E1_125"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你还是应该多交些朋友",
+      "JP": "やっぱり友達をたくさん作ったほうがいいと思うよ",
+      "EN": "You need some friends.",
+      "ZH_HK": "你還是應該多交些朋友",
+      "KR": "친구를 좀 더 사귀어 보는 건 어때"
+     },
+     "nextid": "E1_117"
+    }
+   ],
+   "id": "E1_choicee_22",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_23": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "其实你现在话还是挺多的",
+      "JP": "実は今も話が多いよ",
+      "EN": "Well you ARE talkative.",
+      "ZH_HK": "其實你現在話還是挺多的",
+      "KR": "내 생각에는 지금도 충분히 말이 많은 거 같은데"
+     },
+     "nextid": "E1_120"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你现在也挺爱说话的",
+      "JP": "今でもよくしゃべりが好きなようだね",
+      "EN": "Well you ARE talkative now.",
+      "ZH_HK": "你現在也挺愛說話的",
+      "KR": "지금도 말하는거 꽤 좋아하는 거 같아"
+     },
+     "nextid": "E1_120"
+    }
+   ],
+   "id": "E1_choicee_23",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_20": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你去打游戏吧，我也要去打游戏了",
+      "JP": "ゲームをして、私もゲームをするから",
+      "EN": "You can go playing. I’ll go, too.",
+      "ZH_HK": "你去打遊戲吧，我也要去打遊戲了",
+      "KR": "먼저 게임하러 가,나도 게임좀 하러 갈래"
+     },
+     "nextid": "E1_99"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我们聊天吧",
+      "JP": "じゃ、話そう",
+      "EN": "Let’s talk for a while.",
+      "ZH_HK": "我們聊天吧",
+      "KR": "이야기 좀 하자"
+     },
+     "nextid": "E1_102"
+    }
+   ],
+   "id": "E1_choicee_20",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_21": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你是不是遇到什么事情啊",
+      "JP": "何かあったの",
+      "EN": "Is there something happened wrong?",
+      "ZH_HK": "你是不是遇到什麼事情啊",
+      "KR": "무슨 일이 있었던 거야?"
+     },
+     "nextid": "E1_115"
+    },
+    {
+     "contents": {
+      "ZH_CN": "社交恐惧症？",
+      "JP": "アガリ症",
+      "EN": "Social Communication disorders?",
+      "ZH_HK": "社交恐懼症？",
+      "KR": "대인기피증?"
+     },
+     "nextid": "E1_111"
+    }
+   ],
+   "id": "E1_choicee_21",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_26": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "想得太远了...",
+      "JP": "考えすぎ...",
+      "EN": "You just think too much.",
+      "ZH_HK": "想得太遠了...",
+      "KR": "너무 멀리 갔어"
+     },
+     "nextid": "E1_144"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你爸是什么样的人啊",
+      "JP": "お父さんってどんな人",
+      "EN": "What’s your father like?",
+      "ZH_HK": "你爸是什麼樣的人啊",
+      "KR": "너희 아빠는 어떤 사람이야?"
+     },
+     "nextid": "E1_145"
+    }
+   ],
+   "id": "E1_choicee_26",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_27": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "哄女儿讲恐怖故事？",
+      "JP": "娘を騙すため、鬼物語を言うとは",
+      "EN": "A horrible story for daughter?",
+      "ZH_HK": "哄女兒講恐怖故事？",
+      "KR": "딸에게 공포 이야기를 들려준다고?"
+     },
+     "nextid": "E1_158"
+    },
+    {
+     "contents": {
+      "ZH_CN": "这种老爸也是...",
+      "JP": "お父さんはもう...",
+      "EN": "He’s not good at being a dad…",
+      "ZH_HK": "這種老爸也是...",
+      "KR": "아빠란 사람이 참..."
+     },
+     "nextid": "E1_158"
+    }
+   ],
+   "id": "E1_choicee_27",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_24": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "抱歉，我不是有意提起这个的",
+      "JP": "ごめん、そんなことに及ぶつもりはなかった",
+      "EN": "Sorry, I don’t mean to bring it.",
+      "ZH_HK": "抱歉，我不是有意提起這個的",
+      "KR": "미안,일부러 이런 이야기를 꺼내려고 한건 아니야"
+     },
+     "nextid": "E1_129"
+    },
+    {
+     "contents": {
+      "ZH_CN": "对不起，我说错话了",
+      "JP": "ごめん",
+      "EN": "Sorry, I should say something else.",
+      "ZH_HK": "對不起，我說錯話了",
+      "KR": "내가 말을 잘못 꺼낸 거 같아,미안"
+     },
+     "nextid": "E1_129"
+    }
+   ],
+   "id": "E1_choicee_24",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_25": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "别伤心",
+      "JP": "悲しまないで",
+      "EN": "Don’t be sad.",
+      "ZH_HK": "別傷心",
+      "KR": "너무 슬퍼하지 마"
+     },
+     "nextid": "E1_129"
+    },
+    {
+     "contents": {
+      "ZH_CN": "对不起，我不该问这些",
+      "JP": "ごめん、聞かなかったらよかったのに",
+      "EN": "Sorry, I shouldn’t ask.",
+      "ZH_HK": "對不起，我不該問這些",
+      "KR": "미안,내가 이런걸 물어보는 게 아니었는데"
+     },
+     "nextid": "E1_129"
+    }
+   ],
+   "id": "E1_choicee_25",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_28": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "我擦，这真是刚才我们做的那个吗？！",
+      "JP": "あれ、本当にさっき私たちが作ったケーキなの",
+      "EN": "Wow, is it the one we made?",
+      "ZH_HK": "哇靠，這真是剛才我們做的那個嗎？！",
+      "KR": "이거 진짜 네가 만든 거야?!"
+     },
+     "nextid": "E1_171"
+    },
+    {
+     "contents": {
+      "ZH_CN": "太赞了！",
+      "JP": "最高！",
+      "EN": "Awesome!",
+      "ZH_HK": "太贊了！",
+      "KR": "개쩐다!"
+     },
+     "nextid": "E1_172"
+    }
+   ],
+   "id": "E1_choicee_28",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_29": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "这次我真的要来了！",
+      "JP": "今度こそ必ず行くよ！",
+      "EN": "This time definitely catch it!",
+      "ZH_HK": "這次我真的要來了！",
+      "KR": "그래 이번에는 꼭 간다!"
+     },
+     "nextid": "E1_272"
+    },
+    {
+     "contents": {
+      "ZH_CN": "马上就到！你等着！",
+      "JP": "すぐ来るから、待って！",
+      "EN": "I’ll be coming soon! Wait for me!",
+      "ZH_HK": "馬上就到！你等著！",
+      "KR": "금방 간다!기다려!"
+     },
+     "nextid": "E1_272"
+    }
+   ],
+   "id": "E1_choicee_29",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_179": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_179",
+   "nextid": "E1_187",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_197": {
+   "contents": {
+    "ZH_CN": "在学校的时候也很少跟人说话，总觉得很烦啊",
+    "JP": "学校でもほとんど人と話さなかった。なんか面倒くさくない？",
+    "EN": "At school I didn’t talk. It bothered me.",
+    "ZH_HK": "在學校的時候也很少跟人說話，總覺得很煩啊",
+    "KR": "학교에 있을 때도 거의 사람들하고 이야기를 안 해,귀찮거든"
+   },
+   "inputTime": 4503,
+   "id": "E1_197",
+   "nextid": "E1_198",
+   "nextMessageDelayTime": 4503,
+   "type": "MIKO_TEXT"
+  },
+  "E1_198": {
+   "contents": {
+    "ZH_CN": "不对，也不是烦，就是觉得要费心去说别人能理解的话，又要担心自己说的别人会不会感兴趣，很累",
+    "JP": "いや、面倒くさいというより、ただ他人にわかる話を気を使って言うのはあれだし、そして、言った言葉は面白くないかなとといろいろ心配するから、しんどい",
+    "EN": "No, it’s not about bothering, just… It’s so tiring to say something people understand, something interesting. So tiring!",
+    "ZH_HK": "不對，也不是煩，就是覺得要費心去說別人能理解的話，又要擔心自己說的別人會不會感興趣，很累",
+    "KR": "아니다,귀찮다기보다는 사람들 이야기에 귀 기울여 주면서,내가 하는 이야기도 사람들이 흥미를 가질까?라고 고민하는 게 너무 힘들었어"
+   },
+   "inputTime": 9118,
+   "id": "E1_198",
+   "nextid": "E1_199",
+   "nextMessageDelayTime": 9118,
+   "type": "MIKO_TEXT"
+  },
+  "E1_199": {
+   "contents": {
+    "ZH_CN": "后来也就不怎么说话了，有什么事情就放在心里好了，其实又真有什么事情值得分享呢",
+    "JP": "それからはほとんど話さない。何があったら心に埋めればいいの。実際他人と分かち合うに値することなんてないもん。",
+    "EN": "Then I didn’t feel like talking. You can just keep all the thoughts in mind. To be honest, is there really anything worth sharing?",
+    "ZH_HK": "後來也就不怎麼說話了，有什麼事情就放在心裡好了，其實又真有什麼事情值得分享呢",
+    "KR": "그 뒤에는 말도 별로 안하게 되고,막상 무슨 일이 있어도 마음에 담아두기만 했지.아니,그 전에 누군가와 말을 할 만큼의 이야기도 없었나?"
+   },
+   "inputTime": 7873,
+   "id": "E1_199",
+   "nextid": "E1_200",
+   "nextMessageDelayTime": 7873,
+   "type": "MIKO_TEXT"
+  },
+  "E1_193": {
+   "contents": {
+    "ZH_CN": "那我去了...",
+    "JP": "さようなら...",
+    "EN": "Ok I’ll go.",
+    "ZH_HK": "那我去了...",
+    "KR": "그럼 가볼게"
+   },
+   "inputTime": 1401,
+   "id": "E1_193",
+   "nextid": "E1_194",
+   "nextMessageDelayTime": 1401,
+   "type": "MIKO_TEXT"
+  },
+  "E1_194": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_194",
+   "nextid": "E1_260",
+   "nextMessageDelayTime": 1800000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_195": {
+   "contents": {
+    "ZH_CN": "好啊好啊！",
+    "JP": "はいはい",
+    "EN": "I’d love to.",
+    "ZH_HK": "好啊好啊！",
+    "KR": "좋아 좋아!"
+   },
+   "inputTime": 1777,
+   "id": "E1_195",
+   "nextid": "E1_196",
+   "nextMessageDelayTime": 1777,
+   "type": "MIKO_TEXT"
+  },
+  "E1_196": {
+   "contents": {
+    "ZH_CN": "其实说起来，我很少跟人聊天哦",
+    "JP": "実は、しゃべるなんかほとんどしてなかった",
+    "EN": "Actually I don’t talk with people.",
+    "ZH_HK": "其實說起來，我很少跟人聊天哦",
+    "KR": "그러고 보니,나 평소에는 사람들하고 별로 대화를 안 하는 편이다?"
+   },
+   "inputTime": 2980,
+   "id": "E1_196",
+   "nextid": "E1_197",
+   "nextMessageDelayTime": 2980,
+   "type": "MIKO_TEXT"
+  },
+  "E1_92": {
+   "contents": {
+    "ZH_CN": "这是基本功啦",
+    "JP": "それは基本なんだ",
+    "EN": "I know, it’s fundamental.",
+    "ZH_HK": "這是基本功啦",
+    "KR": "이건 기본 중의 기본이야"
+   },
+   "inputTime": 1715,
+   "id": "E1_92",
+   "nextid": "E1_93",
+   "nextMessageDelayTime": 1715,
+   "type": "MIKO_TEXT"
+  },
+  "E1_93": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_93",
+   "nextid": "E1_94",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_190": {
+   "contents": {
+    "ZH_CN": "这段时间干点什么好呢",
+    "JP": "この間には何をしよう",
+    "EN": "I can’t just stick around here.",
+    "ZH_HK": "這段時間幹點什麼好呢",
+    "KR": "이제 남는 시간 동안 뭐 할까"
+   },
+   "inputTime": 2414,
+   "id": "E1_190",
+   "nextid": "E1_191",
+   "nextMessageDelayTime": 2414,
+   "type": "MIKO_TEXT"
+  },
+  "E1_94": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_94",
+   "nextid": "E1_95",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_191": {
+   "contents": {
+    "ZH_CN": "要不我去打游戏？还是陪你聊一会天？",
+    "JP": "ゲームをする、それともあんたとしゃべるか",
+    "EN": "What about playing games? Or we just chat for a little while?",
+    "ZH_HK": "要不我去打遊戲？還是陪你聊一會天？",
+    "KR": "나는 게임이라도 하러 갈까?아니면 같이 이야기할래?"
+   },
+   "inputTime": 4007,
+   "id": "E1_191",
+   "nextid": "E1_choicee_30",
+   "nextMessageDelayTime": 4007,
+   "type": "MIKO_TEXT"
+  },
+  "E1_95": {
+   "contents": {
+    "ZH_CN": "恩恩，感觉已经完成得很好了",
+    "JP": "うん、よくできあがりそうだ",
+    "EN": "Hm, feel like it’s almost ready.",
+    "ZH_HK": "恩恩，感覺已經完成得很好了",
+    "KR": "이제 꽤 괜찮게 완성된 거 같아"
+   },
+   "inputTime": 2659,
+   "id": "E1_95",
+   "nextid": "E1_96",
+   "nextMessageDelayTime": 2659,
+   "type": "MIKO_TEXT"
+  },
+  "E1_192": {
+   "contents": {
+    "ZH_CN": "好吧...",
+    "JP": "もういい...",
+    "EN": "Well.",
+    "ZH_HK": "好吧...",
+    "KR": "그래...."
+   },
+   "inputTime": 1792,
+   "id": "E1_192",
+   "nextid": "E1_193",
+   "nextMessageDelayTime": 1792,
+   "type": "MIKO_TEXT"
+  },
+  "E1_90": {
+   "contents": {
+    "ZH_CN": "对了，要隔水融化，这个我还是没有忘的",
+    "JP": "そうだ。容器と一緒に水の中に入れて、溶かしておく",
+    "EN": "By the way, water bath. I don’t forget that.",
+    "ZH_HK": "對了，要隔水融化，這個我還是沒有忘的",
+    "KR": "맞다,물로 중탕을 해주면서 녺여야 하는 건 기억하고 있어"
+   },
+   "inputTime": 4325,
+   "id": "E1_90",
+   "nextid": "E1_91",
+   "nextMessageDelayTime": 4325,
+   "type": "MIKO_TEXT"
+  },
+  "E1_91": {
+   "contents": {
+    "ZH_CN": "而且打发时间和速度很重要，不然要么不成型要么过头了",
+    "JP": "そして泡立てる時間と速度も重要なので、じゃないと成形できない或はやりすぎることになる",
+    "EN": "And it’s crucial to watch time and speed. Or it could go out of shape or too stiff.",
+    "ZH_HK": "而且打發時間和速度很重要，不然要麼不成型要麼過頭了",
+    "KR": "게다가 휘저을 때 걸린 시간하고 속도도 매우 중요해,너무 휘저어도 안되고 너무 안 저어도 모양이 안나와"
+   },
+   "inputTime": 5069,
+   "id": "E1_91",
+   "nextid": "E1_92",
+   "nextMessageDelayTime": 5069,
+   "type": "MIKO_TEXT"
+  },
+  "E1_96": {
+   "contents": {
+    "ZH_CN": "乳霜也搞定啦，现在就是等蛋糕烤好，然后再裱花了",
+    "JP": "クリームもできた、次はケーキの出来上がりを待つ。それから花を飾る",
+    "EN": "Cheese cream finished. Now just waiting for the bake and then the decoration.",
+    "ZH_HK": "乳霜也搞定啦，現在就是等蛋糕烤好，然後再裱花了",
+    "KR": "생크림도 완성했어,그럼 이제 케이크가 다 구워지길 기다린 뒤,데코레이션만 하면 돼"
+   },
+   "inputTime": 5061,
+   "id": "E1_96",
+   "nextid": "E1_97",
+   "nextMessageDelayTime": 5061,
+   "type": "MIKO_TEXT"
+  },
+  "E1_97": {
+   "contents": {
+    "ZH_CN": "这段时间干点什么好呢",
+    "JP": "この間には何をしよう",
+    "EN": "I can’t just stick around here.",
+    "ZH_HK": "這段時間幹點什麼好呢",
+    "KR": "이제 남는 시간 동안 뭐 할까"
+   },
+   "inputTime": 2467,
+   "id": "E1_97",
+   "nextid": "E1_98",
+   "nextMessageDelayTime": 2467,
+   "type": "MIKO_TEXT"
+  },
+  "E1_98": {
+   "contents": {
+    "ZH_CN": "要不我去打游戏？还是陪你聊一会天？",
+    "JP": "ゲームをする、それともあんたとしゃべるか",
+    "EN": "What about playing games? Or we just chat for a little while?",
+    "ZH_HK": "要不我去打遊戲？還是陪你聊一會天？",
+    "KR": "나는 게임이라도 하러 갈까?아니면 같이 이야기할래?"
+   },
+   "inputTime": 4041,
+   "id": "E1_98",
+   "nextid": "E1_choicee_20",
+   "nextMessageDelayTime": 4041,
+   "type": "MIKO_TEXT"
+  },
+  "E1_99": {
+   "contents": {
+    "ZH_CN": "好吧...",
+    "JP": "もういい...",
+    "EN": "Well.",
+    "ZH_HK": "好吧...",
+    "KR": "그래...."
+   },
+   "inputTime": 1310,
+   "id": "E1_99",
+   "nextid": "E1_100",
+   "nextMessageDelayTime": 1310,
+   "type": "MIKO_TEXT"
+  },
+  "E1_81": {
+   "contents": {
+    "ZH_CN": "然后要烤了...",
+    "JP": "次は焼く...",
+    "EN": "Then bake it…",
+    "ZH_HK": "然後要烤了...",
+    "KR": "그러면 굽는다?"
+   },
+   "inputTime": 2066,
+   "id": "E1_81",
+   "nextid": "E1_82",
+   "nextMessageDelayTime": 2066,
+   "type": "MIKO_TEXT"
+  },
+  "E1_82": {
+   "contents": {
+    "ZH_CN": "嗯，170度，30分钟",
+    "JP": "うん、１７０度、３０分",
+    "EN": "170°C and 30 minutes.",
+    "ZH_HK": "嗯，170度，30分鐘",
+    "KR": "음,170도에 30분"
+   },
+   "inputTime": 2989,
+   "id": "E1_82",
+   "nextid": "E1_83",
+   "nextMessageDelayTime": 2989,
+   "type": "MIKO_TEXT"
+  },
+  "E1_83": {
+   "contents": {
+    "ZH_CN": "咦，不对，到底多少来的？我怎么又忘了",
+    "JP": "あれ、違う、いったいいくらだっけ、また忘れたわ",
+    "EN": "No? Then how? Oh I lost it again.",
+    "ZH_HK": "咦，不對，到底多少來的？我怎麼又忘了",
+    "KR": "엥,잠깐,몇 분이더라?그 사이에 또 까먹었네"
+   },
+   "inputTime": 4375,
+   "id": "E1_83",
+   "nextid": "E1_84",
+   "nextMessageDelayTime": 4375,
+   "type": "MIKO_TEXT"
+  },
+  "E1_84": {
+   "contents": {
+    "ZH_CN": "220度，40分钟？",
+    "JP": "２２０度、４０分",
+    "EN": "220 °C for 40 minutes?",
+    "ZH_HK": "220度，40分鐘？",
+    "KR": "220도,40분?"
+   },
+   "inputTime": 2637,
+   "id": "E1_84",
+   "nextid": "E1_choicee_18",
+   "nextMessageDelayTime": 2637,
+   "type": "MIKO_TEXT"
+  },
+  "E1_80": {
+   "contents": {
+    "ZH_CN": "震动？哦，明白了，是除去气泡...",
+    "JP": "揺らす、わかった、気泡を除くため...",
+    "EN": "Shake it? Oh, shake off the bubbles.",
+    "ZH_HK": "震動？哦，明白了，是除去氣泡...",
+    "KR": "흔들어?아,기포를 빼내는 거구나..."
+   },
+   "inputTime": 3953,
+   "id": "E1_80",
+   "nextid": "E1_81",
+   "nextMessageDelayTime": 3953,
+   "type": "MIKO_TEXT"
+  },
+  "E1_89": {
+   "contents": {
+    "ZH_CN": "再拿黄油、酪乳，加糖粉、加淡奶油，再打发",
+    "JP": "パターとバターミルクを取って砂糖と薄いクリームを入れて泡立てて",
+    "EN": "More butter, more buttermilk, sugar, whipping cream… and whip it.",
+    "ZH_HK": "再拿黃油、酪乳，加糖粉、加淡奶油，再打發",
+    "KR": "우선 버터,버터밀크에 설탕을 넣고,크림을 넣은 뒤 휘저어줘"
+   },
+   "inputTime": 4306,
+   "id": "E1_89",
+   "nextid": "E1_choicee_19",
+   "nextMessageDelayTime": 4306,
+   "type": "MIKO_TEXT"
+  },
+  "E1_85": {
+   "contents": {
+    "ZH_CN": "好！幸亏你知道！想不到你也会烤蛋糕么",
+    "JP": "すごい、よく知ってるね、あんたもケーキが焼けるじゃん",
+    "EN": "Well, it’s good that you helped. I never suppose that you know baking.",
+    "ZH_HK": "好！幸虧你知道！想不到你也會烤蛋糕麼",
+    "KR": "다행이다 네가 알고 있어서!몰랐는데 너도 케이크 구울 줄 아는구나?"
+   },
+   "inputTime": 4182,
+   "id": "E1_85",
+   "nextid": "E1_86",
+   "nextMessageDelayTime": 4182,
+   "type": "MIKO_TEXT"
+  },
+  "E1_86": {
+   "contents": {
+    "ZH_CN": "嗯，那现在开始烤了，放进去，调好时间",
+    "JP": "うん、今から焼きはじめよう。入れて時間を調整して",
+    "EN": "Yeah, now it’s in the oven. Turn it on and take the time.",
+    "ZH_HK": "嗯，那現在開始烤了，放進去，調好時間",
+    "KR": "응,그럼 이제 굽기 시작하자,오븐에 넣어놓고 시간 조정해놓으면 끝"
+   },
+   "inputTime": 3976,
+   "id": "E1_86",
+   "nextid": "E1_87",
+   "nextMessageDelayTime": 3976,
+   "type": "MIKO_TEXT"
+  },
+  "E1_87": {
+   "contents": {
+    "ZH_CN": "唔...现在干什么呢",
+    "JP": "ええ、じゃ、次は何をしよう",
+    "EN": "Hm… What’s next?",
+    "ZH_HK": "唔...現在幹什麼呢",
+    "KR": "으음...이제 뭐할까"
+   },
+   "inputTime": 2014,
+   "id": "E1_87",
+   "nextid": "E1_88",
+   "nextMessageDelayTime": 2014,
+   "type": "MIKO_TEXT"
+  },
+  "E1_88": {
+   "contents": {
+    "ZH_CN": "现在来做奶酪乳霜，就是蛋糕上最好吃的部分哈哈哈哈哈",
+    "JP": "次はチーズクリームを作ろう。ケーキで一番おいしい部分だわ、ハッハ",
+    "EN": "Next I’ll do the cheese cream. It’s the best part of the cake haha.",
+    "ZH_HK": "現在來做乳酪乳霜，就是蛋糕上最好吃的部分哈哈哈哈哈",
+    "KR": "이제 케이크에서 가장 맛있는 생크림을 만들어야지 하하하하하"
+   },
+   "inputTime": 5781,
+   "id": "E1_88",
+   "nextid": "E1_89",
+   "nextMessageDelayTime": 5781,
+   "type": "MIKO_TEXT"
+  },
+  "E1_131": {
+   "contents": {
+    "ZH_CN": "之后的一段时间，我和爸爸闹得挺厉害，互相都看不顺眼，吵得很厉害",
+    "JP": "それから、私とお父さんのけんかはひどくなって、互いに気に入られなかった",
+    "EN": "Then after that dad and I were having fights. We didn’t like each other, for that arguing all day long.",
+    "ZH_HK": "之後的一段時間，我和爸爸鬧得挺厲害，互相都看不順眼，吵得很厲害",
+    "KR": "그 사건 후로 나하고 아버지는 정말 매일 싸웠어.서로가 서로를 불편해하면서,매일 얼굴을 붉히면서 싸웠어"
+   },
+   "inputTime": 6653,
+   "id": "E1_131",
+   "nextid": "E1_132",
+   "nextMessageDelayTime": 6653,
+   "type": "MIKO_TEXT"
+  },
+  "E1_252": {
+   "contents": {
+    "ZH_CN": "他说是一个著名的哲学家写的小说",
+    "JP": "ある有名な哲学者が書いた小説だって",
+    "EN": "He said it was written by a well-known philosopher.",
+    "ZH_HK": "他說是一個著名的哲學家寫的小說",
+    "KR": "아빠는 유명한 철학가가 쓴 소설이라고 말했는데"
+   },
+   "inputTime": 3347,
+   "id": "E1_252",
+   "nextid": "E1_253",
+   "nextMessageDelayTime": 3347,
+   "type": "MIKO_TEXT"
+  },
+  "E1_132": {
+   "contents": {
+    "ZH_CN": "现在想想，应该是我俩都找不到平复情绪的办法，却不由自主在互相伤害",
+    "JP": "振り返ってみて二人も平静を取り戻す方法が見つけられなくて、思わず相手の心を傷つけている",
+    "EN": "Now I think both of us didn’t find a way out, can’t help hurting each other.",
+    "ZH_HK": "現在想想，應該是我倆都找不到平復情緒的辦法，卻不由自主在互相傷害",
+    "KR": "지금 생각해보면,서로 납득을 하지 못해서 결국 그 분노를 자신도 모르게 서로에게 향한 거 같아"
+   },
+   "inputTime": 6699,
+   "id": "E1_132",
+   "nextid": "E1_133",
+   "nextMessageDelayTime": 6699,
+   "type": "MIKO_TEXT"
+  },
+  "E1_253": {
+   "contents": {
+    "ZH_CN": "你说哲学家干点什么不好，写凶杀案小说？",
+    "JP": "哲学者はどうして殺人事件の小説を書くのかな",
+    "EN": "Can’t the philosopher do anything except for writing murders?",
+    "ZH_HK": "你說哲學家幹點什麼不好，寫兇殺案小說？",
+    "KR": "철학가면서 왜 하필 살인사건을 소재로 한 소설을 쓴 거야?"
+   },
+   "inputTime": 4052,
+   "id": "E1_253",
+   "nextid": "E1_254",
+   "nextMessageDelayTime": 4052,
+   "type": "MIKO_TEXT"
+  },
+  "E1_133": {
+   "contents": {
+    "ZH_CN": "其实我这个人就是，你不能顺着我来，你越顺着我，我就觉得你讨厌",
+    "JP": "私ってこのような人よ。私をへつらえばへつらうほど相手のことを嫌いになるの",
+    "EN": "It’s like, I was a real handful. I hate who ever please me and love me.",
+    "ZH_HK": "其實我這個人就是，你不能順著我來，你越順著我，我就覺得你討厭",
+    "KR": "나 같은 사람은 억지로 나한테 맞춰주는 걸 훨씬 싫어해"
+   },
+   "inputTime": 6422,
+   "id": "E1_133",
+   "nextid": "E1_134",
+   "nextMessageDelayTime": 6422,
+   "type": "MIKO_TEXT"
+  },
+  "E1_254": {
+   "contents": {
+    "ZH_CN": "真是的...",
+    "JP": "まったく...",
+    "EN": "For god’s sake…",
+    "ZH_HK": "真是的...",
+    "KR": "정말이지..."
+   },
+   "inputTime": 1227,
+   "id": "E1_254",
+   "nextid": "E1_255",
+   "nextMessageDelayTime": 1227,
+   "type": "MIKO_TEXT"
+  },
+  "E1_134": {
+   "contents": {
+    "ZH_CN": "你应该一针见血地指出我的毛病，我反而就服你（当然啦，你态度要好~~",
+    "JP": "はっきり私のくせを指摘してくれたら、かえって感謝するよ。「もちらん、態度がよければの話ね」",
+    "EN": "You must points out my mistakes directly so I’ll listen to you. (Surely you must be gentle.",
+    "ZH_HK": "你應該一針見血地指出我的毛病，我反而就服你（當然啦，你態度要好~~",
+    "KR": "할 말이 있으면 하는게 오히려 내 성격에 맞거든(당연한 거지만 태도는 좋아야겠지?"
+   },
+   "inputTime": 6627,
+   "id": "E1_134",
+   "nextid": "E1_135",
+   "nextMessageDelayTime": 6627,
+   "type": "MIKO_TEXT"
+  },
+  "E1_255": {
+   "contents": {
+    "ZH_CN": "有时候觉得我爸也是搞笑...",
+    "JP": "お父さんはウケルだねと時々思ってる",
+    "EN": "Sometime I just find him funny.",
+    "ZH_HK": "有時候覺得我爸也是搞笑...",
+    "KR": "가끔씩 아빠도 참 웃기단 말이야"
+   },
+   "inputTime": 3501,
+   "id": "E1_255",
+   "nextid": "E1_256",
+   "nextMessageDelayTime": 3501,
+   "type": "MIKO_TEXT"
+  },
+  "E1_250": {
+   "contents": {
+    "ZH_CN": "这种故事亏他也讲得出来哦",
+    "JP": "こんな物語言い出すなんて想像できない",
+    "EN": "What a good job he did.",
+    "ZH_HK": "這種故事虧他也講得出來哦",
+    "KR": "어떻게 이런 이야기를 들려줄 생각을 한 건지"
+   },
+   "inputTime": 2489,
+   "id": "E1_250",
+   "nextid": "E1_choicee_35",
+   "nextMessageDelayTime": 2489,
+   "type": "MIKO_TEXT"
+  },
+  "E1_130": {
+   "contents": {
+    "ZH_CN": "想想两年前的那个时刻，还是难熬",
+    "JP": "二年前のあの時は、確かにすごくつらかったんだ",
+    "EN": "Two years ago, what a tough time.",
+    "ZH_HK": "想想兩年前的那個時刻，還是難熬",
+    "KR": "2년 전의 그 때는 정말 고통스러운 나날이었어"
+   },
+   "inputTime": 3150,
+   "id": "E1_130",
+   "nextid": "E1_131",
+   "nextMessageDelayTime": 3150,
+   "type": "MIKO_TEXT"
+  },
+  "E1_251": {
+   "contents": {
+    "ZH_CN": "是啊是啊",
+    "JP": "そうそう",
+    "EN": "Yeah.",
+    "ZH_HK": "是啊是啊",
+    "KR": "맞아"
+   },
+   "inputTime": 1161,
+   "id": "E1_251",
+   "nextid": "E1_252",
+   "nextMessageDelayTime": 1161,
+   "type": "MIKO_TEXT"
+  },
+  "E1_70": {
+   "contents": {
+    "ZH_CN": "我想想...",
+    "JP": "ちょっとまってね",
+    "EN": "Let’s see…",
+    "ZH_HK": "我想想...",
+    "KR": "어디 보자...."
+   },
+   "inputTime": 1893,
+   "id": "E1_70",
+   "nextid": "E1_71",
+   "nextMessageDelayTime": 1893,
+   "type": "MIKO_TEXT"
+  },
+  "E1_71": {
+   "contents": {
+    "ZH_CN": "好像是要分步骤搅拌呢",
+    "JP": "順に混ぜなければならないという",
+    "EN": "Seems that I should follow the steps?",
+    "ZH_HK": "好像是要分步驟攪拌呢",
+    "KR": "우선 나눠서 반죽을 해야 하네"
+   },
+   "inputTime": 2760,
+   "id": "E1_71",
+   "nextid": "E1_72",
+   "nextMessageDelayTime": 2760,
+   "type": "MIKO_TEXT"
+  },
+  "E1_72": {
+   "contents": {
+    "ZH_CN": "先加三分之一粉类，再加三分之一酪乳拌匀...",
+    "JP": "まずは三分の一の粉類を入れてから、三分の一のバターミルクを混ぜて",
+    "EN": "First it’s one third of flours, then 1/3 of buttermilk…",
+    "ZH_HK": "先加三分之一粉類，再加三分之一酪乳拌勻...",
+    "KR": "3분의 1의 가루들과 3분의 1의 버터밀크를 넣고...."
+   },
+   "inputTime": 4675,
+   "id": "E1_72",
+   "nextid": "E1_73",
+   "nextMessageDelayTime": 4675,
+   "type": "MIKO_TEXT"
+  },
+  "E1_73": {
+   "contents": {
+    "ZH_CN": "哎呀，差点忘了酪乳这个东西了",
+    "JP": "あら、バターミルクを忘れちゃった",
+    "EN": "Ah, almost forget the buttermilk.",
+    "ZH_HK": "哎呀，差點忘了酪乳這個東西了",
+    "KR": "버터밀크를 까먹을 뻔했네"
+   },
+   "inputTime": 3314,
+   "id": "E1_73",
+   "nextid": "E1_74",
+   "nextMessageDelayTime": 3314,
+   "type": "MIKO_TEXT"
+  },
+  "E1_78": {
+   "contents": {
+    "ZH_CN": "小苏打也混进去拌匀了，这个面糊看上去就是我的手笔！",
+    "JP": "重曹も混ぜて、この混ぜ物はぼくの手技に見える",
+    "EN": "And mix with soda. Now I finish the batter!",
+    "ZH_HK": "小蘇打也混進去拌勻了，這個麵糊看上去就是我的手筆！",
+    "KR": "소다 분말 도 넣으니 반죽이 꽤 괜찮게 된 거 같아!"
+   },
+   "inputTime": 5203,
+   "id": "E1_78",
+   "nextid": "E1_79",
+   "nextMessageDelayTime": 5203,
+   "type": "MIKO_TEXT"
+  },
+  "E1_79": {
+   "contents": {
+    "ZH_CN": "把面糊倒进模具，震动它...",
+    "JP": "これを金型に入れて、揺らして...",
+    "EN": "Pour the batter into the mould and shake it…",
+    "ZH_HK": "把麵糊倒進模具，震動它...",
+    "KR": "반죽을 이제 틀에 넣어준 뒤 흔들어주면..."
+   },
+   "inputTime": 3361,
+   "id": "E1_79",
+   "nextid": "E1_80",
+   "nextMessageDelayTime": 3361,
+   "type": "MIKO_TEXT"
+  },
+  "E1_74": {
+   "contents": {
+    "ZH_CN": "好险",
+    "JP": "あぶない",
+    "EN": "Almost!",
+    "ZH_HK": "好險",
+    "KR": "위험했다"
+   },
+   "inputTime": 957,
+   "id": "E1_74",
+   "nextid": "E1_75",
+   "nextMessageDelayTime": 957,
+   "type": "MIKO_TEXT"
+  },
+  "E1_75": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_75",
+   "nextid": "E1_76",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_76": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_76",
+   "nextid": "E1_77",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_77": {
+   "contents": {
+    "ZH_CN": "嗯，好了，三分三分地拌匀，现在看上去不错",
+    "JP": "うん、よし、三分ずつ混ぜて、いい感じ",
+    "EN": "Hmm yeah. 1/3 plus another 1/3. It looks good now.",
+    "ZH_HK": "嗯，好了，三分三分地拌勻，現在看上去不錯",
+    "KR": "응,좋아,3개씩 나눠서 반죽하니 꽤 괜찮게 된거같아"
+   },
+   "inputTime": 4280,
+   "id": "E1_77",
+   "nextid": "E1_78",
+   "nextMessageDelayTime": 4280,
+   "type": "MIKO_TEXT"
+  },
+  "E1_128": {
+   "contents": {
+    "ZH_CN": "永远",
+    "JP": "永遠に",
+    "EN": "For ever.",
+    "ZH_HK": "永遠",
+    "KR": "영원히"
+   },
+   "inputTime": 1134,
+   "id": "E1_128",
+   "nextid": "E1_choicee_25",
+   "nextMessageDelayTime": 1134,
+   "type": "MIKO_TEXT"
+  },
+  "E1_249": {
+   "contents": {
+    "ZH_CN": "有一次他为了哄我去图书馆，给我讲图书馆的故事，妈呀，最后居然是凶杀案",
+    "JP": "一度私を図書館につれるために、図書館の物語を教えてあげよって言った。まさかその物語は殺人案なんだ",
+    "EN": "Once he tried to persuade me into going to the library, told me a story of the library. In the end it turned out to be an murdering case!",
+    "ZH_HK": "有一次他為了哄我去圖書館，給我講圖書館的故事，媽呀，最後居然是兇殺案",
+    "KR": "하루는 나를 데리고 놀려고 도서관을 갔는데,거기서 읽어준 이야기가 살인사건 이야기야"
+   },
+   "inputTime": 7154,
+   "id": "E1_249",
+   "nextid": "E1_250",
+   "nextMessageDelayTime": 7154,
+   "type": "MIKO_TEXT"
+  },
+  "E1_129": {
+   "contents": {
+    "ZH_CN": "没事没事，我现在挺好的",
+    "JP": "大丈夫、今は平気",
+    "EN": "It’s all right. I’m not sad.",
+    "ZH_HK": "沒事沒事，我現在挺好的",
+    "KR": "괜찮아,지금은 꽤 괜찮아졌어"
+   },
+   "inputTime": 2980,
+   "id": "E1_129",
+   "nextid": "E1_130",
+   "nextMessageDelayTime": 2980,
+   "type": "MIKO_TEXT"
+  },
+  "E1_124": {
+   "contents": {
+    "ZH_CN": "唉...",
+    "JP": "ああ...",
+    "EN": "*Sigh*…",
+    "ZH_HK": "唉...",
+    "KR": "그런..."
+   },
+   "inputTime": 1580,
+   "id": "E1_124",
+   "nextid": "E1_choicee_24",
+   "nextMessageDelayTime": 1580,
+   "type": "MIKO_TEXT"
+  },
+  "E1_245": {
+   "contents": {
+    "ZH_CN": "他公司有什么好玩的，都是科学仪器，都是些不会笑的人穿着白大褂戴着防护眼镜走来走去",
+    "JP": "会社は面白くないなぁ、科学器具ばっかり、白衣を着て防護メガネをかけて行ったり来たりする笑いさえできない人ばっかりでしょう",
+    "EN": "What is fun in his working place? All I can get was his equipments. All the people were under masks, can’t tell their faces.",
+    "ZH_HK": "他公司有什麼好玩的，都是科學儀器，都是些不會笑的人穿著白大褂戴著防護眼鏡走來走去",
+    "KR": "딸을 데리고 회사를 가는 사람이 어딨어?가봤자 실험기구만 있는 데다,다들 흰색 가운 걸치고 안구 보호용 고글을 끼고 실험하기 바쁜데"
+   },
+   "inputTime": 8115,
+   "id": "E1_245",
+   "nextid": "E1_246",
+   "nextMessageDelayTime": 8115,
+   "type": "MIKO_TEXT"
+  },
+  "E1_125": {
+   "contents": {
+    "ZH_CN": "嗯...",
+    "JP": "うん...",
+    "EN": "Well..",
+    "ZH_HK": "嗯...",
+    "KR": "음..."
+   },
+   "inputTime": 1020,
+   "id": "E1_125",
+   "nextid": "E1_126",
+   "nextMessageDelayTime": 1020,
+   "type": "MIKO_TEXT"
+  },
+  "E1_246": {
+   "contents": {
+    "ZH_CN": "那些什么叔叔伯伯之类的跟我打招呼，我都不知道他们长什么样",
+    "JP": "そこのおじさんがわたしに挨拶してもかれの顔さえ知らない",
+    "EN": "Some of his colleagues said hello to me and I didn’t even see their faces.",
+    "ZH_HK": "那些什麼叔叔伯伯之類的跟我打招呼，我都不知道他們長什麼樣",
+    "KR": "무슨 무슨 아저씨,무슨 무슨 삼촌이 나한테 말을 걸어 줬지만,어떻게 생겼는지는 보지도 못했어"
+   },
+   "inputTime": 6358,
+   "id": "E1_246",
+   "nextid": "E1_247",
+   "nextMessageDelayTime": 6358,
+   "type": "MIKO_TEXT"
+  },
+  "E1_126": {
+   "contents": {
+    "ZH_CN": "还是不说了吧...",
+    "JP": "その話はもういい...",
+    "EN": "Maybe stop here.",
+    "ZH_HK": "還是不說了吧...",
+    "KR": "역시 말 안 하는 게 좋을거 같아"
+   },
+   "inputTime": 2341,
+   "id": "E1_126",
+   "nextid": "E1_127",
+   "nextMessageDelayTime": 2341,
+   "type": "MIKO_TEXT"
+  },
+  "E1_247": {
+   "contents": {
+    "ZH_CN": "图书馆虽然还行，不过哪儿有带女儿去图书馆玩的啊，玩什么？不是应该带女孩子去海洋馆之类的吗？",
+    "JP": "図書館はともかく、でも娘を図書館へ遊びに連れるお父さんがいるの、海洋館なんか連れていくべきじゃん",
+    "EN": "Well library is acceptable. But who brings little daughter to a library? For what? Why not other normal place, like aquarium?",
+    "ZH_HK": "圖書館雖然還行，不過哪兒有帶女兒去圖書館玩的啊，玩什麼？不是應該帶女孩子去海洋館之類的嗎？",
+    "KR": "도서관은 그나마 괜찮기는 했지만, 대체 어떤 아빠가 딸을 데리고 도서관으로 놀러 갈 생각을 하는 거지? 보통 다들 수족관이라던가 그런 곳을 데려가잖아?"
+   },
+   "inputTime": 9739,
+   "id": "E1_247",
+   "nextid": "E1_248",
+   "nextMessageDelayTime": 9739,
+   "type": "MIKO_TEXT"
+  },
+  "E1_127": {
+   "contents": {
+    "ZH_CN": "总之，两年前她离开我们了",
+    "JP": "とにかく、二年前から私たちを離れて行ったんだ",
+    "EN": "In a word, she left us two years ago.",
+    "ZH_HK": "總之，兩年前她離開我們了",
+    "KR": "어찌 됐건,2년 전에 우리 곁을 떠나셨어"
+   },
+   "inputTime": 2552,
+   "id": "E1_127",
+   "nextid": "E1_128",
+   "nextMessageDelayTime": 2552,
+   "type": "MIKO_TEXT"
+  },
+  "E1_248": {
+   "contents": {
+    "ZH_CN": "他说图书馆是最有意思的地方，是迷宫，也是最有序的地方，是聚集知识的地方，也是隐藏秘密的地方",
+    "JP": "図書館は最も面白いところだって、図書館は迷宮で、秩序のあるところで、知識が集まるところでもあり、秘密を隠すところでもあるってお父さんは言った",
+    "EN": "He said library is the best park. It’s a maze, but with order, knowledge and secrets.",
+    "ZH_HK": "他說圖書館是最有意思的地方，是迷宮，也是最有序的地方，是聚集知識的地方，也是隱藏秘密的地方",
+    "KR": "아빠는 도서관이 가장 재밌는 곳 이라고 하셨어.이곳은 미궁이면서도 질서가 잡혀 있다고.지식이 모여 있으면서도,숨겨져 있다면서 말이지"
+   },
+   "inputTime": 9022,
+   "id": "E1_248",
+   "nextid": "E1_249",
+   "nextMessageDelayTime": 9022,
+   "type": "MIKO_TEXT"
+  },
+  "E1_142": {
+   "contents": {
+    "ZH_CN": "可能我们的方式不一样...",
+    "JP": "やり方はそれぞれ違うけど...",
+    "EN": "It’s just the way of caring…",
+    "ZH_HK": "可能我們的方式不一樣...",
+    "KR": "서로 방식의 차이가 있을 뿐이니까...."
+   },
+   "inputTime": 2733,
+   "id": "E1_142",
+   "nextid": "E1_143",
+   "nextMessageDelayTime": 2733,
+   "type": "MIKO_TEXT"
+  },
+  "E1_263": {
+   "contents": {
+    "ZH_CN": "都怪你！",
+    "JP": "あんたのせいよ！",
+    "EN": "I blame you!",
+    "ZH_HK": "都怪你！",
+    "KR": "전부 네 탓이야!"
+   },
+   "inputTime": 821,
+   "id": "E1_263",
+   "nextid": "E1_264",
+   "nextMessageDelayTime": 821,
+   "type": "MIKO_TEXT"
+  },
+  "E1_143": {
+   "contents": {
+    "ZH_CN": "想想也真可怕，做父母好难啊，我以后才不要当父母",
+    "JP": "思うだけ怖いね、両親って難しいなぁ、将来は両親なんてならないよ",
+    "EN": "Isn’t it terrible? It’s so hard to be a parent. I won’t be a parent in the future.",
+    "ZH_HK": "想想也真可怕，做父母好難啊，我以後才不要當父母",
+    "KR": "지금 생각해보면 부모님도 참 힘들어,난 진짜 부모가 되고 싶지는 않아"
+   },
+   "inputTime": 4813,
+   "id": "E1_143",
+   "nextid": "E1_choicee_26",
+   "nextMessageDelayTime": 4813,
+   "type": "MIKO_TEXT"
+  },
+  "E1_264": {
+   "contents": {
+    "ZH_CN": "都是你瞎指挥，什么嘛！",
+    "JP": "勝手に指揮して、なんじゃ！",
+    "EN": "It’s you who told me wrong! What are you doing?",
+    "ZH_HK": "都是你瞎指揮，什麼嘛！",
+    "KR": "옆에서 쓸데없는 말해서 이렇게 된 거잖아!"
+   },
+   "inputTime": 2465,
+   "id": "E1_264",
+   "nextid": "E1_choicee_37",
+   "nextMessageDelayTime": 2465,
+   "type": "MIKO_TEXT",
+   "requirement": "miko头像出现"
+  },
+  "E1_144": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈哈随便说说嘛",
+    "JP": "ハハ、言ってみて",
+    "EN": "HAHA, just chat.",
+    "ZH_HK": "哈哈哈哈哈隨便說說嘛",
+    "KR": "하하 아무거나 말해봐"
+   },
+   "inputTime": 2729,
+   "id": "E1_144",
+   "nextid": "E1_145",
+   "nextMessageDelayTime": 2729,
+   "type": "MIKO_TEXT"
+  },
+  "E1_265": {
+   "contents": {
+    "ZH_CN": "哼！",
+    "JP": "フン！",
+    "EN": "Hum!",
+    "ZH_HK": "哼！",
+    "KR": "흥!"
+   },
+   "inputTime": 1077,
+   "id": "E1_265",
+   "nextid": "E1_266",
+   "nextMessageDelayTime": 1077,
+   "type": "MIKO_TEXT"
+  },
+  "E1_145": {
+   "contents": {
+    "ZH_CN": "我爸就是一个严谨的科学家，可怕...",
+    "JP": "お父さんって厳しい科学者なんだ、こわっ...",
+    "EN": "My dad is an exact scientist, terrifying.",
+    "ZH_HK": "我爸就是一個嚴謹的科學家，可怕...",
+    "KR": "아빠는 정말 엄격한 과학가셔,무서울 정도로..."
+   },
+   "inputTime": 4271,
+   "id": "E1_145",
+   "nextid": "E1_146",
+   "nextMessageDelayTime": 4271,
+   "type": "MIKO_TEXT"
+  },
+  "E1_266": {
+   "contents": {
+    "ZH_CN": "算了，反正我也不想当厨师！",
+    "JP": "まあ、料理人をするつもりがない！",
+    "EN": "Forget it. I’m not to be a baker.",
+    "ZH_HK": "算了，反正我也不想當廚師！",
+    "KR": "됐어,난 셰프가 되고 싶지도 않았고!"
+   },
+   "inputTime": 2644,
+   "id": "E1_266",
+   "nextid": "E1_267",
+   "nextMessageDelayTime": 2644,
+   "type": "MIKO_TEXT"
+  },
+  "E1_260": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_260",
+   "nextid": "E1_261",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_140": {
+   "contents": {
+    "ZH_CN": "不过这次事情之后，我能理解我和他的关系了",
+    "JP": "でもこの事件の後、私とお父さんの関係はよく理解できた",
+    "EN": "But after that, now I can understand our relationships.",
+    "ZH_HK": "不過這次事情之後，我能理解我和他的關係了",
+    "KR": "이번 일을 겪고 나서 드디어 서로 이해하게 된 거 같아"
+   },
+   "inputTime": 4010,
+   "id": "E1_140",
+   "nextid": "E1_141",
+   "nextMessageDelayTime": 4010,
+   "type": "MIKO_TEXT"
+  },
+  "E1_261": {
+   "photoid": "E1-03",
+   "contents": {
+    "ZH_CN": "我真是无语了，这到底是什么...",
+    "JP": "参った、なんじゃこりゃ",
+    "EN": "I don’t know what to say. What have I made…",
+    "ZH_HK": "我真是無語了，這到底是什麼...",
+    "KR": "할 말을 잃게 만드는...이건 대체 뭐지?"
+   },
+   "id": "E1_261",
+   "nextid": "E1_262",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_TIMELINE"
+  },
+  "E1_141": {
+   "contents": {
+    "ZH_CN": "不管怎么说，我和他都感觉到彼此是最重要的人，我们是最关心对方的",
+    "JP": "何といっても、お互いにとって相手がとても大切な人だと認識したから、お互いに相手のことが一番心配なんだわ",
+    "EN": "After all, we both take each other as families, we care about each other.",
+    "ZH_HK": "不管怎麼說，我和他都感覺到彼此是最重要的人，我們是最關心對方的",
+    "KR": "과정이 어찌 됐건 아빠하고 나는 서로를 가장 중시하고,아낀다는 걸 알았으니까"
+   },
+   "inputTime": 6510,
+   "id": "E1_141",
+   "nextid": "E1_142",
+   "nextMessageDelayTime": 6510,
+   "type": "MIKO_TEXT"
+  },
+  "E1_262": {
+   "contents": {
+    "ZH_CN": "这个...",
+    "JP": "これ...",
+    "EN": "Ah…",
+    "ZH_HK": "這個...",
+    "KR": "이건..."
+   },
+   "inputTime": 1477,
+   "id": "E1_262",
+   "nextid": "E1_choicee_36",
+   "nextMessageDelayTime": 1477,
+   "type": "MIKO_TEXT"
+  },
+  "E1_60": {
+   "contents": {
+    "ZH_CN": "然后是...",
+    "JP": "それから...",
+    "EN": "And…",
+    "ZH_HK": "然後是...",
+    "KR": "그 뒤에..."
+   },
+   "inputTime": 1712,
+   "id": "E1_60",
+   "nextid": "E1_61",
+   "nextMessageDelayTime": 1712,
+   "type": "MIKO_TEXT"
+  },
+  "E1_61": {
+   "contents": {
+    "ZH_CN": "把黄油加糖，融化打发",
+    "JP": "パターに砂糖を入れてから溶かしてやる",
+    "EN": "Butter and sugar together until pale and fluffy…",
+    "ZH_HK": "把黃油加糖，融化打發",
+    "KR": "버터에 설탕을 넣고,녺이고 나서 거품을 낸다"
+   },
+   "inputTime": 2718,
+   "id": "E1_61",
+   "nextid": "E1_62",
+   "nextMessageDelayTime": 2718,
+   "type": "MIKO_TEXT"
+  },
+  "E1_62": {
+   "contents": {
+    "ZH_CN": "加入鸡蛋，加入香草精",
+    "JP": "卵を入れて、ハーブエキスを入れる",
+    "EN": "Then adding the eggs and vanilla…",
+    "ZH_HK": "加入雞蛋，加入香草精",
+    "KR": "계란을 추가하고,바닐라 추출물을 넣는다"
+   },
+   "inputTime": 2396,
+   "id": "E1_62",
+   "nextid": "E1_63",
+   "nextMessageDelayTime": 2396,
+   "type": "MIKO_TEXT"
+  },
+  "E1_67": {
+   "contents": {
+    "ZH_CN": "面粉、红曲粉、可可粉",
+    "JP": "小麦粉、紅麹パウダーと粉末ココア",
+    "EN": "Cake flour, Monascus red and cocoa…",
+    "ZH_HK": "麵粉、紅麴粉、可哥粉",
+    "KR": "박력분,색소,코코아분말"
+   },
+   "inputTime": 2640,
+   "id": "E1_67",
+   "nextid": "E1_68",
+   "nextMessageDelayTime": 2640,
+   "type": "MIKO_TEXT"
+  },
+  "E1_68": {
+   "contents": {
+    "ZH_CN": "看样子一起倒下去拌匀就可以了",
+    "JP": "全部入れて混ぜたらいい",
+    "EN": "Maybe just mix them all together?",
+    "ZH_HK": "看樣子一起倒下去拌勻就可以了",
+    "KR": "한 번에 넣어서 일정하게 섞어주면 되는구나"
+   },
+   "inputTime": 3034,
+   "id": "E1_68",
+   "nextid": "E1_choicee_17",
+   "nextMessageDelayTime": 3034,
+   "type": "MIKO_TEXT"
+  },
+  "E1_69": {
+   "contents": {
+    "ZH_CN": "哪里不对？",
+    "JP": "どこが違うの",
+    "EN": "What’s wrong?",
+    "ZH_HK": "哪裡不對？",
+    "KR": "어디 가 틀렸다는 거야?"
+   },
+   "inputTime": 1615,
+   "id": "E1_69",
+   "nextid": "E1_70",
+   "nextMessageDelayTime": 1615,
+   "type": "MIKO_TEXT"
+  },
+  "E1_63": {
+   "contents": {
+    "ZH_CN": "你等等我哈",
+    "JP": "ちょっとまってね",
+    "EN": "Wait a second.",
+    "ZH_HK": "你等等我哈",
+    "KR": "잠깐만 기다려줘"
+   },
+   "inputTime": 1000,
+   "id": "E1_63",
+   "nextid": "E1_64",
+   "nextMessageDelayTime": 1000,
+   "type": "MIKO_TEXT"
+  },
+  "E1_64": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_64",
+   "nextid": "E1_65",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_65": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_65",
+   "nextid": "E1_66",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_66": {
+   "contents": {
+    "ZH_CN": "嗯嗯，这个东西看上去还不错，现在要加粉了",
+    "JP": "はいはい、これは悪くないね。今は粉を入れる",
+    "EN": "Hum… It looks good. Now I add flour to it.",
+    "ZH_HK": "嗯嗯，這個東西看上去還不錯，現在要加粉了",
+    "KR": "좋아,꽤 괜찮게 된 거 같아,그럼 이제 박력분 추가할게"
+   },
+   "inputTime": 4356,
+   "id": "E1_66",
+   "nextid": "E1_67",
+   "nextMessageDelayTime": 4356,
+   "type": "MIKO_TEXT"
+  },
+  "E1_139": {
+   "contents": {
+    "ZH_CN": "虽然我有时候很讨厌他唧唧歪歪",
+    "JP": "彼がよくごちゃごちゃ言うのが嫌いなんだけど",
+    "EN": "I don’t like he nagging but…",
+    "ZH_HK": "雖然我有時候很討厭他唧唧歪歪",
+    "KR": "나도 가끔씩은 아빠가 투덜거리면 짜증 나기는 하지만"
+   },
+   "inputTime": 2899,
+   "id": "E1_139",
+   "nextid": "E1_140",
+   "nextMessageDelayTime": 2899,
+   "type": "MIKO_TEXT"
+  },
+  "E1_135": {
+   "contents": {
+    "ZH_CN": "我爸就是搞不明白这个啊",
+    "JP": "お父さんはこの点がわからなかったの",
+    "EN": "My dad never get that.",
+    "ZH_HK": "我爸就是搞不明白這個啊",
+    "KR": "근데 아빠는 이걸 이해를 못한단 말이야"
+   },
+   "inputTime": 2904,
+   "id": "E1_135",
+   "nextid": "E1_136",
+   "nextMessageDelayTime": 2904,
+   "type": "MIKO_TEXT"
+  },
+  "E1_256": {
+   "contents": {
+    "ZH_CN": "不过也因为他这样，所以我也被逼着看了不少书，好像有些还是蛮有意思的",
+    "JP": "でもお父さんはそういう態度だから、いろんな本を読ませられて、なんか面白いじゃんとも思い始めた",
+    "EN": "But because of him I was pushed to read a lot. Some of the books were interesting.",
+    "ZH_HK": "不過也因為他這樣，所以我也被逼著看了不少書，好像有些還是蠻有意思的",
+    "KR": "하지만 덕분에 나도 재밌는 책들을 많이 읽었어"
+   },
+   "inputTime": 6690,
+   "id": "E1_256",
+   "nextid": "E1_257",
+   "nextMessageDelayTime": 6690,
+   "type": "MIKO_TEXT"
+  },
+  "E1_136": {
+   "contents": {
+    "ZH_CN": "后来他就把我送去法国了，估计也是眼不见为净...",
+    "JP": "そのあと私をフランスに行かせて、会わなければいやな思いをしないからかも",
+    "EN": "He just sent me to France, making me out of his sight and out of mind.",
+    "ZH_HK": "後來他就把我送去法國了，估計也是眼不見為淨...",
+    "KR": "그 뒤에는 아빠가 나를 프랑스로 보내 버렸는데,아마 아빠도 나를 안보는게 상책이라고 생각했겠지"
+   },
+   "inputTime": 4805,
+   "id": "E1_136",
+   "nextid": "E1_137",
+   "nextMessageDelayTime": 4805,
+   "type": "MIKO_TEXT"
+  },
+  "E1_257": {
+   "contents": {
+    "ZH_CN": "管他的，看得懂看不懂，我就看着玩也算学到一点算一点吧",
+    "JP": "まあ、わかるかわからないかはともかく、本を読んでやっぱりすこしは勉強になった",
+    "EN": "Whatever, understand or not, I think I’ve learned something through it.",
+    "ZH_HK": "管他的，看得懂看不懂，我就看著玩也算學到一點算一點吧",
+    "KR": "알아보던 못 알아보던,책은 보는 만큼 배우는 거니까"
+   },
+   "inputTime": 5635,
+   "id": "E1_257",
+   "nextid": "E1_258",
+   "nextMessageDelayTime": 5635,
+   "type": "MIKO_TEXT"
+  },
+  "E1_137": {
+   "contents": {
+    "ZH_CN": "我在那边又搞出事情来，结果回来了，这下他更看不顺眼我了...",
+    "JP": "しかし、フランスでも事故を起こしてしまった。帰ったらもっと気に入らなかっただろう",
+    "EN": "I didn’t go well in France and go back home, so he just hates me more.",
+    "ZH_HK": "我在那邊又搞出事情來，結果回來了，這下他更看不順眼我了...",
+    "KR": "그러다가 내가 거기서도 사고를 쳐서 돌아오니,더욱더 나를 보기 싫어지신 거지"
+   },
+   "inputTime": 6733,
+   "id": "E1_137",
+   "nextid": "E1_138",
+   "nextMessageDelayTime": 6733,
+   "type": "MIKO_TEXT"
+  },
+  "E1_258": {
+   "contents": {
+    "ZH_CN": "哎呀，蛋糕应该好了吧，都聊得忘了时间了",
+    "JP": "あら、ケーキはできたよ、しゃべったら、時間も忘れてしまったなあ",
+    "EN": "Hey, the cake is ready! We forget the time!",
+    "ZH_HK": "哎呀，蛋糕應該好了吧，都聊得忘了時間了",
+    "KR": "이제 케이크가 다 될 시간이네,말하다가 시간 가는 줄 몰랐어"
+   },
+   "inputTime": 4376,
+   "id": "E1_258",
+   "nextid": "E1_259",
+   "nextMessageDelayTime": 4376,
+   "type": "MIKO_TEXT"
+  },
+  "E1_138": {
+   "contents": {
+    "ZH_CN": "他可能也是为了不再有那些不好的情绪，所以这两年天天把自己埋在工作里",
+    "JP": "お父さんは悪い気持ちにならないように、ここの二年間はずっと仕事に冒頭している",
+    "EN": "Maybe he doesn’t want fights so he just keeps himself in working.",
+    "ZH_HK": "他可能也是為了不再有那些不好的情緒，所以這兩年天天把自己埋在工作裡",
+    "KR": "그 뒤로는 아마 안 좋은 기억을 잊고 싶어서 항상 일에만 몰두했던걸 거야"
+   },
+   "inputTime": 7098,
+   "id": "E1_138",
+   "nextid": "E1_139",
+   "nextMessageDelayTime": 7098,
+   "type": "MIKO_TEXT"
+  },
+  "E1_259": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_259",
+   "nextid": "E1_260",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_153": {
+   "contents": {
+    "ZH_CN": "不过他经常带我去图书馆，搞笑吧？",
+    "JP": "といっても、行くのは図書館、ウケるだろう",
+    "EN": "But where he took me to is library. Funny?",
+    "ZH_HK": "不過他經常帶我去圖書館，搞笑吧？",
+    "KR": "하지만 데려간 곳이 하필 도서관이야,웃기지 않아?"
+   },
+   "inputTime": 3239,
+   "id": "E1_153",
+   "nextid": "E1_154",
+   "nextMessageDelayTime": 3239,
+   "type": "MIKO_TEXT"
+  },
+  "E1_154": {
+   "contents": {
+    "ZH_CN": "哪儿有带女儿去图书馆玩的啊，玩什么？",
+    "JP": "娘を図書館に遊びに連れて行くなんて、何がおもしろいの",
+    "EN": "Who brings little daughter to a library? For what?",
+    "ZH_HK": "哪兒有帶女兒去圖書館玩的啊，玩什麼？",
+    "KR": "딸을 데리고 도서관을 가는 사람이 어딨어?가서 대체 뭘 하라는 거지?"
+   },
+   "inputTime": 3712,
+   "id": "E1_154",
+   "nextid": "E1_155",
+   "nextMessageDelayTime": 3712,
+   "type": "MIKO_TEXT"
+  },
+  "E1_155": {
+   "contents": {
+    "ZH_CN": "他说图书馆是最有意思的地方，是迷宫，也是最有序的地方，是聚集知识的地方，也是隐藏秘密的地方",
+    "JP": "図書館は最も面白いところだって、図書館は迷宮で、秩序のあるところで、知識が集まるところでもあり、秘密を隠すところでもあるってお父さんは言った",
+    "EN": "He said library is the best park. It’s a maze, but with order, knowledge and secrets.",
+    "ZH_HK": "他說圖書館是最有意思的地方，是迷宮，也是最有序的地方，是聚集知識的地方，也是隱藏秘密的地方",
+    "KR": "아빠는 도서관이 가장 재밌는 곳 이라고 하셨어.이곳은 미궁이면서도 질서가 잡혀 있다고.지식이 모여 있으면서도,숨겨져 있다면서 말이지"
+   },
+   "inputTime": 9779,
+   "id": "E1_155",
+   "nextid": "E1_156",
+   "nextMessageDelayTime": 9779,
+   "type": "MIKO_TEXT"
+  },
+  "E1_156": {
+   "contents": {
+    "ZH_CN": "有一次他为了哄我去图书馆，给我讲图书馆的故事，妈呀，最后居然是凶杀案",
+    "JP": "一度私を図書館につれるために、図書館の物語を教えてあげよって言った。まさかその物語は殺人案なんだ",
+    "EN": "Once he tried to persuade me into going to the library, told me a story of the library. In the end it turned out to be an murdering case!",
+    "ZH_HK": "有一次他為了哄我去圖書館，給我講圖書館的故事，媽呀，最後居然是兇殺案",
+    "KR": "하루는 나를 데리고 놀려고 도서관을 갔는데,거기서 읽어준 이야기가 살인사건 이야기야"
+   },
+   "inputTime": 7324,
+   "id": "E1_156",
+   "nextid": "E1_157",
+   "nextMessageDelayTime": 7324,
+   "type": "MIKO_TEXT"
+  },
+  "E1_270": {
+   "contents": {
+    "ZH_CN": "最多我叫外卖请你吃喽",
+    "JP": "出前をおごるから",
+    "EN": "If you do, I can call for food delivery for you.",
+    "ZH_HK": "最多我叫外賣請你吃嘍",
+    "KR": "잘 하면 내가 먹을 거라도 사줄게"
+   },
+   "inputTime": 2279,
+   "id": "E1_270",
+   "nextid": "E1_choicee_38",
+   "nextMessageDelayTime": 2279,
+   "type": "MIKO_TEXT"
+  },
+  "E1_150": {
+   "contents": {
+    "ZH_CN": "不过我要什么他都给我，买小裙子呀什么的不管多贵也从来不拒绝，他就是烦我那些习惯",
+    "JP": "けど何かほしかったら買ってくれるよ。ドレスとか、どんなに高くても買ってくれるの。ただ私の習慣に気に入らないの",
+    "EN": "But he gives me whatever I want. Expensive dresses, no matter how much it costs, he never turns me down. He just hates my untidiness.",
+    "ZH_HK": "不過我要什麼他都給我，買小裙子呀什麼的不管多貴也從來不拒絕，他就是煩我那些習慣",
+    "KR": "하지만 내가 갖고 싶은건 전부 사줬어,치마 같은 거도 아무리 비싸도 거절한 적이 없어,그저 내 습관들이 싫었던 거지"
+   },
+   "inputTime": 7971,
+   "id": "E1_150",
+   "nextid": "E1_151",
+   "nextMessageDelayTime": 7971,
+   "type": "MIKO_TEXT"
+  },
+  "E1_271": {
+   "contents": {
+    "ZH_CN": "游戏结束，重新开始",
+    "JP": "ゲーム終了、リスタート",
+    "EN": "The game ends here. Start it again.",
+    "ZH_HK": "遊戲結束，重新開始",
+    "KR": "게임 종료,다시시작"
+   },
+   "id": "E1_271",
+   "nextMessageDelayTime": 0,
+   "scence": "失败",
+   "type": "GAME_BE"
+  },
+  "E1_151": {
+   "contents": {
+    "ZH_CN": "当然，我也烦他...",
+    "JP": "もちろん、私もお父さんのことに気に入らないわ...",
+    "EN": "Surely I don’t like him.",
+    "ZH_HK": "當然，我也煩他...",
+    "KR": "물론 나도 아빠가 싫었어..."
+   },
+   "inputTime": 2715,
+   "id": "E1_151",
+   "nextid": "E1_152",
+   "nextMessageDelayTime": 2715,
+   "type": "MIKO_TEXT"
+  },
+  "E1_272": {
+   "contents": {
+    "ZH_CN": "游戏结束，进入尾声",
+    "JP": "ゲーム終了、エンディングに近づく",
+    "EN": "The game ends here. Go for the closing chapter.",
+    "ZH_HK": "遊戲結束，進入尾聲",
+    "KR": "게임 종료,에필로그보기"
+   },
+   "id": "E1_272",
+   "nextid": "E1_273",
+   "nextMessageDelayTime": 0,
+   "scence": "胜利",
+   "type": "GAME_HE"
+  },
+  "E1_152": {
+   "contents": {
+    "ZH_CN": "以前他不忙的时候，他还经常带我出去玩",
+    "JP": "昔暇のとき、よく外に連れて一緒に遊んでいたよ",
+    "EN": "He used to play with me when he was off work.",
+    "ZH_HK": "以前他不忙的時候，他還經常帶我出去玩",
+    "KR": "전에 바쁘지 않을 때는 나를 자주 데리고 놀러 나가셨어"
+   },
+   "inputTime": 3752,
+   "id": "E1_152",
+   "nextid": "E1_153",
+   "nextMessageDelayTime": 3752,
+   "type": "MIKO_TEXT"
+  },
+  "E1_273": {
+   "contents": {
+    "ZH_CN": "More...接受来自异次元的不明通讯，和Miko酱一起探险，下一次还会有什么样的惊险事件？请继续关注《异次元通讯》！",
+    "JP": "More...異次元の不明通信を受けて、Mikoちゃんと一緒に冒険してください。次回はどんなスリルな事件が起こるでしょう「異次元通信」に注目し続けてください",
+    "EN": "More…Receive the unknown message from another dimension. Take an adventure with Miss. Miko. What kind of thrilling events will happen next time?Please keep up with our ”Message from the other side”!",
+    "ZH_HK": "More...接受來自異次元的不明通訊，和Miko醬一起探險，下一次還會有什麼樣的驚險事件？請繼續關注《異次元通訊》！",
+    "KR": "More...이차원으로 부터 온 정체불명의 통신을 통해,MIKO와 같이 모험을 떠나요!다음에는 어떤 에피소드가 기다리고 있을지？차원사의 <<이차원통신>> ,지속적인 관심 부탁 드립니다！"
+   },
+   "id": "E1_273",
+   "nextMessageDelayTime": 0,
+   "scence": "尾声",
+   "type": "GAME_END"
+  },
+  "E1_50": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈哈开心",
+    "JP": "ハッハッハ、嬉しい",
+    "EN": "Hahahahahaha LOL.",
+    "ZH_HK": "哈哈哈哈哈開心",
+    "KR": "하하하하 기뻐라"
+   },
+   "inputTime": 2159,
+   "id": "E1_50",
+   "nextid": "E1_51",
+   "nextMessageDelayTime": 2159,
+   "type": "MIKO_TEXT"
+  },
+  "E1_51": {
+   "contents": {
+    "ZH_CN": "那么我开始了！",
+    "JP": "じゃ始めよう！",
+    "EN": "Then I’ll get started!",
+    "ZH_HK": "那麼我開始了！",
+    "KR": "그럼 시작한다!"
+   },
+   "inputTime": 1429,
+   "id": "E1_51",
+   "nextid": "E1_52",
+   "nextMessageDelayTime": 1429,
+   "type": "MIKO_TEXT"
+  },
+  "E1_56": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_56",
+   "nextid": "E1_57",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_57": {
+   "contents": {
+    "ZH_CN": "嗯！明白了！",
+    "JP": "はい！わかった！",
+    "EN": "Yes, I get it.",
+    "ZH_HK": "嗯！明白了！",
+    "KR": "알아냈다!"
+   },
+   "inputTime": 1712,
+   "id": "E1_57",
+   "nextid": "E1_58",
+   "nextMessageDelayTime": 1712,
+   "type": "MIKO_TEXT"
+  },
+  "E1_58": {
+   "contents": {
+    "ZH_CN": "低粉，可可粉，红曲粉，黄油，糖，鸡蛋，香草精，酪乳，小苏打，好啦，材料都有了",
+    "JP": "薄力粉、粉末ココア、紅麹パウダー、パター、砂糖、卵、ハーブエキス、バターミルクと重曹、はい、材料は全部そろったよ",
+    "EN": "Cake flour, cocoa powder, Monascus red, butter, sugar, eggs, vanilla, buttermilk, soda… all ingredients gathered.",
+    "ZH_HK": "低粉，可哥粉，紅麴粉，黃油，糖，雞蛋，香草精，酪乳，小蘇打，好啦，材料都有了",
+    "KR": "박력분,코코아 분말,버터,설탕,계란,바닐라 추출물,버터밀크,소다!좋아,재료는 준비 끝"
+   },
+   "inputTime": 7742,
+   "id": "E1_58",
+   "nextid": "E1_59",
+   "nextMessageDelayTime": 7742,
+   "type": "MIKO_TEXT"
+  },
+  "E1_59": {
+   "contents": {
+    "ZH_CN": "先把粉类过筛混合...",
+    "JP": "まずは粉類を篩にかけてから混ぜて",
+    "EN": "Sift flour and other ingredients together to mix…",
+    "ZH_HK": "先把粉類過篩混合...",
+    "KR": "우선 틀로 분말류를 전부 걸러내고..."
+   },
+   "inputTime": 2697,
+   "id": "E1_59",
+   "nextid": "E1_60",
+   "nextMessageDelayTime": 2697,
+   "type": "MIKO_TEXT"
+  },
+  "E1_52": {
+   "contents": {
+    "ZH_CN": "首先...",
+    "JP": "まずは...",
+    "EN": "First…",
+    "ZH_HK": "首先...",
+    "KR": "우선..."
+   },
+   "inputTime": 1104,
+   "id": "E1_52",
+   "nextid": "E1_53",
+   "nextMessageDelayTime": 1104,
+   "type": "MIKO_TEXT"
+  },
+  "E1_53": {
+   "contents": {
+    "ZH_CN": "首先要干什么？",
+    "JP": "まずはなに",
+    "EN": "First what?",
+    "ZH_HK": "首先要幹什麼？",
+    "KR": "우선?"
+   },
+   "inputTime": 1432,
+   "id": "E1_53",
+   "nextid": "E1_54",
+   "nextMessageDelayTime": 1432,
+   "type": "MIKO_TEXT"
+  },
+  "E1_54": {
+   "contents": {
+    "ZH_CN": "额...你等一下，我去查一查",
+    "JP": "ええと...ちょっと待って、調べてくる",
+    "EN": "Hummm… Wait a minute, I’ll go to google it.",
+    "ZH_HK": "額...你等一下，我去查一查",
+    "KR": "음...잠깐만,검색 좀 하고 올게"
+   },
+   "inputTime": 3092,
+   "id": "E1_54",
+   "nextid": "E1_55",
+   "nextMessageDelayTime": 3092,
+   "type": "MIKO_TEXT"
+  },
+  "E1_55": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_55",
+   "nextid": "E1_56",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_146": {
+   "contents": {
+    "ZH_CN": "成天就要求我这，看不惯我那的",
+    "JP": "毎日毎日私にことをさせたりして、しかも、私のことはちっとも気に入らないわ",
+    "EN": "He is so strict with me and yell at me all the time.",
+    "ZH_HK": "成天就要求我這，看不慣我那的",
+    "KR": "하루 종일 나한테 잔소리만 하고..."
+   },
+   "inputTime": 2847,
+   "id": "E1_146",
+   "nextid": "E1_147",
+   "nextMessageDelayTime": 2847,
+   "type": "MIKO_TEXT"
+  },
+  "E1_267": {
+   "contents": {
+    "ZH_CN": "反正吃不到好蛋糕，损失的又不是我！",
+    "JP": "どうせおいしいケーキが食べられないのは、僕じゃないし",
+    "EN": "I’m not bothered for it.",
+    "ZH_HK": "反正吃不到好蛋糕，損失的又不是我！",
+    "KR": "어차피 나는 손해볼게 하나도 없으니까!"
+   },
+   "inputTime": 3950,
+   "id": "E1_267",
+   "nextid": "E1_268",
+   "nextMessageDelayTime": 3950,
+   "type": "MIKO_TEXT"
+  },
+  "E1_147": {
+   "contents": {
+    "ZH_CN": "衣服不许乱扔！为什么不穿鞋在家里跑！你的东西我怎么知道在哪儿！看看你的电脑桌面都乱成什么样了！要是我一把全部给你删了！",
+    "JP": "服を勝手に捨てるなとか、靴を履かないで家を走るなとか、お前の物はどこにあるか知るもんかとか、パソコンデスクトップが乱れてるとか、私なら、すぐ全部消してやるとか",
+    "EN": "Don’t you ever throw your clothes! Why you are at home with bare feet? Don’t ask me if you can’t find your things! Can’t you see what a mess is your desktop? I’ll just delete all your rubbish now!",
+    "ZH_HK": "衣服不許亂扔！為什麼不穿鞋在家裡跑！你的東西我怎麼知道在哪兒！看看你的電腦桌面都亂成什麼樣了！要是我一把全部給你刪了！",
+    "KR": "옷 여기다 던져놓지 마!왜 슬리퍼 안 신고 집안을 돌아다녀!네 물건이 어딨는지 내가 어떻게 알아!컴퓨터 바탕화면은 뭐 이렇게 어질러놨어!나 같으면 전부 지워버렸다!"
+   },
+   "inputTime": 12194,
+   "id": "E1_147",
+   "nextid": "E1_148",
+   "nextMessageDelayTime": 12194,
+   "type": "MIKO_TEXT"
+  },
+  "E1_268": {
+   "contents": {
+    "ZH_CN": "啊，想想要收拾这一大摊破事，疯都疯了",
+    "JP": "ああ、これかｒｓの片付けを想ったら、気が狂うなぁ",
+    "EN": "But I don’t want to clean the mess up.",
+    "ZH_HK": "啊，想想要收拾這一大攤破事，瘋都瘋了",
+    "KR": "어휴,이 난장판을 정리할 생각을 하니 벌써부터 머리가 아프네"
+   },
+   "inputTime": 3694,
+   "id": "E1_268",
+   "nextid": "E1_269",
+   "nextMessageDelayTime": 3694,
+   "type": "MIKO_TEXT"
+  },
+  "E1_148": {
+   "contents": {
+    "ZH_CN": "所有东西都应该有它唯一的位置！",
+    "JP": "すべての物は置くべき場所があるんだって",
+    "EN": "Everything should be in place!",
+    "ZH_HK": "所有東西都應該有它唯一的位置！",
+    "KR": "모든 물건은 있어야 할 곳이 정해져 있단 말이다!"
+   },
+   "inputTime": 3735,
+   "id": "E1_148",
+   "nextid": "E1_149",
+   "nextMessageDelayTime": 3735,
+   "type": "MIKO_TEXT"
+  },
+  "E1_269": {
+   "contents": {
+    "ZH_CN": "喂！你要不要来帮我收拾厨房啊？",
+    "JP": "ねえ！台所の掃除を手伝ってくれない？",
+    "EN": "Hey, would you like to help me clean it up?",
+    "ZH_HK": "喂！你要不要來幫我收拾廚房啊？",
+    "KR": "야!너 우리집 와서 주방 정리하는거 도와주지 않을래?"
+   },
+   "inputTime": 3064,
+   "id": "E1_269",
+   "nextid": "E1_270",
+   "nextMessageDelayTime": 3064,
+   "type": "MIKO_TEXT"
+  },
+  "E1_149": {
+   "contents": {
+    "ZH_CN": "blahblahblah...",
+    "JP": "ああしなさい、こうしなさいって",
+    "EN": "blahblahblah…",
+    "ZH_HK": "blahblahblah...",
+    "KR": "등등등....."
+   },
+   "inputTime": 3612,
+   "id": "E1_149",
+   "nextid": "E1_150",
+   "nextMessageDelayTime": 3612,
+   "type": "MIKO_TEXT"
+  },
+  "E1_164": {
+   "contents": {
+    "ZH_CN": "管他的，看得懂看不懂，我就看着玩也算学到一点算一点吧",
+    "JP": "まあ、わかるかわからないかはともかく、本を読んでやっぱりすこしは勉強になった",
+    "EN": "Whatever, understand or not, I think I’ve learned something through it.",
+    "ZH_HK": "管他的，看得懂看不懂，我就看著玩也算學到一點算一點吧",
+    "KR": "알아보던 못 알아보던,책은 보는 만큼 배우는 거니까"
+   },
+   "inputTime": 5989,
+   "id": "E1_164",
+   "nextid": "E1_165",
+   "nextMessageDelayTime": 5989,
+   "type": "MIKO_TEXT"
+  },
+  "E1_165": {
+   "contents": {
+    "ZH_CN": "哎呀，蛋糕应该好了吧，都聊得忘了时间了",
+    "JP": "あら、ケーキはできたよ、しゃべったら、時間も忘れてしまったなあ",
+    "EN": "Hey, the cake is ready! We forget the time!",
+    "ZH_HK": "哎呀，蛋糕應該好了吧，都聊得忘了時間了",
+    "KR": "이제 케이크가 다 될 시간이네,말하다가 시간 가는 줄 몰랐어"
+   },
+   "inputTime": 4570,
+   "id": "E1_165",
+   "nextid": "E1_166",
+   "nextMessageDelayTime": 4570,
+   "type": "MIKO_TEXT"
+  },
+  "E1_166": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_166",
+   "nextid": "E1_167",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_167": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_167",
+   "nextid": "E1_168",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_160": {
+   "contents": {
+    "ZH_CN": "你说哲学家干点什么不好，写凶杀案小说？",
+    "JP": "哲学者はどうして殺人事件の小説を書くのかな",
+    "EN": "Can’t the philosopher do anything except for writing murders?",
+    "ZH_HK": "你說哲學家幹點什麼不好，寫兇殺案小說？",
+    "KR": "철학가면서 왜 하필 살인사건을 소재로 한 소설을 쓴 거야?"
+   },
+   "inputTime": 4311,
+   "id": "E1_160",
+   "nextid": "E1_161",
+   "nextMessageDelayTime": 4311,
+   "type": "MIKO_TEXT"
+  },
+  "E1_161": {
+   "contents": {
+    "ZH_CN": "真是的...",
+    "JP": "まったく...",
+    "EN": "For god’s sake…",
+    "ZH_HK": "真是的...",
+    "KR": "정말이지..."
+   },
+   "inputTime": 1837,
+   "id": "E1_161",
+   "nextid": "E1_162",
+   "nextMessageDelayTime": 1837,
+   "type": "MIKO_TEXT"
+  },
+  "E1_162": {
+   "contents": {
+    "ZH_CN": "有时候觉得我爸也是搞笑...",
+    "JP": "お父さんはウケルだねと時々思ってる",
+    "EN": "Sometime I just find him funny.",
+    "ZH_HK": "有時候覺得我爸也是搞笑...",
+    "KR": "가끔씩 아빠도 참 웃기단 말이야"
+   },
+   "inputTime": 2976,
+   "id": "E1_162",
+   "nextid": "E1_163",
+   "nextMessageDelayTime": 2976,
+   "type": "MIKO_TEXT"
+  },
+  "E1_163": {
+   "contents": {
+    "ZH_CN": "不过也因为他这样，所以我也被逼着看了不少书，好像有些还是蛮有意思的",
+    "JP": "でもお父さんはそういう態度だから、いろんな本を読ませられて、なんか面白いじゃんとも思い始めた",
+    "EN": "But because of him I was pushed to read a lot. Some of the books were interesting.",
+    "ZH_HK": "不過也因為他這樣，所以我也被逼著看了不少書，好像有些還是蠻有意思的",
+    "KR": "하지만 덕분에 나도 재밌는 책들을 많이 읽었어"
+   },
+   "inputTime": 7295,
+   "id": "E1_163",
+   "nextid": "E1_164",
+   "nextMessageDelayTime": 7295,
+   "type": "MIKO_TEXT"
+  },
+  "E1_40": {
+   "contents": {
+    "ZH_CN": "我说了请你来吃蛋糕啊，你自己不来，怪谁？！",
+    "JP": "ケーキをおごるって言ったじゃん、来てくれなかったのは誰のせい？",
+    "EN": "I said I was my treat. You didn’t come. Who’s to blame?",
+    "ZH_HK": "我說了請你來吃蛋糕啊，你自己不來，怪誰？！",
+    "KR": "내가 케이크 먹여준다고 했잖아,안 온건 네 탓이지,안 그래?"
+   },
+   "inputTime": 4720,
+   "id": "E1_40",
+   "nextid": "E1_41",
+   "nextMessageDelayTime": 4720,
+   "type": "MIKO_TEXT"
+  },
+  "E1_45": {
+   "contents": {
+    "ZH_CN": "好好看着！做好你的参谋这份有前途的职业吧！",
+    "JP": "よく見て！将来性ある参謀っていう職業をきちんとやってくれ",
+    "EN": "Just shut up and wait. Mind your own business, your grand chief adviser job or something.",
+    "ZH_HK": "好好看著！做好你的參謀這份有前途的職業吧！",
+    "KR": "거기서 잘 보고 있으라고!참모라는 너의 직책을 충실히 이행하라고!"
+   },
+   "inputTime": 4522,
+   "id": "E1_45",
+   "nextid": "E1_51",
+   "nextMessageDelayTime": 4522,
+   "type": "MIKO_TEXT"
+  },
+  "E1_46": {
+   "contents": {
+    "ZH_CN": "脾气很大...",
+    "JP": "機嫌悪いなぁ...",
+    "EN": "OK grumpy gills…",
+    "ZH_HK": "脾氣很大...",
+    "KR": "성격 참..."
+   },
+   "inputTime": 1881,
+   "id": "E1_46",
+   "nextid": "E1_47",
+   "nextMessageDelayTime": 1881,
+   "type": "MIKO_TEXT"
+  },
+  "E1_47": {
+   "contents": {
+    "ZH_CN": "比我还大...",
+    "JP": "私より悪い...",
+    "EN": "Grumpier than me.",
+    "ZH_HK": "比我還大...",
+    "KR": "심지어 나보다 더해..."
+   },
+   "inputTime": 2050,
+   "id": "E1_47",
+   "nextid": "E1_48",
+   "nextMessageDelayTime": 2050,
+   "type": "MIKO_TEXT"
+  },
+  "E1_48": {
+   "contents": {
+    "ZH_CN": "求求你，求你吃我做的蛋糕好不好？",
+    "JP": "お願いする。私が作ったケーキを召し上がってくださいませんか",
+    "EN": "Please, please could you taste my cake?",
+    "ZH_HK": "求求你，求你吃我做的蛋糕好不好？",
+    "KR": "부탁이야,제발 내가 만든 케이크을 먹어줘"
+   },
+   "inputTime": 3630,
+   "id": "E1_48",
+   "nextid": "E1_49",
+   "nextMessageDelayTime": 3630,
+   "type": "MIKO_TEXT"
+  },
+  "E1_41": {
+   "contents": {
+    "ZH_CN": "好啦，我现在亲自做蛋糕请你吃，好不好",
+    "JP": "いいから、今自分でケーキを作ってご馳走するから、どう",
+    "EN": "All right, I’ll make a cake right now, by myself. OK?",
+    "ZH_HK": "好啦，我現在親自做蛋糕請你吃，好不好",
+    "KR": "알겠으니,내가 직접 케이크를 만들어 줄 테니,이거면 안 되겠니?"
+   },
+   "inputTime": 3726,
+   "id": "E1_41",
+   "nextid": "E1_choicee_13",
+   "nextMessageDelayTime": 3726,
+   "type": "MIKO_TEXT"
+  },
+  "E1_42": {
+   "contents": {
+    "ZH_CN": "那么我开始了！等会就有好吃的蛋糕新鲜出炉啦",
+    "JP": "じゃ始めようか！すぐ美味しいケーキが出来上がるよ",
+    "EN": "Now I’m working on it! After a while tasty cake will be done.",
+    "ZH_HK": "那麼我開始了！等會就有好吃的蛋糕新鮮出爐啦",
+    "KR": "그럼 만들러 갈게!잠시 뒤면 맛있는 케이크가 탄생할거야"
+   },
+   "inputTime": 4561,
+   "id": "E1_42",
+   "nextid": "E1_choicee_14",
+   "nextMessageDelayTime": 4561,
+   "type": "MIKO_TEXT"
+  },
+  "E1_43": {
+   "contents": {
+    "ZH_CN": "什么啊！小看我是不是！好歹我也是蓝带学院的",
+    "JP": "なに！なめるの！一応ル・コルドン・ブルーを出た学生なんだよ",
+    "EN": "What? You look down upon me? I graduated from Le Cordon Bleu!",
+    "ZH_HK": "什麼啊！小看我是不是！好歹我也是藍帶學院的",
+    "KR": "뭐야 날 무시하는 거야?이래 봬도 Le Cordon Bleu Culinary Arts Institute 출신이라고?"
+   },
+   "inputTime": 4863,
+   "id": "E1_43",
+   "nextid": "E1_choicee_15",
+   "nextMessageDelayTime": 4863,
+   "type": "MIKO_TEXT"
+  },
+  "E1_44": {
+   "contents": {
+    "ZH_CN": "闭嘴！",
+    "JP": "黙れ！",
+    "EN": "Shut up.",
+    "ZH_HK": "閉嘴！",
+    "KR": "시끄러!"
+   },
+   "inputTime": 1375,
+   "id": "E1_44",
+   "nextid": "E1_45",
+   "nextMessageDelayTime": 1375,
+   "type": "MIKO_TEXT"
+  },
+  "E1_49": {
+   "contents": {
+    "ZH_CN": "QwQ",
+    "JP": "（泣）",
+    "EN": "QwQ",
+    "ZH_HK": "QwQ",
+    "KR": "QwQ"
+   },
+   "inputTime": 1028,
+   "id": "E1_49",
+   "nextid": "E1_choicee_16",
+   "nextMessageDelayTime": 1028,
+   "type": "MIKO_TEXT"
+  },
+  "E1_157": {
+   "contents": {
+    "ZH_CN": "这种故事亏他也讲得出来哦",
+    "JP": "こんな物語言い出すなんて想像できない",
+    "EN": "What a good job he did.",
+    "ZH_HK": "這種故事虧他也講得出來哦",
+    "KR": "어떻게 이런 이야기를 들려줄 생각을 한 건지"
+   },
+   "inputTime": 2614,
+   "id": "E1_157",
+   "nextid": "E1_choicee_27",
+   "nextMessageDelayTime": 2614,
+   "type": "MIKO_TEXT"
+  },
+  "E1_158": {
+   "contents": {
+    "ZH_CN": "是啊是啊",
+    "JP": "そうそう",
+    "EN": "Yeah.",
+    "ZH_HK": "是啊是啊",
+    "KR": "맞아"
+   },
+   "inputTime": 1555,
+   "id": "E1_158",
+   "nextid": "E1_159",
+   "nextMessageDelayTime": 1555,
+   "type": "MIKO_TEXT"
+  },
+  "E1_159": {
+   "contents": {
+    "ZH_CN": "他说是一个著名的哲学家写的小说",
+    "JP": "ある有名な哲学者が書いた小説だって",
+    "EN": "He said it was written by a well-known philosopher.",
+    "ZH_HK": "他說是一個著名的哲學家寫的小說",
+    "KR": "아빠는 유명한 철학가가 쓴 소설이라고 말했는데"
+   },
+   "inputTime": 3204,
+   "id": "E1_159",
+   "nextid": "E1_160",
+   "nextMessageDelayTime": 3204,
+   "type": "MIKO_TEXT"
+  },
+  "E1_210": {
+   "contents": {
+    "ZH_CN": "这不是有你么？",
+    "JP": "あなたがいるじゃん",
+    "EN": "Aren’t you my friend?",
+    "ZH_HK": "這不是有你嗎？",
+    "KR": "지금은 네가 있잖아?"
+   },
+   "inputTime": 1796,
+   "id": "E1_210",
+   "nextid": "E1_211",
+   "nextMessageDelayTime": 1796,
+   "type": "MIKO_TEXT"
+  },
+  "E1_211": {
+   "contents": {
+    "ZH_CN": "突然觉得好像就是你还比较谈得来",
+    "JP": "話が合ったのはあんただけ",
+    "EN": "I think I feel like talking to you.",
+    "ZH_HK": "突然覺得好像就是你還比較談得來",
+    "KR": "그나마 너라서 대화가 하기 편한거 같아"
+   },
+   "inputTime": 3090,
+   "id": "E1_211",
+   "nextid": "E1_212",
+   "nextMessageDelayTime": 3090,
+   "type": "MIKO_TEXT"
+  },
+  "E1_34": {
+   "contents": {
+    "ZH_CN": "好吧...",
+    "JP": "もういい...",
+    "EN": "Well.",
+    "ZH_HK": "好吧...",
+    "KR": "그래...."
+   },
+   "inputTime": 1186,
+   "id": "E1_34",
+   "nextid": "E1_35",
+   "nextMessageDelayTime": 1186,
+   "type": "MIKO_TEXT"
+  },
+  "E1_35": {
+   "contents": {
+    "ZH_CN": "那么肯定不好吃",
+    "JP": "きっとまずいでしょう",
+    "EN": "It must be awful.",
+    "ZH_HK": "那麼肯定不好吃",
+    "KR": "그럼 절대로 맛이 없을 거야"
+   },
+   "inputTime": 1718,
+   "id": "E1_35",
+   "nextid": "E1_36",
+   "nextMessageDelayTime": 1718,
+   "type": "MIKO_TEXT"
+  },
+  "E1_36": {
+   "contents": {
+    "ZH_CN": "因为那是买来的，而我现在要自己做，我自己做的蛋糕最好吃了",
+    "JP": "買ったケーキだから、今は自分で作ろうとする。手作りのケーキは最高",
+    "EN": "Cause it was not homemade. Now this is homemade by me. My cake is the best.",
+    "ZH_HK": "因為那是買來的，而我現在要自己做，我自己做的蛋糕最好吃了",
+    "KR": "왜냐하면 그건 사온 케이크거든,이건 내 수제 케이크.내가 직접 만든 케이크가 가장 맛있어"
+   },
+   "inputTime": 6301,
+   "id": "E1_36",
+   "nextid": "E1_37",
+   "nextMessageDelayTime": 6301,
+   "type": "MIKO_TEXT"
+  },
+  "E1_37": {
+   "contents": {
+    "ZH_CN": "对不对？",
+    "JP": "そうじゃない",
+    "EN": "Right?",
+    "ZH_HK": "對不對？",
+    "KR": "안 그래?"
+   },
+   "inputTime": 927,
+   "id": "E1_37",
+   "nextid": "E1_38",
+   "nextMessageDelayTime": 927,
+   "type": "MIKO_TEXT"
+  },
+  "E1_30": {
+   "contents": {
+    "ZH_CN": "差不多吧",
+    "JP": "一応",
+    "EN": "Almost.",
+    "ZH_HK": "差不多吧",
+    "KR": "일단은?"
+   },
+   "inputTime": 1210,
+   "id": "E1_30",
+   "nextid": "E1_31",
+   "nextMessageDelayTime": 1210,
+   "type": "MIKO_TEXT"
+  },
+  "E1_209": {
+   "contents": {
+    "ZH_CN": "他每天都忙，我也是习惯了一个人",
+    "JP": "お父さんは毎日忙しくて、私も一人ぽっちに慣れてきたの",
+    "EN": "He’s working all day long. I’ve got used to it.",
+    "ZH_HK": "他每天都忙，我也是習慣了一個人",
+    "KR": "아빠는 매일 바쁘시고,나도 혼자 있는 게 익숙해져서"
+   },
+   "inputTime": 3310,
+   "id": "E1_209",
+   "nextid": "E1_choicee_32",
+   "nextMessageDelayTime": 3310,
+   "type": "MIKO_TEXT"
+  },
+  "E1_31": {
+   "contents": {
+    "ZH_CN": "我打算做蛋糕",
+    "JP": "ケーキを作るつもりなんだ",
+    "EN": "I plan to make a cake.",
+    "ZH_HK": "我打算做蛋糕",
+    "KR": "케이크 만들려고"
+   },
+   "inputTime": 1686,
+   "id": "E1_31",
+   "nextid": "E1_choicee_10",
+   "nextMessageDelayTime": 1686,
+   "type": "MIKO_TEXT"
+  },
+  "E1_32": {
+   "contents": {
+    "ZH_CN": "哎呀，昨天的蛋糕你没来吃么？",
+    "JP": "ほら、昨日のケーキはまだ食べてないの",
+    "EN": "Oops, didn’t you come to have it yesterday?",
+    "ZH_HK": "哎呀，昨天的蛋糕你沒來吃嗎？",
+    "KR": "어제 그 케이크는 먹으러 안 왔었니?"
+   },
+   "inputTime": 3470,
+   "id": "E1_32",
+   "nextid": "E1_choicee_11",
+   "nextMessageDelayTime": 3470,
+   "type": "MIKO_TEXT"
+  },
+  "E1_33": {
+   "contents": {
+    "ZH_CN": "吃了？",
+    "JP": "食べた？",
+    "EN": "You did?",
+    "ZH_HK": "吃了？",
+    "KR": "먹었다고?"
+   },
+   "inputTime": 763,
+   "id": "E1_33",
+   "nextid": "E1_34",
+   "nextMessageDelayTime": 763,
+   "type": "MIKO_TEXT"
+  },
+  "E1_205": {
+   "contents": {
+    "ZH_CN": "可是现在的人，谁又没有一点点不想跟人交流的想法呢",
+    "JP": "でも今の人には、人と交流したくない気持ちはきっとみんなあるよ。",
+    "EN": "But isn’t it common that people don’t feel like communicating?",
+    "ZH_HK": "可是現在的人，誰又沒有一點點不想跟人交流的想法呢",
+    "KR": "하지만 지금의 사람이란 결국 어느정도 남들과 커뮤니케이션을 하고 싶어지기 마련이야"
+   },
+   "inputTime": 5417,
+   "id": "E1_205",
+   "nextid": "E1_206",
+   "nextMessageDelayTime": 5417,
+   "type": "MIKO_TEXT"
+  },
+  "E1_206": {
+   "contents": {
+    "ZH_CN": "还是做做自己喜欢的事情最好",
+    "JP": "自分が好きなことをやればいいだろう",
+    "EN": "Why not just do something you like?",
+    "ZH_HK": "還是做做自己喜歡的事情最好",
+    "KR": "역시 자기가 하고 싶은 일을 하는게 제일인 거 같아"
+   },
+   "inputTime": 3206,
+   "id": "E1_206",
+   "nextid": "E1_207",
+   "nextMessageDelayTime": 3206,
+   "type": "MIKO_TEXT"
+  },
+  "E1_207": {
+   "contents": {
+    "ZH_CN": "再说了...",
+    "JP": "それに...",
+    "EN": "In other words,",
+    "ZH_HK": "再說了...",
+    "KR": "게다가..."
+   },
+   "inputTime": 1228,
+   "id": "E1_207",
+   "nextid": "E1_210",
+   "nextMessageDelayTime": 1228,
+   "type": "MIKO_TEXT"
+  },
+  "E1_208": {
+   "contents": {
+    "ZH_CN": "嗯，我没跟人说过这些，不知道该怎么说...我家里就我和爸爸",
+    "JP": "うん、あまり人とこういうこと言っていないわ。うちはお父さんと私だけいるのね",
+    "EN": "Hum, anyway, there are only daddy and I in the family.",
+    "ZH_HK": "嗯，我沒跟人說過這些，不知道該怎麼說...我家裡就我和爸爸",
+    "KR": "모르겠다,집에는 나하고 아빠밖에 없었으니"
+   },
+   "inputTime": 6574,
+   "id": "E1_208",
+   "nextid": "E1_209",
+   "nextMessageDelayTime": 6574,
+   "type": "MIKO_TEXT"
+  },
+  "E1_38": {
+   "contents": {
+    "ZH_CN": "说对！",
+    "JP": "そうって言って",
+    "EN": "Say yes.",
+    "ZH_HK": "說對！",
+    "KR": "그렇다고 해"
+   },
+   "inputTime": 795,
+   "id": "E1_38",
+   "nextid": "E1_choicee_12",
+   "nextMessageDelayTime": 795,
+   "type": "MIKO_TEXT"
+  },
+  "E1_201": {
+   "contents": {
+    "ZH_CN": "就突然觉得，我的孤独与他人无关",
+    "JP": "私の孤独は他人に関係ないって急にそう思うの",
+    "EN": "It only occurred to me that, my loneliness has nothing to do with others.",
+    "ZH_HK": "就突然覺得，我的孤獨與他人無關",
+    "KR": "그러다 보니 외로움은 다른 사람들과 아무런 연관이 없어진 거 같았어"
+   },
+   "inputTime": 3348,
+   "id": "E1_201",
+   "nextid": "E1_202",
+   "nextMessageDelayTime": 3348,
+   "type": "MIKO_TEXT"
+  },
+  "E1_39": {
+   "contents": {
+    "ZH_CN": "我我我...",
+    "JP": "あたし",
+    "EN": "I…",
+    "ZH_HK": "我我我...",
+    "KR": "난......"
+   },
+   "inputTime": 1268,
+   "id": "E1_39",
+   "nextid": "E1_40",
+   "nextMessageDelayTime": 1268,
+   "type": "MIKO_TEXT"
+  },
+  "E1_202": {
+   "contents": {
+    "ZH_CN": "不对，其实我也没有孤独啊",
+    "JP": "いや、本当は孤独なんかじゃないわ",
+    "EN": "No. In fact I’m not lonely.",
+    "ZH_HK": "不對，其實我也沒有孤獨啊",
+    "KR": "아니지,난 외로움을 느끼지도 않았어"
+   },
+   "inputTime": 3069,
+   "id": "E1_202",
+   "nextid": "E1_203",
+   "nextMessageDelayTime": 3069,
+   "type": "MIKO_TEXT"
+  },
+  "E1_1": {
+   "contents": {
+    "ZH_CN": "TCP handshaking…",
+    "JP": "TCP handshaking…",
+    "EN": "TCP handshaking…",
+    "ZH_HK": "TCP handshaking…",
+    "KR": "TCP handshaking..."
+   },
+   "id": "E1_1",
+   "nextid": "E1_2",
+   "nextMessageDelayTime": 0,
+   "day": "D1",
+   "scence": "家-好结局",
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_203": {
+   "contents": {
+    "ZH_CN": "反正就懒得去猜别人的心思，也懒得让别人来猜我的心思",
+    "JP": "ただ人の心を当てるのがしんどいし、人に私の心を当てさせるのもしんどいじゃん",
+    "EN": "Anyway, I don’t feel like understanding others, nor others understand me.",
+    "ZH_HK": "反正就懶得去猜別人的心思，也懶得讓別人來猜我的心思",
+    "KR": "어찌 됐건 남들의 마음까지 읽어야 하는게 너무 귀찮았고,이거와 같이 남들이 나에게 이러는 게 힘들었어"
+   },
+   "inputTime": 5016,
+   "id": "E1_203",
+   "nextid": "E1_choicee_31",
+   "nextMessageDelayTime": 5016,
+   "type": "MIKO_TEXT"
+  },
+  "E1_2": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_2",
+   "nextid": "E1_3",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_204": {
+   "contents": {
+    "ZH_CN": "可能算是吧...",
+    "JP": "まあ、そうかも",
+    "EN": "Maybe?",
+    "ZH_HK": "可能算是吧...",
+    "KR": "아마도 그런 거겠지.."
+   },
+   "inputTime": 1878,
+   "id": "E1_204",
+   "nextid": "E1_205",
+   "nextMessageDelayTime": 1878,
+   "type": "MIKO_TEXT"
+  },
+  "E1_220": {
+   "contents": {
+    "ZH_CN": "没事没事，我现在挺好的",
+    "JP": "大丈夫、今は平気",
+    "EN": "It’s all right. I’m not sad.",
+    "ZH_HK": "沒事沒事，我現在挺好的",
+    "KR": "괜찮아,지금은 꽤 괜찮아졌어"
+   },
+   "inputTime": 2847,
+   "id": "E1_220",
+   "nextid": "E1_221",
+   "nextMessageDelayTime": 2847,
+   "type": "MIKO_TEXT"
+  },
+  "E1_100": {
+   "contents": {
+    "ZH_CN": "那我去了...",
+    "JP": "さようなら...",
+    "EN": "Ok I’ll go.",
+    "ZH_HK": "那我去了...",
+    "KR": "그럼 가볼게"
+   },
+   "inputTime": 1669,
+   "id": "E1_100",
+   "nextid": "E1_101",
+   "nextMessageDelayTime": 1669,
+   "type": "MIKO_TEXT"
+  },
+  "E1_221": {
+   "contents": {
+    "ZH_CN": "想想两年前的那个时刻，还真是难熬",
+    "JP": "二年前のあの時は、確かにすごくつらかったんだ",
+    "EN": "Two years ago, what a tough time.",
+    "ZH_HK": "想想兩年前的那個時刻，還真是難熬",
+    "KR": "2년 전의 그 때는 정말 고통스러운 나날이었어"
+   },
+   "inputTime": 3958,
+   "id": "E1_221",
+   "nextid": "E1_222",
+   "nextMessageDelayTime": 3958,
+   "type": "MIKO_TEXT"
+  },
+  "E1_101": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_101",
+   "nextid": "E1_167",
+   "nextMessageDelayTime": 1800000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_222": {
+   "contents": {
+    "ZH_CN": "之后的一段时间，我和爸爸闹得挺厉害，互相都看不顺眼，吵得很厉害",
+    "JP": "それから、私とお父さんのけんかはひどくなって、互いに気に入られなかった",
+    "EN": "Then after that dad and I were having fights. We didn’t like each other, for that arguing all day long.",
+    "ZH_HK": "之後的一段時間，我和爸爸鬧得挺厲害，互相都看不順眼，吵得很厲害",
+    "KR": "그 사건 후로 나하고 아버지는 정말 매일 싸웠어.서로가 서로를 불편해하면서,매일 얼굴을 붉히면서 싸웠어"
+   },
+   "inputTime": 6547,
+   "id": "E1_222",
+   "nextid": "E1_223",
+   "nextMessageDelayTime": 6547,
+   "type": "MIKO_TEXT"
+  },
+  "E1_23": {
+   "contents": {
+    "ZH_CN": "好啦好啦，不管怎样，事情总算结束了",
+    "JP": "はいはい、とにかく、事件がやっと終わったわ",
+    "EN": "Well whatever It ends now.",
+    "ZH_HK": "好啦好啦，不管怎樣，事情總算結束了",
+    "KR": "뭐 어찌 됐던,일도 전부 마무리되었고"
+   },
+   "inputTime": 4094,
+   "id": "E1_23",
+   "nextid": "E1_24",
+   "nextMessageDelayTime": 4094,
+   "type": "MIKO_TEXT"
+  },
+  "E1_24": {
+   "contents": {
+    "ZH_CN": "希望以后这种事情不要再让我碰上了，真是少活几年...",
+    "JP": "今後こんな目に遭わないように。寿命が縮まるから",
+    "EN": "I hope this kind of thing won’t happen again. Shortening my lifespan.",
+    "ZH_HK": "希望以後這種事情不要再讓我碰上了，真是少活幾年...",
+    "KR": "이런 일은 더 이상 겪고 싶지가 않아,내 수명이 깎이는 거 같아..."
+   },
+   "inputTime": 5914,
+   "id": "E1_24",
+   "nextid": "E1_choicee_7",
+   "nextMessageDelayTime": 5914,
+   "type": "MIKO_TEXT"
+  },
+  "E1_25": {
+   "contents": {
+    "ZH_CN": "哎，我跟你讲，我今天想干一件事情",
+    "JP": "あのね、今日あることをしたいんだ",
+    "EN": "Hey here’s the thing. I want to do something today.",
+    "ZH_HK": "哎，我跟你講，我今天想幹一件事情",
+    "KR": "저기,오늘 내가 하고 싶은 일이 하나 있는데"
+   },
+   "inputTime": 3938,
+   "id": "E1_25",
+   "nextid": "E1_26",
+   "nextMessageDelayTime": 3938,
+   "type": "MIKO_TEXT"
+  },
+  "E1_26": {
+   "contents": {
+    "ZH_CN": "你猜",
+    "JP": "当ててみて",
+    "EN": "Guess what?",
+    "ZH_HK": "你猜",
+    "KR": "한번 맞춰봐"
+   },
+   "inputTime": 1194,
+   "id": "E1_26",
+   "nextid": "E1_choicee_8",
+   "nextMessageDelayTime": 1194,
+   "type": "MIKO_TEXT"
+  },
+  "E1_20": {
+   "contents": {
+    "ZH_CN": "警察那边又找了我爸去了解情况，好像那公司也开始被调查了，听说美术馆都封起来了呢",
+    "JP": "警察はまたお父さんのところに事情調査に行った。会社も取り調べられて、美術館も封じられたらしい",
+    "EN": "The police took my dad to ask something. Seems the company is under investigation, too. It’s heard that the gallery is sealed.",
+    "ZH_HK": "員警那邊又找了我爸去瞭解情況，好像那公司也開始被調查了，聽說美術館都封起來了呢",
+    "KR": "경찰이 아빠를 또 찾아왔는데,회사는 이미 조사를 당하고 있고,미술관 역시 폐쇄되었다네"
+   },
+   "inputTime": 8249,
+   "id": "E1_20",
+   "nextid": "E1_21",
+   "nextMessageDelayTime": 8249,
+   "type": "MIKO_TEXT"
+  },
+  "E1_21": {
+   "contents": {
+    "ZH_CN": "现在想想，还有点后怕呢，你说我当时怎么就那么冲动呢",
+    "JP": "今思えばやっぱり怖いね。なんでそんなに衝動的になったのだろう、あたし",
+    "EN": "Now I’m still in that panic even after the event. Wasn’t I too ferocious?",
+    "ZH_HK": "現在想想，還有點後怕呢，你說我當時怎麼就那麼衝動呢",
+    "KR": "지금 생각해보면 좀 무서워지네.그때는 어떻게 그렇게 충동적인 행동을 한 거지?"
+   },
+   "inputTime": 5633,
+   "id": "E1_21",
+   "nextid": "E1_22",
+   "nextMessageDelayTime": 5633,
+   "type": "MIKO_TEXT"
+  },
+  "E1_22": {
+   "contents": {
+    "ZH_CN": "说起来，你也不拦着我！一个美少女冲到坏人巢穴去，难道你就不担心出什么事情吗？！",
+    "JP": "そういえば、君も止めてくれなかったね！美少女は悪者の巣穴に入っちゃって心配してくれないの",
+    "EN": "Now I’m wondering why you didn’t stop me at that time! Such a lady like me heading for villain’s camp, don’t you ever be worried?!",
+    "ZH_HK": "說起來，你也不攔著我！一個美少女衝到壞人巢穴去，難道你就不擔心出什麼事情嗎？！",
+    "KR": "그러고 보면 너는 왜 나를 안 막은거 야!나 같은 미소녀가 악당 소굴로 쳐들어 가겠다는데,나한테 무슨 일이 생길지 걱정 안된 거야?"
+   },
+   "inputTime": 7967,
+   "id": "E1_22",
+   "nextid": "E1_choicee_6",
+   "nextMessageDelayTime": 7967,
+   "type": "MIKO_TEXT"
+  },
+  "E1_216": {
+   "contents": {
+    "ZH_CN": "嗯...",
+    "JP": "うん...",
+    "EN": "Well..",
+    "ZH_HK": "嗯...",
+    "KR": "음..."
+   },
+   "inputTime": 1233,
+   "id": "E1_216",
+   "nextid": "E1_217",
+   "nextMessageDelayTime": 1233,
+   "type": "MIKO_TEXT"
+  },
+  "E1_217": {
+   "contents": {
+    "ZH_CN": "还是不说了吧...",
+    "JP": "その話はもういい...",
+    "EN": "Maybe stop here.",
+    "ZH_HK": "還是不說了吧...",
+    "KR": "역시 말 안 하는 게 좋을거 같아"
+   },
+   "inputTime": 2246,
+   "id": "E1_217",
+   "nextid": "E1_218",
+   "nextMessageDelayTime": 2246,
+   "type": "MIKO_TEXT"
+  },
+  "E1_218": {
+   "contents": {
+    "ZH_CN": "总之，两年前她离开我们了",
+    "JP": "とにかく、二年前から私たちを離れて行ったんだ",
+    "EN": "In a word, she left us two years ago.",
+    "ZH_HK": "總之，兩年前她離開我們了",
+    "KR": "어찌 됐건,2년 전에 우리 곁을 떠나셨어"
+   },
+   "inputTime": 2897,
+   "id": "E1_218",
+   "nextid": "E1_219",
+   "nextMessageDelayTime": 2897,
+   "type": "MIKO_TEXT"
+  },
+  "E1_219": {
+   "contents": {
+    "ZH_CN": "永远",
+    "JP": "永遠に",
+    "EN": "For ever.",
+    "ZH_HK": "永遠",
+    "KR": "영원히"
+   },
+   "inputTime": 466,
+   "id": "E1_219",
+   "nextid": "E1_choicee_33",
+   "nextMessageDelayTime": 466,
+   "type": "MIKO_TEXT"
+  },
+  "E1_27": {
+   "contents": {
+    "ZH_CN": "猪！",
+    "JP": "豚！",
+    "EN": "You lazy bones.",
+    "ZH_HK": "豬！",
+    "KR": "이 돼지가!"
+   },
+   "inputTime": 682,
+   "id": "E1_27",
+   "nextid": "E1_28",
+   "nextMessageDelayTime": 60000,
+   "type": "MIKO_TEXT"
+  },
+  "E1_212": {
+   "contents": {
+    "ZH_CN": "其实我也不是脾气坏啦，之前他们都说我挺随和的",
+    "JP": "私は気まずい人じゃないわ。昔とても優しいと言われたのよ",
+    "EN": "Actually I’m not that kind of bad news. I was pretty easygoing before.",
+    "ZH_HK": "其實我也不是脾氣壞啦，之前他們都說我挺隨和的",
+    "KR": "사실 내 성격도 그렇게 나쁜 게 아니었어,전에는 부모님도 전부 내가 외향적이라고 했고"
+   },
+   "inputTime": 5145,
+   "id": "E1_212",
+   "nextid": "E1_213",
+   "nextMessageDelayTime": 5145,
+   "type": "MIKO_TEXT"
+  },
+  "E1_28": {
+   "photoid": "E1-01",
+   "contents": {
+    "ZH_CN": "决定了！今天要做一件大事！",
+    "JP": "決めた！今日大事なことをするわ！",
+    "EN": "Yeah I’ve made up my mind! I’ll do something great!",
+    "ZH_HK": "決定了！今天要做一件大事！",
+    "KR": "결정했어! 오늘은 중요한 일을 할거야!"
+   },
+   "id": "E1_28",
+   "nextid": "E1_29",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_TIMELINE"
+  },
+  "E1_213": {
+   "contents": {
+    "ZH_CN": "可是两年前，妈妈出事...",
+    "JP": "けど、二年前、お母さんが事故にあって",
+    "EN": "But two years ago, something happened to my mom…",
+    "ZH_HK": "可是兩年前，媽媽出事...",
+    "KR": "하지만 2년 전에 엄마가 사고가 난 뒤..."
+   },
+   "inputTime": 2847,
+   "id": "E1_213",
+   "nextid": "E1_214",
+   "nextMessageDelayTime": 2847,
+   "type": "MIKO_TEXT"
+  },
+  "E1_29": {
+   "contents": {
+    "ZH_CN": "看我动态！(●｀∀´●)╯",
+    "JP": "アップしたのを見てみ！(●｀∀´●)╯",
+    "EN": "Check my moments!",
+    "ZH_HK": "看我動態！(●｀∀´●)╯",
+    "KR": "내 모멘트 봐봐!"
+   },
+   "inputTime": 2835,
+   "id": "E1_29",
+   "nextid": "E1_choicee_9",
+   "nextMessageDelayTime": 2835,
+   "type": "MIKO_TEXT"
+  },
+  "E1_214": {
+   "contents": {
+    "ZH_CN": "反正之后我就看谁都不顺眼",
+    "JP": "それからどんなことにも気が入らなくて",
+    "EN": "After that I turned to hate everyone.",
+    "ZH_HK": "反正之後我就看誰都不順眼",
+    "KR": "누굴 보던 항상 짜증이 났어"
+   },
+   "inputTime": 2521,
+   "id": "E1_214",
+   "nextid": "E1_215",
+   "nextMessageDelayTime": 2521,
+   "type": "MIKO_TEXT"
+  },
+  "E1_215": {
+   "contents": {
+    "ZH_CN": "唉...",
+    "JP": "ああ...",
+    "EN": "*Sigh*…",
+    "ZH_HK": "唉...",
+    "KR": "그런..."
+   },
+   "inputTime": 1291,
+   "id": "E1_215",
+   "nextid": "E1_221",
+   "nextMessageDelayTime": 1291,
+   "type": "MIKO_TEXT"
+  },
+  "E1_230": {
+   "contents": {
+    "ZH_CN": "虽然我有时候很讨厌他唧唧歪歪",
+    "JP": "彼がよくごちゃごちゃ言うのが嫌いなんだけど",
+    "EN": "I don’t like he nagging but…",
+    "ZH_HK": "雖然我有時候很討厭他唧唧歪歪",
+    "KR": "나도 가끔씩은 아빠가 투덜거리면 짜증 나기는 하지만"
+   },
+   "inputTime": 3114,
+   "id": "E1_230",
+   "nextid": "E1_231",
+   "nextMessageDelayTime": 3114,
+   "type": "MIKO_TEXT"
+  },
+  "E1_110": {
+   "contents": {
+    "ZH_CN": "反正就懒得去猜别人的心思，也懒得让别人来猜我的心思",
+    "JP": "ただ人の心を当てるのがしんどいし、人に私の心を当てさせるのもしんどいじゃん",
+    "EN": "Anyway, I don’t feel like understanding others, nor others understand me.",
+    "ZH_HK": "反正就懶得去猜別人的心思，也懶得讓別人來猜我的心思",
+    "KR": "어찌 됐건 남들의 마음까지 읽어야 하는게 너무 귀찮았고,이거와 같이 남들이 나에게 이러는 게 힘들었어"
+   },
+   "inputTime": 5071,
+   "id": "E1_110",
+   "nextid": "E1_choicee_21",
+   "nextMessageDelayTime": 5071,
+   "type": "MIKO_TEXT"
+  },
+  "E1_231": {
+   "contents": {
+    "ZH_CN": "不过这次事情之后，我能理解我和他的关系了",
+    "JP": "でもこの事件の後、私とお父さんの関係はよく理解できた",
+    "EN": "But after that, now I can understand our relationships.",
+    "ZH_HK": "不過這次事情之後，我能理解我和他的關係了",
+    "KR": "이번 일을 겪고 나서 드디어 서로 이해하게 된 거 같아"
+   },
+   "inputTime": 4025,
+   "id": "E1_231",
+   "nextid": "E1_232",
+   "nextMessageDelayTime": 4025,
+   "type": "MIKO_TEXT"
+  },
+  "E1_111": {
+   "contents": {
+    "ZH_CN": "可能算是吧...",
+    "JP": "まあ、そうかも",
+    "EN": "Maybe?",
+    "ZH_HK": "可能算是吧...",
+    "KR": "아마도 그런 거겠지.."
+   },
+   "inputTime": 2036,
+   "id": "E1_111",
+   "nextid": "E1_112",
+   "nextMessageDelayTime": 2036,
+   "type": "MIKO_TEXT"
+  },
+  "E1_232": {
+   "contents": {
+    "ZH_CN": "不管怎么说，我和他都感觉到彼此是最重要的人，我们是最关心对方的",
+    "JP": "何といっても、お互いにとって相手がとても大切な人だと認識したから、お互いに相手のことが一番心配なんだわ",
+    "EN": "After all, we both take each other as families, we care about each other.",
+    "ZH_HK": "不管怎麼說，我和他都感覺到彼此是最重要的人，我們是最關心對方的",
+    "KR": "과정이 어찌 됐건 아빠하고 나는 서로를 가장 중시하고,아낀다는 걸 알았으니까"
+   },
+   "inputTime": 6267,
+   "id": "E1_232",
+   "nextid": "E1_233",
+   "nextMessageDelayTime": 6267,
+   "type": "MIKO_TEXT"
+  },
+  "E1_112": {
+   "contents": {
+    "ZH_CN": "可是现在的人，谁又没有一点点不想跟人交流的想法呢",
+    "JP": "でも今の人には、人と交流したくない気持ちはきっとみんなあるよ。",
+    "EN": "But isn’t it common that people don’t feel like communicating?",
+    "ZH_HK": "可是現在的人，誰又沒有一點點不想跟人交流的想法呢",
+    "KR": "하지만 지금의 사람이란 결국 어느정도 남들과 커뮤니케이션을 하고 싶어지기 마련이야"
+   },
+   "inputTime": 4929,
+   "id": "E1_112",
+   "nextid": "E1_113",
+   "nextMessageDelayTime": 4929,
+   "type": "MIKO_TEXT"
+  },
+  "E1_233": {
+   "contents": {
+    "ZH_CN": "可能我们的方式不一样...",
+    "JP": "やり方はそれぞれ違うけど...",
+    "EN": "It’s just the way of caring…",
+    "ZH_HK": "可能我們的方式不一樣...",
+    "KR": "서로 방식의 차이가 있을 뿐이니까...."
+   },
+   "inputTime": 3375,
+   "id": "E1_233",
+   "nextid": "E1_234",
+   "nextMessageDelayTime": 3375,
+   "type": "MIKO_TEXT"
+  },
+  "E1_12": {
+   "contents": {
+    "ZH_CN": "混蛋！",
+    "JP": "バカ",
+    "EN": "You bastard!",
+    "ZH_HK": "混蛋！",
+    "KR": "너 이 자식!"
+   },
+   "inputTime": 1123,
+   "id": "E1_12",
+   "nextid": "E1_choicee_2",
+   "nextMessageDelayTime": 1123,
+   "type": "MIKO_TEXT"
+  },
+  "E1_13": {
+   "contents": {
+    "ZH_CN": "哼哼~",
+    "JP": "フンフン",
+    "EN": "Hum~",
+    "ZH_HK": "哼哼~",
+    "KR": "흥!"
+   },
+   "inputTime": 1011,
+   "id": "E1_13",
+   "nextid": "E1_14",
+   "nextMessageDelayTime": 1011,
+   "type": "MIKO_TEXT"
+  },
+  "E1_14": {
+   "contents": {
+    "ZH_CN": "怎么说我们也是一起出生入死的，你以后再开这种玩笑，我就揍你",
+    "JP": "何と言っても死線を彷徨った仲間だわ。今度そんな冗談を言ったら、殴ってやるぜ",
+    "EN": "Think about our going through fire and water. Another joke like that, I’ll kick your ass.",
+    "ZH_HK": "怎麼說我們也是一起出生入死的，你以後再開這種玩笑，我就揍你",
+    "KR": "어찌 됐던 같이 생사를 넘나든 사이인데,이런 농담 한번 더 하면 진짜 때릴 거야"
+   },
+   "inputTime": 6059,
+   "id": "E1_14",
+   "nextid": "E1_choicee_3",
+   "nextMessageDelayTime": 6059,
+   "type": "MIKO_TEXT"
+  },
+  "E1_15": {
+   "contents": {
+    "ZH_CN": "哼~",
+    "JP": "フン",
+    "EN": "Hum~",
+    "ZH_HK": "哼~",
+    "KR": "흥~"
+   },
+   "inputTime": 1044,
+   "id": "E1_15",
+   "nextid": "E1_choicee_4",
+   "nextMessageDelayTime": 1044,
+   "type": "MIKO_TEXT"
+  },
+  "E1_10": {
+   "contents": {
+    "ZH_CN": "对方已下线",
+    "JP": "オフライン",
+    "EN": "Your friend is offline.",
+    "ZH_HK": "對方已下線",
+    "KR": "상대방이 로그아웃 하였습니다"
+   },
+   "id": "E1_10",
+   "nextid": "E1_11",
+   "nextMessageDelayTime": 300000,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_11": {
+   "contents": {
+    "ZH_CN": "对方已上线",
+    "JP": "オンライン",
+    "EN": "Your friend is online.",
+    "ZH_HK": "對方已上線",
+    "KR": "상대방 로그인 하였습니다"
+   },
+   "id": "E1_11",
+   "nextid": "E1_12",
+   "nextMessageDelayTime": 0,
+   "type": "SYSTEM_STATUS_TIPS"
+  },
+  "E1_106": {
+   "contents": {
+    "ZH_CN": "后来也就不怎么说话了，有什么事情就放在心里好了，其实又真有什么事情值得分享呢",
+    "JP": "それからはほとんど話さない。何があったら心に埋めればいいの。実際他人と分かち合うに値することなんてないもん。",
+    "EN": "Then I didn’t feel like talking. You can just keep all the thoughts in mind. To be honest, is there really anything worth sharing?",
+    "ZH_HK": "後來也就不怎麼說話了，有什麼事情就放在心裡好了，其實又真有什麼事情值得分享呢",
+    "KR": "그 뒤에는 말도 별로 안하게 되고,막상 무슨 일이 있어도 마음에 담아두기만 했지.아니,그 전에 누군가와 말을 할 만큼의 이야기도 없었나?"
+   },
+   "inputTime": 8193,
+   "id": "E1_106",
+   "nextid": "E1_107",
+   "nextMessageDelayTime": 8193,
+   "type": "MIKO_TEXT"
+  },
+  "E1_227": {
+   "contents": {
+    "ZH_CN": "后来他就把我送去法国了，估计也是眼不见为净...",
+    "JP": "そのあと私をフランスに行かせて、会わなければいやな思いをしないからかも",
+    "EN": "He just sent me to France, making me out of his sight and out of mind.",
+    "ZH_HK": "後來他就把我送去法國了，估計也是眼不見為淨...",
+    "KR": "그 뒤에는 아빠가 나를 프랑스로 보내 버렸는데,아마 아빠도 나를 안보는게 상책이라고 생각했겠지"
+   },
+   "inputTime": 5256,
+   "id": "E1_227",
+   "nextid": "E1_228",
+   "nextMessageDelayTime": 5256,
+   "type": "MIKO_TEXT"
+  },
+  "E1_107": {
+   "contents": {
+    "ZH_CN": "沉默可能是一种自我保护吧，看着那些人情与世事都没什么感动的",
+    "JP": "沈黙は一種の自己保護かも、人情や義理なんてみても感動しないわ",
+    "EN": "Silence protects me. Thinking about all those people and all their matters that didn’t even worth a while.",
+    "ZH_HK": "沉默可能是一種自我保護吧，看著那些人情與世事都沒什麼感動的",
+    "KR": "침묵은 나의 일종의 보호 방법이라고 생각해,사람들과 세상 물정에 대한 흥미를 잃어버렸어"
+   },
+   "inputTime": 5889,
+   "id": "E1_107",
+   "nextid": "E1_108",
+   "nextMessageDelayTime": 5889,
+   "type": "MIKO_TEXT"
+  },
+  "E1_228": {
+   "contents": {
+    "ZH_CN": "我在那边又搞出事情来，结果回来了，这下他更看不顺眼我了...",
+    "JP": "しかし、フランスでも事故を起こしてしまった。帰ったらもっと気に入らなかっただろう",
+    "EN": "I didn’t go well in France and go back home, so he just hates me more.",
+    "ZH_HK": "我在那邊又搞出事情來，結果回來了，這下他更看不順眼我了...",
+    "KR": "그러다가 내가 거기서도 사고를 쳐서 돌아오니,더욱더 나를 보기 싫어지신 거지"
+   },
+   "inputTime": 6723,
+   "id": "E1_228",
+   "nextid": "E1_229",
+   "nextMessageDelayTime": 6723,
+   "type": "MIKO_TEXT"
+  },
+  "E1_108": {
+   "contents": {
+    "ZH_CN": "就突然觉得，我的孤独与他人无关",
+    "JP": "私の孤独は他人に関係ないって急にそう思うの",
+    "EN": "It only occurred to me that, my loneliness has nothing to do with others.",
+    "ZH_HK": "就突然覺得，我的孤獨與他人無關",
+    "KR": "그러다 보니 외로움은 다른 사람들과 아무런 연관이 없어진 거 같았어"
+   },
+   "inputTime": 3202,
+   "id": "E1_108",
+   "nextid": "E1_109",
+   "nextMessageDelayTime": 3202,
+   "type": "MIKO_TEXT"
+  },
+  "E1_229": {
+   "contents": {
+    "ZH_CN": "他可能也是为了不再有那些不好的情绪，所以这两年天天把自己埋在工作里",
+    "JP": "お父さんは悪い気持ちにならないように、ここの二年間はずっと仕事に冒頭している",
+    "EN": "Maybe he doesn’t want fights so he just keeps himself in working.",
+    "ZH_HK": "他可能也是為了不再有那些不好的情緒，所以這兩年天天把自己埋在工作裡",
+    "KR": "그 뒤로는 아마 안 좋은 기억을 잊고 싶어서 항상 일에만 몰두했던걸 거야"
+   },
+   "inputTime": 7396,
+   "id": "E1_229",
+   "nextid": "E1_230",
+   "nextMessageDelayTime": 7396,
+   "type": "MIKO_TEXT"
+  },
+  "E1_109": {
+   "contents": {
+    "ZH_CN": "不对，其实我也没有孤独啊",
+    "JP": "いや、本当は孤独なんかじゃないわ",
+    "EN": "No. In fact I’m not lonely.",
+    "ZH_HK": "不對，其實我也沒有孤獨啊",
+    "KR": "아니지,난 외로움을 느끼지도 않았어"
+   },
+   "inputTime": 2934,
+   "id": "E1_109",
+   "nextid": "E1_110",
+   "nextMessageDelayTime": 2934,
+   "type": "MIKO_TEXT"
+  },
+  "E1_16": {
+   "contents": {
+    "ZH_CN": "好呀！",
+    "JP": "いいよ",
+    "EN": "Good.",
+    "ZH_HK": "好呀！",
+    "KR": "좋아!"
+   },
+   "inputTime": 1366,
+   "id": "E1_16",
+   "nextid": "E1_17",
+   "nextMessageDelayTime": 1366,
+   "type": "MIKO_TEXT"
+  },
+  "E1_102": {
+   "contents": {
+    "ZH_CN": "好啊好啊！",
+    "JP": "はいはい",
+    "EN": "I’d love to.",
+    "ZH_HK": "好啊好啊！",
+    "KR": "좋아 좋아!"
+   },
+   "inputTime": 1608,
+   "id": "E1_102",
+   "nextid": "E1_103",
+   "nextMessageDelayTime": 1608,
+   "type": "MIKO_TEXT"
+  },
+  "E1_223": {
+   "contents": {
+    "ZH_CN": "现在想想，应该是我俩都找不到平复情绪的办法，却不由自主在互相伤害",
+    "JP": "振り返ってみて二人も平静を取り戻す方法が見つけられなくて、思わず相手の心を傷つけている",
+    "EN": "Now I think both of us didn’t find a way out, can’t help hurting each other.",
+    "ZH_HK": "現在想想，應該是我倆都找不到平復情緒的辦法，卻不由自主在互相傷害",
+    "KR": "지금 생각해보면,서로 납득을 하지 못해서 결국 그 분노를 자신도 모르게 서로에게 향한 거 같아"
+   },
+   "inputTime": 7163,
+   "id": "E1_223",
+   "nextid": "E1_224",
+   "nextMessageDelayTime": 7163,
+   "type": "MIKO_TEXT"
+  },
+  "E1_17": {
+   "contents": {
+    "ZH_CN": "怎么样？今天有没有好一点？昨天的事情没有给你带来麻烦吧",
+    "JP": "どう、今日は良くなったの、昨日の事で迷惑にならなければいいんだけど",
+    "EN": "What? You get any better today? Did that trouble you a lot yesterday?",
+    "ZH_HK": "怎麼樣？今天有沒有好一點？昨天的事情沒有給你帶來麻煩吧",
+    "KR": "오늘은 좀 좋아졌어?어제 그 일 때문에 너한테 무슨 일 생긴 건 아니지?"
+   },
+   "inputTime": 5512,
+   "id": "E1_17",
+   "nextid": "E1_choicee_5",
+   "nextMessageDelayTime": 5512,
+   "type": "MIKO_TEXT"
+  },
+  "E1_103": {
+   "contents": {
+    "ZH_CN": "其实说起来，我很少跟人聊天哦",
+    "JP": "実は、しゃべるなんかほとんどしてなかった",
+    "EN": "Actually I don’t talk with people.",
+    "ZH_HK": "其實說起來，我很少跟人聊天哦",
+    "KR": "그러고 보니,나 평소에는 사람들하고 별로 대화를 안 하는 편이다?"
+   },
+   "inputTime": 2827,
+   "id": "E1_103",
+   "nextid": "E1_104",
+   "nextMessageDelayTime": 2827,
+   "type": "MIKO_TEXT"
+  },
+  "E1_224": {
+   "contents": {
+    "ZH_CN": "其实我这个人就是，你不能顺着我来，你越顺着我，我就觉得你讨厌",
+    "JP": "私ってこのような人よ。私をへつらえばへつらうほど相手のことを嫌いになるの",
+    "EN": "It’s like, I was a real handful. I hate who ever please me and love me.",
+    "ZH_HK": "其實我這個人就是，你不能順著我來，你越順著我，我就覺得你討厭",
+    "KR": "나 같은 사람은 억지로 나한테 맞춰주는 걸 훨씬 싫어해"
+   },
+   "inputTime": 6717,
+   "id": "E1_224",
+   "nextid": "E1_225",
+   "nextMessageDelayTime": 6717,
+   "type": "MIKO_TEXT"
+  },
+  "E1_18": {
+   "contents": {
+    "ZH_CN": "那就好",
+    "JP": "それでいい",
+    "EN": "That’s fine.",
+    "ZH_HK": "那就好",
+    "KR": "그래"
+   },
+   "inputTime": 1279,
+   "id": "E1_18",
+   "nextid": "E1_19",
+   "nextMessageDelayTime": 1279,
+   "type": "MIKO_TEXT"
+  },
+  "E1_104": {
+   "contents": {
+    "ZH_CN": "在学校的时候也很少跟人说话，总觉得很烦啊",
+    "JP": "学校でもほとんど人と話さなかった。なんか面倒くさくない？",
+    "EN": "At school I didn’t talk. It bothered me.",
+    "ZH_HK": "在學校的時候也很少跟人說話，總覺得很煩啊",
+    "KR": "학교에 있을 때도 거의 사람들하고 이야기를 안 해,귀찮거든"
+   },
+   "inputTime": 4139,
+   "id": "E1_104",
+   "nextid": "E1_105",
+   "nextMessageDelayTime": 4139,
+   "type": "MIKO_TEXT"
+  },
+  "E1_225": {
+   "contents": {
+    "ZH_CN": "你应该一针见血地指出我的毛病，我反而就服你（当然啦，你态度要好~~",
+    "JP": "はっきり私のくせを指摘してくれたら、かえって感謝するよ。「もちらん、態度がよければの話ね」",
+    "EN": "You must points out my mistakes directly so I’ll listen to you. (Surely you must be gentle.",
+    "ZH_HK": "你應該一針見血地指出我的毛病，我反而就服你（當然啦，你態度要好~~",
+    "KR": "할 말이 있으면 하는게 오히려 내 성격에 맞거든(당연한 거지만 태도는 좋아야겠지?"
+   },
+   "inputTime": 7210,
+   "id": "E1_225",
+   "nextid": "E1_226",
+   "nextMessageDelayTime": 7210,
+   "type": "MIKO_TEXT"
+  },
+  "E1_19": {
+   "contents": {
+    "ZH_CN": "我这边没事啦",
+    "JP": "こっちは無事だわ",
+    "EN": "I don’t bother.",
+    "ZH_HK": "我這邊沒事啦",
+    "KR": "나는 이제 괜찮아"
+   },
+   "inputTime": 1758,
+   "id": "E1_19",
+   "nextid": "E1_20",
+   "nextMessageDelayTime": 1758,
+   "type": "MIKO_TEXT"
+  },
+  "E1_105": {
+   "contents": {
+    "ZH_CN": "不对，也不是烦，就是觉得要费心去说别人能理解的话，又要担心自己说的别人会不会感兴趣，很累",
+    "JP": "いや、面倒くさいというより、ただ他人にわかる話を気を使って言うのはあれだし、そして、言った言葉は面白くないかなとといろいろ心配するから、しんどい",
+    "EN": "No, it’s not about bothering, just… It’s so tiring to say something people understand, something interesting. So tiring!",
+    "ZH_HK": "不對，也不是煩，就是覺得要費心去說別人能理解的話，又要擔心自己說的別人會不會感興趣，很累",
+    "KR": "아니다,귀찮다기보다는 사람들 이야기에 귀 기울여 주면서,내가 하는 이야기도 사람들이 흥미를 가질까?라고 고민하는 게 너무 힘들었어"
+   },
+   "inputTime": 9393,
+   "id": "E1_105",
+   "nextid": "E1_106",
+   "nextMessageDelayTime": 9393,
+   "type": "MIKO_TEXT"
+  },
+  "E1_226": {
+   "contents": {
+    "ZH_CN": "我爸就是搞不明白这个啊",
+    "JP": "お父さんはこの点がわからなかったの",
+    "EN": "My dad never get that.",
+    "ZH_HK": "我爸就是搞不明白這個啊",
+    "KR": "근데 아빠는 이걸 이해를 못한단 말이야"
+   },
+   "inputTime": 2467,
+   "id": "E1_226",
+   "nextid": "E1_227",
+   "nextMessageDelayTime": 2467,
+   "type": "MIKO_TEXT"
+  },
+  "E1_3": {
+   "contents": {
+    "ZH_CN": "莫西莫西～",
+    "JP": "もしもし",
+    "EN": "Hello?",
+    "ZH_HK": "莫西莫西～",
+    "KR": "모시모시~"
+   },
+   "inputTime": 1162,
+   "id": "E1_3",
+   "nextid": "E1_4",
+   "nextMessageDelayTime": 1162,
+   "type": "MIKO_TEXT"
+  },
+  "E1_120": {
+   "contents": {
+    "ZH_CN": "闭嘴啦，听我说",
+    "JP": "黙ってよく聞いて",
+    "EN": "Shut up, just listen to me.",
+    "ZH_HK": "閉嘴啦，聽我說",
+    "KR": "시끄러워,우선 내말 하는 것부터 들어봐"
+   },
+   "inputTime": 1692,
+   "id": "E1_120",
+   "nextid": "E1_121",
+   "nextMessageDelayTime": 1692,
+   "type": "MIKO_TEXT"
+  },
+  "E1_241": {
+   "contents": {
+    "ZH_CN": "不过我要什么他都给我，买小裙子呀什么的不管多贵也从来不拒绝，他就是烦我那些习惯",
+    "JP": "けど何かほしかったら買ってくれるよ。ドレスとか、どんなに高くても買ってくれるの。ただ私の習慣に気に入らないの",
+    "EN": "But he gives me whatever I want. Expensive dresses, no matter how much it costs, he never turns me down. He just hates my untidiness.",
+    "ZH_HK": "不過我要什麼他都給我，買小裙子呀什麼的不管多貴也從來不拒絕，他就是煩我那些習慣",
+    "KR": "하지만 내가 갖고 싶은건 전부 사줬어,치마 같은 거도 아무리 비싸도 거절한 적이 없어,그저 내 습관들이 싫었던 거지"
+   },
+   "inputTime": 8599,
+   "id": "E1_241",
+   "nextid": "E1_242",
+   "nextMessageDelayTime": 8599,
+   "type": "MIKO_TEXT"
+  },
+  "E1_4": {
+   "contents": {
+    "ZH_CN": "还在干嘛！？",
+    "JP": "何してるの",
+    "EN": "How’s going?",
+    "ZH_HK": "還在幹嘛！？",
+    "KR": "아직도 뭐하는 거야?!"
+   },
+   "inputTime": 1713,
+   "id": "E1_4",
+   "nextid": "E1_5",
+   "nextMessageDelayTime": 1713,
+   "type": "MIKO_TEXT"
+  },
+  "E1_121": {
+   "contents": {
+    "ZH_CN": "后来妈妈出事了，就剩我和爸爸在空荡荡的房子里，我们之间突然就像少了什么",
+    "JP": "そのあと、お母さんが事故に遭って、空の家にお父さんと私しかいなかった。私たちの間に何か抜けたみたい",
+    "EN": "Then something happened to mom. Dad and I were left in the empty house. It seemed we lacked for something.",
+    "ZH_HK": "後來媽媽出事了，就剩我和爸爸在空蕩蕩的房子裡，我們之間突然就像少了什麼",
+    "KR": "그 뒤에 엄마가 사고를 당하셨고,텅 빈 방에 나하고 아빠만 덩그러니 있으니,뭔가 둘 사이에 무언가 비어버린 거 같은거야"
+   },
+   "inputTime": 7518,
+   "id": "E1_121",
+   "nextid": "E1_122",
+   "nextMessageDelayTime": 7518,
+   "type": "MIKO_TEXT"
+  },
+  "E1_242": {
+   "contents": {
+    "ZH_CN": "当然，我也烦他...",
+    "JP": "もちろん、私もお父さんのことに気に入らないわ...",
+    "EN": "Surely I don’t like him.",
+    "ZH_HK": "當然，我也煩他...",
+    "KR": "물론 나도 아빠가 싫었어..."
+   },
+   "inputTime": 2645,
+   "id": "E1_242",
+   "nextid": "E1_243",
+   "nextMessageDelayTime": 2645,
+   "type": "MIKO_TEXT"
+  },
+  "E1_5": {
+   "contents": {
+    "ZH_CN": "喂！",
+    "JP": "もしもし",
+    "EN": "Hello!",
+    "ZH_HK": "喂！",
+    "KR": "야!"
+   },
+   "inputTime": 435,
+   "id": "E1_5",
+   "nextid": "E1_choicee_1",
+   "nextMessageDelayTime": 435,
+   "type": "MIKO_TEXT"
+  },
+  "E1_122": {
+   "contents": {
+    "ZH_CN": "每天面对面，不知道该说什么",
+    "JP": "毎日顔があっても、何を言うのもわからない",
+    "EN": "Everyday face to face, nothing to say.",
+    "ZH_HK": "每天面對面，不知道該說什麼",
+    "KR": "매일 얼굴을 보면서 무슨 말을 해야 할 지 모르겠어"
+   },
+   "inputTime": 2968,
+   "id": "E1_122",
+   "nextid": "E1_123",
+   "nextMessageDelayTime": 2968,
+   "type": "MIKO_TEXT"
+  },
+  "E1_243": {
+   "contents": {
+    "ZH_CN": "以前他不忙的时候，他还经常带我出去玩",
+    "JP": "昔暇のとき、よく外に連れて一緒に遊んでいたよ",
+    "EN": "He used to play with me when he was off work.",
+    "ZH_HK": "以前他不忙的時候，他還經常帶我出去玩",
+    "KR": "전에 바쁘지 않을 때는 나를 자주 데리고 놀러 나가셨어"
+   },
+   "inputTime": 4149,
+   "id": "E1_243",
+   "nextid": "E1_244",
+   "nextMessageDelayTime": 4149,
+   "type": "MIKO_TEXT"
+  },
+  "E1_6": {
+   "contents": {
+    "ZH_CN": "我谁？！",
+    "JP": "だれって",
+    "EN": "Who’s this?!",
+    "ZH_HK": "我誰？！",
+    "KR": "내가 누구냐고?!"
+   },
+   "inputTime": 1017,
+   "id": "E1_6",
+   "nextid": "E1_7",
+   "nextMessageDelayTime": 1017,
+   "type": "MIKO_TEXT"
+  },
+  "E1_123": {
+   "contents": {
+    "ZH_CN": "可能我们都在责怪对方，也同时都在责怪自己",
+    "JP": "相手を責めている同時に自分を責めているかもしれない",
+    "EN": "Maybe it’s because we were blaming each other, and ourselves.",
+    "ZH_HK": "可能我們都在責怪對方，也同時都在責怪自己",
+    "KR": "아마 서로를 탓하는 동시에,자책도 하고 있었겠지"
+   },
+   "inputTime": 4528,
+   "id": "E1_123",
+   "nextid": "E1_124",
+   "nextMessageDelayTime": 4528,
+   "type": "MIKO_TEXT"
+  },
+  "E1_244": {
+   "contents": {
+    "ZH_CN": "不过他就经常带我去图书馆，要么就带我去他公司玩，搞笑吧？",
+    "JP": "といっても、行くのは図書館、ウケるだろう",
+    "EN": "But where he took me to is library, or his company. Funny?",
+    "ZH_HK": "不過他就經常帶我去圖書館，要麼就帶我去他公司玩，搞笑吧？",
+    "KR": "하지만 데려간 곳이 하필 도서관 아니면 회사야,웃기지 않아?"
+   },
+   "inputTime": 6361,
+   "id": "E1_244",
+   "nextid": "E1_245",
+   "nextMessageDelayTime": 6361,
+   "type": "MIKO_TEXT"
+  },
+  "E1_7": {
+   "contents": {
+    "ZH_CN": "你这么快就不记得我了？？",
+    "JP": "もう覚えてないの",
+    "EN": "You forget me so easily?",
+    "ZH_HK": "你這麼快就不記得我了？？",
+    "KR": "벌써 날 잊어 버린거야??"
+   },
+   "inputTime": 2721,
+   "id": "E1_7",
+   "nextid": "E1_8",
+   "nextMessageDelayTime": 2721,
+   "type": "MIKO_TEXT"
+  },
+  "E1_8": {
+   "contents": {
+    "ZH_CN": "你去死！",
+    "JP": "死ね",
+    "EN": "Go to hell!",
+    "ZH_HK": "你去死！",
+    "KR": "죽어!"
+   },
+   "inputTime": 1155,
+   "id": "E1_8",
+   "nextid": "E1_9",
+   "nextMessageDelayTime": 1155,
+   "type": "MIKO_TEXT"
+  },
+  "E1_9": {
+   "contents": {
+    "ZH_CN": "再见！",
+    "JP": "バイバイ",
+    "EN": "See you never again.",
+    "ZH_HK": "再見！",
+    "KR": "꺼져버려!"
+   },
+   "inputTime": 986,
+   "id": "E1_9",
+   "nextid": "E1_10",
+   "nextMessageDelayTime": 986,
+   "type": "MIKO_TEXT"
+  },
+  "E1_240": {
+   "contents": {
+    "ZH_CN": "blahblahblah...",
+    "JP": "ああしなさい、こうしなさいって",
+    "EN": "blahblahblah…",
+    "ZH_HK": "blahblahblah...",
+    "KR": "등등등....."
+   },
+   "inputTime": 3680,
+   "id": "E1_240",
+   "nextid": "E1_241",
+   "nextMessageDelayTime": 3680,
+   "type": "MIKO_TEXT"
+  },
+  "E1_117": {
+   "contents": {
+    "ZH_CN": "这不是有你么？",
+    "JP": "あなたがいるじゃん",
+    "EN": "Aren’t you my friend?",
+    "ZH_HK": "這不是有你嗎？",
+    "KR": "지금은 네가 있잖아?"
+   },
+   "inputTime": 1691,
+   "id": "E1_117",
+   "nextid": "E1_118",
+   "nextMessageDelayTime": 1691,
+   "type": "MIKO_TEXT"
+  },
+  "E1_238": {
+   "contents": {
+    "ZH_CN": "衣服不许乱扔！为什么不穿鞋在家里跑！你的东西我怎么知道在哪儿！看看你的电脑桌面都乱成什么样了！要是我一把全部给你删了！",
+    "JP": "服を勝手に捨てるなとか、靴を履かないで家を走るなとか、お前の物はどこにあるか知るもんかとか、パソコンデスクトップが乱れてるとか、私なら、すぐ全部消してやるとか",
+    "EN": "Don’t you ever throw your clothes! Why you are at home with bare feet? Don’t ask me if you can’t find your things! Can’t you see what a mess is your desktop? I’ll just delete all your rubbish now!",
+    "ZH_HK": "衣服不許亂扔！為什麼不穿鞋在家裡跑！你的東西我怎麼知道在哪兒！看看你的電腦桌面都亂成什麼樣了！要是我一把全部給你刪了！",
+    "KR": "옷 여기다 던져놓지 마!왜 슬리퍼 안 신고 집안을 돌아다녀!네 물건이 어딨는지 내가 어떻게 알아!컴퓨터 바탕화면은 뭐 이렇게 어질러놨어!나 같으면 전부 지워버렸다!"
+   },
+   "inputTime": 12208,
+   "id": "E1_238",
+   "nextid": "E1_239",
+   "nextMessageDelayTime": 12208,
+   "type": "MIKO_TEXT"
+  },
+  "E1_118": {
+   "contents": {
+    "ZH_CN": "突然觉得好像就是你还比较谈得来",
+    "JP": "話が合ったのはあんただけ",
+    "EN": "I think I feel like talking to you.",
+    "ZH_HK": "突然覺得好像就是你還比較談得來",
+    "KR": "그나마 너라서 대화가 하기 편한거 같아"
+   },
+   "inputTime": 3523,
+   "id": "E1_118",
+   "nextid": "E1_119",
+   "nextMessageDelayTime": 3523,
+   "type": "MIKO_TEXT"
+  },
+  "E1_239": {
+   "contents": {
+    "ZH_CN": "所有东西都应该有它唯一的位置！",
+    "JP": "すべての物は置くべき場所があるんだって",
+    "EN": "Everything should be in place!",
+    "ZH_HK": "所有東西都應該有它唯一的位置！",
+    "KR": "모든 물건은 있어야 할 곳이 정해져 있단 말이다!"
+   },
+   "inputTime": 3781,
+   "id": "E1_239",
+   "nextid": "E1_240",
+   "nextMessageDelayTime": 3781,
+   "type": "MIKO_TEXT"
+  },
+  "E1_119": {
+   "contents": {
+    "ZH_CN": "我妈妈两年前出事之前，我其实还是挺爱说话的",
+    "JP": "お母さんが事故に遭った二年前は、よくしゃべりが好きだったけどなあ",
+    "EN": "Two years ago, before my mom passed away, I was talkative.",
+    "ZH_HK": "我媽媽兩年前出事之前，我其實還是挺愛說話的",
+    "KR": "엄마가 2년 전에 사고를 당하시기 전에는 나도 꽤 말이 많은 편이었어"
+   },
+   "inputTime": 4914,
+   "id": "E1_119",
+   "nextid": "E1_choicee_23",
+   "nextMessageDelayTime": 4914,
+   "type": "MIKO_TEXT"
+  },
+  "E1_113": {
+   "contents": {
+    "ZH_CN": "还是做做自己喜欢的事情最好",
+    "JP": "自分が好きなことをやればいいだろう",
+    "EN": "Why not just do something you like?",
+    "ZH_HK": "還是做做自己喜歡的事情最好",
+    "KR": "역시 자기가 하고 싶은 일을 하는게 제일인 거 같아"
+   },
+   "inputTime": 3087,
+   "id": "E1_113",
+   "nextid": "E1_114",
+   "nextMessageDelayTime": 3087,
+   "type": "MIKO_TEXT"
+  },
+  "E1_234": {
+   "contents": {
+    "ZH_CN": "想想也真可怕，做父母好难啊，我以后才不要当父母",
+    "JP": "思うだけ怖いね、両親って難しいなぁ、将来は両親なんてならないよ",
+    "EN": "Isn’t it terrible? It’s so hard to be a parent. I won’t be a parent in the future.",
+    "ZH_HK": "想想也真可怕，做父母好難啊，我以後才不要當父母",
+    "KR": "지금 생각해보면 부모님도 참 힘들어,난 진짜 부모가 되고 싶지는 않아"
+   },
+   "inputTime": 5256,
+   "id": "E1_234",
+   "nextid": "E1_choicee_34",
+   "nextMessageDelayTime": 5256,
+   "type": "MIKO_TEXT"
+  },
+  "E1_114": {
+   "contents": {
+    "ZH_CN": "再说了...",
+    "JP": "それに...",
+    "EN": "In other words,",
+    "ZH_HK": "再說了...",
+    "KR": "게다가..."
+   },
+   "inputTime": 1638,
+   "id": "E1_114",
+   "nextid": "E1_117",
+   "nextMessageDelayTime": 1638,
+   "type": "MIKO_TEXT"
+  },
+  "E1_235": {
+   "contents": {
+    "ZH_CN": "哈哈哈哈哈随便说说嘛",
+    "JP": "ハハ、言ってみて",
+    "EN": "HAHA, just chat.",
+    "ZH_HK": "哈哈哈哈哈隨便說說嘛",
+    "KR": "하하 아무거나 말해봐"
+   },
+   "inputTime": 2445,
+   "id": "E1_235",
+   "nextid": "E1_236",
+   "nextMessageDelayTime": 2445,
+   "type": "MIKO_TEXT"
+  },
+  "E1_115": {
+   "contents": {
+    "ZH_CN": "嗯，不知道，家里就我和爸爸",
+    "JP": "うん、うちはお父さんと私だけいるのね",
+    "EN": "Hum, anyway, there are only daddy and I in the family.",
+    "ZH_HK": "嗯，不知道，家裡就我和爸爸",
+    "KR": "모르겠다,집에는 나하고 아빠밖에 없었으니"
+   },
+   "inputTime": 3134,
+   "id": "E1_115",
+   "nextid": "E1_116",
+   "nextMessageDelayTime": 3134,
+   "type": "MIKO_TEXT"
+  },
+  "E1_236": {
+   "contents": {
+    "ZH_CN": "我爸就是一个严谨的科学家，可怕...",
+    "JP": "お父さんって厳しい科学者なんだ、こわっ...",
+    "EN": "My dad is an exact scientist, terrifying.",
+    "ZH_HK": "我爸就是一個嚴謹的科學家，可怕...",
+    "KR": "아빠는 정말 엄격한 과학가셔,무서울 정도로..."
+   },
+   "inputTime": 4064,
+   "id": "E1_236",
+   "nextid": "E1_237",
+   "nextMessageDelayTime": 4064,
+   "type": "MIKO_TEXT"
+  },
+  "E1_116": {
+   "contents": {
+    "ZH_CN": "他每天都忙，我也是习惯了一个人",
+    "JP": "お父さんは毎日忙しくて、私も一人ぽっちに慣れてきたの",
+    "EN": "He’s working all day long. I’ve got used to it.",
+    "ZH_HK": "他每天都忙，我也是習慣了一個人",
+    "KR": "아빠는 매일 바쁘시고,나도 혼자 있는 게 익숙해져서"
+   },
+   "inputTime": 3473,
+   "id": "E1_116",
+   "nextid": "E1_choicee_22",
+   "nextMessageDelayTime": 3473,
+   "type": "MIKO_TEXT"
+  },
+  "E1_237": {
+   "contents": {
+    "ZH_CN": "成天就要求我这，看不惯我那的",
+    "JP": "毎日毎日私にことをさせたりして、しかも、私のことはちっとも気に入らないわ",
+    "EN": "He is so strict with me and yell at me all the time.",
+    "ZH_HK": "成天就要求我這，看不慣我那的",
+    "KR": "하루 종일 나한테 잔소리만 하고..."
+   },
+   "inputTime": 3247,
+   "id": "E1_237",
+   "nextid": "E1_238",
+   "nextMessageDelayTime": 3247,
+   "type": "MIKO_TEXT"
+  },
+  "E1_choicee_11": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你你你...",
+      "JP": "キミ...",
+      "EN": "You…",
+      "ZH_HK": "你你你...",
+      "KR": "너......"
+     },
+     "nextid": "E1_39"
+    },
+    {
+     "contents": {
+      "ZH_CN": "吃了啊",
+      "JP": "食べたぜ",
+      "EN": "Sure, I did.",
+      "ZH_HK": "吃了啊",
+      "KR": "먹었어"
+     },
+     "nextid": "E1_33"
+    }
+   ],
+   "id": "E1_choicee_11",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_12": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "对！",
+      "JP": "そう",
+      "EN": "Yes!",
+      "ZH_HK": "對！",
+      "KR": "맞아!"
+     },
+     "nextid": "E1_50"
+    },
+    {
+     "contents": {
+      "ZH_CN": "对...",
+      "JP": "そう...",
+      "EN": "Yes…",
+      "ZH_HK": "對...",
+      "KR": "맞아..."
+     },
+     "nextid": "E1_50"
+    }
+   ],
+   "id": "E1_choicee_12",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_10": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你昨天说请我吃蛋糕呢？",
+      "JP": "昨日ケーキをおごるって言ったろう",
+      "EN": "Yesterday you said you treated me to cake.",
+      "ZH_HK": "你昨天說請我吃蛋糕呢？",
+      "KR": "어제 말한 케이크가 이 케이크야?"
+     },
+     "nextid": "E1_32"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你自己做？",
+      "JP": "手作り",
+      "EN": "You do it yourself?",
+      "ZH_HK": "你自己做？",
+      "KR": "직접 만들려고?"
+     },
+     "nextid": "E1_43"
+    }
+   ],
+   "id": "E1_choicee_10",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_15": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "可是你退学了",
+      "JP": "退学したけど",
+      "EN": "But you quitted.",
+      "ZH_HK": "可是你退學了",
+      "KR": "하지만 자퇴했잖아"
+     },
+     "nextid": "E1_44"
+    },
+    {
+     "contents": {
+      "ZH_CN": "然而并没有毕业",
+      "JP": "卒業しなかったけど",
+      "EN": "You didn’t graduate from it.",
+      "ZH_HK": "然而並沒有畢業",
+      "KR": "하지만 졸업을 못했지"
+     },
+     "nextid": "E1_44"
+    }
+   ],
+   "id": "E1_choicee_15",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_16": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "好吧...",
+      "JP": "もういい...",
+      "EN": "Well.",
+      "ZH_HK": "好吧...",
+      "KR": "그래...."
+     },
+     "nextid": "E1_50"
+    },
+    {
+     "contents": {
+      "ZH_CN": "算了不跟你计较",
+      "JP": "許してあげようか",
+      "EN": "Fine, I'll let you get away with it.",
+      "ZH_HK": "算了不跟你計較",
+      "KR": "어휴 너하고 다퉈서 뭐 하겠어"
+     },
+     "nextid": "E1_50"
+    }
+   ],
+   "id": "E1_choicee_16",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_13": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "好！",
+      "JP": "はい",
+      "EN": "OK.",
+      "ZH_HK": "好！",
+      "KR": "좋아!"
+     },
+     "nextid": "E1_42"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我不吃！",
+      "JP": "食べない",
+      "EN": "I won’t even have a bite!",
+      "ZH_HK": "我不吃！",
+      "KR": "안 먹어!"
+     },
+     "nextid": "E1_46"
+    }
+   ],
+   "id": "E1_choicee_13",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_14": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你会做？",
+      "JP": "できるの",
+      "EN": "Could you manage it then?",
+      "ZH_HK": "你會做？",
+      "KR": "케이크는 만들 줄 알아?"
+     },
+     "nextid": "E1_43"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你确定能吃？",
+      "JP": "食べられるの",
+      "EN": "You sure that’s edible?",
+      "ZH_HK": "你確定能吃？",
+      "KR": "아니 그전에 먹을수 있는걸 만들 수는 있어?"
+     },
+     "nextid": "E1_43"
+    }
+   ],
+   "id": "E1_choicee_14",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_6": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "咦？这也怪我？",
+      "JP": "あれ、私のせい？",
+      "EN": "What? I’m to blame?",
+      "ZH_HK": "咦？這也怪我？",
+      "KR": "엥?그것도 내탓이야?"
+     },
+     "nextid": "E1_23"
+    },
+    {
+     "contents": {
+      "ZH_CN": "我怎么拦得住...",
+      "JP": "止められないじゃん",
+      "EN": "How was I able to stop you?",
+      "ZH_HK": "我怎麼攔得住...",
+      "KR": "내가 어떻게 막아..."
+     },
+     "nextid": "E1_23"
+    }
+   ],
+   "id": "E1_choicee_6",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_19": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "打发是有技巧的哦",
+      "JP": "泡立てるのは技巧を凝らさなければならないよ",
+      "EN": "It needs skills to whip your cream stiff.",
+      "ZH_HK": "打發是有技巧的哦",
+      "KR": "휘젓는 데는 테크닉이 필요해"
+     },
+     "nextid": "E1_90"
+    },
+    {
+     "contents": {
+      "ZH_CN": "听上去都觉得香啊",
+      "JP": "聞くだけでいい匂いがする",
+      "EN": "Sounds delicious.",
+      "ZH_HK": "聽上去都覺得香啊",
+      "KR": "듣기만 해도 맛있어 보인다"
+     },
+     "nextid": "E1_183"
+    }
+   ],
+   "id": "E1_choicee_19",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_7": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "但愿吧...",
+      "JP": "そうね",
+      "EN": "Hopefully.",
+      "ZH_HK": "但願吧...",
+      "KR": "그러길 빌어야지"
+     },
+     "nextid": "E1_25"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你又在树flag",
+      "JP": "flagが立つよ",
+      "EN": "You are giving off a death flag.",
+      "ZH_HK": "你又在樹flag",
+      "KR": "또 플래그 세운다"
+     },
+     "nextid": "E1_25"
+    }
+   ],
+   "id": "E1_choicee_7",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_8": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "我偏不猜",
+      "JP": "あてない",
+      "EN": "I don’t guess.",
+      "ZH_HK": "我偏不猜",
+      "KR": "안 맞출 거야"
+     },
+     "nextid": "E1_27"
+    },
+    {
+     "contents": {
+      "ZH_CN": "吃、睡、躺着",
+      "JP": "食べる、寝る、寝そべる",
+      "EN": "Eat, sleep and in the bed.",
+      "ZH_HK": "吃、睡、躺著",
+      "KR": "먹고,자고,눕고"
+     },
+     "nextid": "E1_27"
+    }
+   ],
+   "id": "E1_choicee_8",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_17": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "感觉不对呢",
+      "JP": "なんか違う",
+      "EN": "Em, doesn’t seem to be working.",
+      "ZH_HK": "感覺不對呢",
+      "KR": "뭔가 틀린 거 같은데"
+     },
+     "nextid": "E1_69"
+    },
+    {
+     "contents": {
+      "ZH_CN": "miko真厉害！",
+      "JP": "Mikoすごいなぁ！",
+      "EN": "Wow, you look professional.",
+      "ZH_HK": "miko真厲害！",
+      "KR": "역시 MIKO!"
+     },
+     "nextid": "E1_174"
+    }
+   ],
+   "id": "E1_choicee_17",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_9": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "这是？",
+      "JP": "これは",
+      "EN": "What is…",
+      "ZH_HK": "這是？",
+      "KR": "이건?"
+     },
+     "nextid": "E1_31"
+    },
+    {
+     "contents": {
+      "ZH_CN": "做菜？",
+      "JP": "料理",
+      "EN": "You made a dish?",
+      "ZH_HK": "做菜？",
+      "KR": "요리?"
+     },
+     "nextid": "E1_30"
+    }
+   ],
+   "id": "E1_choicee_9",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_18": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "220度，40分钟",
+      "JP": "２００度、４０分",
+      "EN": "220 °C for 40 minutes.",
+      "ZH_HK": "220度，40分鐘",
+      "KR": "220도,40분"
+     },
+     "nextid": "E1_180"
+    },
+    {
+     "contents": {
+      "ZH_CN": "170度，30分钟",
+      "JP": "１７０度、３０分",
+      "EN": "220 °C for 30 minutes.",
+      "ZH_HK": "170度，30分鐘",
+      "KR": "170도,30분"
+     },
+     "nextid": "E1_85"
+    }
+   ],
+   "id": "E1_choicee_18",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_2": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "好啦，跟你开玩笑嘛",
+      "JP": "はいはい、冗談だわ",
+      "EN": "Well, I’m just joking.",
+      "ZH_HK": "好啦，跟你開玩笑嘛",
+      "KR": "알았어 알았어,농담 좀 한거야"
+     },
+     "nextid": "E1_13"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你也太冲动了",
+      "JP": "興奮しすぎる",
+      "EN": "You reckless.",
+      "ZH_HK": "你也太衝動了",
+      "KR": "너도 너무 화내지는 마"
+     },
+     "nextid": "E1_13"
+    }
+   ],
+   "id": "E1_choicee_2",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_3": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "好好好",
+      "JP": "はいはいはい",
+      "EN": "Okay OK.",
+      "ZH_HK": "好好好",
+      "KR": "네네네"
+     },
+     "nextid": "E1_15"
+    },
+    {
+     "contents": {
+      "ZH_CN": "不会了不会了",
+      "JP": "もうしないから",
+      "EN": "I’ll never do it.",
+      "ZH_HK": "不會了不會了",
+      "KR": "안 할게 안 할게"
+     },
+     "nextid": "E1_15"
+    }
+   ],
+   "id": "E1_choicee_3",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_4": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "你那边状况怎样？",
+      "JP": "そっちの状況はどう",
+      "EN": "How are you going?",
+      "ZH_HK": "你那邊狀況怎樣？",
+      "KR": "네 쪽은 지금 어때?"
+     },
+     "nextid": "E1_19"
+    },
+    {
+     "contents": {
+      "ZH_CN": "正想问你现在怎样呢",
+      "JP": "キミに現在の状況を聞きたいと思ってる",
+      "EN": "I’m just asking you.",
+      "ZH_HK": "正想問你現在怎樣呢",
+      "KR": "마침 좀 물어보고 싶었는데"
+     },
+     "nextid": "E1_19"
+    }
+   ],
+   "id": "E1_choicee_4",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_5": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "没有呢",
+      "JP": "そんなことないよ",
+      "EN": "No.",
+      "ZH_HK": "沒有呢",
+      "KR": "별일 없었어"
+     },
+     "nextid": "E1_18"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你没事就最好啦",
+      "JP": "無事でよかった",
+      "EN": "Good to hear you get better.",
+      "ZH_HK": "你沒事就最好啦",
+      "KR": "너만 괜찮으면 다행이야"
+     },
+     "nextid": "E1_19"
+    }
+   ],
+   "id": "E1_choicee_5",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_choicee_1": {
+   "choicesList": [
+    {
+     "contents": {
+      "ZH_CN": "在的",
+      "JP": "はい",
+      "EN": "Yes?",
+      "ZH_HK": "在的",
+      "KR": "네"
+     },
+     "nextid": "E1_16"
+    },
+    {
+     "contents": {
+      "ZH_CN": "你谁？",
+      "JP": "だれ",
+      "EN": "Who’s this?",
+      "ZH_HK": "你誰？",
+      "KR": "넌 누구야?"
+     },
+     "nextid": "E1_6"
+    }
+   ],
+   "id": "E1_choicee_1",
+   "nextMessageDelayTime": 0,
+   "type": "CHOICE_TEXT"
+  },
+  "E1_200": {
+   "contents": {
+    "ZH_CN": "沉默可能是一种自我保护吧，看着那些人情与世事都没什么感动的",
+    "JP": "沈黙は一種の自己保護かも、人情や義理なんてみても感動しないわ",
+    "EN": "Silence protects me. Thinking about all those people and all their matters that didn’t even worth a while.",
+    "ZH_HK": "沉默可能是一種自我保護吧，看著那些人情與世事都沒什麼感動的",
+    "KR": "침묵은 나의 일종의 보호 방법이라고 생각해,사람들과 세상 물정에 대한 흥미를 잃어버렸어"
+   },
+   "inputTime": 6007,
+   "id": "E1_200",
+   "nextid": "E1_201",
+   "nextMessageDelayTime": 6007,
+   "type": "MIKO_TEXT"
+  }
+ },
+ "daysIndex": {
+  "D1": "E1_1"
+ }
+}

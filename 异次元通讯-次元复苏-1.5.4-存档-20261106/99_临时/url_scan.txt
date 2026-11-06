@@ -1,0 +1,156 @@
+﻿== URL/邮箱常量：11 个唯一值
+  https://www.taptap.cn/app/378027                                               x1
+  https://www.subrecovery.top/privacy.html                                       x1
+  https://api.flutter.dev/flutter/dart-ui/ChannelBuffers-class.html              x1
+  http://q1.qlogo.cn/g?b=qq&nk=                                                  x1
+  _Double@0150898.from                                                           x1
+  https://www.subrecovery.top                                                    x1
+  https://flutter.dev/docs/release/breaking-changes/network-policy-ios-android.  x1
+  http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-pPGHln9yKNzS00OdFJRxZ69Q-rEX_nx&authKey=kLPWmtcFJCAPpgv18epf4MW9SxGPVGTqPKKWtbOt1C%2FTX%2ByIOEyjpYeMSGxe9KWZ&noverify=0&group_code=465805687 x1
+  https://www.bilibili.com/blackboard/activity-mikoapril.html                    x1
+  https://api.flutter.dev/flutter/material/Scaffold/of.html                      x1
+  https://www.3839.com/a/156008.htm                                              x1
+
+== 明文 HTTP（非 TLS）：
+   http://q1.qlogo.cn/g?b=qq&nk=
+   http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-pPGHln9yKNzS00OdFJRxZ69Q-rEX_nx&authKey=kLPWmtcFJCAPpgv18epf4MW9SxGPVGTqPKKWtbOt1C%2FTX%2ByIOEyjpYeMSGxe9KWZ&noverify=0&group_code=465805687
+
+== 与网络/存储/权限相关的高层常量
+   00017596	audioAttribute
+   00017ba9	AVAudioSessionCategory.
+   00018062	AudioVolumeDown
+   0001909e	Reading from a closed socket
+   0001966e	AndroidAudioDeviceType.
+   000199d8	https://www.taptap.cn/app/378027
+   00019c38	dev.flutter.pigeon.path_provider_android.PathProviderApi.getApplicationSupportPath
+   0001aac8	https_proxy
+   0001ad71	androidAudioAttributes
+   0001b6a8	androidAudioFocusGainType
+   0001b8a9	https:
+   0001bb55	`flutter_local_notifications` threw an error:
+   0001c3a9	TVAudioDescriptionMixUp
+   0001d017	dev.flutter.pigeon.url_launcher_android.UrlLauncherApi.launchUrl
+   0001d377	AndroidScoAudioState{
+   0001e127	dev.fluttercommunity.plus/package_info
+   0001ec98	http_proxy
+   0001f228	http
+   0001f22d	audio/webm
+   0001f536	AudioFaderFront
+   0001f6a1	avAudioSessionCategoryOptions
+   0001f817	notifications
+   0001fc60	MethodChannel
+   0001fcbf	MediaAudioTrack
+   0002006c	package:flutter_local_notifications/src/callback_dispatcher.dart
+   00020203	spokenAudio
+   000208d9	avAudioSessionRouteSharingPolicy
+   0002093c	AudioInterruptionType.
+   00020fba	androidAudioSessionId
+   00023589	audio/aac
+   0002447d	AudioVolumeUp
+   000245fe	com.ryanheise.just_audio.methods.
+   00024745	audioLoadConfiguration
+   00025438	dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.setString
+   000255e0	dart:_http
+   000256e1	AudioBassBoostToggle
+   0002585e	Non-https connection "
+   000258ee	http:
+   000259e1	just_audio_cache
+   00026311	https://www.subrecovery.top/privacy.html
+   000263c4	TVAudioDescription
+   000264de	AudioTrebleUp
+   000265d9	avAudioSessionSetActiveOptions
+   00026829	  https://api.flutter.dev/flutter/dart-ui/ChannelBuffers-class.html
+   00026b80	audioSource
+   00027ed1	just_audio_asset_cache
+   00028148	audio/mpeg
+   000287db	http://q1.qlogo.cn/g?b=qq&nk=
+   00028810	darwinAudioEffects
+   00028afd	`url_launcher_android` threw an error:
+   000293a8	audio/x-wav
+   000297f9	_httpConnectionHook@13463476
+   000299e2	requestAudioFocus
+   00029cf8	AudioFaderRear
+   0002a13d	TVAudioDescriptionMixDown
+   0002a422	dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.setBool
+   0002a567	`shared_preferences_android` threw an error:
+   0002a767	audio/midi
+   0002abaf	AudioDevice(id:
+   0002ae02	onAudioDevicesRemoved
+   0002b28e	dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.setInt
+   0002b69d	audio/3gpp
+   0002b828	com.ryanheise.just_audio.methods
+   0002cdb0	audio/wav
+   0002cdba	audio/x-aac
+   0002d63f	Failed to create server socket
+   0002da91	https://www.subrecovery.top
+   0002db35	AVAudioSessionRouteSharingPolicy.
+   0002dec1	AudioBalanceRight
+   0002e3b6	onAudioFocusChanged
+   0002e565	image_gallery_saver_plus
+   0002e6bd	audio/m4a
+   0002e9a4	onScoAudioStateUpdated
+   0002ea2b	plugins.flutter.io/shared_preferencesG
+   0002ecd9	dexterous.com/flutter/local_notifications/actions
+   0002f683	AndroidAudioContentType.
+   0002f925	audio/x-midi
+   0002ff71	dev.flutter.pigeon.url_launcher_android.UrlLauncherApi.openUrlInApp
+   00030a66	get:_httpConnectionHook@13463476
+   00032657	AudioSurroundModeNext
+   000326f1	dexterous.com/flutter/local_notifications
+   0003271b	AudioTrebleDown
+   00032bef	https
+   0003325c	_setStdioFDs@14069316
+   00033512	plugins.flutter.io/url_launcher
+   00033950	androidAudioEffects
+   0003416b	Cannot send errors on sockets
+   00034529	AVAudioSessionMode.
+   00034933	while dispatching notifications for
+   00035331	audioAttributesUsage
+   00035722	onAudioDevicesAdded
+   0003574a	longFormAudio
+   0003585c	audio/x-m4a
+   00035c7c	Writing to a closed socket
+   0003699e	dev.flutter.pigeon.path_provider_android.PathProviderApi.getTemporaryPath
+   00036b8c	avAudioSessionMode
+   00038119	AudioAttributesUsage.
+   00039b3c	Must set AudioSource before loading
+   00039ce3	AndroidScoAudioEvent{currentState:
+   00039d94	" is not supported by the platform. Refer to https://flutter.dev/docs/release/breaking-changes/network-policy-ios-android.
+   0003b1ca	avAudioSessionCategory
+   0003b467	AudioVolumeMute
+   0003b477	HttpClientResponseCompressionState.
+   0003bfdd	AudioDeviceType.
+   0003c1d1	AudioBassBoostDown
+   0003c3f8	usbAudio
+   0003c926	plugins.flutter.io/path_provider
+   0003cf8a	http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-pPGHln9yKNzS00OdFJRxZ69Q-rEX_nx&authKey=kLPWmtcFJCAPpgv18epf4MW9SxGPVGTqPKKWtbOt1C%2FTX%2ByIOEyjpYeMSGxe9KWZ
+   0003d6ba	dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.setStringList
+   0003d742	https://www.bilibili.com/blackboard/activity-mikoapril.html
+   0003e170	dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll
+   0003f6a5	`path_provider_android` threw an error:
+   0003f9c9	audio/ogg
+   000400f5	init:_httpConnectionHook@13463476
+   0004011e	audio/opus
+   000406ab	AudioBalanceLeft
+   000407d3	AudioBassBoostUp
+   000409f9	  https://api.flutter.dev/flutter/material/Scaffold/of.html
+   000414e8	com.ryanheise.just_audio.data.
+   00041557	https://www.3839.com/a/156008.htm
+   00041d0e	setAndroidAudioAttributes
+   00041f90	HttpServer is not bound to a socket
+   0004207f	TVRadioService
+   00042442	com.ryanheise.android_audio_manager
+   00042776	audio/3gpp2
+   00042966	com.ryanheise.audio_session
+   000429f4	com.ryanheise.just_audio.events.
+
+== 剧情文本规模
+  番外一.csv         12884 字节     3106 汉字
+  番外二.csv         13692 字节     3318 汉字
+  第一章.csv         63440 字节    15573 汉字
+  第三章.csv        131615 字节    32720 汉字
+  第二章.csv         86815 字节    21215 汉字
+  第五章.csv         62874 字节    15513 汉字
+  第六章.csv        131072 字节    33565 汉字
+  第四章.csv        113934 字节    28223 汉字
+  合计 616326 字节 / 153233 汉字

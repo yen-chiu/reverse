@@ -1,0 +1,78 @@
+<manifest versionCode="1" versionName="1.0" package="com.yinshi.cityline" platformBuildVersionCode="23" platformBuildVersionName="6.0-2704002">
+  <uses-sdk minSdkVersion="14" targetSdkVersion="19">
+  </uses-sdk>
+  <uses-permission name="android.permission.ACCESS_NETWORK_STATE">
+  </uses-permission>
+  <uses-permission name="android.permission.ACCESS_WIFI_STATE">
+  </uses-permission>
+  <uses-permission name="android.permission.INTERNET">
+  </uses-permission>
+  <uses-permission name="android.permission.READ_PHONE_STATE">
+  </uses-permission>
+  <uses-permission name="android.permission.SYSTEM_ALERT_WINDOW">
+  </uses-permission>
+  <uses-permission name="android.permission.READ_EXTERNAL_STORAGE">
+  </uses-permission>
+  <uses-permission name="android.permission.WRITE_EXTERNAL_STORAGE">
+  </uses-permission>
+  <uses-permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS">
+  </uses-permission>
+  <uses-permission name="android.permission.GET_TASKS">
+  </uses-permission>
+  <application theme="@7f0a008c" label="@7f070069" icon="@7f030000" name="com.yinshi.cityline.base.CityLineApp" allowBackup="true" supportsRtl="true">
+    <activity name="com.yinshi.cityline.logo.VideoLogoActivity" screenOrientation="1">
+      <intent-filter>
+        <action name="android.intent.action.MAIN">
+        </action>
+        <category name="android.intent.category.LAUNCHER">
+        </category>
+      </intent-filter>
+    </activity>
+    <activity name="com.yinshi.cityline.base.SplashScreenActivity" screenOrientation="1" configChanges="0x4a0">
+    </activity>
+    <activity name="com.yinshi.cityline.chat.ChatActivity" screenOrientation="1" configChanges="0x4a0">
+    </activity>
+    <activity name="com.yinshi.cityline.gallery.ImageGalleryActivity" screenOrientation="1" configChanges="0x4a0">
+    </activity>
+    <activity name="com.yinshi.cityline.profile.UserInfoActivity" screenOrientation="1" configChanges="0x4a0">
+    </activity>
+    <activity name="com.yinshi.cityline.setting.SettingActivity" screenOrientation="1" configChanges="0x4a0">
+    </activity>
+    <activity name="com.yinshi.cityline.setting.CreatorTeamActivity" screenOrientation="1" configChanges="0x4a0">
+    </activity>
+    <activity label="@7f070069" name="com.yinshi.cityline.wxapi.WXEntryActivity" exported="true">
+    </activity>
+    <activity name="com.yinshi.cityline.setting.GotoSomeDayctivity" screenOrientation="1" configChanges="0x4a0" windowSoftInputMode="0x12">
+    </activity>
+    <activity name="com.yinshi.cityline.setting.RecommendActivity" screenOrientation="1" configChanges="0x4a0">
+    </activity>
+    <receiver name="com.yinshi.cityline.notification.NotificationReceiver">
+      <intent-filter>
+        <action name="show_notification">
+        </action>
+      </intent-filter>
+    </receiver>
+    <activity theme="@01030010" name="com.mob.tools.MobUIShell" screenOrientation="1" configChanges="0x4a0" windowSoftInputMode="0x12">
+      <intent-filter>
+        <data scheme="tencent1105558470">
+        </data>
+        <action name="android.intent.action.VIEW">
+        </action>
+        <category name="android.intent.category.BROWSABLE">
+        </category>
+        <category name="android.intent.category.DEFAULT">
+        </category>
+      </intent-filter>
+      <intent-filter>
+        <action name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY">
+        </action>
+        <category name="android.intent.category.DEFAULT">
+        </category>
+      </intent-filter>
+    </activity>
+    <meta-data name="UMENG_APPKEY" value="578efb0167e58e9f93002b05">
+    </meta-data>
+    <meta-data name="UMENG_CHANNEL" value="wandoujia">
+    </meta-data>
+  </application>
+</manifest>

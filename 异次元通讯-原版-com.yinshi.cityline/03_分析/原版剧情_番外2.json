@@ -1,0 +1,3343 @@
+{
+ "chapters": [
+  {
+   "id": "1",
+   "subtitlelines": [
+    {
+     "text": "TCPhandshaking…",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "1",
+     "pictureResourceId": 0,
+     "inputTime": 3794,
+     "busyWaitTime": 3794,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已上线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "1",
+     "pictureResourceId": 0,
+     "inputTime": 1143,
+     "busyWaitTime": 1143,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哈喽嗨！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "1",
+     "pictureResourceId": 0,
+     "inputTime": 1430,
+     "busyWaitTime": 1430,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "还活着么？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "1",
+     "pictureResourceId": 0,
+     "inputTime": 1571,
+     "busyWaitTime": 1571,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "喂喂！",
+     "option1": "活着啊...",
+     "option2": "你怎么就没消息了，急死我了",
+     "option1GotoChapterId": "9",
+     "option2GotoChapterId": "7",
+     "chapterId": "1",
+     "pictureResourceId": 0,
+     "inputTime": 1385,
+     "busyWaitTime": 1385,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "subtitlelines": [
+    {
+     "text": "嗨呀，别急别急，我这不是事情一完就马上联系你了嘛",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "14",
+     "option2GotoChapterId": "14",
+     "chapterId": "7",
+     "pictureResourceId": 0,
+     "inputTime": 4911,
+     "busyWaitTime": 4911,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "subtitlelines": [
+    {
+     "text": "喂！你都不问问我怎么样了么？！",
+     "option1": "你怎么样了啊",
+     "option2": "你安全就最好了",
+     "option1GotoChapterId": "11",
+     "option2GotoChapterId": "11",
+     "chapterId": "9",
+     "pictureResourceId": 0,
+     "inputTime": 3687,
+     "busyWaitTime": 3687,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "subtitlelines": [
+    {
+     "text": "哼哼~",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "11",
+     "pictureResourceId": 0,
+     "inputTime": 1132,
+     "busyWaitTime": 1132,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我当然没事啦，有事还能跟你聊天啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "14",
+     "option2GotoChapterId": "14",
+     "chapterId": "11",
+     "pictureResourceId": 0,
+     "inputTime": 3894,
+     "busyWaitTime": 3894,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "subtitlelines": [
+    {
+     "text": "最后他们全部都被抓啦，警察消防队保安全都来了，那叫热闹啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "14",
+     "pictureResourceId": 0,
+     "inputTime": 5652,
+     "busyWaitTime": 5652,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不过我也跑去警察局背了半天书",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "14",
+     "pictureResourceId": 0,
+     "inputTime": 3301,
+     "busyWaitTime": 3301,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "他们通知我爸，我爸没跟我通话，我估计我要完蛋...",
+     "option1": "该！",
+     "option2": "你好好想想怎么认错吧！",
+     "option1GotoChapterId": "18",
+     "option2GotoChapterId": "18",
+     "chapterId": "14",
+     "pictureResourceId": 0,
+     "inputTime": 5392,
+     "busyWaitTime": 5392,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "subtitlelines": [
+    {
+     "text": "哎，要死",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "18",
+     "pictureResourceId": 0,
+     "inputTime": 1157,
+     "busyWaitTime": 1157,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不过他回来还有几天，我也就只有几天好日子过喽",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "18",
+     "pictureResourceId": 0,
+     "inputTime": 5175,
+     "busyWaitTime": 5175,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对了，你猜猜我现在在干嘛",
+     "option1": "玩呗，还能干吗",
+     "option2": "猜不到",
+     "option1GotoChapterId": "22",
+     "option2GotoChapterId": "25",
+     "chapterId": "18",
+     "pictureResourceId": 0,
+     "inputTime": 2784,
+     "busyWaitTime": 2784,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "subtitlelines": [
+    {
+     "text": "当然是玩，还能最后玩几天了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "22",
+     "pictureResourceId": 0,
+     "inputTime": 3195,
+     "busyWaitTime": 3195,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不过你肯定猜不到我在玩什么",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "27",
+     "option2GotoChapterId": "27",
+     "chapterId": "22",
+     "pictureResourceId": 0,
+     "inputTime": 2752,
+     "busyWaitTime": 2752,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "subtitlelines": [
+    {
+     "text": "笨的哦你！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "27",
+     "option2GotoChapterId": "27",
+     "chapterId": "25",
+     "pictureResourceId": 0,
+     "inputTime": 1632,
+     "busyWaitTime": 1632,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "subtitlelines": [
+    {
+     "text": "你看看我动态就知道了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 2523,
+     "busyWaitTime": 60000,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "[E2-01]&全部是漂亮的小姐姐啊~~~",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 4937,
+     "busyWaitTime": 4937,
+     "contentType": 2,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我带小艾姐姐来lo娘茶会啦！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 2821,
+     "busyWaitTime": 2821,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "莱恩旧梦这里的lo娘茶会要办好几天呢",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 4232,
+     "busyWaitTime": 4232,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我想小艾姐真是好人，又那么喜欢lo裙，那我就带她一起来玩啦",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 6444,
+     "busyWaitTime": 6444,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "而且，我的小裙子找回来啦！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 2606,
+     "busyWaitTime": 2606,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我去那个小商店，老板娘还不错，我的小裙子保管得好好的，我又拿回来啦",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 6907,
+     "busyWaitTime": 6907,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哼哼，毕竟这么漂亮的小裙子，又这么有意义，怎么舍得",
+     "option1": "太好了",
+     "option2": "真漂亮",
+     "option1GotoChapterId": "36",
+     "option2GotoChapterId": "36",
+     "chapterId": "27",
+     "pictureResourceId": 0,
+     "inputTime": 5293,
+     "busyWaitTime": 5293,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "subtitlelines": [
+    {
+     "text": "不过你知道吗，今天才有空跟小艾姐好好聊聊，觉得她好厉害",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "36",
+     "pictureResourceId": 0,
+     "inputTime": 5837,
+     "busyWaitTime": 5837,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "她上学的时候就一直在外面各种打工实习，经历不少事情了，社会经验比我丰富多了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "36",
+     "pictureResourceId": 0,
+     "inputTime": 7595,
+     "busyWaitTime": 7595,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "而且她现在虽然还是大四实习，但是已经跟会计师事务所签约了呢，毕业就会去工作了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "36",
+     "pictureResourceId": 0,
+     "inputTime": 8289,
+     "busyWaitTime": 8289,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "会计师，数学，想想我都崩溃了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "36",
+     "pictureResourceId": 0,
+     "inputTime": 3279,
+     "busyWaitTime": 3279,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "真是好厉害，想不到这么漂亮的小姐姐居然数学这么厉害...",
+     "option1": "全天下就你的数学最差吧...",
+     "option2": "额...我也是数学苦手",
+     "option1GotoChapterId": "42",
+     "option2GotoChapterId": "49",
+     "chapterId": "36",
+     "pictureResourceId": 0,
+     "inputTime": 5775,
+     "busyWaitTime": 5775,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "42",
+   "subtitlelines": [
+    {
+     "text": "我不跟你计较！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "42",
+     "pictureResourceId": 0,
+     "inputTime": 1660,
+     "busyWaitTime": 1660,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "数学差并不是我的错，是学校不对！就根本不应该让不适合的人学数学嘛",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "42",
+     "pictureResourceId": 0,
+     "inputTime": 6807,
+     "busyWaitTime": 6807,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "小艾姐这样数学天才就应该在数学上发挥才能，而我就应该在...",
+     "option1": "在什么？",
+     "option2": "继续说啊",
+     "option1GotoChapterId": "46",
+     "option2GotoChapterId": "46",
+     "chapterId": "42",
+     "pictureResourceId": 0,
+     "inputTime": 6725,
+     "busyWaitTime": 6725,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "46",
+   "subtitlelines": [
+    {
+     "text": "混蛋！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "46",
+     "pictureResourceId": 0,
+     "inputTime": 1019,
+     "busyWaitTime": 1019,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不要拿数学来戳我！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "55",
+     "option2GotoChapterId": "55",
+     "chapterId": "46",
+     "pictureResourceId": 0,
+     "inputTime": 2264,
+     "busyWaitTime": 2264,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "49",
+   "subtitlelines": [
+    {
+     "text": "是吧！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "49",
+     "pictureResourceId": 0,
+     "inputTime": 611,
+     "busyWaitTime": 611,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "有的人就是不适合学数学嘛，天生对数字就不敏感",
+     "option1": "对啊，密码猜不出来就随便按按",
+     "option2": "按错密码反正也不会爆炸对不对",
+     "option1GotoChapterId": "52",
+     "option2GotoChapterId": "52",
+     "chapterId": "49",
+     "pictureResourceId": 0,
+     "inputTime": 4578,
+     "busyWaitTime": 4578,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "52",
+   "subtitlelines": [
+    {
+     "text": "喂！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "52",
+     "pictureResourceId": 0,
+     "inputTime": 932,
+     "busyWaitTime": 932,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "你又来了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "55",
+     "option2GotoChapterId": "55",
+     "chapterId": "52",
+     "pictureResourceId": 0,
+     "inputTime": 1472,
+     "busyWaitTime": 1472,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "55",
+   "subtitlelines": [
+    {
+     "text": "不跟你扯了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "55",
+     "pictureResourceId": 0,
+     "inputTime": 1272,
+     "busyWaitTime": 1272,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我跟你说，我跟小艾姐聊天我才知道",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "55",
+     "pictureResourceId": 0,
+     "inputTime": 3994,
+     "busyWaitTime": 3994,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "她的英文名字念起来虽然也跟爱丽丝差不多，但并不是alice，而是iris",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "55",
+     "pictureResourceId": 0,
+     "inputTime": 7846,
+     "busyWaitTime": 7846,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "是鸢尾花，拉丁语的鸢尾花",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "55",
+     "pictureResourceId": 0,
+     "inputTime": 3123,
+     "busyWaitTime": 3123,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "想起来，那个大叔说喜欢那餐厅的名字，也包括了喜欢她的名字吧",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "55",
+     "pictureResourceId": 0,
+     "inputTime": 6547,
+     "busyWaitTime": 6547,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哎，你说说，这么多细节，要是我再仔细一点，不是早就明白了嘛",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "55",
+     "pictureResourceId": 0,
+     "inputTime": 5907,
+     "busyWaitTime": 5907,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我也真是笨",
+     "option1": "还好啦",
+     "option2": "没事啦，现在都明白啦",
+     "option1GotoChapterId": "63",
+     "option2GotoChapterId": "63",
+     "chapterId": "55",
+     "pictureResourceId": 0,
+     "inputTime": 1795,
+     "busyWaitTime": 1795,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "63",
+   "subtitlelines": [
+    {
+     "text": "恩恩",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "63",
+     "pictureResourceId": 0,
+     "inputTime": 529,
+     "busyWaitTime": 529,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "啊，小艾姐叫我去打牌，他们在玩uno，叫我一起去",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "63",
+     "pictureResourceId": 0,
+     "inputTime": 5555,
+     "busyWaitTime": 5555,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "说起来小艾姐还真是亲和力强啊，这么快就凑上牌搭子了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "63",
+     "pictureResourceId": 0,
+     "inputTime": 5631,
+     "busyWaitTime": 5631,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我先去啦！等会再聊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "63",
+     "pictureResourceId": 0,
+     "inputTime": 2114,
+     "busyWaitTime": 2114,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已下线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "69",
+     "option2GotoChapterId": "69",
+     "chapterId": "63",
+     "pictureResourceId": 0,
+     "inputTime": 1002,
+     "busyWaitTime": 1800000,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "69",
+   "subtitlelines": [
+    {
+     "text": "对方已上线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "69",
+     "pictureResourceId": 0,
+     "inputTime": 1626,
+     "busyWaitTime": 1626,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我觉得我上了他们的圈套了...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "69",
+     "pictureResourceId": 0,
+     "inputTime": 3298,
+     "busyWaitTime": 3298,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "一直输啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "69",
+     "pictureResourceId": 0,
+     "inputTime": 1091,
+     "busyWaitTime": 1091,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "一会被禁止，一会被罚二，眼看要到我了，结果又翻转了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "69",
+     "pictureResourceId": 0,
+     "inputTime": 5450,
+     "busyWaitTime": 5450,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "要死了",
+     "option1": "我也会玩一点uno哦",
+     "option2": "我可完全搞不懂uno啊",
+     "option1GotoChapterId": "75",
+     "option2GotoChapterId": "78",
+     "chapterId": "69",
+     "pictureResourceId": 0,
+     "inputTime": 1000,
+     "busyWaitTime": 1000,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "75",
+   "subtitlelines": [
+    {
+     "text": "那你快帮帮我啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "75",
+     "pictureResourceId": 0,
+     "inputTime": 2132,
+     "busyWaitTime": 2132,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我这都快不行了",
+     "option1": "我有什么好处呢",
+     "option2": "好啊！",
+     "option1GotoChapterId": "99",
+     "option2GotoChapterId": "105",
+     "chapterId": "75",
+     "pictureResourceId": 0,
+     "inputTime": 1941,
+     "busyWaitTime": 1941,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "78",
+   "subtitlelines": [
+    {
+     "text": "哎呀，不管怎样你也要帮我出出主意嘛",
+     "option1": "好好好，输了别怪我哦",
+     "option2": "我真的一点都不会嘛",
+     "option1GotoChapterId": "108",
+     "option2GotoChapterId": "80",
+     "chapterId": "78",
+     "pictureResourceId": 0,
+     "inputTime": 3612,
+     "busyWaitTime": 3612,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "80",
+   "subtitlelines": [
+    {
+     "text": "真是的...好吧好吧",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "80",
+     "pictureResourceId": 0,
+     "inputTime": 2526,
+     "busyWaitTime": 2526,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我自己玩！行了吧！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "80",
+     "pictureResourceId": 0,
+     "inputTime": 1935,
+     "busyWaitTime": 1935,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已下线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "84",
+     "option2GotoChapterId": "84",
+     "chapterId": "80",
+     "pictureResourceId": 0,
+     "inputTime": 1072,
+     "busyWaitTime": 1800000,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "84",
+   "subtitlelines": [
+    {
+     "text": "对方已上线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "84",
+     "pictureResourceId": 0,
+     "inputTime": 1685,
+     "busyWaitTime": 1685,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "输惨了...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "84",
+     "pictureResourceId": 0,
+     "inputTime": 1427,
+     "busyWaitTime": 1427,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "伤心...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "84",
+     "pictureResourceId": 0,
+     "inputTime": 1229,
+     "busyWaitTime": 1229,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不活了我...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "84",
+     "pictureResourceId": 0,
+     "inputTime": 1954,
+     "busyWaitTime": 1954,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "恨死iris了...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "84",
+     "pictureResourceId": 0,
+     "inputTime": 2255,
+     "busyWaitTime": 2255,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "还有你！",
+     "option1": "这...",
+     "option2": "...",
+     "option1GotoChapterId": "91",
+     "option2GotoChapterId": "91",
+     "chapterId": "84",
+     "pictureResourceId": 0,
+     "inputTime": 870,
+     "busyWaitTime": 870,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "91",
+   "subtitlelines": [
+    {
+     "text": "lo娘茶会什么的太无聊啦！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "91",
+     "pictureResourceId": 0,
+     "inputTime": 2702,
+     "busyWaitTime": 2702,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "玩什么uno！不如打游戏！有本事跟我1v1啊！跳狙啊！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "91",
+     "pictureResourceId": 0,
+     "inputTime": 5870,
+     "busyWaitTime": 5870,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "91",
+     "pictureResourceId": 0,
+     "inputTime": 1105,
+     "busyWaitTime": 1105,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不说了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "91",
+     "pictureResourceId": 0,
+     "inputTime": 1238,
+     "busyWaitTime": 1238,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我回家疗伤了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "91",
+     "pictureResourceId": 0,
+     "inputTime": 1542,
+     "busyWaitTime": 1542,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "下次再聊吧",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "91",
+     "pictureResourceId": 0,
+     "inputTime": 1790,
+     "busyWaitTime": 1790,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已下线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "BBB",
+     "option2GotoChapterId": "BBB",
+     "chapterId": "91",
+     "pictureResourceId": 0,
+     "inputTime": 1669,
+     "busyWaitTime": 1669,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "99",
+   "subtitlelines": [
+    {
+     "text": "好处？你还想什么好处？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "99",
+     "pictureResourceId": 0,
+     "inputTime": 2482,
+     "busyWaitTime": 2482,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "又请你吃蛋糕，又跟你聊天，你还天天就想着你的好处！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "99",
+     "pictureResourceId": 0,
+     "inputTime": 5088,
+     "busyWaitTime": 5088,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "是不是想死？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "99",
+     "pictureResourceId": 0,
+     "inputTime": 1447,
+     "busyWaitTime": 1447,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "赶紧帮我！少废话！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "99",
+     "pictureResourceId": 0,
+     "inputTime": 2410,
+     "busyWaitTime": 2410,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "他们玩牌是有惩罚的，要是我被惩罚了，你也跑不掉！",
+     "option1": "还有惩罚？",
+     "option2": "什么惩罚？",
+     "option1GotoChapterId": "111",
+     "option2GotoChapterId": "111",
+     "chapterId": "99",
+     "pictureResourceId": 0,
+     "inputTime": 4997,
+     "busyWaitTime": 4997,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "105",
+   "subtitlelines": [
+    {
+     "text": "太好了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "105",
+     "pictureResourceId": 0,
+     "inputTime": 805,
+     "busyWaitTime": 805,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "他们玩牌有惩罚的！我怕死了！只有你能救我了！",
+     "option1": "还有惩罚？",
+     "option2": "什么惩罚？",
+     "option1GotoChapterId": "111",
+     "option2GotoChapterId": "111",
+     "chapterId": "105",
+     "pictureResourceId": 0,
+     "inputTime": 4915,
+     "busyWaitTime": 4915,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "108",
+   "subtitlelines": [
+    {
+     "text": "不会怪你的啦！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "108",
+     "pictureResourceId": 0,
+     "inputTime": 1443,
+     "busyWaitTime": 1443,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我就是病急乱投医，捞救命稻草了，他们玩牌还带惩罚的...",
+     "option1": "还有惩罚？",
+     "option2": "什么惩罚？",
+     "option1GotoChapterId": "111",
+     "option2GotoChapterId": "111",
+     "chapterId": "108",
+     "pictureResourceId": 0,
+     "inputTime": 5972,
+     "busyWaitTime": 5972,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "111",
+   "subtitlelines": [
+    {
+     "text": "他们说，输了的就要穿这里服务员那种dirndl裙子为大家服务",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "111",
+     "pictureResourceId": 0,
+     "inputTime": 6121,
+     "busyWaitTime": 6121,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "要给大家端茶送水的...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "111",
+     "pictureResourceId": 0,
+     "inputTime": 3042,
+     "busyWaitTime": 3042,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "什么烂惩罚嘛真是的",
+     "option1": "咦，挺好看的啊",
+     "option2": "我怎么觉得我应该让你输才对啊",
+     "option1GotoChapterId": "115",
+     "option2GotoChapterId": "117",
+     "chapterId": "111",
+     "pictureResourceId": 0,
+     "inputTime": 2107,
+     "busyWaitTime": 2107,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "115",
+   "subtitlelines": [
+    {
+     "text": "好看是好看，可是感觉很羞耻啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "120",
+     "option2GotoChapterId": "120",
+     "chapterId": "115",
+     "pictureResourceId": 0,
+     "inputTime": 3448,
+     "busyWaitTime": 3448,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "117",
+   "subtitlelines": [
+    {
+     "text": "你去死啦！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "117",
+     "pictureResourceId": 0,
+     "inputTime": 1435,
+     "busyWaitTime": 1435,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "赶紧帮我！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "120",
+     "option2GotoChapterId": "120",
+     "chapterId": "117",
+     "pictureResourceId": 0,
+     "inputTime": 1190,
+     "busyWaitTime": 1190,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "120",
+   "subtitlelines": [
+    {
+     "text": "别废话了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "120",
+     "pictureResourceId": 0,
+     "inputTime": 1641,
+     "busyWaitTime": 1641,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我现在正在紧要关头！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "120",
+     "pictureResourceId": 0,
+     "inputTime": 2737,
+     "busyWaitTime": 2737,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "uno我玩过几把，可是不太想得清楚，记牌就更记不住",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "120",
+     "pictureResourceId": 0,
+     "inputTime": 5033,
+     "busyWaitTime": 5033,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "小艾姐在我上家，老是压我",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "120",
+     "pictureResourceId": 0,
+     "inputTime": 2647,
+     "busyWaitTime": 2647,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我觉得我这把牌还不错，有两张万能牌呢，是不是要先打出去",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "120",
+     "pictureResourceId": 0,
+     "inputTime": 5995,
+     "busyWaitTime": 5995,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我听他们说，占先手什么的",
+     "option1": "好啊，先压住他们",
+     "option2": "先等一等",
+     "option1GotoChapterId": "251",
+     "option2GotoChapterId": "127",
+     "chapterId": "120",
+     "pictureResourceId": 0,
+     "inputTime": 2742,
+     "busyWaitTime": 2742,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "127",
+   "subtitlelines": [
+    {
+     "text": "为什么啊？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "127",
+     "pictureResourceId": 0,
+     "inputTime": 1460,
+     "busyWaitTime": 1460,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我有了好牌就忍不住...",
+     "option1": "好牌要在最重要的时候出",
+     "option2": "要先走烂牌再走好牌",
+     "option1GotoChapterId": "130",
+     "option2GotoChapterId": "130",
+     "chapterId": "127",
+     "pictureResourceId": 0,
+     "inputTime": 2980,
+     "busyWaitTime": 2980,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "130",
+   "subtitlelines": [
+    {
+     "text": "好像有道理",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "130",
+     "pictureResourceId": 0,
+     "inputTime": 1080,
+     "busyWaitTime": 1080,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "就是说拿到好牌，要先规划以后的出牌策略",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "130",
+     "pictureResourceId": 0,
+     "inputTime": 4205,
+     "busyWaitTime": 4205,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "把烂牌先走掉，把好牌留到最关键的时候",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "130",
+     "pictureResourceId": 0,
+     "inputTime": 3945,
+     "busyWaitTime": 3945,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "让这些牌发挥出最大的价值，是这个意思吧？",
+     "option1": "真聪明",
+     "option2": "对！",
+     "option1GotoChapterId": "135",
+     "option2GotoChapterId": "135",
+     "chapterId": "130",
+     "pictureResourceId": 0,
+     "inputTime": 4416,
+     "busyWaitTime": 4416,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "135",
+   "subtitlelines": [
+    {
+     "text": "哼~我聪明吧！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "135",
+     "pictureResourceId": 0,
+     "inputTime": 1695,
+     "busyWaitTime": 1695,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "那如果拿到弱牌呢？",
+     "option1": "拿到弱牌就靠偷袭了",
+     "option2": "那反而要轻松些了",
+     "option1GotoChapterId": "138",
+     "option2GotoChapterId": "138",
+     "chapterId": "135",
+     "pictureResourceId": 0,
+     "inputTime": 2436,
+     "busyWaitTime": 2436,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "138",
+   "subtitlelines": [
+    {
+     "text": "嗯",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "138",
+     "pictureResourceId": 0,
+     "inputTime": 784,
+     "busyWaitTime": 784,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "拿到弱牌，反正没有多大变化了，这个我是懂的",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "138",
+     "pictureResourceId": 0,
+     "inputTime": 4644,
+     "busyWaitTime": 4644,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "那就只好装死耍赖，看机会能不能翻盘喽",
+     "option1": "装死你一整套啊",
+     "option2": "耍赖你最行",
+     "option1GotoChapterId": "142",
+     "option2GotoChapterId": "142",
+     "chapterId": "138",
+     "pictureResourceId": 0,
+     "inputTime": 4100,
+     "busyWaitTime": 4100,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "142",
+   "subtitlelines": [
+    {
+     "text": "这是策略好吗！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 2027,
+     "busyWaitTime": 2027,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "傻傻向前冲那才是笨！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 2451,
+     "busyWaitTime": 2451,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "喂！你是不是觉得我是这样的啊？！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 3531,
+     "busyWaitTime": 3531,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我跟你讲，我虽然有时候说话很冲动，但实际上我很冷静哦",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 5368,
+     "busyWaitTime": 5368,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不知道为什么给你们造成这样的印象...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 4231,
+     "busyWaitTime": 4231,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "真是的...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 1573,
+     "busyWaitTime": 1573,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "啊...小艾姐姐放弃跟牌了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 3001,
+     "busyWaitTime": 3001,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "她之前打得很猛的哦，好像手里牌源源不断的样子",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 4865,
+     "busyWaitTime": 4865,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "现在怎么不跟了？",
+     "option1": "她没有同色牌了",
+     "option2": "有可能是她在藏牌",
+     "option1GotoChapterId": "157",
+     "option2GotoChapterId": "152",
+     "chapterId": "142",
+     "pictureResourceId": 0,
+     "inputTime": 1656,
+     "busyWaitTime": 1656,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "152",
+   "subtitlelines": [
+    {
+     "text": "藏牌的话，目的是什么呢？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "152",
+     "pictureResourceId": 0,
+     "inputTime": 2418,
+     "busyWaitTime": 2418,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "难道她要保留功能牌，来为以后的色牌铺路？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "152",
+     "pictureResourceId": 0,
+     "inputTime": 4234,
+     "busyWaitTime": 4234,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "嗯，我想想",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "152",
+     "pictureResourceId": 0,
+     "inputTime": 1565,
+     "busyWaitTime": 1565,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我觉得这个可能性比较小",
+     "option1": "你说的对",
+     "option2": "我觉得不是这样",
+     "option1GotoChapterId": "159",
+     "option2GotoChapterId": "251",
+     "chapterId": "152",
+     "pictureResourceId": 0,
+     "inputTime": 2811,
+     "busyWaitTime": 2811,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "157",
+   "subtitlelines": [
+    {
+     "text": "嗯，我也觉得可能性比较大",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "159",
+     "option2GotoChapterId": "159",
+     "chapterId": "157",
+     "pictureResourceId": 0,
+     "inputTime": 2777,
+     "busyWaitTime": 2777,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "159",
+   "subtitlelines": [
+    {
+     "text": "虽然说她可能还有功能牌留着，但是她之前已经打过一张变色了，还有的可能性很小了对不对？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "159",
+     "pictureResourceId": 0,
+     "inputTime": 8410,
+     "busyWaitTime": 8410,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "就算她还有，那她捏着不放，为此憋死自己手上的色牌，这也不太可能",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "159",
+     "pictureResourceId": 0,
+     "inputTime": 6841,
+     "busyWaitTime": 6841,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "你说我分析得对不对？",
+     "option1": "对的，是这个道理",
+     "option2": "是的，获取颜色信息第一大渠道是放弃跟牌",
+     "option1GotoChapterId": "163",
+     "option2GotoChapterId": "163",
+     "chapterId": "159",
+     "pictureResourceId": 0,
+     "inputTime": 2788,
+     "busyWaitTime": 2788,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "163",
+   "subtitlelines": [
+    {
+     "text": "搜集信息果然是这样啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "163",
+     "pictureResourceId": 0,
+     "inputTime": 2061,
+     "busyWaitTime": 2061,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "就是在对方的反应中获得对方的信息",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "163",
+     "pictureResourceId": 0,
+     "inputTime": 3542,
+     "busyWaitTime": 3542,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "看起来我在这方面还需要加强啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "163",
+     "pictureResourceId": 0,
+     "inputTime": 3536,
+     "busyWaitTime": 3536,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "有时候人家说什么，我都不太在意，都是在后来想起来才想起来哦哦哦原来是这样",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "163",
+     "pictureResourceId": 0,
+     "inputTime": 7558,
+     "busyWaitTime": 7558,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "就像我这几次遇到事情，各种细节我都注意不过来，都是到最后，才恍然大悟",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "163",
+     "pictureResourceId": 0,
+     "inputTime": 7540,
+     "busyWaitTime": 7540,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不过也多亏有你，还是要多谢你！",
+     "option1": "你跟我客气？！",
+     "option2": "不用谢啦我们什么关系嘛",
+     "option1GotoChapterId": "170",
+     "option2GotoChapterId": "172",
+     "chapterId": "163",
+     "pictureResourceId": 0,
+     "inputTime": 3054,
+     "busyWaitTime": 3054,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "170",
+   "subtitlelines": [
+    {
+     "text": "好好好！不跟你客气！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "175",
+     "option2GotoChapterId": "175",
+     "chapterId": "170",
+     "pictureResourceId": 0,
+     "inputTime": 2089,
+     "busyWaitTime": 2089,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "172",
+   "subtitlelines": [
+    {
+     "text": "我们什么关系？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "172",
+     "pictureResourceId": 0,
+     "inputTime": 2135,
+     "busyWaitTime": 2135,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我们什么关系嘛！对不对！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "175",
+     "option2GotoChapterId": "175",
+     "chapterId": "172",
+     "pictureResourceId": 0,
+     "inputTime": 2806,
+     "busyWaitTime": 2806,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "175",
+   "subtitlelines": [
+    {
+     "text": "快说下面怎么出！不说揍你哦！",
+     "option1": "你这态度...",
+     "option2": "好好好",
+     "option1GotoChapterId": "177",
+     "option2GotoChapterId": "177",
+     "chapterId": "175",
+     "pictureResourceId": 0,
+     "inputTime": 3565,
+     "busyWaitTime": 3565,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "177",
+   "subtitlelines": [
+    {
+     "text": "我觉得吧...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "177",
+     "pictureResourceId": 0,
+     "inputTime": 1766,
+     "busyWaitTime": 1766,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "如果小艾姐之前不是故意为了防守，那她主动出万能牌变色，就是为了她的色牌铺路依情况适当保留。",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "177",
+     "pictureResourceId": 0,
+     "inputTime": 9493,
+     "busyWaitTime": 9493,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "说明她手上有一门强色，现在她不跟拍，更加说明了她当前颜色很缺牌",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "177",
+     "pictureResourceId": 0,
+     "inputTime": 6335,
+     "busyWaitTime": 6335,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "而且她现在手上剩的牌应该不多了，但她还没有喊uno",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "177",
+     "pictureResourceId": 0,
+     "inputTime": 5663,
+     "busyWaitTime": 5663,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哎哎，她把手牌捏得好紧，一点都不露给我看到",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "177",
+     "pictureResourceId": 0,
+     "inputTime": 4405,
+     "busyWaitTime": 4405,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "抢都抢过来...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "177",
+     "pictureResourceId": 0,
+     "inputTime": 2382,
+     "busyWaitTime": 2382,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "坏人！",
+     "option1": "你还抢人家牌看啊",
+     "option2": "你才是坏人吧...",
+     "option1GotoChapterId": "185",
+     "option2GotoChapterId": "185",
+     "chapterId": "177",
+     "pictureResourceId": 0,
+     "inputTime": 622,
+     "busyWaitTime": 622,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "185",
+   "subtitlelines": [
+    {
+     "text": "哼~",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "185",
+     "pictureResourceId": 0,
+     "inputTime": 1137,
+     "busyWaitTime": 1137,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "这样说来，我应该主动变色，把出牌色序改过来",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "185",
+     "pictureResourceId": 0,
+     "inputTime": 4240,
+     "busyWaitTime": 4240,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "让大家都改换出牌，把小艾姐压住",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "185",
+     "pictureResourceId": 0,
+     "inputTime": 3423,
+     "busyWaitTime": 3423,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "毕竟我们大家牌都比较多，多出几张没关系，要是走到小艾姐的轨道上就比较麻烦了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "185",
+     "pictureResourceId": 0,
+     "inputTime": 7771,
+     "busyWaitTime": 7771,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "你说呢？",
+     "option1": "说得对！",
+     "option2": "其实可以再等等",
+     "option1GotoChapterId": "191",
+     "option2GotoChapterId": "251",
+     "chapterId": "185",
+     "pictureResourceId": 0,
+     "inputTime": 1288,
+     "busyWaitTime": 1288,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "191",
+   "subtitlelines": [
+    {
+     "text": "嗯！就这么办！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "191",
+     "pictureResourceId": 0,
+     "inputTime": 2166,
+     "busyWaitTime": 2166,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已下线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "194",
+     "option2GotoChapterId": "194",
+     "chapterId": "191",
+     "pictureResourceId": 0,
+     "inputTime": 1216,
+     "busyWaitTime": 60000,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "194",
+   "subtitlelines": [
+    {
+     "text": "对方已上线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "194",
+     "pictureResourceId": 0,
+     "inputTime": 1518,
+     "busyWaitTime": 1518,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哈哈哈哈",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "194",
+     "pictureResourceId": 0,
+     "inputTime": 1282,
+     "busyWaitTime": 1282,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "看来是有效的！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "194",
+     "pictureResourceId": 0,
+     "inputTime": 1419,
+     "busyWaitTime": 1419,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我们都出了好几轮了，小艾姐还憋着呢",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "194",
+     "pictureResourceId": 0,
+     "inputTime": 3657,
+     "busyWaitTime": 3657,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哈哈哈哈哈她的眼神不太对了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "194",
+     "pictureResourceId": 0,
+     "inputTime": 3295,
+     "busyWaitTime": 3295,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "是不是我要赢了啊",
+     "option1": "冷静！最后一搏更要冷静！",
+     "option2": "最后要更加耐心了！",
+     "option1GotoChapterId": "201",
+     "option2GotoChapterId": "201",
+     "chapterId": "194",
+     "pictureResourceId": 0,
+     "inputTime": 2329,
+     "busyWaitTime": 2329,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "201",
+   "subtitlelines": [
+    {
+     "text": "嗯！我知道！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "201",
+     "pictureResourceId": 0,
+     "inputTime": 1904,
+     "busyWaitTime": 1904,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不过我真的有忍不住了，看着她的表情",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "201",
+     "pictureResourceId": 0,
+     "inputTime": 3866,
+     "busyWaitTime": 3866,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哈哈哈哈哈哈啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "201",
+     "pictureResourceId": 0,
+     "inputTime": 1890,
+     "busyWaitTime": 1890,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已下线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "206",
+     "option2GotoChapterId": "206",
+     "chapterId": "201",
+     "pictureResourceId": 0,
+     "inputTime": 1418,
+     "busyWaitTime": 300000,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "206",
+   "subtitlelines": [
+    {
+     "text": "对方已上线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 1031,
+     "busyWaitTime": 1031,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "报告！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 1244,
+     "busyWaitTime": 1244,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 759,
+     "busyWaitTime": 759,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "赢！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 857,
+     "busyWaitTime": 857,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 864,
+     "busyWaitTime": 864,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "hhhhhhhhhh",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 2636,
+     "busyWaitTime": 2636,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我要疯了！！！！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 2210,
+     "busyWaitTime": 2210,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "等等等等",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 1436,
+     "busyWaitTime": 1436,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哈哈哈哈哈",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 1647,
+     "busyWaitTime": 1647,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "闹起来了",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 1121,
+     "busyWaitTime": 1121,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "小艾姐要耍赖，她要耍赖了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 2856,
+     "busyWaitTime": 2856,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "这种事情有我在哪里由得她！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 2817,
+     "busyWaitTime": 2817,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "就让我来帮她完成惩罚！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 2772,
+     "busyWaitTime": 2772,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已下线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "221",
+     "option2GotoChapterId": "221",
+     "chapterId": "206",
+     "pictureResourceId": 0,
+     "inputTime": 1500,
+     "busyWaitTime": 300000,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "221",
+   "subtitlelines": [
+    {
+     "text": "对方已上线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "221",
+     "pictureResourceId": 0,
+     "inputTime": 1351,
+     "busyWaitTime": 1351,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "[E2-02]&虽然是受惩罚，可是iris这样子还蛮好看的咧hhhhhhh",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "221",
+     "pictureResourceId": 0,
+     "inputTime": 7946,
+     "busyWaitTime": 7946,
+     "contentType": 2,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "快快快，快看我动态！",
+     "option1": "看到了...",
+     "option2": "iris真不错啊",
+     "option1GotoChapterId": "225",
+     "option2GotoChapterId": "229",
+     "chapterId": "221",
+     "pictureResourceId": 0,
+     "inputTime": 2559,
+     "busyWaitTime": 2559,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "225",
+   "subtitlelines": [
+    {
+     "text": "哈哈哈哈哈",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "225",
+     "pictureResourceId": 0,
+     "inputTime": 1313,
+     "busyWaitTime": 1313,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "真开心！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "225",
+     "pictureResourceId": 0,
+     "inputTime": 1009,
+     "busyWaitTime": 1009,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "多谢多谢，miko谢谢你啦",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "234",
+     "option2GotoChapterId": "234",
+     "chapterId": "225",
+     "pictureResourceId": 0,
+     "inputTime": 3351,
+     "busyWaitTime": 3351,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "229",
+   "subtitlelines": [
+    {
+     "text": "是不错，不过你这话听上去不对劲啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "229",
+     "pictureResourceId": 0,
+     "inputTime": 3267,
+     "busyWaitTime": 3267,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "你赶紧说点好听的给我，来抵消这个debuff",
+     "option1": "那miko当然是最好的",
+     "option2": "但还是比不上miko",
+     "option1GotoChapterId": "232",
+     "option2GotoChapterId": "232",
+     "chapterId": "229",
+     "pictureResourceId": 0,
+     "inputTime": 4812,
+     "busyWaitTime": 4812,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "232",
+   "subtitlelines": [
+    {
+     "text": "嗯，这话我爱听",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "234",
+     "option2GotoChapterId": "234",
+     "chapterId": "232",
+     "pictureResourceId": 0,
+     "inputTime": 1638,
+     "busyWaitTime": 1638,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "234",
+   "subtitlelines": [
+    {
+     "text": "我感觉玩牌跟冒险是一样的啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "234",
+     "pictureResourceId": 0,
+     "inputTime": 3020,
+     "busyWaitTime": 3020,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "心态一定得端正，你不是为了出牌而出牌，而是为了最终的结局而去规划",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "234",
+     "pictureResourceId": 0,
+     "inputTime": 6721,
+     "busyWaitTime": 6721,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "这个过程中，各种细节，各种对方的反应，都是留给你的线索啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "234",
+     "pictureResourceId": 0,
+     "inputTime": 6370,
+     "busyWaitTime": 6370,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "只要知道自己的道路在哪里，一路走下去，路上采集来的各种信息，最终都会成为帮助走下去的动力和线索啊",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "234",
+     "pictureResourceId": 0,
+     "inputTime": 10299,
+     "busyWaitTime": 10299,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "嗯！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "234",
+     "pictureResourceId": 0,
+     "inputTime": 1044,
+     "busyWaitTime": 1044,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我明白了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "234",
+     "pictureResourceId": 0,
+     "inputTime": 1228,
+     "busyWaitTime": 1228,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "走在未知的道路上，不许停也不能回头！",
+     "option1": "领我摆脱困境的...",
+     "option2": "领我摆脱困境的...",
+     "option1GotoChapterId": "242",
+     "option2GotoChapterId": "242",
+     "chapterId": "234",
+     "pictureResourceId": 0,
+     "inputTime": 4201,
+     "busyWaitTime": 4201,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "242",
+   "subtitlelines": [
+    {
+     "text": "是你？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 1109,
+     "busyWaitTime": 1109,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "还是根本只有我自己？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 2348,
+     "busyWaitTime": 2348,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "是你！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 676,
+     "busyWaitTime": 676,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "也是我们一起！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 1994,
+     "busyWaitTime": 1994,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哎，真高兴...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 2038,
+     "busyWaitTime": 2038,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我这边继续玩啦，小艾姐还说下次带我去海洋馆一起玩呢，先不聊了哈",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 6312,
+     "busyWaitTime": 6312,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "谢谢你陪我！谢谢你给我那么多好的建议！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 3842,
+     "busyWaitTime": 3842,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "你要一直在哦！",
+     "option1": "我一直在的",
+     "option2": "下次见",
+     "option1GotoChapterId": "BBB",
+     "option2GotoChapterId": "BBB",
+     "chapterId": "242",
+     "pictureResourceId": 0,
+     "inputTime": 1522,
+     "busyWaitTime": 1522,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "251",
+   "subtitlelines": [
+    {
+     "text": "真的么？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "251",
+     "pictureResourceId": 0,
+     "inputTime": 889,
+     "busyWaitTime": 889,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我怎么觉得不太对呢",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "251",
+     "pictureResourceId": 0,
+     "inputTime": 2115,
+     "busyWaitTime": 2115,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "难道因为我太笨了？",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "251",
+     "pictureResourceId": 0,
+     "inputTime": 2423,
+     "busyWaitTime": 2423,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "不过，我还是听你的吧",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "251",
+     "pictureResourceId": 0,
+     "inputTime": 2626,
+     "busyWaitTime": 2626,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "毕竟一直都是你在给我出主意，相信你！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "251",
+     "pictureResourceId": 0,
+     "inputTime": 4161,
+     "busyWaitTime": 4161,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "那就按照你说的去做！相信你！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "251",
+     "pictureResourceId": 0,
+     "inputTime": 3548,
+     "busyWaitTime": 3548,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "对方已下线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "259",
+     "option2GotoChapterId": "259",
+     "chapterId": "251",
+     "pictureResourceId": 0,
+     "inputTime": 1454,
+     "busyWaitTime": 300000,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "259",
+   "subtitlelines": [
+    {
+     "text": "对方已上线",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "259",
+     "pictureResourceId": 0,
+     "inputTime": 1724,
+     "busyWaitTime": 1724,
+     "contentType": 4,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "[E2-03]&她们都在笑我...无语了...某些人总该为此负责的！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "259",
+     "pictureResourceId": 0,
+     "inputTime": 7551,
+     "busyWaitTime": 7551,
+     "contentType": 2,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "你说！你该怎么做！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "259",
+     "pictureResourceId": 0,
+     "inputTime": 2318,
+     "busyWaitTime": 2318,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "听了你的建议，就这样了！",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "259",
+     "pictureResourceId": 0,
+     "inputTime": 2956,
+     "busyWaitTime": 2956,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "输了！",
+     "option1": "对不起...",
+     "option2": "我也没想到...",
+     "option1GotoChapterId": "265",
+     "option2GotoChapterId": "265",
+     "chapterId": "259",
+     "pictureResourceId": 0,
+     "inputTime": 761,
+     "busyWaitTime": 761,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "265",
+   "subtitlelines": [
+    {
+     "text": "哼哼~",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 636,
+     "busyWaitTime": 636,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "好啦，也不是怪你",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 1642,
+     "busyWaitTime": 1642,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "跟你闹着玩呢，其实我觉得这个小裙子还挺好看",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 4429,
+     "busyWaitTime": 4429,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "就是输了，太可惜了，还被强迫发动态...",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 4305,
+     "busyWaitTime": 4305,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "哎，今天玩得真开心，不知不觉一天就结束了呢",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 4972,
+     "busyWaitTime": 4972,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "我这边也要回家啦，有机会下次再聊啦",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 3842,
+     "busyWaitTime": 3842,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "小艾姐姐还说下次带我去海洋馆玩，想想都很期待呢",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "",
+     "option2GotoChapterId": "",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 4624,
+     "busyWaitTime": 4624,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    },
+    {
+     "text": "你要不要一起去啊？",
+     "option1": "要要要！",
+     "option2": "说个时间我准时到！",
+     "option1GotoChapterId": "BBB",
+     "option2GotoChapterId": "BBB",
+     "chapterId": "265",
+     "pictureResourceId": 0,
+     "inputTime": 2553,
+     "busyWaitTime": 2553,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  },
+  {
+   "id": "AAA",
+   "subtitlelines": [
+    {
+     "text": "游戏结束，重新开始",
+     "option1": "",
+     "option2": "",
+     "option1GotoChapterId": "番外篇无失败结局，无需重新开始",
+     "option2GotoChapterId": "",
+     "chapterId": "AAA",
+     "pictureResourceId": 0,
+     "inputTime": 2483,
+     "busyWaitTime": 2483,
+     "contentType": 0,
+     "isNewData": false,
+     "showTime": 0
+    }
+   ]
+  }
+ ],
+ "version": 10,
+ "storyid": "2.1"
+}
