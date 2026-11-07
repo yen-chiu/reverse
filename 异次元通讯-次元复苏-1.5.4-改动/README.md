@@ -1,4 +1,4 @@
-﻿# 异次元通讯·次元复苏 1.5.4 — 逆向工作区（修正版）
+# 异次元通讯·次元复苏 1.5.4 — 逆向工作区（修正版）
 
 > 样本：`..\原文件\异次元通讯-次元复苏-release-1.5.4.apk`（36,717,735 字节，SHA-256 `BAB21D7DBD8D8C0E5E3C879726BD5B5A54BF63B05184AE117CD4EB0DA1C6D0F3`）
 > 方式：纯静态逆向（不运行 APK、不联网）；工具为 Python 3.14 标准库自写脚本
@@ -80,6 +80,25 @@ python -X utf8 00_工具\check_links.py        # 文档链接自检
 ```
 
 脚本只需 Python 3.14，无第三方依赖；`story_export.py` 可传 `<CSV目录名> <输出目录>` 指向别处。
+
+## 网页版发布
+
+`06_网页版\miko-web` 是**构建产物**（`00_工具\web_build.py` 生成），发布在独立仓库
+[`yen-chiu/miko-web`](https://github.com/yen-chiu/miko-web)，线上地址 <https://yenchiu.com/miko-web/>。
+主站仓库 `yen-chiu.github.io` 已不再存放这份静态应用（只保留 `/miko/` 到新地址的跳转）。
+
+改完网页版后这样发：
+
+```powershell
+cd "C:\03_Github\reverse\异次元通讯-次元复苏-1.5.4-改动"
+python -X utf8 00_工具\web_build.py                       # 重新生成 06_网页版\miko-web
+robocopy "06_网页版\miko-web" "C:\03_Github\miko-web" /MIR /NFL /NDL /NJH /NJS /NP
+cd "C:\03_Github\miko-web"
+git add -A; git commit -m "chore: 同步构建产物"; git push
+```
+
+注意 `web_build.py` 每次会 `rmtree` 重建 `assets/`，手工改动要么放进 `00_工具\web_extra\`，
+要么改完立刻同步到发布仓库。
 
 ## 下一步可做
 
